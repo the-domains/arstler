@@ -1,0 +1,28 @@
+name: arstler
+favicon: null
+layout_spectrum: 0.5950948495883495
+typography_spectrum: 0.1320528476499021
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.10754503216594458
+  lightness: 0.18733750097453594
+  saturation: 0.1504263135138899
+  rhythmicContrast: 0.6977743965107948
+purpose: []
