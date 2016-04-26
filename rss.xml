@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[arstler]]></title>
+        <description><![CDATA[arstler]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Apr 2016 19:25:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Know thyself]]></title>
+            <description><![CDATA[<article><h1>Know thyself</h1><p>ΓΝωΘΙ ΣΑΥΤΟΝ</p></article>]]></description>
+            <link>undefinedknow-thyself/index.html</link>
+            <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
+            <pubDate>Tue, 26 Apr 2016 19:24:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
