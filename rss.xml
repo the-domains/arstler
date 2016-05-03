@@ -4,8 +4,15 @@
         <description><![CDATA[arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 17:36:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 17:41:10 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["Bathers" byKaye Blegvad]]></title>
+            <description><![CDATA[<article><h1>"Bathers" byKaye Blegvad</h1><p>"Bathers" is an edition of 100 three-color screen prints by Kaye Blegvad. With a small border for framing, the artwork is sized to fit a standard 11" wide by 14" tall frame.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/132e99130c568920e94f5a090bc3c93d64e851f5.jpg"></article>]]></description>
+            <link>http://tinyshowcase.com/artwork.php?id=2393</link>
+            <guid isPermaLink="false">1bbef8d1-134d-4f6e-8cb5-c6eefa920f2b</guid>
+            <pubDate>Tue, 03 May 2016 17:41:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://images.artnet.com/aoa_lot_images/116404/mohammad-bozorgi-destiny-square-paintings-acrylic.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.artsy.net/artwork/scott-anderson-farm-to-table-dinner-theatre-1</link>
             <guid isPermaLink="false">062d4418-b97f-4ef1-85be-25c58d0d78d5</guid>
             <pubDate>Tue, 03 May 2016 17:10:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Warhol | "Shoe Of The Evening, Beautiful Shoe" from Shoe Portfolio (1955), Available for Sale | Artsy]]></title>
-            <description><![CDATA[<article><h1>Andy Warhol | "Shoe Of The Evening, Beautiful Shoe" from Shoe Portfolio (1955), Available for Sale | Artsy</h1><p>Available for sale from Guy Hepner, Andy Warhol, "Shoe Of The Evening, Beautiful Shoe" from Shoe Portfolio (1955), Offset lithographs on paper with hand coloring, 10 × 14 in</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99e0e644577bc8686634bdb8e72ee0df2a76e9a3.jpg"></article>]]></description>
-            <link>https://www.artsy.net/artwork/andy-warhol-shoe-of-the-evening-beautiful-shoe-from-shoe-portfolio</link>
-            <guid isPermaLink="false">67d0e199-df0d-4960-be37-1e30e2d8f127</guid>
-            <pubDate>Tue, 03 May 2016 17:10:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
