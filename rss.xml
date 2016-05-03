@@ -8,6 +8,13 @@
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://d5wt70d4gnm1t.cloudfront.net/media/a-s/artworks/duke-riley/11234-284412633848/duke-riley-the-scuttling-of-the-ss-gay-800x800.jpg">]]></description>
+            <link>http://arstler.com/b19e6a50-6697-4176-8268-7e8433b465c6/index.html</link>
+            <guid isPermaLink="false">b19e6a50-6697-4176-8268-7e8433b465c6</guid>
+            <pubDate>Tue, 03 May 2016 17:13:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://cdn.shopify.com/s/files/1/0265/3475/products/KindahKhalidy_Untitled1_0002_1000px_1024x1024.png?v=1459964755">]]></description>
             <link>http://arstler.com/ef84feab-7272-4fd2-9933-511cf366a696/index.html</link>
             <guid isPermaLink="false">ef84feab-7272-4fd2-9933-511cf366a696</guid>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Adrien Brody | Dropfish (Green) (2016), Available for Sale | Artsy</h1><p>Available for sale from David Benrimon Fine Art, Adrien Brody, Dropfish (Green) (2016), Mixed media on canvas, 48 × 48 in</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed6662bcc6309ce8a1dbe396e46339cb35fdeaa2.jpg"></article>]]></description>
             <link>https://www.artsy.net/artwork/adrien-brody-dropfish-green</link>
             <guid isPermaLink="false">4497d15c-6eb0-4b8b-8e0a-e11a083362f7</guid>
-            <pubDate>Tue, 03 May 2016 17:05:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://d32dm0rphc51dk.cloudfront.net/GyZ4ZJw3W16j3P965bAKnQ/tall.jpg">]]></description>
-            <link>http://arstler.com/d39a7a51-fe82-42f8-821a-fa5c911d9c75/index.html</link>
-            <guid isPermaLink="false">d39a7a51-fe82-42f8-821a-fa5c911d9c75</guid>
             <pubDate>Tue, 03 May 2016 17:05:18 GMT</pubDate>
         </item>
     </channel>
