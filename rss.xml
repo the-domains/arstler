@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[arstler]]></title>
         <description><![CDATA[arstler]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 19:25:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 May 2016 16:18:14 GMT</lastBuildDate>
+        <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/666db49d-866a-4b6b-a215-7729c3f576a3.jpg">]]></description>
+            <link>https://artlist.co/artworks/a6f7b793-24ca-4047-84c7-c9cbdbd4594d</link>
+            <guid isPermaLink="false">989a84e2-8d73-4e57-8a5f-68f5c0e6b444</guid>
+            <pubDate>Tue, 03 May 2016 16:17:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Know thyself]]></title>
             <description><![CDATA[<article><h1>Know thyself</h1><p>ΓΝωΘΙ ΣΑΥΤΟΝ</p></article>]]></description>
-            <link>undefinedknow-thyself/index.html</link>
+            <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Tue, 26 Apr 2016 19:24:09 GMT</pubDate>
         </item>
