@@ -4,8 +4,15 @@
         <description><![CDATA[arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 13:44:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 15:44:21 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://d7hftxdivxxvm.cloudfront.net/?resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2F1Dbq_YpQEYF1EE5Kn1ymgg%252Fkp.jpg&width=1100&quality=95">]]></description>
+            <link>http://arstler.com/kour-pour-at-feuermesler-319-grand-street-2nd-floor-may-1/index.html</link>
+            <guid isPermaLink="false">4530e941-3f64-4416-a4e7-0f31234a5754</guid>
+            <pubDate>Thu, 05 May 2016 15:42:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://d7hftxdivxxvm.cloudfront.net/?resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FSEFVb1Gwp-B-UIMT950qSg%252Fjon-pilkington-247365-installationview-01.jpg&width=1100&quality=95">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.axisweb.org/discover/?in=Artwork&amp;f=artForms%7EPainting&amp;q=</link>
             <guid isPermaLink="false">f966c156-4032-46f9-93a1-948b5280c0ea</guid>
             <pubDate>Wed, 04 May 2016 09:42:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/564x/c4/a7/5a/c4a75ac2a401148ab492272707563a06.jpg">]]></description>
-            <link>https://www.pinterest.com/pin/417216352957041937/</link>
-            <guid isPermaLink="false">a7fe2ca3-f5cf-40e8-abd2-99f9d6d3e530</guid>
-            <pubDate>Wed, 04 May 2016 09:32:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
