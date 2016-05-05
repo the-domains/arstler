@@ -4,8 +4,15 @@
         <description><![CDATA[arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 13:44:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 13:44:52 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://d7hftxdivxxvm.cloudfront.net/?resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FSEFVb1Gwp-B-UIMT950qSg%252Fjon-pilkington-247365-installationview-01.jpg&width=1100&quality=95">]]></description>
+            <link>http://arstler.com/jon-pilkington-at-247365-57-stanton-street-april-22may-22/index.html</link>
+            <guid isPermaLink="false">c35959b0-fae9-4041-b7c1-9d035aed1bda</guid>
+            <pubDate>Thu, 05 May 2016 13:44:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hou Yong | Landscape of Matters - 09 (2016), Available for Sale | Artsy]]></title>
             <description><![CDATA[<article><h1>Hou Yong | Landscape of Matters - 09 (2016), Available for Sale | Artsy</h1><p>Available for sale from Klein Sun Gallery, Hou Yong, Landscape of Matters - 09 (2016), Oil on canvas, 69 1/4 × 78 3/4 in</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19358a3e1aee34597f1400601d49e1cdcf0fbfd6.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.pinterest.com/pin/417216352957041937/</link>
             <guid isPermaLink="false">a7fe2ca3-f5cf-40e8-abd2-99f9d6d3e530</guid>
             <pubDate>Wed, 04 May 2016 09:32:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Scuttling of the S.S. Gay]]></title>
-            <description><![CDATA[<img src="http://d5wt70d4gnm1t.cloudfront.net/media/a-s/artworks/duke-riley/11234-284412633848/duke-riley-the-scuttling-of-the-ss-gay-800x800.jpg">]]></description>
-            <link>http://www.artspace.com/duke_riley/the-scuttling-of-the-ss-gay</link>
-            <guid isPermaLink="false">b19e6a50-6697-4176-8268-7e8433b465c6</guid>
-            <pubDate>Wed, 04 May 2016 09:02:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
