@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: art is the game
-datePublished: '2016-05-05T16:02:12.751Z'
-dateModified: '2016-05-05T16:02:04.322Z'
+datePublished: '2016-05-05T16:14:22.818Z'
+dateModified: '2016-05-05T16:14:11.066Z'
 title: hustler for the rich
 author: []
 sourcePath: _posts/2016-04-26-know-thyself.md
@@ -16,7 +16,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: know-thyself/index.html
 _type: Article
 
