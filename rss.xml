@@ -4,8 +4,15 @@
         <description><![CDATA[arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 13:41:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 13:42:25 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://d7hftxdivxxvm.cloudfront.net/?resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FekoTPR9GtMrR-Q2DGwo7wA%252Flarger-19.jpg&width=1100&quality=95">]]></description>
+            <link>http://arstler.com/installation-view-of-efficient-frontier-at-magenta-plains/index.html</link>
+            <guid isPermaLink="false">b4363dd0-e8fd-417d-bb65-c1154dedd209</guid>
+            <pubDate>Thu, 05 May 2016 13:42:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kaws]]></title>
             <description><![CDATA[<article><h1>Kaws</h1><h2>Boba Fett Companion, 2013</h2><p>- See more at: https://artlist.co/artworks/f9900343-f377-442c-88bd-306bebc5f9b5#sthash.9Z1iWugs.dpuf</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82b48b8fa08c0e9829f36296013759374d04a55d.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://20x200.com/products/untitled-a</link>
             <guid isPermaLink="false">ef84feab-7272-4fd2-9933-511cf366a696</guid>
             <pubDate>Tue, 03 May 2016 17:32:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alex Katz, Black Dress for sale]]></title>
-            <description><![CDATA[<article><h1>Alex Katz, Black Dress for sale</h1><p>The edition size is 35 sets of 9 screenprints. Each set consists of 9 life-size screen prints in an aluminum portfolio box. "Black Dress" is a series of 9 life-size, hand-pulled silkscreens depicting some of the models Katz has painted over the years, all of them in similar pose leaning against a yellow background and wearing a unique style of a little black dress and black heels.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68a73f99b0806ace934b6db0db6a191696bf7221.png"></article>]]></description>
-            <link>https://artlist.co/artworks/7efa2375-0c37-4e52-a539-83c5f3c61107</link>
-            <guid isPermaLink="false">37fa2980-6e9a-4124-b5bc-a9b781d640f4</guid>
-            <pubDate>Tue, 03 May 2016 17:13:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
