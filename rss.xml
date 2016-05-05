@@ -4,8 +4,15 @@
         <description><![CDATA[arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 13:42:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 13:42:29 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gerhard Richter]]></title>
+            <description><![CDATA[<article><h1>Gerhard Richter</h1><h2>Bagdad I, 2014</h2><p>- See more at: https://artlist.co/artworks/1c0e4262-4b65-44d3-b144-174f43949ba2#sthash.9Z1iWugs.dpuf</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a616932be29be5bbc578100eefe80485aed55e7.jpg"></article>]]></description>
+            <link>https://artlist.co/artworks/1c0e4262-4b65-44d3-b144-174f43949ba2</link>
+            <guid isPermaLink="false">a4cf5a13-a463-4a5a-a317-24d8fa32d69e</guid>
+            <pubDate>Thu, 05 May 2016 13:42:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://d7hftxdivxxvm.cloudfront.net/?resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FekoTPR9GtMrR-Q2DGwo7wA%252Flarger-19.jpg&width=1100&quality=95">]]></description>
@@ -68,13 +75,6 @@
             <link>http://arstler.com/c699c9c6-0263-44e7-a6a1-c3ca4d0b9350/index.html</link>
             <guid isPermaLink="false">c699c9c6-0263-44e7-a6a1-c3ca4d0b9350</guid>
             <pubDate>Tue, 03 May 2016 17:35:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Untitled (a)]]></title>
-            <description><![CDATA[<article><h1>Untitled (a)</h1><p>by</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/17dd122334dc01b38c6f4e6a061e95bbe180b25e.png"></article>]]></description>
-            <link>http://20x200.com/products/untitled-a</link>
-            <guid isPermaLink="false">ef84feab-7272-4fd2-9933-511cf366a696</guid>
-            <pubDate>Tue, 03 May 2016 17:32:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
