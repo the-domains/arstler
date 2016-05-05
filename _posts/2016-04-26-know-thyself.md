@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: art is the game
-datePublished: '2016-05-05T16:14:22.818Z'
-dateModified: '2016-05-05T16:14:11.066Z'
+datePublished: '2016-05-05T17:07:12.735Z'
+dateModified: '2016-05-05T17:07:09.155Z'
 title: hustler for the rich
 author: []
 sourcePath: _posts/2016-04-26-know-thyself.md
