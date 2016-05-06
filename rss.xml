@@ -4,7 +4,7 @@
         <description><![CDATA[arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 17:07:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 10:33:06 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[hustler for the rich]]></title>
@@ -12,6 +12,13 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Thu, 05 May 2016 17:07:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://anthonyburrill.com/wp-content/uploads/2015/02/AB_woodblock_01-682x1024.jpg">]]></description>
+            <link>http://anthonyburrill.com/project/letterpress-posters/</link>
+            <guid isPermaLink="false">d4429efe-03ce-42a8-bca4-a7d44cbceb7d</guid>
+            <pubDate>Fri, 06 May 2016 10:32:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LINOCUT PRINT - Jellyfish BLACK letterpress silhouette marine poster 8x10]]></title>
@@ -68,13 +75,6 @@
             <link>https://artlist.co/artworks/f9900343-f377-442c-88bd-306bebc5f9b5</link>
             <guid isPermaLink="false">ea79f05b-aa65-4c85-b250-6f7b800fa14d</guid>
             <pubDate>Thu, 05 May 2016 13:40:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/003095e7-9b0c-4e6c-9f1c-6d1633ee1fb7.jpg">]]></description>
-            <link>https://www.artnet.com/auctions/artists/nicolas-pol/weirdest-conversation</link>
-            <guid isPermaLink="false">468f207a-5d33-47c1-b0a5-6b9f088efff2</guid>
-            <pubDate>Thu, 05 May 2016 12:42:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
