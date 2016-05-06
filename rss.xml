@@ -4,7 +4,7 @@
         <description><![CDATA[arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 15:38:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 15:38:49 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[hustler for the rich]]></title>
@@ -12,6 +12,13 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Thu, 05 May 2016 17:07:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://doyle.com/sites/default/files/styles/auction_slider/public/images/lots/509/744509.jpg?itok=h6ewNcUV">]]></description>
+            <link>http://arstler.com/lot-28-franz-kline-american-1910-1962-untitled-circa-1957/index.html</link>
+            <guid isPermaLink="false">1f9191f7-a39f-4591-872d-a02fc1079cde</guid>
+            <pubDate>Fri, 06 May 2016 15:38:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Im Atelier von Eugène Accard - Database | Archive - VAN-HAM art auctions]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1></h1><p>Untitled (The Wedges),1950Lot 6</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e31b5072860b858daa2b2e2a940d51de7e1a1879.png"></article>]]></description>
             <link>http://www.artnet.com/auction-houses/phillips-newyork/20th-century-contemporary-art-evening-sale-2-8-May-2016/</link>
             <guid isPermaLink="false">c50e8426-2eb2-491e-a8a9-b1bc9f5f6686</guid>
-            <pubDate>Fri, 06 May 2016 10:45:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Marino Marini]]></title>
-            <description><![CDATA[<article><h1>Marino Marini</h1><p>Cavaliere,1947Lot 4</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4509d59018af963bc5e866a560b02e8d079bfd0.png"></article>]]></description>
-            <link>http://www.artnet.com/auction-houses/phillips-newyork/20th-century-contemporary-art-evening-sale-2-8-May-2016/</link>
-            <guid isPermaLink="false">fb7eae23-bd49-4d6d-b324-a287bc6a8acd</guid>
             <pubDate>Fri, 06 May 2016 10:45:57 GMT</pubDate>
         </item>
     </channel>
