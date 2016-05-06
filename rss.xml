@@ -4,7 +4,7 @@
         <description><![CDATA[arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 10:46:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 10:46:07 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[hustler for the rich]]></title>
@@ -12,6 +12,20 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Thu, 05 May 2016 17:07:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ ]]></title>
+            <description><![CDATA[<article><h1></h1><p>Untitled (The Wedges),1950Lot 6</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e31b5072860b858daa2b2e2a940d51de7e1a1879.png"></article>]]></description>
+            <link>http://www.artnet.com/auction-houses/phillips-newyork/20th-century-contemporary-art-evening-sale-2-8-May-2016/</link>
+            <guid isPermaLink="false">c50e8426-2eb2-491e-a8a9-b1bc9f5f6686</guid>
+            <pubDate>Fri, 06 May 2016 10:45:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ ]]></title>
+            <description><![CDATA[<article><h1></h1><p>Barbe des rites,1959Lot 5</p></article>]]></description>
+            <link>http://www.artnet.com/auction-houses/phillips-newyork/20th-century-contemporary-art-evening-sale-2-8-May-2016/</link>
+            <guid isPermaLink="false">15d6ead7-4b28-4fc8-bff0-0651c86c57c7</guid>
+            <pubDate>Fri, 06 May 2016 10:45:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Marino Marini]]></title>
@@ -61,20 +75,6 @@
             <link>https://www.etsy.com/listing/59022473/linocut-print-jellyfish-black?ga_order=most_relevant&amp;ga_search_type=all&amp;ga_view_type=gallery&amp;ga_search_query=the%20big%20harumph&amp;ref=sr_gallery_1</link>
             <guid isPermaLink="false">4b9c5662-155b-46b9-8139-9a88479e0880</guid>
             <pubDate>Thu, 05 May 2016 15:49:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://d7hftxdivxxvm.cloudfront.net/?resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2F1Dbq_YpQEYF1EE5Kn1ymgg%252Fkp.jpg&width=1100&quality=95">]]></description>
-            <link>http://arstler.com/kour-pour-at-feuermesler-319-grand-street-2nd-floor-may-1/index.html</link>
-            <guid isPermaLink="false">4530e941-3f64-4416-a4e7-0f31234a5754</guid>
-            <pubDate>Thu, 05 May 2016 15:42:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://d7hftxdivxxvm.cloudfront.net/?resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FSEFVb1Gwp-B-UIMT950qSg%252Fjon-pilkington-247365-installationview-01.jpg&width=1100&quality=95">]]></description>
-            <link>http://arstler.com/jon-pilkington-at-247365-57-stanton-street-april-22may-22/index.html</link>
-            <guid isPermaLink="false">c35959b0-fae9-4041-b7c1-9d035aed1bda</guid>
-            <pubDate>Thu, 05 May 2016 13:44:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
