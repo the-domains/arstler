@@ -4,7 +4,7 @@
         <description><![CDATA[arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 15:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 15:38:46 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[hustler for the rich]]></title>
@@ -12,6 +12,13 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Thu, 05 May 2016 17:07:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Im Atelier von Eugène Accard - Database | Archive - VAN-HAM art auctions]]></title>
+            <description><![CDATA[<article><h1>Im Atelier von Eugène Accard - Database | Archive - VAN-HAM art auctions</h1><p>Erfolgreiche Auktion bei Van Ham: Objekt Eugène Accard von Eugène Accard versteigert in der 237. Auktion (Alte Kunst) aus dem Bereich Gemälde des 19. Jahrhunderts</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11471001b0535c8ae1a93d422fa9dfea06fd6889.png"></article>]]></description>
+            <link>http://www.van-ham.com/en/database-archive/datenbank/eugene-accard/im-atelier.html</link>
+            <guid isPermaLink="false">7c6b2451-1394-4b06-9974-2d0026caa32c</guid>
+            <pubDate>Fri, 06 May 2016 15:38:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Piasa]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Marino Marini</h1><p>Cavaliere,1947Lot 4</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4509d59018af963bc5e866a560b02e8d079bfd0.png"></article>]]></description>
             <link>http://www.artnet.com/auction-houses/phillips-newyork/20th-century-contemporary-art-evening-sale-2-8-May-2016/</link>
             <guid isPermaLink="false">fb7eae23-bd49-4d6d-b324-a287bc6a8acd</guid>
-            <pubDate>Fri, 06 May 2016 10:45:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mark Bradford]]></title>
-            <description><![CDATA[<article><h1>Mark Bradford</h1><p>Mixed Signals,2009Lot 8</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c748429b0da0962dcfd9ec233aa99f1b5aa29ea6.png"></article>]]></description>
-            <link>http://www.artnet.com/auction-houses/phillips-newyork/20th-century-contemporary-art-evening-sale-2-8-May-2016/</link>
-            <guid isPermaLink="false">821e6c3a-49dc-47e0-bfd1-f0aa5321b9b9</guid>
             <pubDate>Fri, 06 May 2016 10:45:57 GMT</pubDate>
         </item>
     </channel>
