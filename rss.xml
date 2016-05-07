@@ -4,7 +4,7 @@
         <description><![CDATA[arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 08:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 08:19:57 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[hustler for the rich]]></title>
@@ -12,6 +12,13 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Thu, 05 May 2016 17:07:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lesedi La Rona: The Diamond of a Lifetime on Sotheby's Blog]]></title>
+            <description><![CDATA[<article><h1>Lesedi La Rona: The Diamond of a Lifetime on Sotheby's Blog</h1><p>LONDON - When the largest rough diamond in more than a hundred years comes up for auction at Sotheby's London on 29 June, it will be the only lot on offer - and for good reason. First, at 1,109 carats and roughly the size of a tennis ball, this historic stone would make any other gem look diminutive.</p><img src="http://www.sothebys.com/content/dam/sothebys-pages/blogs/sothebysatauction/2016/5/lesedi-la-Rona-hero.jpg.webrend.1920.350.jpeg"></article>]]></description>
+            <link>http://www.sothebys.com/content/sothebys/en/news-video/blogs/all-blogs/all-that-glitters/2016/05/lesedi-la-rona-historic-rough-diamond.html</link>
+            <guid isPermaLink="false">0151187a-9cfd-4eee-8573-d4af492f97a0</guid>
+            <pubDate>Sat, 07 May 2016 08:18:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cy Twombly's Rhapsody in Blue | Sotheby's]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0910691d-e9f0-4725-9508-159cdacd6fc6.jpg">]]></description>
             <link>https://auctions.leonardjoel.com.au/asp/fullCatalogue.asp?salelot=LJ8140+++++5+&amp;refno=40405264&amp;saletype=</link>
             <guid isPermaLink="false">7dd14bee-9abb-40c4-b9a7-e67b76b4ba51</guid>
-            <pubDate>Fri, 06 May 2016 14:13:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mark Bradford | Untitled Pink (SFMOMA Benefit) (2016), Available for Sale | Artsy]]></title>
-            <description><![CDATA[<article><h1>Mark Bradford | Untitled Pink (SFMOMA Benefit) (2016), Available for Sale | Artsy</h1><p>Available for sale from SFMOMA: The Modern Ball Auction, Mark Bradford, Untitled Pink (SFMOMA Benefit) (2016), Mixed media on canvas, 60 × 48 in</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24d162a5d60574bd29fca157b56dc231a8196e3b.jpg"></article>]]></description>
-            <link>https://www.artsy.net/artwork/mark-bradford-untitled-pink-sfmoma-benefit?auction_id=sfmoma-the-modern-ball-auction</link>
-            <guid isPermaLink="false">c923247b-96b0-4134-92ca-9cdeabddc3e2</guid>
             <pubDate>Fri, 06 May 2016 14:13:52 GMT</pubDate>
         </item>
     </channel>
