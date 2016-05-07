@@ -4,10 +4,10 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: "in fact, I'd like to steal this"
-datePublished: '2016-05-07T15:02:12.543Z'
-dateModified: '2016-05-07T15:02:05.647Z'
-title: 'arstler™ '
+description: "in fact, I'd like to steal this painting"
+datePublished: '2016-05-07T15:20:43.731Z'
+dateModified: '2016-05-07T15:20:35.027Z'
+title: arstler™
 author: []
 sourcePath: _posts/2016-04-26-know-thyself.md
 authors: []
@@ -23,6 +23,6 @@ _type: Article
 ---
 # arstler(tm)
 
-in fact, I'd like to steal this
+in fact, I'd like to steal this painting
 
 (c) arstler(tm)
