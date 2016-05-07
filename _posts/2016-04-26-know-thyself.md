@@ -4,10 +4,10 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: art is the game
-datePublished: '2016-05-05T17:07:12.735Z'
-dateModified: '2016-05-05T17:07:09.155Z'
-title: hustler for the rich
+description: "in fact, I'd like to steal this"
+datePublished: '2016-05-07T15:02:12.543Z'
+dateModified: '2016-05-07T15:02:05.647Z'
+title: 'arstler™ '
 author: []
 sourcePath: _posts/2016-04-26-know-thyself.md
 authors: []
@@ -21,6 +21,8 @@ url: know-thyself/index.html
 _type: Article
 
 ---
-# hustler for the rich
+# arstler(tm)
 
-art is the game
+in fact, I'd like to steal this
+
+(c) arstler(tm)
