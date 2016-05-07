@@ -4,7 +4,7 @@
         <description><![CDATA[arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 07:46:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 08:07:09 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[hustler for the rich]]></title>
@@ -12,6 +12,13 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Thu, 05 May 2016 17:07:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cy Twombly's Rhapsody in Blue | Sotheby's]]></title>
+            <description><![CDATA[<article><h1>Cy Twombly's Rhapsody in Blue | Sotheby's</h1><p>View auction details, art exhibitions and online catalogues; bid, buy and collect contemporary, impressionist or modern art, old masters, jewellery, wine, watches, prints, rugs and books at sotheby&s auction house</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be475c9053e2a1d997a6e50d76b40230f806ec51.jpg"></article>]]></description>
+            <link>http://www.sothebys.com/content/sothebys/en/news-video/videos/2016/05/cy-twomblys-rhapsody-in-blue.html</link>
+            <guid isPermaLink="false">fc3b1469-f027-4deb-9f7c-5b1b50f2effd</guid>
+            <pubDate>Sat, 07 May 2016 08:07:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Picasso Ceramics]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.artsy.net/artwork/mark-bradford-untitled-pink-sfmoma-benefit?auction_id=sfmoma-the-modern-ball-auction</link>
             <guid isPermaLink="false">c923247b-96b0-4134-92ca-9cdeabddc3e2</guid>
             <pubDate>Fri, 06 May 2016 14:13:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://www.filepicker.io/api/file/Ma0qGyo7RXeP66jxZLVL">]]></description>
-            <link>https://artlist.co/artworks/fbb4f028-2847-4296-a8b1-70b5d09b4642</link>
-            <guid isPermaLink="false">423b02f9-695c-4b01-b227-7b2da7a6a8c3</guid>
-            <pubDate>Fri, 06 May 2016 12:15:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
