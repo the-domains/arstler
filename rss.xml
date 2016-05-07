@@ -4,7 +4,7 @@
         <description><![CDATA[arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 12:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 12:07:16 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[hustler for the rich]]></title>
@@ -12,13 +12,6 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Thu, 05 May 2016 17:07:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Piasa]]></title>
-            <description><![CDATA[<article><h1>Piasa</h1><p>Maurice</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea6543618c3638fff410ca56e78da44e47d05050.jpg"></article>]]></description>
-            <link>http://www.piasa.fr/node/131153/lot/future</link>
-            <guid isPermaLink="false">afff50c5-4d30-47ce-a8a3-4bfbdfa6a39c</guid>
-            <pubDate>Sat, 07 May 2016 12:07:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Piasa]]></title>
@@ -68,6 +61,13 @@
             <link>http://www.van-ham.com/en/database-archive/datenbank/eugene-accard/im-atelier.html</link>
             <guid isPermaLink="false">7c6b2451-1394-4b06-9974-2d0026caa32c</guid>
             <pubDate>Fri, 06 May 2016 15:38:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Piasa]]></title>
+            <description><![CDATA[<article><h1>Piasa</h1><p>Maurice</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea6543618c3638fff410ca56e78da44e47d05050.jpg"></article>]]></description>
+            <link>http://www.piasa.fr/node/131153/lot/future</link>
+            <guid isPermaLink="false">afff50c5-4d30-47ce-a8a3-4bfbdfa6a39c</guid>
+            <pubDate>Fri, 06 May 2016 15:36:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
