@@ -4,7 +4,7 @@
         <description><![CDATA[arstler - in fact, I'd like to steal this]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 12:06:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 12:07:04 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[arstler™]]></title>
@@ -12,6 +12,13 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Sat, 07 May 2016 15:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pace Gallery - Julian Schnabel joins Pace]]></title>
+            <description><![CDATA[<article><h1>Pace Gallery - Julian Schnabel joins Pace</h1><p>Pace Gallery is honored to represent Julian Schnabel. Next season, the gallery will present a show of Schnabel's work, which will also be featured in its booth at Art Basel next month. Read more from the New York Times here. Revisit Julian Sc...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f596ceda519c23ea45338ecde2ea1a68b5c3455.jpg"></article>]]></description>
+            <link>http://www.pacegallery.com/news/2739/julian-schnabel-joins-pace</link>
+            <guid isPermaLink="false">f0dbbfef-e6dc-4608-ae60-9b001ff1290e</guid>
+            <pubDate>Sun, 08 May 2016 12:06:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.sothebys.com/content/sothebys/en/news-video/blogs/all-blogs/all-that-glitters/2016/05/lesedi-la-rona-historic-rough-diamond.html</link>
             <guid isPermaLink="false">0151187a-9cfd-4eee-8573-d4af492f97a0</guid>
             <pubDate>Sat, 07 May 2016 08:18:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Picasso Ceramics]]></title>
-            <description><![CDATA[<article><h1>Picasso Ceramics</h1><p>Coinciding with our May Impressionist & Modern Art and Post-War and Contemporary Art sales, Christie's presents an online auction of ceramics by Pablo Picasso. Featuring 88 lots, with estimates ranging from $800 to $80,000, our Picasso Ceramics online sale offers a diverse selection of statement pieces.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b033231174794617a87d3e5e87784c806dfcca16.jpg"></article>]]></description>
-            <link>https://onlineonly.christies.com/s/picasso-ceramics/lots/244?SitecoreGUID={0BFA6C33-95EE-47B0-BA39-EEF625C23B1A}&amp;sectionName=auctions_Nav&amp;lid=1</link>
-            <guid isPermaLink="false">6fb8d16c-a9f8-4c46-b288-ba7103b42867</guid>
-            <pubDate>Sat, 07 May 2016 07:45:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
