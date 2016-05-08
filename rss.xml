@@ -4,7 +4,7 @@
         <description><![CDATA[arstler - in fact, I'd like to steal this]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 12:06:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 12:06:34 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[arstler™]]></title>
@@ -12,6 +12,13 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Sat, 07 May 2016 15:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://d32dm0rphc51dk.cloudfront.net/Ty3gUr0HAqDEwOe90omp5A/larger.jpg">]]></description>
+            <link>http://arstler.com/e6869584-b0ca-4475-b6f4-1b59ea775f01/index.html</link>
+            <guid isPermaLink="false">e6869584-b0ca-4475-b6f4-1b59ea775f01</guid>
+            <pubDate>Sun, 08 May 2016 12:06:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://onlineonly.christies.com/s/picasso-ceramics/lots/244?SitecoreGUID={0BFA6C33-95EE-47B0-BA39-EEF625C23B1A}&amp;sectionName=auctions_Nav&amp;lid=1</link>
             <guid isPermaLink="false">6fb8d16c-a9f8-4c46-b288-ba7103b42867</guid>
             <pubDate>Sat, 07 May 2016 07:45:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[20th Century at Christie's | New York | May 2016]]></title>
-            <description><![CDATA[<article><h1>20th Century at Christie's | New York | May 2016</h1><p>Art on Top: The Artists and Art Works in the Christie's Evening Sales Why are the artists in the Christie's evening sales art historically important? How does one understand their cultural significance and the high prices collectors will pay for their works?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2bd84ddf7f3256e94dc38b75951fec7fbbb2a6bc.jpg"></article>]]></description>
-            <link>http://www.christies.com/auctions/2016/20th-century-at-christies-new-york-may-2016?pid=en_homepage_row1_slot1_1</link>
-            <guid isPermaLink="false">4c75745b-29e1-46e0-a1b6-cf6c230ead09</guid>
-            <pubDate>Sat, 07 May 2016 07:37:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
