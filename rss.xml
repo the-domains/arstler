@@ -4,7 +4,7 @@
         <description><![CDATA[arstler - in fact, I'd like to steal this]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 12:07:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 12:07:29 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[arstler™]]></title>
@@ -12,6 +12,20 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Sat, 07 May 2016 15:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://countereditions.com/media/wysiwyg/Cheeseburger-homepage.jpg">]]></description>
+            <link>http://arstler.com/4e825906-718e-4af0-91ff-f459a9093679/index.html</link>
+            <guid isPermaLink="false">4e825906-718e-4af0-91ff-f459a9093679</guid>
+            <pubDate>Sun, 08 May 2016 12:06:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://saimg-a.akamaihd.net/saatchi/803110/art/2913474/1983367-RRIIQOIL-6.jpg">]]></description>
+            <link>http://arstler.com/49837501-d54c-421e-9333-009125ec75f3/index.html</link>
+            <guid isPermaLink="false">49837501-d54c-421e-9333-009125ec75f3</guid>
+            <pubDate>Sun, 08 May 2016 12:06:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,20 +75,6 @@
             <link>http://arstler.com/b047f985-be44-41e6-a550-cd11e59b2f66/index.html</link>
             <guid isPermaLink="false">b047f985-be44-41e6-a550-cd11e59b2f66</guid>
             <pubDate>Sun, 08 May 2016 12:06:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://d32dm0rphc51dk.cloudfront.net/Ty3gUr0HAqDEwOe90omp5A/larger.jpg">]]></description>
-            <link>http://arstler.com/e6869584-b0ca-4475-b6f4-1b59ea775f01/index.html</link>
-            <guid isPermaLink="false">e6869584-b0ca-4475-b6f4-1b59ea775f01</guid>
-            <pubDate>Sun, 08 May 2016 12:06:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Matt Kleberg: Hankerings Morgan Lehman Gallery and Mulherin New York are pleased to present Hankerings, an exhibition of new paintings by Brooklyn based artist Matt Kleberg. MORGAN LEHMAN GALLERY Mar 31st – May 7th New York, 535 West 22nd StreetMap Opening Reception: Wednesday, Mar. 30th, 6pm -8pm</p>]]></description>
-            <link>http://arstler.com/matt-kleberg-hankerings-morgan-lehman-gallery-and-mulherin/index.html</link>
-            <guid isPermaLink="false">79001dc4-d9e7-4ee9-83f1-437efdc86122</guid>
-            <pubDate>Sun, 08 May 2016 12:06:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
