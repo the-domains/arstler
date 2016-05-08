@@ -4,7 +4,7 @@
         <description><![CDATA[arstler - in fact, I'd like to steal this]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 12:07:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 12:07:37 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[arstler™]]></title>
@@ -12,6 +12,13 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Sat, 07 May 2016 15:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://assets.paddle8.com/media/artwork/artworkimageproxy/1460751135-xkhps0mckfydanzge4r6-xl.jpg">]]></description>
+            <link>https://paddle8.com/work/sol-lewitt/107466-plate-4-from-brushstrokes-horizontal-and-vertical</link>
+            <guid isPermaLink="false">2be2aaf2-3171-46e5-8aae-ead44c796e16</guid>
+            <pubDate>Sun, 08 May 2016 12:06:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bonhams]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="http://s3-eu-west-1.amazonaws.com/artmark.ro/catalog/category/licitatii-in-curs-mai_2016_LB1_1.jpg">]]></description>
             <link>http://arstler.com/mie-25-mai-2016-1930-licitatia-colectiei-de-arta-romaneasca/index.html</link>
             <guid isPermaLink="false">8246280c-f22f-4d32-b42c-f041bb61e792</guid>
-            <pubDate>Sun, 08 May 2016 12:06:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://d5wt70d4gnm1t.cloudfront.net/media/a-s/artworks/allen-jones/19287-557243646822/allen-jones-second-thoughts-4-800x800.jpg">]]></description>
-            <link>http://arstler.com/6b4398ff-5992-4801-a913-6383f55ca606/index.html</link>
-            <guid isPermaLink="false">6b4398ff-5992-4801-a913-6383f55ca606</guid>
             <pubDate>Sun, 08 May 2016 12:06:24 GMT</pubDate>
         </item>
     </channel>
