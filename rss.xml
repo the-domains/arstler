@@ -4,7 +4,7 @@
         <description><![CDATA[arstler - in fact, I'd like to steal this]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 12:07:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 12:07:35 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[arstler™]]></title>
@@ -12,6 +12,13 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Sat, 07 May 2016 15:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.axisweb.org/imagecache/news/gordoncheung2jpg_630_1200.jpg">]]></description>
+            <link>http://arstler.com/3ccf33ef-35fd-4b27-9f61-f1cfa53c5724/index.html</link>
+            <guid isPermaLink="false">3ccf33ef-35fd-4b27-9f61-f1cfa53c5724</guid>
+            <pubDate>Sun, 08 May 2016 12:06:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Pace Gallery - Julian Schnabel joins Pace</h1><p>Pace Gallery is honored to represent Julian Schnabel. Next season, the gallery will present a show of Schnabel's work, which will also be featured in its booth at Art Basel next month. Read more from the New York Times here. Revisit Julian Sc...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f596ceda519c23ea45338ecde2ea1a68b5c3455.jpg"></article>]]></description>
             <link>http://www.pacegallery.com/news/2739/julian-schnabel-joins-pace</link>
             <guid isPermaLink="false">f0dbbfef-e6dc-4608-ae60-9b001ff1290e</guid>
-            <pubDate>Sun, 08 May 2016 12:06:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.gagosian.com/__data/63550057e92b7a41aded3fb126d7f43d.jpg">]]></description>
-            <link>http://arstler.com/b047f985-be44-41e6-a550-cd11e59b2f66/index.html</link>
-            <guid isPermaLink="false">b047f985-be44-41e6-a550-cd11e59b2f66</guid>
             <pubDate>Sun, 08 May 2016 12:06:24 GMT</pubDate>
         </item>
     </channel>
