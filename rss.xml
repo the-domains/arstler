@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[arstler - in fact, I'd like to steal this]]></title>
-        <description><![CDATA[arstler - in fact, I'd like to steal this]]></description>
+        <title><![CDATA[arstler - in fact, I'd like to steal this painting]]></title>
+        <description><![CDATA[arstler - in fact, I'd like to steal this painting]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 12:08:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 17:39:04 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[arstler™]]></title>
@@ -12,6 +12,27 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Sat, 07 May 2016 15:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Latifa Echakhch - 47 Artworks, Bio & Shows on Artsy]]></title>
+            <description><![CDATA[<article><h1>Latifa Echakhch - 47 Artworks, Bio & Shows on Artsy</h1><p>Browse the best of Latifa Echakhch, including artwork for sale, her latest shows & events, biography, and exclusive Latifa Echakhch articles.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3500c62248c95d91e9ccb7eacaee1f406d1d72fe.jpg"></article>]]></description>
+            <link>https://www.artsy.net/artist/latifa-echakhch</link>
+            <guid isPermaLink="false">aa5ed6af-69b5-43da-8218-75bb3c971a64</guid>
+            <pubDate>Sun, 08 May 2016 17:38:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ali Emir Tapan - 5 Artworks, Bio & Shows on Artsy]]></title>
+            <description><![CDATA[<article><h1>Ali Emir Tapan - 5 Artworks, Bio & Shows on Artsy</h1><p>Find the latest shows, biography, and artworks for sale by Ali Emir Tapan</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f53e2926d30283da77b3dacb4d34caeb867dda9.jpg"></article>]]></description>
+            <link>https://www.artsy.net/artist/ali-emir-tapan</link>
+            <guid isPermaLink="false">a6f08db0-2432-409a-9014-8f30e250c14b</guid>
+            <pubDate>Sun, 08 May 2016 17:38:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Daan van Golden Highlight - Art Europe Auctions]]></title>
+            <description><![CDATA[<article><h1>Daan van Golden Highlight - Art Europe Auctions</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/990514e308cd2256a4e8b09cae5894ffb045f2ea.gif"></article>]]></description>
+            <link>http://arteuropeauctions.com/daanvgolden/</link>
+            <guid isPermaLink="false">d9000c2b-0178-40bd-9e29-a1f3c6fac93e</guid>
+            <pubDate>Sun, 08 May 2016 12:06:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -54,27 +75,6 @@
             <link>http://www.saffronart.com/auctions/PostWork.aspx?l=20653</link>
             <guid isPermaLink="false">e583c4ce-c9e4-4511-9fa4-5dddd2be8e54</guid>
             <pubDate>Sun, 08 May 2016 12:06:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://mediacloud.saffronart.com/auctions/2016/feblive/saktib_1509live_24716_big.jpg">]]></description>
-            <link>http://arstler.com/2e3f21b0-21c9-4b07-832d-b2f701fdb712/index.html</link>
-            <guid isPermaLink="false">2e3f21b0-21c9-4b07-832d-b2f701fdb712</guid>
-            <pubDate>Sun, 08 May 2016 12:06:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://assets.paddle8.com/media/artwork/artworkimageproxy/1460751135-xkhps0mckfydanzge4r6-xl.jpg">]]></description>
-            <link>https://paddle8.com/work/sol-lewitt/107466-plate-4-from-brushstrokes-horizontal-and-vertical</link>
-            <guid isPermaLink="false">2be2aaf2-3171-46e5-8aae-ead44c796e16</guid>
-            <pubDate>Sun, 08 May 2016 12:06:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bonhams]]></title>
-            <description><![CDATA[<article><h1>Bonhams</h1><p>The Atterbury Jade Buffalo阿特伯里青玉大臥水牛 An important large green jade carving of a water buffalo 17th centuryThe recumbent beast naturalistically modelled with its forelegs and hind legs elegantly tucked under the powerful body accentuated by a pronounced spine, the tail flicked to the right side and head turned to gaze amenably</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e520492a915305964cdb96308536ad8a55c3407.jpg"></article>]]></description>
-            <link>https://www.bonhams.com/auctions/23237/lot/158/</link>
-            <guid isPermaLink="false">6a520c92-94da-4fb2-ace1-2558bdc8de59</guid>
-            <pubDate>Sun, 08 May 2016 12:06:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
