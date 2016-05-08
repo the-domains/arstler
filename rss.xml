@@ -4,7 +4,7 @@
         <description><![CDATA[arstler - in fact, I'd like to steal this]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 15:41:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 12:06:27 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[arstler™]]></title>
@@ -12,6 +12,13 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Sat, 07 May 2016 15:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Matt Kleberg: Hankerings Morgan Lehman Gallery and Mulherin New York are pleased to present Hankerings, an exhibition of new paintings by Brooklyn based artist Matt Kleberg. MORGAN LEHMAN GALLERY Mar 31st – May 7th New York, 535 West 22nd StreetMap Opening Reception: Wednesday, Mar. 30th, 6pm -8pm</p>]]></description>
+            <link>http://arstler.com/matt-kleberg-hankerings-morgan-lehman-gallery-and-mulherin/index.html</link>
+            <guid isPermaLink="false">79001dc4-d9e7-4ee9-83f1-437efdc86122</guid>
+            <pubDate>Sun, 08 May 2016 12:06:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Legendary Filmmaker John Waters On the Audacity of Cy Twombly]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.christies.com/auctions/2016/20th-century-at-christies-new-york-may-2016?pid=en_homepage_row1_slot1_1</link>
             <guid isPermaLink="false">4c75745b-29e1-46e0-a1b6-cf6c230ead09</guid>
             <pubDate>Sat, 07 May 2016 07:37:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://doyle.com/sites/default/files/styles/auction_slider/public/images/lots/509/744509.jpg?itok=h6ewNcUV">]]></description>
-            <link>http://arstler.com/lot-28-franz-kline-american-1910-1962-untitled-circa-1957/index.html</link>
-            <guid isPermaLink="false">1f9191f7-a39f-4591-872d-a02fc1079cde</guid>
-            <pubDate>Fri, 06 May 2016 15:38:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
