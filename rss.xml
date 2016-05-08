@@ -4,7 +4,7 @@
         <description><![CDATA[arstler - in fact, I'd like to steal this]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 12:07:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 12:08:04 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[arstler™]]></title>
@@ -12,6 +12,13 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Sat, 07 May 2016 15:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-ap-southeast-2.amazonaws.com/leonard-joel/wp-content/uploads/2015/08/5.jpg">]]></description>
+            <link>http://arstler.com/3a32e822-d4a6-4f31-bc0a-e7394d25b188/index.html</link>
+            <guid isPermaLink="false">3a32e822-d4a6-4f31-bc0a-e7394d25b188</guid>
+            <pubDate>Sun, 08 May 2016 12:06:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Evening Sale Of Modern And Contemporary Indian Art -Feb-24, 2016 -Lot 9 -M F Husain]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="http://www.axisweb.org/imagecache/news/gordoncheung2jpg_630_1200.jpg">]]></description>
             <link>http://arstler.com/3ccf33ef-35fd-4b27-9f61-f1cfa53c5724/index.html</link>
             <guid isPermaLink="false">3ccf33ef-35fd-4b27-9f61-f1cfa53c5724</guid>
-            <pubDate>Sun, 08 May 2016 12:06:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://countereditions.com/media/wysiwyg/Cheeseburger-homepage.jpg">]]></description>
-            <link>http://arstler.com/4e825906-718e-4af0-91ff-f459a9093679/index.html</link>
-            <guid isPermaLink="false">4e825906-718e-4af0-91ff-f459a9093679</guid>
             <pubDate>Sun, 08 May 2016 12:06:24 GMT</pubDate>
         </item>
     </channel>
