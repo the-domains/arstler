@@ -4,7 +4,7 @@
         <description><![CDATA[arstler - in fact, I'd like to steal this painting]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 17:03:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 17:03:19 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[arstler™]]></title>
@@ -12,6 +12,13 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Sat, 07 May 2016 15:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>TOM WESSELMANN Sunset Nude with Big Palm Tree, 2004 Oil on canvas 105 × 128 in 266.7 × 325.1 cm</p>]]></description>
+            <link>http://arstler.com/tom-wesselmann-sunset-nude-with-big-palm-tree-2004-oil-on-c/index.html</link>
+            <guid isPermaLink="false">2eefc445-8992-49ab-be7c-5b41775c63fc</guid>
+            <pubDate>Tue, 10 May 2016 17:03:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sarah Braman | Pink (2016), Available for Sale | Artsy]]></title>
@@ -68,13 +75,6 @@
             <link>https://artlist.co/artworks/32a51e35-918d-4213-8e28-74053a3fad2a</link>
             <guid isPermaLink="false">d4e78e5e-2b12-4d1d-b7fd-978ed8e1c151</guid>
             <pubDate>Sun, 08 May 2016 19:32:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2015’s Museum Attendance & China Sets Auction Records]]></title>
-            <description><![CDATA[<article><h1>2015’s Museum Attendance & China Sets Auction Records</h1><p>The 5 art world updates you should know this week.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/17e83213-1f45-4f63-b096-bcf533a00c86.jpg"></article>]]></description>
-            <link>https://medium.com/@alicemahoney/2015-s-museum-attendance-new-auction-records-in-china-61cb9c1220cb#.o0fk4cvnj</link>
-            <guid isPermaLink="false">cedc0890-dcfc-4ec2-ae6e-f51a7220d784</guid>
-            <pubDate>Sun, 08 May 2016 19:30:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
