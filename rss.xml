@@ -4,7 +4,7 @@
         <description><![CDATA[arstler - in fact, I'd like to steal this painting]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 11:07:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 11:14:38 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[arstler™]]></title>
@@ -12,6 +12,13 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Sat, 07 May 2016 15:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://www.dorotheum.com/38K160531_138_59179_1/Bild/Hans-(Jean)-Arp-*.jpg">]]></description>
+            <link>https://www.dorotheum.com/en/auctions/current-auctions/kataloge/list-lots/auktion/11844-modern-art.html?currentPage=1#lot-2048444</link>
+            <guid isPermaLink="false">dff31240-a62f-4e3f-9c03-928b752fbf9f</guid>
+            <pubDate>Fri, 13 May 2016 11:14:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lucio Fontana | Contemporary Art | June 2016]]></title>
@@ -68,13 +75,6 @@
             <link>http://arstler.com/636226d9-0eb6-4ec8-a6d3-bd83b7e1a722/index.html</link>
             <guid isPermaLink="false">636226d9-0eb6-4ec8-a6d3-bd83b7e1a722</guid>
             <pubDate>Wed, 11 May 2016 15:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sarah Braman | Pink (2016), Available for Sale | Artsy]]></title>
-            <description><![CDATA[<article><h1>Sarah Braman | Pink (2016), Available for Sale | Artsy</h1><p>Available for sale from Mitchell-Innes & Nash, Sarah Braman, Pink (2016), Steel, glass, metal table, 44 1/2 × 27 3/4 × 21 3/4 in</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c0bad57cd53cfbed8cc21abd74195f5ff183f82.jpg"></article>]]></description>
-            <link>https://www.artsy.net/artwork/sarah-braman-pink</link>
-            <guid isPermaLink="false">7b77f1e3-b44c-4043-a0d8-04aa6ed4530c</guid>
-            <pubDate>Tue, 10 May 2016 17:03:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
