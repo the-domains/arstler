@@ -4,7 +4,7 @@
         <description><![CDATA[arstler - in fact, I'd like to steal this painting]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 11:00:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 11:01:40 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[arstler™]]></title>
@@ -12,6 +12,13 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Sat, 07 May 2016 15:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bonhams]]></title>
+            <description><![CDATA[<article><h1>Bonhams</h1><p>Bonhams forthcoming Monaco Sale on May 13 will feature the world's finest as-original, running, long-term preserved 'time-machine' Jaguar C-Type, UK road-registered 'POV 114'. On January 14, 1955, this outstanding example of Jaguar's double-Le Mans-winning XK120C design was registered under chassis number 'XKC 011', and was sold ex-works to the Dunlop Rubber Company.</p></article>]]></description>
+            <link>https://www.bonhams.com/press_release/21112/</link>
+            <guid isPermaLink="false">181fa305-76be-42a9-bfe0-3acab551bfbe</guid>
+            <pubDate>Fri, 13 May 2016 11:01:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Video: A tour of Frida Kahlo's home]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Lita Albuquerque | Nectar of Stars / Beta Trianguli Australis, Available for Sale | Artsy</h1><p>Available for sale from Peter Blake Gallery, Lita Albuquerque, Nectar of Stars / Beta Trianguli Australis, Fiberglass, steel, silkscreen on glass, honey in 6" glass sphere, 90 × 42 × 18 1/2 in</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c40182fe7f192ac323ee40c8cffe71ac7b8cd00.jpg"></article>]]></description>
             <link>https://www.artsy.net/artwork/lita-albuquerque-nectar-of-stars-slash-beta-trianguli-australis</link>
             <guid isPermaLink="false">1df6a963-caa2-4dc7-83a7-0922c0da5908</guid>
-            <pubDate>Mon, 09 May 2016 15:14:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lita Albuquerque | ALLOCTHONOUS ACCELERATION (2015), Available for Sale | Artsy]]></title>
-            <description><![CDATA[<article><h1>Lita Albuquerque | ALLOCTHONOUS ACCELERATION (2015), Available for Sale | Artsy</h1><p>Available for sale from Kohn Gallery, Lita Albuquerque, ALLOCTHONOUS ACCELERATION (2015), Pigment on panel and 24kt gold leaf on resin, 84 × 84 in</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/854ffbc1b8d7207b4dcec08cc43116bb18042526.jpg"></article>]]></description>
-            <link>https://www.artsy.net/artwork/lita-albuquerque-allocthonous-acceleration</link>
-            <guid isPermaLink="false">13c1237d-5f88-43d4-b7e8-ae72cec2f476</guid>
             <pubDate>Mon, 09 May 2016 15:14:15 GMT</pubDate>
         </item>
     </channel>
