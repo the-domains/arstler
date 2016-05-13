@@ -4,7 +4,7 @@
         <description><![CDATA[arstler - in fact, I'd like to steal this painting]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 11:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 11:14:39 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[arstler™]]></title>
@@ -12,6 +12,13 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Sat, 07 May 2016 15:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://www.dorotheum.com/38K160531_138_59086_1/Bild/Rudolf-Bauer.jpg">]]></description>
+            <link>https://www.dorotheum.com/en/auctions/current-auctions/kataloge/list-lots/auktion/11844-modern-art.html?currentPage=1#lot-2048424</link>
+            <guid isPermaLink="false">f0f07882-1a65-4c6d-927c-81a3c2d9f9e4</guid>
+            <pubDate>Fri, 13 May 2016 11:14:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://d32dm0rphc51dk.cloudfront.net/0ORHp2g4Hv2b9fvzWTUUBw/large.jpg">]]></description>
             <link>http://arstler.com/zhu-jianhui-rope-i-ii-iii-iv-v-2010-serie-of-5-woodbloc/index.html</link>
             <guid isPermaLink="false">0e814dcc-9a7f-43e2-9487-d4117075f864</guid>
-            <pubDate>Wed, 11 May 2016 15:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://d262ilb51hltx0.cloudfront.net/max/800/1*F8Gv0ki9hFzohMUNAuzjqg.jpeg">]]></description>
-            <link>http://arstler.com/636226d9-0eb6-4ec8-a6d3-bd83b7e1a722/index.html</link>
-            <guid isPermaLink="false">636226d9-0eb6-4ec8-a6d3-bd83b7e1a722</guid>
             <pubDate>Wed, 11 May 2016 15:52:37 GMT</pubDate>
         </item>
     </channel>
