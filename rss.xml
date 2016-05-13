@@ -4,7 +4,7 @@
         <description><![CDATA[arstler - in fact, I'd like to steal this painting]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 10:51:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 10:58:25 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[arstler™]]></title>
@@ -12,6 +12,13 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Sat, 07 May 2016 15:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[kline, franz elizabeth | abstract | sotheby's n09500lot92cyyen]]></title>
+            <description><![CDATA[<article><h1>kline, franz elizabeth | abstract | sotheby's n09500lot92cyyen</h1><p>Kline, Franz Elizabeth | Sotheby's - oil on canvas - N09500Lot92CYYen</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0172fc4c739876cee5ae450dc81ac9038fcc0fe2.jpg"></article>]]></description>
+            <link>http://www.sothebys.com/en/auctions/ecatalogue/2015/contemporary-art-evening-auction-n09500/lot.30.html</link>
+            <guid isPermaLink="false">02bc31d0-9381-4ffd-97e8-02932eda7667</guid>
+            <pubDate>Fri, 13 May 2016 10:57:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[John Singer Sargent's Changing Vision | Sotheby's]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Saatchi Art Artist: David Sims; Black & White 2004 Photography "Kate, Paris Vogue (Edition 2 of 5) SOLD"</h1><p>Edition 2 of 5, 2 Artist Proofs This iconic image of Kate Moss was shot for Vogue Paris by David Sims and published in March of 2004. Archival Coated Pigment Print, printed in 2013 Signed by artist on label to affix to frame.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cdfff852035e956bb44e049335d74e840b2a4b5.jpg"></article>]]></description>
             <link>http://www.saatchiart.com/art/Photography-Kate-Paris-Vogue-Edition-2-of-5-SOLD/816068/2637987/view</link>
             <guid isPermaLink="false">0d3962f4-8191-4eda-b60b-726b4c8b13da</guid>
-            <pubDate>Mon, 09 May 2016 14:47:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jean Dubuffet]]></title>
-            <description><![CDATA[<article><h1>Jean Dubuffet</h1><h2>▒▒▒▒▒▒▒▒▒▒▒▒, 1967</h2><p>- See more at: https://artlist.co/artworks/90fd382a-1e21-48dd-9dbb-094331962c70#sthash.AwdZmORd.dpuf</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a23d3a74eea5b3fc9e2935d5c535c7dbe2142951.jpg"></article>]]></description>
-            <link>https://artlist.co/artworks/90fd382a-1e21-48dd-9dbb-094331962c70</link>
-            <guid isPermaLink="false">9dc98dd8-5d87-417a-b1fb-e28a2f7ba16c</guid>
             <pubDate>Mon, 09 May 2016 14:47:05 GMT</pubDate>
         </item>
     </channel>
