@@ -4,7 +4,7 @@
         <description><![CDATA[arstler - in fact, I'd like to steal this painting]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 11:01:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 11:02:00 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[arstler™]]></title>
@@ -12,6 +12,13 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Sat, 07 May 2016 15:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bonhams]]></title>
+            <description><![CDATA[<article><h1>Bonhams</h1><p>Works by internationally acclaimed Ghanaian contemporary artist El Anatsui will lead an impressive array of modern and contemporary African art at the Bonhams Africa Now sale in London on 22 May. A work by El Anatsui saw huge success at Bonhams Modern and Contemporary sale in February, where Peju's Robe, one of his unmistakable shimmering tapestries of used bottle-caps, sold for £806,500.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1c7eb8b447478a596aa12933d3f32acf41507c1.png"></article>]]></description>
+            <link>https://www.bonhams.com/press_release/21697/</link>
+            <guid isPermaLink="false">96b798fb-e5ce-42c9-a7a4-85dfe54f82f5</guid>
+            <pubDate>Fri, 13 May 2016 11:01:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bonhams]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Becky Suss | Untitled (Francisco Bores, Earth) (2015), Available for Sale | Artsy</h1><p>Available for sale from Fleisher/Ollman, Becky Suss, Untitled (Francisco Bores, Earth) (2015), Oil on canvas with 22-carat gold leaf, 14 × 14 in</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/677b2a091553b0a3ebb8a1c5148a283a56a63372.jpg"></article>]]></description>
             <link>https://www.artsy.net/artwork/becky-suss-untitled-francisco-bores-earth</link>
             <guid isPermaLink="false">fcae46e2-3087-487c-8740-14ae1560a950</guid>
-            <pubDate>Mon, 09 May 2016 15:14:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lita Albuquerque | Nectar of Stars / Beta Trianguli Australis, Available for Sale | Artsy]]></title>
-            <description><![CDATA[<article><h1>Lita Albuquerque | Nectar of Stars / Beta Trianguli Australis, Available for Sale | Artsy</h1><p>Available for sale from Peter Blake Gallery, Lita Albuquerque, Nectar of Stars / Beta Trianguli Australis, Fiberglass, steel, silkscreen on glass, honey in 6" glass sphere, 90 × 42 × 18 1/2 in</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c40182fe7f192ac323ee40c8cffe71ac7b8cd00.jpg"></article>]]></description>
-            <link>https://www.artsy.net/artwork/lita-albuquerque-nectar-of-stars-slash-beta-trianguli-australis</link>
-            <guid isPermaLink="false">1df6a963-caa2-4dc7-83a7-0922c0da5908</guid>
             <pubDate>Mon, 09 May 2016 15:14:15 GMT</pubDate>
         </item>
     </channel>
