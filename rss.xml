@@ -4,7 +4,7 @@
         <description><![CDATA[arstler - in fact, I'd like to steal this painting]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 11:07:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 11:07:52 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[arstler™]]></title>
@@ -12,6 +12,13 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Sat, 07 May 2016 15:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lucio Fontana | Contemporary Art | June 2016]]></title>
+            <description><![CDATA[<article><h1>Lucio Fontana | Contemporary Art | June 2016</h1><p>Lucio Fontana vowed to renew art and transcend its traditional boundaries in his Manifesto Bianco (1946). His "Concetto Spaziale, Attesa (1967/1968)" will feature in Dorotheum's contemporary art auction on June 1, 2016. Learn more: https://goo.gl/vOZSYr</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37e144c2bbdffcfb70af4b1e5d9f968469115d62.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=XK8pvgBe_Lw</link>
+            <guid isPermaLink="false">dc90b825-75ea-44b6-bbab-78c29df24ea8</guid>
+            <pubDate>Fri, 13 May 2016 11:07:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AUCTIONS - The largest auction house in Central Europe - Fine Arts, Contemporary Art, Paintings, Jewellery & more - Dorotheum]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.artsy.net/artwork/sarah-braman-pink</link>
             <guid isPermaLink="false">7b77f1e3-b44c-4043-a0d8-04aa6ed4530c</guid>
             <pubDate>Tue, 10 May 2016 17:03:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Becky Suss | Untitled (Francisco Bores, Earth) (2015), Available for Sale | Artsy]]></title>
-            <description><![CDATA[<article><h1>Becky Suss | Untitled (Francisco Bores, Earth) (2015), Available for Sale | Artsy</h1><p>Available for sale from Fleisher/Ollman, Becky Suss, Untitled (Francisco Bores, Earth) (2015), Oil on canvas with 22-carat gold leaf, 14 × 14 in</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/677b2a091553b0a3ebb8a1c5148a283a56a63372.jpg"></article>]]></description>
-            <link>https://www.artsy.net/artwork/becky-suss-untitled-francisco-bores-earth</link>
-            <guid isPermaLink="false">fcae46e2-3087-487c-8740-14ae1560a950</guid>
-            <pubDate>Mon, 09 May 2016 15:14:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
