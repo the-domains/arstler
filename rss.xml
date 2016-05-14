@@ -4,7 +4,7 @@
         <description><![CDATA[arstler - in fact, I'd like to steal this painting]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 11:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 May 2016 15:43:13 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[arstler™]]></title>
@@ -12,6 +12,13 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Sat, 07 May 2016 15:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83ecd307-ad8a-4ee2-ac82-809af244e9b6.jpg">]]></description>
+            <link>https://www.wright20.com/auctions/2016/05/design-masterworks/30</link>
+            <guid isPermaLink="false">d7046b49-091a-4e10-96c4-f400e8dddfa9</guid>
+            <pubDate>Sat, 14 May 2016 15:42:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lucio Fontana | Contemporary Art | June 2016]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.christies.com/features/Frida-Kahlo-Casa-Azul-Tour-Video-7371-3.aspx?pid=en_homepage_row1_slot2_1</link>
             <guid isPermaLink="false">799987b2-d396-436d-87c8-ca7a8914b165</guid>
             <pubDate>Fri, 13 May 2016 11:00:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[kline, franz elizabeth | abstract | sotheby's n09500lot92cyyen]]></title>
-            <description><![CDATA[<article><h1>kline, franz elizabeth | abstract | sotheby's n09500lot92cyyen</h1><p>Kline, Franz Elizabeth | Sotheby's - oil on canvas - N09500Lot92CYYen</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0172fc4c739876cee5ae450dc81ac9038fcc0fe2.jpg"></article>]]></description>
-            <link>http://www.sothebys.com/en/auctions/ecatalogue/2015/contemporary-art-evening-auction-n09500/lot.30.html</link>
-            <guid isPermaLink="false">02bc31d0-9381-4ffd-97e8-02932eda7667</guid>
-            <pubDate>Fri, 13 May 2016 10:57:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
