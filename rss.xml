@@ -4,7 +4,7 @@
         <description><![CDATA[arstler - in fact, I'd like to steal this painting]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 15:43:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 07:16:18 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[arstler™]]></title>
@@ -12,6 +12,13 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Sat, 07 May 2016 15:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://cdn.wright20.com/items/index/520/9_1_design_masterworks_may_2016_charlotte_perriand_rare_bloc_bahut_from_cite_cansado_mauritania__wright_auction.jpg?t=1461181054">]]></description>
+            <link>http://arstler.com/66dacca3-7fcd-425b-a090-17cf67578051/index.html</link>
+            <guid isPermaLink="false">66dacca3-7fcd-425b-a090-17cf67578051</guid>
+            <pubDate>Sun, 15 May 2016 07:15:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.bonhams.com/press_release/21112/</link>
             <guid isPermaLink="false">181fa305-76be-42a9-bfe0-3acab551bfbe</guid>
             <pubDate>Fri, 13 May 2016 11:01:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Video: A tour of Frida Kahlo's home]]></title>
-            <description><![CDATA[<article><h1>Video: A tour of Frida Kahlo's home</h1><p>'People are present in the things that choose to have around them during their life,' says Frida Kahlo's biographer, discussing the vibrant blue Casa Azul</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0d89246b076389cc3e69cb78f3167bb77890f30.jpg"></article>]]></description>
-            <link>http://www.christies.com/features/Frida-Kahlo-Casa-Azul-Tour-Video-7371-3.aspx?pid=en_homepage_row1_slot2_1</link>
-            <guid isPermaLink="false">799987b2-d396-436d-87c8-ca7a8914b165</guid>
-            <pubDate>Fri, 13 May 2016 11:00:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
