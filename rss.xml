@@ -4,7 +4,7 @@
         <description><![CDATA[arstler - in fact, I'd like to steal this painting]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 09:07:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 09:06:51 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[arstler™]]></title>
@@ -12,13 +12,6 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Sat, 07 May 2016 15:40:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1fcaffd-84b5-4562-a6ba-cb0fca118d6d.jpg">]]></description>
-            <link>https://www.lempertz.com/de/kataloge/lot/1072-1/5-syamatara-feuervergoldete-bronze-tibet-15-jh.html</link>
-            <guid isPermaLink="false">d07ee18b-7c30-44ad-985d-a1fc971acae1</guid>
-            <pubDate>Mon, 16 May 2016 09:06:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -75,6 +68,13 @@
             <link>https://www.wright20.com/auctions/2016/05/design-masterworks/30</link>
             <guid isPermaLink="false">d7046b49-091a-4e10-96c4-f400e8dddfa9</guid>
             <pubDate>Sat, 14 May 2016 15:42:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lucio Fontana | Contemporary Art | June 2016]]></title>
+            <description><![CDATA[<article><h1>Lucio Fontana | Contemporary Art | June 2016</h1><p>.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37e144c2bbdffcfb70af4b1e5d9f968469115d62.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=XK8pvgBe_Lw</link>
+            <guid isPermaLink="false">dc90b825-75ea-44b6-bbab-78c29df24ea8</guid>
+            <pubDate>Fri, 13 May 2016 11:16:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
