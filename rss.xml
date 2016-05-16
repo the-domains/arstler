@@ -4,7 +4,7 @@
         <description><![CDATA[arstler - in fact, I'd like to steal this painting]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 09:07:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 09:07:28 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[arstler™]]></title>
@@ -12,6 +12,20 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Sat, 07 May 2016 15:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://www.dorotheum.com/38K160531_138_58762_1/Bild/Giorgio-de-Chirico-*.jpg">]]></description>
+            <link>https://www.dorotheum.com/en/auctions/current-auctions/kataloge/list-lots/auktion/11844-modern-art.html?currentPage=1#lot-2048435</link>
+            <guid isPermaLink="false">9c507deb-2993-4d15-97fc-05c2081d00d8</guid>
+            <pubDate>Mon, 16 May 2016 09:06:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://www.dorotheum.com/38K160531_138_59105_1/Bild/Fernando-Botero-*.jpg">]]></description>
+            <link>https://www.dorotheum.com/en/auctions/current-auctions/kataloge/list-lots/auktion/11844-modern-art.html?currentPage=1#lot-2048439</link>
+            <guid isPermaLink="false">8d503c2f-e1b6-4726-aa55-8f0d31f03f30</guid>
+            <pubDate>Mon, 16 May 2016 09:06:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,20 +75,6 @@
             <link>https://www.sworder.co.uk/Departments/books-prints-and-maps</link>
             <guid isPermaLink="false">bced7e98-c5c4-4052-9aa4-b58338b553fc</guid>
             <pubDate>Mon, 16 May 2016 09:05:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49ae4380-1099-4cca-ac90-51df7f2606ad.jpg">]]></description>
-            <link>https://www.wright20.com/auctions/2016/05/design-masterworks/29</link>
-            <guid isPermaLink="false">d240c4f9-42af-4c57-87f3-00b41a6c406f</guid>
-            <pubDate>Mon, 16 May 2016 09:05:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://cdn.wright20.com/items/index/520/9_1_design_masterworks_may_2016_charlotte_perriand_rare_bloc_bahut_from_cite_cansado_mauritania__wright_auction.jpg?t=1461181054">]]></description>
-            <link>http://arstler.com/66dacca3-7fcd-425b-a090-17cf67578051/index.html</link>
-            <guid isPermaLink="false">66dacca3-7fcd-425b-a090-17cf67578051</guid>
-            <pubDate>Sun, 15 May 2016 07:15:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
