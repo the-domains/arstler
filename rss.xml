@@ -4,7 +4,7 @@
         <description><![CDATA[arstler - in fact, I'd like to steal this painting]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 09:07:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 09:07:29 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[arstler™]]></title>
@@ -12,6 +12,20 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Sat, 07 May 2016 15:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wassily Kandinsky]]></title>
+            <description><![CDATA[<article><h1>Wassily Kandinsky</h1><p>(Moscow 1866-1944 Neuilly-sur-Seine)Provenance: Zeichnung für Punkt und Linie zu Fläche (Drawing for point and line to surface), 1925, signed and dated K/25; inscribed on the reverse 1925/N2/Aus "Punkt und Linie zu Fläche", Indian ink on paper mounted on cardboard, 34.5 x 22.5 cm, framed, (AR) acquired from the artist Galleria del Milione, Milan, no.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7b4321fe5dc5624ff9ab2a391aafd9eef380b1e.jpg"></article>]]></description>
+            <link>https://www.dorotheum.com/en/auctions/current-auctions/kataloge/list-lots-detail/auktion/11844-modern-art/lotID/403/lot/2048426-wassily-kandinsky.html</link>
+            <guid isPermaLink="false">b58f5a2e-45b9-44bb-86c6-513eb370381e</guid>
+            <pubDate>Mon, 16 May 2016 09:06:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://www.dorotheum.com/38K160531_138_58762_1/Bild/Giorgio-de-Chirico-*.jpg">]]></description>
+            <link>https://www.dorotheum.com/en/auctions/current-auctions/kataloge/list-lots/auktion/11844-modern-art.html?currentPage=1#lot-2048435</link>
+            <guid isPermaLink="false">9c507deb-2993-4d15-97fc-05c2081d00d8</guid>
+            <pubDate>Mon, 16 May 2016 09:06:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Contemporary Glass /28 June 2016 Noon ct</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed68dad67af7500debbb9fc1a75fac6d6ea93ec6.jpg"></article>]]></description>
             <link>https://www.wright20.com/auctions/2016/06/contemporary-glass/info</link>
             <guid isPermaLink="false">1bb069a4-d66d-4569-a991-56b256bcfe1e</guid>
-            <pubDate>Mon, 16 May 2016 09:05:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Department - Books, Prints and Maps | Departments]]></title>
-            <description><![CDATA[<article><h1>Department - Books, Prints and Maps | Departments</h1><p>Sworders Fine Art Auctioneers selling Asian Art, 20th Century Art & Design, Fine Wine, Antiques, Books, Maps & Collectables.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd026a51196f0efeb820416df25d705135a34a4a.jpg"></article>]]></description>
-            <link>https://www.sworder.co.uk/Departments/books-prints-and-maps</link>
-            <guid isPermaLink="false">bced7e98-c5c4-4052-9aa4-b58338b553fc</guid>
-            <pubDate>Mon, 16 May 2016 09:05:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49ae4380-1099-4cca-ac90-51df7f2606ad.jpg">]]></description>
-            <link>https://www.wright20.com/auctions/2016/05/design-masterworks/29</link>
-            <guid isPermaLink="false">d240c4f9-42af-4c57-87f3-00b41a6c406f</guid>
             <pubDate>Mon, 16 May 2016 09:05:50 GMT</pubDate>
         </item>
     </channel>
