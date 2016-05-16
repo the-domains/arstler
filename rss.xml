@@ -4,7 +4,7 @@
         <description><![CDATA[arstler - in fact, I'd like to steal this painting]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 09:06:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 09:06:38 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[arstler™]]></title>
@@ -12,6 +12,13 @@
             <link>http://arstler.com/know-thyself/index.html</link>
             <guid isPermaLink="false">c0a6f0c1-d89d-428e-a8f2-184f9348b456</guid>
             <pubDate>Sat, 07 May 2016 15:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-ap-southeast-2.amazonaws.com/leonard-joel/wp-content/uploads/2015/08/901.jpg">]]></description>
+            <link>http://arstler.com/poltronova-glove-sofa-1970s-italy-leather-sold-for-dollar9760-i/index.html</link>
+            <guid isPermaLink="false">1b1788e4-711d-4de3-b7e7-b6b6ccf6556d</guid>
+            <pubDate>Mon, 16 May 2016 09:06:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Contemporary Glass /28 June 2016 Noon ct]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://www.dorotheum.com/38K160531_138_59086_1/Bild/Rudolf-Bauer.jpg">]]></description>
             <link>https://www.dorotheum.com/en/auctions/current-auctions/kataloge/list-lots/auktion/11844-modern-art.html?currentPage=1#lot-2048424</link>
             <guid isPermaLink="false">f0f07882-1a65-4c6d-927c-81a3c2d9f9e4</guid>
-            <pubDate>Fri, 13 May 2016 11:14:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://www.dorotheum.com/38K160531_138_59179_1/Bild/Hans-(Jean)-Arp-*.jpg">]]></description>
-            <link>https://www.dorotheum.com/en/auctions/current-auctions/kataloge/list-lots/auktion/11844-modern-art.html?currentPage=1#lot-2048444</link>
-            <guid isPermaLink="false">dff31240-a62f-4e3f-9c03-928b752fbf9f</guid>
             <pubDate>Fri, 13 May 2016 11:14:34 GMT</pubDate>
         </item>
     </channel>
