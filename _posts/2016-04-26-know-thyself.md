@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "in fact, I'd like to steal this painting"
-datePublished: '2016-05-17T07:57:17.229Z'
-dateModified: '2016-05-17T07:57:04.695Z'
+datePublished: '2016-05-17T07:58:38.880Z'
+dateModified: '2016-05-17T07:58:19.663Z'
 title: arstler™
 author: []
 sourcePath: _posts/2016-04-26-know-thyself.md
