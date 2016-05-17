@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: "in fact, I'd like to steal this painting"
-datePublished: '2016-05-07T15:40:54.848Z'
-dateModified: '2016-05-07T15:40:40.608Z'
+datePublished: '2016-05-17T07:47:51.426Z'
+dateModified: '2016-05-17T07:47:37.238Z'
 title: arstler™
 author: []
 sourcePath: _posts/2016-04-26-know-thyself.md
@@ -18,7 +18,7 @@ publisher:
   favicon: null
 starred: true
 url: know-thyself/index.html
-_type: Article
+_type: WebPage
 
 ---
 # arstler(tm)
