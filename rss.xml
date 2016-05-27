@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 20:34:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 20:37:43 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Auction Brussels Tuesday 26 January 2016 2 pm Lempertz Brussels Grote Hertstraat 6, Rue du Grand Cerf Brussel-1000 Bruxelles T +32 251405-86 F +32 251148-24 bruxelles@lempertz.com Preview Munich (selection of objects) St.-Anna-Platz 3 Wednesday 13 January, 10 am – 6 pm Brussels 6 Rue du Grand Cerf Wednesday 20 January – Saturday 23 January, 10 am – 6 pm Sunday 24 January, 11 am – 5 pm Monday 25 January, 10 am – 6 pm</p>]]></description>
+            <link>http://arstler.com/auction-brussels-tuesday-26-january-2016-2-pm-lempertz-bruss/index.html</link>
+            <guid isPermaLink="false">1c98d8af-6197-4d7c-9a7e-d708faf1ddae</guid>
+            <pubDate>Fri, 27 May 2016 20:37:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://doyle.com/sites/default/files/styles/auction_slider/public/images/lots/436/1145436.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.artspace.com/dave-cole</link>
             <guid isPermaLink="false">5553c979-e735-498c-8ac6-930950858c68</guid>
             <pubDate>Fri, 27 May 2016 20:26:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>ART WORLD Andy Warhol in Praise of Laziness Blake Gopnik, Thursday, May 26, 2016</p>]]></description>
-            <link>http://arstler.com/art-world-andy-warhol-in-praise-of-laziness-blake-gopnik-th/index.html</link>
-            <guid isPermaLink="false">af0244a6-8188-4e35-a022-75a9c914a5bb</guid>
-            <pubDate>Fri, 27 May 2016 20:23:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
