@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 20:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 20:11:26 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[a certain kind of Eden | Burning in Water | Artsy]]></title>
+            <description><![CDATA[<article><h1>a certain kind of Eden | Burning in Water | Artsy</h1><p>a certain kind of Eden Burning in Water18 April - 4 June 2016 Burning in Water is pleased to present the group exhibition a certain kind of Eden, which addresses both the fragility and resiliency of the natural environment in the face of looming ecological threats.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/457e395dd786d0589697b2730bd5aef77c6ccaee.jpg"></article>]]></description>
+            <link>https://www.artsy.net/show/burning-in-water-a-certain-kind-of-eden</link>
+            <guid isPermaLink="false">98496f25-3c57-469a-a3df-1a4604367a0a</guid>
+            <pubDate>Fri, 27 May 2016 20:10:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Anisa Abdullah | Sang Pelangi (2016) | Available for Sale | Artsy]]></title>
             <description><![CDATA[<article><h1>Anisa Abdullah | Sang Pelangi (2016) | Available for Sale | Artsy</h1><p>Available for sale from Galeri Chandan, Anisa Abdullah, Sang Pelangi (2016), Collage on canvas, 182 × 152 cm</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7cc676cd28fb45f07e0dfd882df6514a7c8bb63d.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://arstler.com/poltronova-glove-sofa-1970s-italy-leather-sold-for-dollar9760-i/index.html</link>
             <guid isPermaLink="false">1b1788e4-711d-4de3-b7e7-b6b6ccf6556d</guid>
             <pubDate>Mon, 16 May 2016 09:06:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contemporary Glass /28 June 2016 Noon ct]]></title>
-            <description><![CDATA[<article><h1>Contemporary Glass /28 June 2016 Noon ct</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed68dad67af7500debbb9fc1a75fac6d6ea93ec6.jpg"></article>]]></description>
-            <link>https://www.wright20.com/auctions/2016/06/contemporary-glass/info</link>
-            <guid isPermaLink="false">1bb069a4-d66d-4569-a991-56b256bcfe1e</guid>
-            <pubDate>Mon, 16 May 2016 09:05:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
