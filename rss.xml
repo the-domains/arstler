@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 20:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 20:11:29 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New voices: a dsl collection story | Klein Sun Gallery | Artsy]]></title>
+            <description><![CDATA[<article><h1>New voices: a dsl collection story | Klein Sun Gallery | Artsy</h1><p>Klein Sun Gallery is pleased to announce "New voices: a dsl collection story," a group exhibition on view from May 7 through June 18, 2016. "New voices: a dsl collection story," features works by nine artists: Chen Wei, Gao Lei, Gao Weigang, Hou Yong, Hu Weiyi, Li Wei, Wang Yuyang, Wang Sishun and Zhao Zhao.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f114607c482e52736550bd965def843a1bef585b.jpg"></article>]]></description>
+            <link>https://www.artsy.net/show/klein-sun-gallery-new-voices-a-dsl-collection-story</link>
+            <guid isPermaLink="false">386b218d-95c7-434c-83ab-5b63c6cf58f9</guid>
+            <pubDate>Fri, 27 May 2016 20:10:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[a certain kind of Eden | Burning in Water | Artsy]]></title>
             <description><![CDATA[<article><h1>a certain kind of Eden | Burning in Water | Artsy</h1><p>a certain kind of Eden Burning in Water18 April - 4 June 2016 Burning in Water is pleased to present the group exhibition a certain kind of Eden, which addresses both the fragility and resiliency of the natural environment in the face of looming ecological threats.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/457e395dd786d0589697b2730bd5aef77c6ccaee.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.lempertz.com/en/catalogues/lot/1071-1/612-cesar.html</link>
             <guid isPermaLink="false">3553f3fc-f815-4ecd-a589-fa5fe6ea600c</guid>
             <pubDate>Mon, 16 May 2016 09:06:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-ap-southeast-2.amazonaws.com/leonard-joel/wp-content/uploads/2015/08/901.jpg">]]></description>
-            <link>http://arstler.com/poltronova-glove-sofa-1970s-italy-leather-sold-for-dollar9760-i/index.html</link>
-            <guid isPermaLink="false">1b1788e4-711d-4de3-b7e7-b6b6ccf6556d</guid>
-            <pubDate>Mon, 16 May 2016 09:06:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
