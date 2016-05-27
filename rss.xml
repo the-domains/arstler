@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 20:37:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 20:39:15 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.piasa.fr/sites/default/files/imagecache/ImageNouveauSiteCataloguePageInterne/URBAN-ART.jpg">]]></description>
+            <link>http://arstler.com/52635ff3-b83e-4b63-afdf-f97429cc0b2a/index.html</link>
+            <guid isPermaLink="false">52635ff3-b83e-4b63-afdf-f97429cc0b2a</guid>
+            <pubDate>Fri, 27 May 2016 20:39:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Auction Brussels Tuesday 26 January 2016 2 pm Lempertz Brussels Grote Hertstraat 6, Rue du Grand Cerf Brussel-1000 Bruxelles T +32 251405-86 F +32 251148-24 bruxelles@lempertz.com Preview Munich (selection of objects) St.-Anna-Platz 3 Wednesday 13 January, 10 am – 6 pm Brussels 6 Rue du Grand Cerf Wednesday 20 January – Saturday 23 January, 10 am – 6 pm Sunday 24 January, 11 am – 5 pm Monday 25 January, 10 am – 6 pm</p>]]></description>
@@ -68,13 +75,6 @@
             <link>http://arstler.com/licitatia-colectiei-de-arta-romaneasca-a-doctorului-leopold/index.html</link>
             <guid isPermaLink="false">cd4afcb7-159a-4d2a-8763-a59920b23f59</guid>
             <pubDate>Fri, 27 May 2016 20:27:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dave Cole | Artspace]]></title>
-            <description><![CDATA[<article><h1>Dave Cole | Artspace</h1><p>Dave Cole was raised on his family&rsquo;s farm in New Hampshire, and grew up working in his grandfather&rsquo;s blacksmith shop. As a sculptor, Cole has become known for his large-scale work and his unconventional uses of industrial machines and materials. His installation work especially is known for its ability to successfully engage diverse audiences with conceptually challenging contemporary art.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/234314714360e6e0e1f1e4654a4c461a35928ddc.jpg"></article>]]></description>
-            <link>http://www.artspace.com/dave-cole</link>
-            <guid isPermaLink="false">5553c979-e735-498c-8ac6-930950858c68</guid>
-            <pubDate>Fri, 27 May 2016 20:26:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
