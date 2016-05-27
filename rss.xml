@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 20:31:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 20:31:41 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://www.dorotheum.com/30S160528_1/Bild/Por%C5%A1-Gustav-(Chrudim-1888---1955-Skute%C4%8D).jpg">]]></description>
+            <link>http://arstler.com/000f25b7-6df4-4293-b2fe-126d243ea6be/index.html</link>
+            <guid isPermaLink="false">000f25b7-6df4-4293-b2fe-126d243ea6be</guid>
+            <pubDate>Fri, 27 May 2016 20:31:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bonhams]]></title>
             <description><![CDATA[<article><h1>Bonhams</h1><p>Mao, 1973, by Andy Warhol, estimated at £580,000-780,000, will be offered at the Bonhams Post War and Contemporary Art sale on 29 June. Bonhams will lead the Post-War and Contemporary Art season with a spectacular Andy Warhol painting of Chairman Mao, estimated at £580,000-780,000, to be offered at New Bond Street on 29 June.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1c7eb8b447478a596aa12933d3f32acf41507c1.png"></article>]]></description>
@@ -14,17 +21,17 @@
             <pubDate>Fri, 27 May 2016 20:31:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Red Carpet Jewels: Get the Look | Sotheby's]]></title>
-            <description><![CDATA[<article><h1>Red Carpet Jewels: Get the Look | Sotheby's</h1><p>View auction details, art exhibitions and online catalogues; bid, buy and collect contemporary, impressionist or modern art, old masters, jewellery, wine, watches, prints, rugs and books at sotheby&s auction house</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/253bb76703d89e9f5c95be72d567da29079a70f7.jpg"></article>]]></description>
-            <link>http://www.sothebys.com/content/sothebys/en/news-video/videos/2016/05/red-carpet-jewels-get-the-look.html</link>
-            <guid isPermaLink="false">ca6e5edc-b9fc-4647-9a1c-43ffb1f8fd4e</guid>
-            <pubDate>Fri, 27 May 2016 20:29:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Highlights from Paris Impressionist and Modern Art Sale | Sotheby's]]></title>
             <description><![CDATA[<article><h1>Highlights from Paris Impressionist and Modern Art Sale | Sotheby's</h1><p>View auction details, art exhibitions and online catalogues; bid, buy and collect contemporary, impressionist or modern art, old masters, jewellery, wine, watches, prints, rugs and books at sotheby&s auction house</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e85ee0621ca9cb8261271618ed26d82d888d165.png"></article>]]></description>
             <link>http://www.sothebys.com/content/sothebys/en/news-video/slideshows/2016/highlights-from-paris-impressionist-modern-art-sale.html</link>
             <guid isPermaLink="false">1029bcd1-cc56-475f-9261-358739a81c52</guid>
+            <pubDate>Fri, 27 May 2016 20:29:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Red Carpet Jewels: Get the Look | Sotheby's]]></title>
+            <description><![CDATA[<article><h1>Red Carpet Jewels: Get the Look | Sotheby's</h1><p>View auction details, art exhibitions and online catalogues; bid, buy and collect contemporary, impressionist or modern art, old masters, jewellery, wine, watches, prints, rugs and books at sotheby&s auction house</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/253bb76703d89e9f5c95be72d567da29079a70f7.jpg"></article>]]></description>
+            <link>http://www.sothebys.com/content/sothebys/en/news-video/videos/2016/05/red-carpet-jewels-get-the-look.html</link>
+            <guid isPermaLink="false">ca6e5edc-b9fc-4647-9a1c-43ffb1f8fd4e</guid>
             <pubDate>Fri, 27 May 2016 20:29:59 GMT</pubDate>
         </item>
         <item>
@@ -68,13 +75,6 @@
             <link>http://arstler.com/rob-pruitt-alone-facing-east-and-alone-facing-west-set-o/index.html</link>
             <guid isPermaLink="false">d1f93625-9012-4f7c-8e52-d87015a57474</guid>
             <pubDate>Fri, 27 May 2016 20:23:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Christopher Wool, Untitled (The Show Is Over) for sale]]></title>
-            <description><![CDATA[<article><h1>Christopher Wool, Untitled (The Show Is Over) for sale</h1><p>Christopher Wool, Untitled (The Show Is Over), 1993, Offset Lithograph on Paper for sale on ArtList.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d04e56d4ba44601c327e8afd9c6253b5abd0d469.jpg"></article>]]></description>
-            <link>https://artlist.co/artworks/5ec1ca03-5665-4597-b8f9-7df97a9f8b3e</link>
-            <guid isPermaLink="false">94cfa28a-71ba-4ca8-a558-a941ac10cd40</guid>
-            <pubDate>Fri, 27 May 2016 20:23:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
