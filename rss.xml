@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[arstler - in fact, I'd like to steal this painting]]></title>
-        <description><![CDATA[arstler - in fact, I'd like to steal this painting]]></description>
+        <title><![CDATA[ arstler]]></title>
+        <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 07:48:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 20:10:43 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Anisa Abdullah | Sang Pelangi (2016) | Available for Sale | Artsy]]></title>
+            <description><![CDATA[<article><h1>Anisa Abdullah | Sang Pelangi (2016) | Available for Sale | Artsy</h1><p>Available for sale from Galeri Chandan, Anisa Abdullah, Sang Pelangi (2016), Collage on canvas, 182 × 152 cm</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7cc676cd28fb45f07e0dfd882df6514a7c8bb63d.jpg"></article>]]></description>
+            <link>https://www.artsy.net/artwork/anisa-abdullah-sang-pelangi/zoom</link>
+            <guid isPermaLink="false">73363639-c246-464c-ae59-adc49b1d6015</guid>
+            <pubDate>Fri, 27 May 2016 20:10:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wassily Kandinsky]]></title>
             <description><![CDATA[<article><h1>Wassily Kandinsky</h1><p>(Moscow 1866-1944 Neuilly-sur-Seine)Provenance: Zeichnung für Punkt und Linie zu Fläche (Drawing for point and line to surface), 1925, signed and dated K/25; inscribed on the reverse 1925/N2/Aus "Punkt und Linie zu Fläche", Indian ink on paper mounted on cardboard, 34.5 x 22.5 cm, framed, (AR) acquired from the artist Galleria del Milione, Milan, no.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7b4321fe5dc5624ff9ab2a391aafd9eef380b1e.jpg"></article>]]></description>
