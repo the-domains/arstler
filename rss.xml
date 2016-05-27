@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 20:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 20:26:54 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dave Cole | Artspace]]></title>
+            <description><![CDATA[<article><h1>Dave Cole | Artspace</h1><p>Dave Cole was raised on his family&rsquo;s farm in New Hampshire, and grew up working in his grandfather&rsquo;s blacksmith shop. As a sculptor, Cole has become known for his large-scale work and his unconventional uses of industrial machines and materials. His installation work especially is known for its ability to successfully engage diverse audiences with conceptually challenging contemporary art.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/234314714360e6e0e1f1e4654a4c461a35928ddc.jpg"></article>]]></description>
+            <link>http://www.artspace.com/dave-cole</link>
+            <guid isPermaLink="false">5553c979-e735-498c-8ac6-930950858c68</guid>
+            <pubDate>Fri, 27 May 2016 20:26:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>ART WORLD Andy Warhol in Praise of Laziness Blake Gopnik, Thursday, May 26, 2016</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.dorotheum.com/en/auctions/current-auctions/kataloge/list-lots-detail/auktion/11844-modern-art/lotID/403/lot/2048426-wassily-kandinsky.html</link>
             <guid isPermaLink="false">b58f5a2e-45b9-44bb-86c6-513eb370381e</guid>
             <pubDate>Mon, 16 May 2016 09:06:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://www.dorotheum.com/38K160531_138_58762_1/Bild/Giorgio-de-Chirico-*.jpg">]]></description>
-            <link>https://www.dorotheum.com/en/auctions/current-auctions/kataloge/list-lots/auktion/11844-modern-art.html?currentPage=1#lot-2048435</link>
-            <guid isPermaLink="false">9c507deb-2993-4d15-97fc-05c2081d00d8</guid>
-            <pubDate>Mon, 16 May 2016 09:06:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
