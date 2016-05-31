@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 20:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 10:38:46 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Richard Renaldi - Touching Strangers]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8621164-33bf-44d3-a5b0-f97729cd6073.jpg">]]></description>
+            <link>http://arstler.com/richard-renaldi-touching-strangers/index.html</link>
+            <guid isPermaLink="false">f9419525-3b9d-43bb-b2e1-a74e8b9b8467</guid>
+            <pubDate>Tue, 31 May 2016 10:38:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://cms.wright20.com/files/media/auctions/2016/06/design/session/infopage4.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://arstler.com/000f25b7-6df4-4293-b2fe-126d243ea6be/index.html</link>
             <guid isPermaLink="false">000f25b7-6df4-4293-b2fe-126d243ea6be</guid>
             <pubDate>Fri, 27 May 2016 20:31:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Red Carpet Jewels: Get the Look | Sotheby's]]></title>
-            <description><![CDATA[<article><h1>Red Carpet Jewels: Get the Look | Sotheby's</h1><p>View auction details, art exhibitions and online catalogues; bid, buy and collect contemporary, impressionist or modern art, old masters, jewellery, wine, watches, prints, rugs and books at sotheby&s auction house</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/253bb76703d89e9f5c95be72d567da29079a70f7.jpg"></article>]]></description>
-            <link>http://www.sothebys.com/content/sothebys/en/news-video/videos/2016/05/red-carpet-jewels-get-the-look.html</link>
-            <guid isPermaLink="false">ca6e5edc-b9fc-4647-9a1c-43ffb1f8fd4e</guid>
-            <pubDate>Fri, 27 May 2016 20:29:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
