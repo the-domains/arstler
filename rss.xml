@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 07:58:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 07:59:01 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chinese Art]]></title>
+            <description><![CDATA[<article><h1>Chinese Art</h1><p>02 JUNE 2016 - 04 JUNE 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d186e46df00b6e835216775cb3e6d1b72e6d8d41.jpg"></article>]]></description>
+            <link>http://www.sothebys.com/en/auctions/ecatalogue/2016/chinese-art-hk0649/lot.758.html</link>
+            <guid isPermaLink="false">a79eb75d-78c5-496f-8e9e-6e67c9ce7f98</guid>
+            <pubDate>Wed, 01 Jun 2016 07:58:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Water, Pine and Stone Retreat Collection – Playthings]]></title>
             <description><![CDATA[<article><h1>Water, Pine and Stone Retreat Collection – Playthings</h1><p>02 JUNE 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a71bff9cde847c793f10cdce414635f0726ccfa4.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://arstler.com/auction-brussels-tuesday-26-january-2016-2-pm-lempertz-bruss/index.html</link>
             <guid isPermaLink="false">1c98d8af-6197-4d7c-9a7e-d708faf1ddae</guid>
             <pubDate>Fri, 27 May 2016 20:37:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://doyle.com/sites/default/files/styles/auction_slider/public/images/lots/436/1145436.jpg">]]></description>
-            <link>http://arstler.com/15a7999d-a73b-49bc-9d68-131e7a65eecf/index.html</link>
-            <guid isPermaLink="false">15a7999d-a73b-49bc-9d68-131e7a65eecf</guid>
-            <pubDate>Fri, 27 May 2016 20:33:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
