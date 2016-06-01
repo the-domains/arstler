@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 08:00:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 08:09:30 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[American Flag (from America: Now and Here portfolio) by Vik Muniz | Paddle8]]></title>
+            <description><![CDATA[<article><h1>American Flag (from America: Now and Here portfolio) by Vik Muniz | Paddle8</h1><p>Vik Muniz has held a lifelong fascination with iconic denotation, ephemerality, and photographic representation. Here, he presents a c-print of a United States flag composed of many multicolored plants. This is his contribution to the "America: Now and Here" portfolio, a set of thirteen prints by prominent artists made to accompany Eric Fischl's 2011 traveling exhibition meant to stir conversations about national identity and the arts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0771ae2a280a5bcf154b8fcdd69929102befe2c2.jpg"></article>]]></description>
+            <link>https://paddle8.com/work/vik-muniz/112189-american-flag-from-america-now-and-here-portfolio/</link>
+            <guid isPermaLink="false">ef09586f-9684-4d07-8d65-adbf8c89c852</guid>
+            <pubDate>Wed, 01 Jun 2016 08:09:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Extraordinary jewels, sought-after watches and rare wines — the finest of three departments feature in the New York Luxury Sales on 3–13 June]]></title>
             <description><![CDATA[<article><h1>Extraordinary jewels, sought-after watches and rare wines — the finest of three departments feature in the New York Luxury Sales on 3–13 June</h1><p>In a special week dedicated to luxury, Christie's presents a series of auctions from the Jewellery, Watch and Wine departments, to take place from 7-13 June in New York.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d77ba745dc9d655b727795bddc91908d13c5b19d.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://arstler.com/wrights-june-design-auction-features-more-than-300-lots-f/index.html</link>
             <guid isPermaLink="false">55b6ac7b-e2ef-4d43-be90-a0bd1c61ba0e</guid>
             <pubDate>Fri, 27 May 2016 20:39:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.piasa.fr/sites/default/files/imagecache/ImageNouveauSiteCataloguePageInterne/URBAN-ART.jpg">]]></description>
-            <link>http://arstler.com/52635ff3-b83e-4b63-afdf-f97429cc0b2a/index.html</link>
-            <guid isPermaLink="false">52635ff3-b83e-4b63-afdf-f97429cc0b2a</guid>
-            <pubDate>Fri, 27 May 2016 20:39:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
