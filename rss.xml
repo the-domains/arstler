@@ -4,8 +4,22 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 08:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 08:21:51 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://assets.paddle8.com/media/artwork/artworkimageproxy/1464275867-y7iejpaxxymkzgm1ykge-xl.jpg">]]></description>
+            <link>https://paddle8.com/work/salvador-dali/111298-fashion-designer/</link>
+            <guid isPermaLink="false">baf7c92f-722e-4a20-b424-8e1a88fe60a6</guid>
+            <pubDate>Wed, 01 Jun 2016 08:21:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://assets.paddle8.com/media/artwork/artworkimageproxy/1464276059-cgxzt55ljyjjywb644lp-xl.jpg">]]></description>
+            <link>https://paddle8.com/work/mel-ramos/111264-lola-cola/</link>
+            <guid isPermaLink="false">54dad8e9-2753-4515-8776-a5c6bde03d72</guid>
+            <pubDate>Wed, 01 Jun 2016 08:21:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://assets.paddle8.com/510/1384/111289/111289-1464278859-scan584-xl.jpg">]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.sothebys.com/content/sothebys/en/auctions/2016/water-pine-stone-retreat-playthings-hk0700.html</link>
             <guid isPermaLink="false">a703e485-3b21-467b-9c34-2d3796a727d4</guid>
             <pubDate>Wed, 01 Jun 2016 07:57:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Art Impressionniste et Moderne]]></title>
-            <description><![CDATA[<article><h1>Art Impressionniste et Moderne</h1><p>Art Impressionniste et Moderne - View Auction details, bid, buy and collect the various artworks at Sotheby's Art Auction House.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9578f412e905b4a36aaa4fb1d678a7e2544a0ec.jpg"></article>]]></description>
-            <link>http://www.sothebys.com/content/sothebys/en/auctions/2016/art-impressionniste-et-moderne-pf1606.html</link>
-            <guid isPermaLink="false">7b2bf3de-37b1-461a-ba79-f7e389e714f8</guid>
-            <pubDate>Wed, 01 Jun 2016 07:56:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Richard Renaldi - Touching Strangers]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8621164-33bf-44d3-a5b0-f97729cd6073.jpg">]]></description>
-            <link>http://arstler.com/richard-renaldi-touching-strangers/index.html</link>
-            <guid isPermaLink="false">f9419525-3b9d-43bb-b2e1-a74e8b9b8467</guid>
-            <pubDate>Tue, 31 May 2016 10:38:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
