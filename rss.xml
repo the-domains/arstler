@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 08:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 08:21:53 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://assets.paddle8.com/510/1384/111255/111255-1464278356-Allan-Grant_Marilyn-the-Last-Days%2C-July-1962_1-xl.jpg">]]></description>
+            <link>https://paddle8.com/work/allan-grant/111255-marilyn-the-last-days-july-1962/</link>
+            <guid isPermaLink="false">464dc7b3-cd32-48a6-9094-422cb4eaa43b</guid>
+            <pubDate>Wed, 01 Jun 2016 08:21:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://assets.paddle8.com/media/artwork/artworkimageproxy/1464275867-y7iejpaxxymkzgm1ykge-xl.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.sothebys.com/en/auctions/ecatalogue/2016/chinese-art-hk0649/lot.758.html</link>
             <guid isPermaLink="false">a79eb75d-78c5-496f-8e9e-6e67c9ce7f98</guid>
             <pubDate>Wed, 01 Jun 2016 07:58:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Water, Pine and Stone Retreat Collection – Playthings]]></title>
-            <description><![CDATA[<article><h1>Water, Pine and Stone Retreat Collection – Playthings</h1><p>02 JUNE 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a71bff9cde847c793f10cdce414635f0726ccfa4.jpg"></article>]]></description>
-            <link>http://www.sothebys.com/content/sothebys/en/auctions/2016/water-pine-stone-retreat-playthings-hk0700.html</link>
-            <guid isPermaLink="false">a703e485-3b21-467b-9c34-2d3796a727d4</guid>
-            <pubDate>Wed, 01 Jun 2016 07:57:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
