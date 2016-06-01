@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 10:38:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 07:56:46 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Art Impressionniste et Moderne]]></title>
+            <description><![CDATA[<article><h1>Art Impressionniste et Moderne</h1><p>Art Impressionniste et Moderne - View Auction details, bid, buy and collect the various artworks at Sotheby's Art Auction House.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9578f412e905b4a36aaa4fb1d678a7e2544a0ec.jpg"></article>]]></description>
+            <link>http://www.sothebys.com/content/sothebys/en/auctions/2016/art-impressionniste-et-moderne-pf1606.html</link>
+            <guid isPermaLink="false">7b2bf3de-37b1-461a-ba79-f7e389e714f8</guid>
+            <pubDate>Wed, 01 Jun 2016 07:56:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Richard Renaldi - Touching Strangers]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8621164-33bf-44d3-a5b0-f97729cd6073.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://arstler.com/thangka-of-buddha-amitayus-and-108-buddhas-tibet-or-17th18th/index.html</link>
             <guid isPermaLink="false">b6f5b05e-1a36-49c6-9615-9a8b17ab1cd4</guid>
             <pubDate>Fri, 27 May 2016 20:33:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://www.dorotheum.com/30S160528_1/Bild/Por%C5%A1-Gustav-(Chrudim-1888---1955-Skute%C4%8D).jpg">]]></description>
-            <link>http://arstler.com/000f25b7-6df4-4293-b2fe-126d243ea6be/index.html</link>
-            <guid isPermaLink="false">000f25b7-6df4-4293-b2fe-126d243ea6be</guid>
-            <pubDate>Fri, 27 May 2016 20:31:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
