@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 08:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 08:19:32 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Galerie Watari Exhibition Poster by Keith Haring | Paddle8]]></title>
+            <description><![CDATA[<article><h1>Galerie Watari Exhibition Poster by Keith Haring | Paddle8</h1><p>Published by Galerie Watari, Tokyo View Profile " Keith Haring (American, 1958-1990) was an artist and activist who became a star of the 1980s New York City art scene. Along with Jean-Michel Basquiat, Haring was a central figure in Warhol's creative and social circle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20e9a80c8e58be519b3f5db450668e51d4cbe102.jpg"></article>]]></description>
+            <link>https://paddle8.com/work/keith-haring/111282-galerie-watari-exhibition-poster/</link>
+            <guid isPermaLink="false">2fd98282-109b-49e6-bb55-9f43f5b96a36</guid>
+            <pubDate>Wed, 01 Jun 2016 08:19:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/564x/58/89/99/588999ae9acf763a6c62d9768e8b80db.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://www.lempertz.com/fileadmin/user_upload/Titel_1063_Afrika.jpg">]]></description>
             <link>http://arstler.com/57fa0156-a9c6-4837-9b36-ff7323c979f7/index.html</link>
             <guid isPermaLink="false">57fa0156-a9c6-4837-9b36-ff7323c979f7</guid>
-            <pubDate>Fri, 27 May 2016 20:40:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AUCTIONS - The largest auction house in Central Europe - Fine Arts, Contemporary Art, Paintings, Jewellery & more - Dorotheum]]></title>
-            <description><![CDATA[<article><h1>AUCTIONS - The largest auction house in Central Europe - Fine Arts, Contemporary Art, Paintings, Jewellery & more - Dorotheum</h1><p>Central Europe's largest auction house. 600 auctions, 40 specialist departments, 100 experts, 300 years experience. Contemporary Art, Paintings, Jewellery & more</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5ac8bd21ea9e012a55eea5d95cf65e09f91ef70.jpg"></article>]]></description>
-            <link>https://www.dorotheum.com/en.html</link>
-            <guid isPermaLink="false">85e6baee-95da-4195-9095-3ad9c12f3182</guid>
             <pubDate>Fri, 27 May 2016 20:40:50 GMT</pubDate>
         </item>
     </channel>
