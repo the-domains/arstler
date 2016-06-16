@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 08:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2016 19:20:15 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contro stiacciato]]></title>
+            <description><![CDATA[<article><h1>Contro stiacciato</h1><p>Stories / Inas Al Soqi</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a01ec0e1-e779-4428-875e-3229dbfeb0bb.jpg"></article>]]></description>
+            <link>http://arstler.com/contro-stiacciato/index.html</link>
+            <guid isPermaLink="false">b6e2e58f-d725-4d73-afb9-0a7e47d12afb</guid>
+            <pubDate>Thu, 16 Jun 2016 19:20:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://assets.paddle8.com/510/1384/111255/111255-1464278356-Allan-Grant_Marilyn-the-Last-Days%2C-July-1962_1-xl.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.christies.com/features/In-the-lap-of-luxury-Jewels-Watches-and-Wine-7422-3.aspx?pid=en_homepage_video1</link>
             <guid isPermaLink="false">ba9d3fed-b2c0-429b-a8b3-3b3020ddca16</guid>
             <pubDate>Wed, 01 Jun 2016 08:00:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chinese Art]]></title>
-            <description><![CDATA[<article><h1>Chinese Art</h1><p>02 JUNE 2016 - 04 JUNE 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d186e46df00b6e835216775cb3e6d1b72e6d8d41.jpg"></article>]]></description>
-            <link>http://www.sothebys.com/en/auctions/ecatalogue/2016/chinese-art-hk0649/lot.758.html</link>
-            <guid isPermaLink="false">a79eb75d-78c5-496f-8e9e-6e67c9ce7f98</guid>
-            <pubDate>Wed, 01 Jun 2016 07:58:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
