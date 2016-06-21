@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 09:05:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 09:07:44 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shepard Fairey, 'Michael Jordan', 2009, Julien's Auctions: Street Art Now June 2016 | Artsy]]></title>
+            <description><![CDATA[<article><h1>Shepard Fairey, 'Michael Jordan', 2009, Julien's Auctions: Street Art Now June 2016 | Artsy</h1><p>Of all the sports figures throughout history perhaps none is more beloved than basketball great Michael Jordan. Shepard Fairey, known for his minimalist-tone portraits of luminaries and pop culture figures, has captured Jordan's graceful precision on the court.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5e212e7a6cdd38062008493d8c5c2861/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FlsAHYeWwjjn-zjkBQDsomw%2Flarge.jpg"></article>]]></description>
+            <link>https://m.artsy.net/artwork/shepard-fairey-michael-jordan</link>
+            <guid isPermaLink="false">a88f5e9f-d40a-4457-8c60-1cf165dccab0</guid>
+            <pubDate>Tue, 21 Jun 2016 09:07:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Takashi Murakami, 'And Then (A Deep Ocean Of Ultramarine)', 2013, Julien's Auctions: Street Art Now June 2016 | Artsy]]></title>
             <description><![CDATA[<article><h1>Takashi Murakami, 'And Then (A Deep Ocean Of Ultramarine)', 2013, Julien's Auctions: Street Art Now June 2016 | Artsy</h1><p>The playful Takashi Murakami always delights, with figures inspired by Japanese comics and animation, coquettishly batting eyelashes at their viewers. Murakami's prowess with color is best seen when all versions of this print are shown together-yellows, blues, greens, and candy colored reds enhance and change an image that has become as recognizable as Andy Warhol's soup cans, thanks to the almost cult status of his "Mr. DOB" character.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/39eabe09196e23dd4e9d1fac5febc8c6/croprotate.jpg?cropheight=666&cropwidth=1800&degrees=0&input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FeFujpon9H0eF35PgODxGXQ%2Fnormalized.jpg&x=0&y=0"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://arstler.com/contro-stiacciato/index.html</link>
             <guid isPermaLink="false">b6e2e58f-d725-4d73-afb9-0a7e47d12afb</guid>
             <pubDate>Thu, 16 Jun 2016 19:20:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://assets.paddle8.com/510/1384/111255/111255-1464278356-Allan-Grant_Marilyn-the-Last-Days%2C-July-1962_1-xl.jpg">]]></description>
-            <link>https://paddle8.com/work/allan-grant/111255-marilyn-the-last-days-july-1962/</link>
-            <guid isPermaLink="false">464dc7b3-cd32-48a6-9094-422cb4eaa43b</guid>
-            <pubDate>Wed, 01 Jun 2016 08:21:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
