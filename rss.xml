@@ -4,8 +4,22 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 07:46:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 07:46:09 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Invader, 'Warning (Grey)', 2011, Julien's Auctions: Street Art Now June 2016 | Artsy]]></title>
+            <description><![CDATA[<article><h1>Invader, 'Warning (Grey)', 2011, Julien's Auctions: Street Art Now June 2016 | Artsy</h1><p>Ditching spray paint for tile and grout, Space Invader is known internationally for his pixelated aesthetic, with his figures gracing the facades of buildings in major cities across the globe. In 2000, Invader made his foray into the world of contemporary art-creating and exhibiting his pieces to sell in traditional brick and mortar galleries, often reproducing his street stencils into prints for consumption by the general public.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5512886a7df62dc5ec9ac091938a0027/croprotate.jpg?cropheight=1140&cropwidth=1800&degrees=0&input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FLtGIfD_Knk6B41YzCzjO-Q%2Fnormalized.jpg&x=0&y=0"></article>]]></description>
+            <link>https://m.artsy.net/artwork/invader-warning-grey</link>
+            <guid isPermaLink="false">3b4af188-d57d-40a1-bdb2-e36078480b6f</guid>
+            <pubDate>Tue, 21 Jun 2016 07:45:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mr. Brainwash, 'Charlie Chaplin (Red)', 2011, Julien's Auctions: Street Art Now June 2016 | Artsy]]></title>
+            <description><![CDATA[<article><h1>Mr. Brainwash, 'Charlie Chaplin (Red)', 2011, Julien's Auctions: Street Art Now June 2016 | Artsy</h1><p>Mr. Brainwash is perhaps best known for his role in the film Exit Through the Gift Shop (2010), which documented his rise to success in 2008. He has been quoted as saying, "Banksy captured me becoming an artist, in the end, I became his biggest work of art."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/95f72f1b5ad555659c67dfa4dc8d7dc2/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FBkSwILC6QLYsEoMCB4MdPw%2Fnormalized.jpg"></article>]]></description>
+            <link>https://m.artsy.net/artwork/mr-brainwash-charlie-chaplin-red</link>
+            <guid isPermaLink="false">22927a9b-2ffe-4349-8844-08d0e24438d0</guid>
+            <pubDate>Tue, 21 Jun 2016 07:45:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Banksy, 'Gold Flag', 2007, Julien's Auctions: Street Art Now June 2016 | Artsy]]></title>
             <description><![CDATA[<article><h1>Banksy, 'Gold Flag', 2007, Julien's Auctions: Street Art Now June 2016 | Artsy</h1><p>Banksy recreates photographer Joe Rosenthal's classic image of the flag-raising on Iwo Jima in a modern, urban setting where the prized hilltop is a burned-out derelict car represented in luminous gold. The youthful conquerors stand defiant and proud nonetheless, waving the flag above the scorched remnants of the American dream.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1f3e3073bcad697b6020458e88efadb8/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fpee8R1SgSSLD5lCVe2hZYw%2Fnormalized.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://paddle8.com/work/mel-ramos/111264-lola-cola/</link>
             <guid isPermaLink="false">54dad8e9-2753-4515-8776-a5c6bde03d72</guid>
             <pubDate>Wed, 01 Jun 2016 08:21:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://assets.paddle8.com/510/1384/111289/111289-1464278859-scan584-xl.jpg">]]></description>
-            <link>https://paddle8.com/work/robert-indiana/111289-love/</link>
-            <guid isPermaLink="false">6e0c811d-3e86-404d-b2fc-6403ede147a0</guid>
-            <pubDate>Wed, 01 Jun 2016 08:21:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Well-Curated: Henry Moore Scultpure Exhibit]]></title>
-            <description><![CDATA[<article><h1>Well-Curated: Henry Moore Scultpure Exhibit</h1><p>Preview the largest outdoor show of Moore's sculptures ever mounted in the United States. The show can be seen at the Atlanta Botanical Garden through October 31.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50c469b868d07a7839a9dcd90204302e88b4d939.jpg"></article>]]></description>
-            <link>http://www.veranda.com/outdoor-garden/henry-moore-outdoor-sculptures_</link>
-            <guid isPermaLink="false">91c4512a-cfff-46c1-9b77-ea2d7b38e2bf</guid>
-            <pubDate>Wed, 01 Jun 2016 08:19:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
