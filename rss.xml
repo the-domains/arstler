@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 07:46:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 09:03:23 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Thrashbird, 'Clone', 2016, Julien's Auctions: Street Art Now June 2016 | Artsy]]></title>
+            <description><![CDATA[<article><h1>Thrashbird, 'Clone', 2016, Julien's Auctions: Street Art Now June 2016 | Artsy</h1><p>While the identity of the street artist Thrashbird remains anonymous, his stamp on the buildings of Los Angeles is unmistakable. Thrashbird is most known for his motif of a silhouetted man looking down at his phone, which the artist refers to as his "Clone."</p><img src="https://d32dm0rphc51dk.cloudfront.net/H4z8O5uchRnO8RlsbXcSMg/normalized.jpg"></article>]]></description>
+            <link>https://m.artsy.net/artwork/thrashbird-clone</link>
+            <guid isPermaLink="false">f098ef28-a65e-4a59-8320-963d924211b4</guid>
+            <pubDate>Tue, 21 Jun 2016 09:02:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Invader, 'Warning (Grey)', 2011, Julien's Auctions: Street Art Now June 2016 | Artsy]]></title>
             <description><![CDATA[<article><h1>Invader, 'Warning (Grey)', 2011, Julien's Auctions: Street Art Now June 2016 | Artsy</h1><p>Ditching spray paint for tile and grout, Space Invader is known internationally for his pixelated aesthetic, with his figures gracing the facades of buildings in major cities across the globe. In 2000, Invader made his foray into the world of contemporary art-creating and exhibiting his pieces to sell in traditional brick and mortar galleries, often reproducing his street stencils into prints for consumption by the general public.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5512886a7df62dc5ec9ac091938a0027/croprotate.jpg?cropheight=1140&cropwidth=1800&degrees=0&input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FLtGIfD_Knk6B41YzCzjO-Q%2Fnormalized.jpg&x=0&y=0"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://assets.paddle8.com/media/artwork/artworkimageproxy/1464275867-y7iejpaxxymkzgm1ykge-xl.jpg">]]></description>
             <link>https://paddle8.com/work/salvador-dali/111298-fashion-designer/</link>
             <guid isPermaLink="false">baf7c92f-722e-4a20-b424-8e1a88fe60a6</guid>
-            <pubDate>Wed, 01 Jun 2016 08:21:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://assets.paddle8.com/media/artwork/artworkimageproxy/1464276059-cgxzt55ljyjjywb644lp-xl.jpg">]]></description>
-            <link>https://paddle8.com/work/mel-ramos/111264-lola-cola/</link>
-            <guid isPermaLink="false">54dad8e9-2753-4515-8776-a5c6bde03d72</guid>
             <pubDate>Wed, 01 Jun 2016 08:21:43 GMT</pubDate>
         </item>
     </channel>
