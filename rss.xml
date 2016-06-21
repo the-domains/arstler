@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 09:07:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 09:07:45 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nick Walker, 'Vandalism', 2014, Julien's Auctions: Street Art Now June 2016 | Artsy]]></title>
+            <description><![CDATA[<article><h1>Nick Walker, 'Vandalism', 2014, Julien's Auctions: Street Art Now June 2016 | Artsy</h1><p>Nick Walker, a formative member of the graffiti art movement in 1980s Bristol, England, is best known for merging freehand work with stencilled imagery. As a forerunner of this technique, he believes that the combination allows him to "juxtapose almost photographic imagery with the rawness which evolved from conventional graffiti styles."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/009f91a2823418056341e154f2d18039/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F9PQH3_0cTlLsyuKTCEmS6A%2Flarge.jpg"></article>]]></description>
+            <link>https://m.artsy.net/artwork/nick-walker-vandalism</link>
+            <guid isPermaLink="false">dc4fa7fe-7d4a-4b76-928f-6dfc43459481</guid>
+            <pubDate>Tue, 21 Jun 2016 09:07:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Shepard Fairey, 'Michael Jordan', 2009, Julien's Auctions: Street Art Now June 2016 | Artsy]]></title>
             <description><![CDATA[<article><h1>Shepard Fairey, 'Michael Jordan', 2009, Julien's Auctions: Street Art Now June 2016 | Artsy</h1><p>Of all the sports figures throughout history perhaps none is more beloved than basketball great Michael Jordan. Shepard Fairey, known for his minimalist-tone portraits of luminaries and pop culture figures, has captured Jordan's graceful precision on the court.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5e212e7a6cdd38062008493d8c5c2861/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FlsAHYeWwjjn-zjkBQDsomw%2Flarge.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://m.artsy.net/artwork/ron-english-marilyn-monroe-mickey-1</link>
             <guid isPermaLink="false">9169aece-4a65-4f1b-ace1-8a722bcffb3a</guid>
             <pubDate>Tue, 21 Jun 2016 07:45:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contro stiacciato]]></title>
-            <description><![CDATA[<article><h1>Contro stiacciato</h1><p>Stories / Inas Al Soqi</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a01ec0e1-e779-4428-875e-3229dbfeb0bb.jpg"></article>]]></description>
-            <link>http://arstler.com/contro-stiacciato/index.html</link>
-            <guid isPermaLink="false">b6e2e58f-d725-4d73-afb9-0a7e47d12afb</guid>
-            <pubDate>Thu, 16 Jun 2016 19:20:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
