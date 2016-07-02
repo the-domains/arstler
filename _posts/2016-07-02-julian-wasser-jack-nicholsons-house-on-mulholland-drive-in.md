@@ -2,8 +2,8 @@
 title: >-
   Julian Wasser, Jack Nicholson's house on Mulholland Drive in Los Angeles for
   sale
-datePublished: '2016-07-02T21:08:32.558Z'
-dateModified: '2016-07-02T21:01:50.646Z'
+datePublished: '2016-07-02T21:15:42.150Z'
+dateModified: '2016-07-02T21:15:03.166Z'
 author: []
 isBasedOnUrl: 'https://artlist.co/artworks/b81dd06c-d094-4277-ad88-6497774b6afa'
 description: >-
