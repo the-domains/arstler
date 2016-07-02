@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 20:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2016 20:59:32 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Adam Fuss, Untitled (Love Machine) for sale]]></title>
+            <description><![CDATA[<article><h1>Adam Fuss, Untitled (Love Machine) for sale</h1><p>Adam Fuss, Untitled (Love Machine), 1993, Cibachrome Photogram Mounted on Acrylic for sale on ArtList.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44ed6b22212a514bdf56fc0255a6bdbc4866e0f5.jpg"></article>]]></description>
+            <link>https://artlist.co/artworks/fbb4f028-2847-4296-a8b1-70b5d09b4642</link>
+            <guid isPermaLink="false">d11092d7-fafd-446e-933f-3231cdde6ba3</guid>
+            <pubDate>Sat, 02 Jul 2016 20:59:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Michael Buscemi, 'Heart of the Sun', 2016, K. Imperial Fine Art | Artsy]]></title>
             <description><![CDATA[<article><h1>Michael Buscemi, 'Heart of the Sun', 2016, K. Imperial Fine Art | Artsy</h1><p>Michael Buscemi creates baroque imagery with minimal means in his complex monochromatic reliefs. "The white collages came to me in a quest to eliminate all existing media, leaving only light, shape, and shadow," he says. "I love to make them undulate and allow the forms to remain organic yet suggestive."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0a8d5e8ba6e9b8e8ffca71fffdcc285e/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FmKP_nhmuAtJfR0FnU9UkWA%2Fnormalized.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://m.artsy.net/artwork/ron-english-marilyn-monroe-mickey-1</link>
             <guid isPermaLink="false">56c796cf-bdf1-43df-91df-a1030e3e371b</guid>
             <pubDate>Tue, 21 Jun 2016 09:07:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nick Walker, 'Vandalism', 2014, Julien's Auctions: Street Art Now June 2016 | Artsy]]></title>
-            <description><![CDATA[<article><h1>Nick Walker, 'Vandalism', 2014, Julien's Auctions: Street Art Now June 2016 | Artsy</h1><p>Nick Walker, a formative member of the graffiti art movement in 1980s Bristol, England, is best known for merging freehand work with stencilled imagery. As a forerunner of this technique, he believes that the combination allows him to "juxtapose almost photographic imagery with the rawness which evolved from conventional graffiti styles."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/009f91a2823418056341e154f2d18039/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F9PQH3_0cTlLsyuKTCEmS6A%2Flarge.jpg"></article>]]></description>
-            <link>https://m.artsy.net/artwork/nick-walker-vandalism</link>
-            <guid isPermaLink="false">dc4fa7fe-7d4a-4b76-928f-6dfc43459481</guid>
-            <pubDate>Tue, 21 Jun 2016 09:07:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
