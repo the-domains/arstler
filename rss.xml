@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 17:30:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2016 17:33:37 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Asian Works of Art Auction in New York | Doyle Auction House]]></title>
+            <description><![CDATA[<article><h1>Asian Works of Art Auction in New York | Doyle Auction House</h1><p>Asian Works of Art Auction; Consignments are currently being accepted. Auction hosted in</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6a044d3b85871c96286de63790fd4bf3/noop.jpg?input=https%3A%2F%2Fdoyle.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fauction_slider%2Fpublic%2Fimages%2Flots%2F698%2F1145698.jpg"></article>]]></description>
+            <link>https://doyle.com/auctions/16as02-asian-works-art/asian-works-art</link>
+            <guid isPermaLink="false">00d53d0c-b3cc-4067-9793-4c2c3769d129</guid>
+            <pubDate>Sat, 16 Jul 2016 17:33:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bonhams]]></title>
             <description><![CDATA[<article><h1>Bonhams</h1><p>SOYUZ 18-FLOWN NAVIGATIONAL CELESTIAL GLOBE Black metal alloy celestial globe, approx 11.5 cm in diameter, etched with circles of celestial latitude and longitude, constellation figures, ecliptic and perpendicular of ecliptic. Major stars pierced for illumination from internal battery-powered bulbs (non-functioning). Rotating within plastic armature. PROVENANCE: Cosmonaut Pyotr Klimuk; Sotheby's Russian Space History, 1993, lot 91.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/323a6f59edcd238ab6a6db04374b5cf4/noop?input=http%3A%2F%2Fimages2.bonhams.com%2Fimage%3Fsrc%3DImages%2Flive%2F2016-05%2F13%2F24053243-3-2.jpg%26width%3D640%26height%3D480%26autosizefit%3D1"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://mobile.nytimes.com/2016/06/18/arts/design/architects-see-potential-in-chinas-countryside.html</link>
             <guid isPermaLink="false">a2d94055-8990-4664-a4a9-a4306ccfa81d</guid>
             <pubDate>Tue, 12 Jul 2016 14:25:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Antony Gormley: Humans are building 'a vast termites' nest' of greed]]></title>
-            <description><![CDATA[<article><h1>Antony Gormley: Humans are building 'a vast termites' nest' of greed</h1><p>Antony Gormley says his first White Cube exhibition in four years, which opens in September, is driven by "more of a sense of urgency" than any other show he has done.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d56b89aabcf9f192d10dfc3e258f56e6/noop.jpg?input=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2Fecf4029d940ae6e4c56f0cb2c9ee7ba7610522bf%2F137_0_6142_3688%2F6142.jpg%3Fw%3D1200%26h%3D630%26q%3D55%26auto%3Dformat%26usm%3D12%26fit%3Dcrop%26bm%3Dnormal%26ba%3Dbottom%252Cleft%26blend64%3DaHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n%26s%3D8dc0036b93c8e47b46e5ba4498bc4896"></article>]]></description>
-            <link>https://www.theguardian.com/artanddesign/2016/jul/06/antony-gormley-humans-building-termites-nest-white-cube</link>
-            <guid isPermaLink="false">33c5fa95-4f2a-46ec-9aaf-8e87befacdc2</guid>
-            <pubDate>Tue, 12 Jul 2016 14:18:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
