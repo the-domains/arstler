@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 17:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2016 17:38:19 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hot Spot: Sotheby's S|2 at Montauk's The Surf Lodge on Sotheby's Blog]]></title>
+            <description><![CDATA[<article><h1>Hot Spot: Sotheby's S|2 at Montauk's The Surf Lodge on Sotheby's Blog</h1><p>At the New York edition of the NADA art fair this past May, visitors who know of dealer and artist Joel Mesler might have been momentarily shocked to see a booth offering works from The Estate of Joel Mesler.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6db3027bdf5cf233cde326b9cb19a136/croprotate.jpeg?cropheight=699&cropwidth=1920&degrees=0&input=http%3A%2F%2Fwww.sothebys.com%2Fcontent%2Fdam%2Fsothebys-pages%2Fblogs%2FContemporaryCurrents%2F2016%2F7%2FBlogHero_1920x700.jpg.webrend.1920.350.jpeg&x=0&y=0"></article>]]></description>
+            <link>http://www.sothebys.com/content/sothebys/en/news-video/blogs/all-blogs/contemporary/2016/07/fish-people-montauk-surf-lodge.html</link>
+            <guid isPermaLink="false">33983dc5-4099-4cd5-a99f-211d43558eb9</guid>
+            <pubDate>Sat, 16 Jul 2016 17:38:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Asian Works of Art Auction in New York | Doyle Auction House]]></title>
             <description><![CDATA[<article><h1>Asian Works of Art Auction in New York | Doyle Auction House</h1><p>Asian Works of Art Auction; Consignments are currently being accepted. Auction hosted in</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6a044d3b85871c96286de63790fd4bf3/noop.jpg?input=https%3A%2F%2Fdoyle.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fauction_slider%2Fpublic%2Fimages%2Flots%2F698%2F1145698.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://mobile.nytimes.com/2016/07/12/arts/design/dutch-artists-sculpture-offers-a-splash-from-thin-air.html</link>
             <guid isPermaLink="false">ae1780ca-ca7c-4244-b380-58489178c6b4</guid>
             <pubDate>Tue, 12 Jul 2016 14:25:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Architects Seize on Potential in China's Countryside]]></title>
-            <description><![CDATA[<article><h1>Architects Seize on Potential in China's Countryside</h1><p>LING'AN, China - Nestled in verdant hills amid bamboo forests and feathery grass meadows, the Sun Commune is a thriving eco-farm about 60 miles from the eastern Chinese city of Hangzhou. Its centerpiece is a pig barn. Yet this home for 30 or so black hogs is no ordinary outbuilding.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/df507fc09214b48ba0c0bc87687514b5/noop.jpg?input=https%3A%2F%2Fcdn1.nyt.com%2Fimages%2F2016%2F06%2F14%2Farts%2F00chinaarchitecture08%2F00chinaarchitecture08-articleLarge.jpg"></article>]]></description>
-            <link>http://mobile.nytimes.com/2016/06/18/arts/design/architects-see-potential-in-chinas-countryside.html</link>
-            <guid isPermaLink="false">a2d94055-8990-4664-a4a9-a4306ccfa81d</guid>
-            <pubDate>Tue, 12 Jul 2016 14:25:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
