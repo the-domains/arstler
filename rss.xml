@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 17:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2016 17:30:58 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bonhams]]></title>
+            <description><![CDATA[<article><h1>Bonhams</h1><p>SOYUZ 18-FLOWN NAVIGATIONAL CELESTIAL GLOBE Black metal alloy celestial globe, approx 11.5 cm in diameter, etched with circles of celestial latitude and longitude, constellation figures, ecliptic and perpendicular of ecliptic. Major stars pierced for illumination from internal battery-powered bulbs (non-functioning). Rotating within plastic armature. PROVENANCE: Cosmonaut Pyotr Klimuk; Sotheby's Russian Space History, 1993, lot 91.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/323a6f59edcd238ab6a6db04374b5cf4/noop?input=http%3A%2F%2Fimages2.bonhams.com%2Fimage%3Fsrc%3DImages%2Flive%2F2016-05%2F13%2F24053243-3-2.jpg%26width%3D640%26height%3D480%26autosizefit%3D1"></article>]]></description>
+            <link>http://www.bonhams.com/auctions/23378/lot/17/</link>
+            <guid isPermaLink="false">ad842ce3-2c70-40ea-a72d-51f7ec8626e1</guid>
+            <pubDate>Sat, 16 Jul 2016 17:30:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jon Pylypchuk, 'the pack (i will always love you)', 2010, Mona Bismarck American Center | Artsy]]></title>
             <description><![CDATA[<article><h1>Jon Pylypchuk, 'the pack (i will always love you)', 2010, Mona Bismarck American Center | Artsy</h1><p>Jon Pylypchuk, formerly a founding member of Manitoba's The Royal Art Lodge cooperative (1996-2008), is known for his sculptures of puppet-like creatures crafted from old clothes, stuffed toys, wood, and other refuse, sometimes given diorama-like installations that resemble miniature shantytowns. His mixed-media collages and works on paper display a similarly scavenged, folkloric aesthetic.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8bf9c84069ee7222093fce6c492ed900/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FixZfYCixu56nbvKT0hRluA%2Flarge.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.theguardian.com/artanddesign/2016/jul/06/antony-gormley-humans-building-termites-nest-white-cube</link>
             <guid isPermaLink="false">33c5fa95-4f2a-46ec-9aaf-8e87befacdc2</guid>
             <pubDate>Tue, 12 Jul 2016 14:18:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alexander Calder, 'Gamble', 1973, Partners & Mucciaccia | Artsy]]></title>
-            <description><![CDATA[<article><h1>Alexander Calder, 'Gamble', 1973, Partners & Mucciaccia | Artsy</h1><p>American artist Alexander Calder changed the course of modern art by developing an innovative method of sculpting, bending, and twisting wire to create three-dimensional "drawings in space."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5e13d144d27338d665bc5b47df013cef/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FYTNyPgTbhRXyc8BMOniWrQ%2Flarge.jpg"></article>]]></description>
-            <link>https://m.artsy.net/artwork/alexander-calder-gamble</link>
-            <guid isPermaLink="false">ae6a6f62-8c91-4798-bac2-804ca9cb43ff</guid>
-            <pubDate>Sun, 10 Jul 2016 19:07:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
