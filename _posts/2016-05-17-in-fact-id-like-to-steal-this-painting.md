@@ -4,12 +4,12 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-07-21T15:30:16.935Z'
-dateModified: '2016-07-21T15:30:08.881Z'
-title: >-
-  arstler This site is an experiment initiated by Eugen Berlo in fabricating art
-  focus and education.
+description: >-
+  This site is an experiment initiated by Eugen Berlo in fabricating art focus
+  and education. arstler.com
+datePublished: '2016-07-21T15:32:22.041Z'
+dateModified: '2016-07-21T15:32:17.130Z'
+title: ''
 author: []
 sourcePath: _posts/2016-05-17-in-fact-id-like-to-steal-this-painting.md
 via: {}
@@ -20,7 +20,7 @@ url: in-fact-id-like-to-steal-this-painting/index.html
 _type: WebPage
 
 ---
-# **arstler **This site is an experiment initiated by Eugen Berlo in fabricating art focus and education.
+This site is an experiment initiated by Eugen Berlo in fabricating art focus and education. **arstler.com**
 
 # ********
 
