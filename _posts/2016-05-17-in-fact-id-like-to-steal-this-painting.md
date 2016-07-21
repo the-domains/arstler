@@ -5,13 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-05T08:32:14.488Z'
-dateModified: '2016-07-05T08:32:06.827Z'
+datePublished: '2016-07-21T15:19:13.356Z'
+dateModified: '2016-07-21T15:19:06.496Z'
 title: arstler
 author: []
 sourcePath: _posts/2016-05-17-in-fact-id-like-to-steal-this-painting.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
 url: in-fact-id-like-to-steal-this-painting/index.html
 _type: WebPage
