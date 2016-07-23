@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 21:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 21:24:41 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Saffronart]]></title>
+            <description><![CDATA[<article><h1>Saffronart</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5eb2d01c84b5fb0b10b46894b248d43c/noop.jpg?input=http%3A%2F%2Fmediacloud.saffronart.com%2Fstaticimages%2F2016%2Fjune%2Fdelhiauc_sept16.jpg"></article>]]></description>
+            <link>http://www.saffronart.com/sitepages/auctions/Art-Auctions/auclandingpage.aspx?eid=3947</link>
+            <guid isPermaLink="false">e3264220-a54a-4868-a1b3-a402fbc007ee</guid>
+            <pubDate>Sat, 23 Jul 2016 21:23:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Art And Collectibles Online Auction -Jul 27-28, 2016 -Lot 1 -Gaganendranath Tagore]]></title>
             <description><![CDATA[<article><h1>Art And Collectibles Online Auction -Jul 27-28, 2016 -Lot 1 -Gaganendranath Tagore</h1><p>Born on September 18, 1867, into the Tagore family in Kolkata, Gaganendranath Tagore as a self-taught artist and nephew of the great Rabindranath Tagore. Gaganendranath had very little formal education; in fact he had a very short spell at the St Xavier's School where he took a brief interest in drawing and painting and a briefer still one in academic studies.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/950977fe3972321663a36a358d81bc8a/noop.jpg?input=http%3A%2F%2Fmediacloud.saffronart.com%2Fauctions%2F2016%2Fartcoll%2Fgaganendranath_1503wop_20760_big.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.artnet.com/auctions/artists/frank-stella/jonah-historically-regarded-from-moby-dick-domes-3</link>
             <guid isPermaLink="false">e8519fa7-f493-487e-a037-32a266f8c19a</guid>
             <pubDate>Sat, 23 Jul 2016 20:51:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PHILLIPS : Late Hepworth]]></title>
-            <description><![CDATA[<article><h1>PHILLIPS : Late Hepworth</h1><p>Phillips is synonymous with contemporary culture. As the most forward-looking of the international auction houses, we have set ourselves apart through our focus on the defining aesthetic movements of the 20th century as well as today's most cutting-edge art.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b8ba7448c5cbd82f1c034a03b492e397/noop.jpg?input=http%3A%2F%2Fcontent.phillips.com%2Fmicrosites%2Fhepworth%2FGrid_R1_Left.jpg"></article>]]></description>
-            <link>https://www.phillips.com/feature/late-hepworth</link>
-            <guid isPermaLink="false">4579d286-4beb-40a1-978f-c511b10ea0d6</guid>
-            <pubDate>Sat, 23 Jul 2016 20:51:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
