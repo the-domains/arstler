@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 20:08:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 20:08:34 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Andy Warhol @ Christie's: By the Book]]></title>
+            <description><![CDATA[<article><h1>Andy Warhol @ Christie's: By the Book</h1><p>Following the traveling exhibition Warhol by the Book this month's sale continues the exploration of Andy Warhol's lifelong interest in publishing and the art of the book, featuring numerous studies for well-known books, such as In the Bottom of My Garden and Wild Raspberries , as well as a rare Lips book.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f8d96914237e300c48ecfe101c6730f7/noop.jpg?input=https%3A%2F%2Fpccdn.perfectchannel.com%2Fchristies%2Flive%2Fsalecontent%2FWarholBook13415%2Fbanner-quarter.jpg"></article>]]></description>
+            <link>https://onlineonly.christies.com/s/andy-warhol-christies-book/lots/275?pid=en_homepage_row1_slot1_2</link>
+            <guid isPermaLink="false">e874a222-ec59-46e0-a4be-5019e47a6a5d</guid>
+            <pubDate>Sat, 23 Jul 2016 20:08:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bonhams : 'The Hans Prym Roadster' ,1935 Mercedes-Benz 500K Special Roadster Chassis no. 105380 Engine no. 105380]]></title>
             <description><![CDATA[<article><h1>Bonhams : 'The Hans Prym Roadster' ,1935 Mercedes-Benz 500K Special Roadster Chassis no. 105380 Engine no. 105380</h1><p>Bonhams Fine Art Auctioneers & Valuers: auctioneers of art, pictures, collectables and motor cars</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4d93cf030847938ce61017f1a5a4bceb/noop?input=http%3A%2F%2Fimages1.bonhams.com%2Fimage%3Fsrc%3DImages%2Flive%2F2016-07%2F15%2F24072581-1-1.jpg%26top%3D0.305263157894%26bottom%3D0.968421052631%26width%3D640%26height%3D480%26autosizefit%3D1"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.saatchiart.com/art/Painting-Decadent-Messenger/185414/2909611/view</link>
             <guid isPermaLink="false">2120841a-02a0-4268-a808-c563bd63b1d7</guid>
             <pubDate>Sun, 17 Jul 2016 18:18:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blue Curve]]></title>
-            <description><![CDATA[<article><h1>Blue Curve</h1><p>PROPERTY FROM THE COLLECTION OF NAN ROSENTHAL AND HENRY B. CORTESIELLSWORTH KELLY (1923-2015)Blue Curvelithograph in blue, on Rives BFK paper, 1999, signed in pencil, numbered 145/220 (there were also 38 artist's proofs), published by Gemini G.E.L., Los Angeles, with their inkstamp on the reverseSheet: 8 x 6 in.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c8bd8a462f7486c3fdd2b9b64dc1d4fd/croprotate.jpg?cropheight=3200&cropwidth=2568&degrees=0&input=https%3A%2F%2Fpccdn.perfectchannel.com%2Fchristies%2Flive%2Fimages%2Fitem%2FFirstOpenEditions12209%2F6011290%2Foriginal%2FNYR_12209_0583.jpg&x=0&y=0"></article>]]></description>
-            <link>https://onlineonly.christies.com/s/first-open-editions/blue-curve-583/30074</link>
-            <guid isPermaLink="false">57d9a259-72d8-4361-bc3b-e32b3eba33e5</guid>
-            <pubDate>Sat, 16 Jul 2016 17:38:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
