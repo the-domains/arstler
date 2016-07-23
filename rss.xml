@@ -7,13 +7,6 @@
         <lastBuildDate>Sat, 23 Jul 2016 20:05:10 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Clo'e Floirat, 'You broke my art', 2015, Watermill Center Summer Benefit Auction 2016 | Artsy]]></title>
-            <description><![CDATA[<article><h1>Clo'e Floirat, 'You broke my art', 2015, Watermill Center Summer Benefit Auction 2016 | Artsy</h1><p>Clo'e Floirat's charming drawings comment on contemporary cultural events, often with a satirical edge. Her subjects have included the London Olympics, the Battersea Power Station, The Pritzker Architecture Prize, and monumental public art projects by Anish Kapoor, Daniel Buren, and Ilya and Emilia Kabakov.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c8a46afa63b8a06efb74b0696170bb92/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FCgIkR9sjW5Dgcc5vLmGb6Q%2Flarge.jpg"></article>]]></description>
-            <link>https://m.artsy.net/artwork/cloe-floirat-you-broke-my-art</link>
-            <guid isPermaLink="false">bd9e3ec1-8d2b-4f29-b963-0eef532751cb</guid>
-            <pubDate>Sat, 23 Jul 2016 20:04:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Christian Wassmann, '"Dodecahedron" chandelier and optical instrument', 2014, Watermill Center Summer Benefit Auction 2016 | Artsy]]></title>
             <description><![CDATA[<article><h1>Christian Wassmann, '"Dodecahedron" chandelier and optical instrument', 2014, Watermill Center Summer Benefit Auction 2016 | Artsy</h1><p>Architect and designer Christian Wassmann began his career at a young age in Switzerland. Interested in the intersection between the arts and architecture, his currently New York-based practice (housed in his Studio Christian Wassmann) focuses on the interconnections between art forms. The firm's ideology is guided by the design principle "form performs function," rather than the modernist mantra "form follows function."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3452a2e4e8c0f115e69a9bb047087584/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FjDtysbjBMEeKwlFowqiGyQ%2Flarge.jpg"></article>]]></description>
             <link>https://m.artsy.net/artwork/christian-wassmann-dodecahedron-chandelier-and-optical-instrument</link>
@@ -75,6 +68,13 @@
             <link>https://onlineonly.christies.com/s/first-open-editions/blue-curve-583/30074</link>
             <guid isPermaLink="false">57d9a259-72d8-4361-bc3b-e32b3eba33e5</guid>
             <pubDate>Sat, 16 Jul 2016 17:38:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hot Spot: Sotheby's S|2 at Montauk's The Surf Lodge on Sotheby's Blog]]></title>
+            <description><![CDATA[<article><h1>Hot Spot: Sotheby's S|2 at Montauk's The Surf Lodge on Sotheby's Blog</h1><p>At the New York edition of the NADA art fair this past May, visitors who know of dealer and artist Joel Mesler might have been momentarily shocked to see a booth offering works from The Estate of Joel Mesler.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6db3027bdf5cf233cde326b9cb19a136/croprotate.jpeg?cropheight=699&cropwidth=1920&degrees=0&input=http%3A%2F%2Fwww.sothebys.com%2Fcontent%2Fdam%2Fsothebys-pages%2Fblogs%2FContemporaryCurrents%2F2016%2F7%2FBlogHero_1920x700.jpg.webrend.1920.350.jpeg&x=0&y=0"></article>]]></description>
+            <link>http://www.sothebys.com/content/sothebys/en/news-video/blogs/all-blogs/contemporary/2016/07/fish-people-montauk-surf-lodge.html</link>
+            <guid isPermaLink="false">33983dc5-4099-4cd5-a99f-211d43558eb9</guid>
+            <pubDate>Sat, 16 Jul 2016 17:38:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
