@@ -7,13 +7,6 @@
         <lastBuildDate>Mon, 25 Jul 2016 06:21:07 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[L'Homme de Villetaneuse - Auktionshaus Lempertz]]></title>
-            <description><![CDATA[<article><h1>L'Homme de Villetaneuse - Auktionshaus Lempertz</h1><p>In the 1950s the French sculptor begins to produce sculptures made of welded metal. L'homme de Villetaneuse illustrates Cesar's original working method in which he uses industrial scrap metal as a basis for his works. Villetaneuse, the name of a French community north of Paris, denotes the place where the basic materials were discovered.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/246a8a2d868527317171ffa57b1e4789/noop.jpg?input=https%3A%2F%2Fwww.lempertz.com%2Fuploads%2Ftx_lempertzproject%2FLempertz_1071_612_Contemporary_Art_C%25C3%25A9sar_LHomme_de_Villetaneuse.jpg"></article>]]></description>
-            <link>https://www.lempertz.com/en/catalogues/lot/1071-1/612-cesar.html</link>
-            <guid isPermaLink="false">3fcc0aea-1b67-45a9-8412-36ee3fad4405</guid>
-            <pubDate>Mon, 25 Jul 2016 06:20:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[FANTE DOLL AND AKUA'BA - Auktionshaus Lempertz]]></title>
             <description><![CDATA[<article><h1>FANTE DOLL AND AKUA'BA - Auktionshaus Lempertz</h1><p>Do you already have a MyLempertz account? Please log in here.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a9c9f9d5ab4ea6212fe62b30bc077741/noop.jpg?input=https%3A%2F%2Fwww.lempertz.com%2Fuploads%2Ftx_lempertzproject%2FLempertz_1073_11_African_and_Oceanic_Art_FANTE_DOLL_AND_AKUA%25E2%2580%2599BA.jpg"></article>]]></description>
             <link>https://www.lempertz.com/en/catalogues/lot/1073-1/11-fante-doll-and-akuaba.html</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Goro Suzuki 鈴木五郎, 'Sake Cup Goribe', 2015, Dai Ichi Arts | Artsy</h1><p>Established in 1989, Dai Ichi Arts, Ltd. is a pioneering gallery promoting and exhibiting contemporary Japanese ceramics outside of Japan. Our extensive inventory includes everything from classic tea wares to contemporary ceramic sculpture.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0f0eb40e0eef4fd8ed222b35f552d151/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FmjPGe8bBu3ELuD9e_gO5tQ%2Flarge.jpg"></article>]]></description>
             <link>https://m.artsy.net/artwork/goro-suzuki-ling-mu-wu-lang-sake-cup-goribe-1</link>
             <guid isPermaLink="false">41dd4c65-d059-4968-8a88-ba286e1bc3c1</guid>
+            <pubDate>Mon, 25 Jul 2016 06:20:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Humberto and Fernando Campana, 'Fitas Buffet', 2012, Friedman Benda | Artsy]]></title>
+            <description><![CDATA[<article><h1>Humberto and Fernando Campana, 'Fitas Buffet', 2012, Friedman Benda | Artsy</h1><p>The Campana brothers are famed Brazilian furniture designers. Most celebrated for their design of the Vermelha chair-an iconic piece handmade from a huge length of rope, wrapped and woven to create the chair's nest-like structure. "The Vermelha chair is an homage to chaos," says Humberto.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4f0f66bc2b4ac0f3286c076bb1441d15/croprotate.jpg?cropheight=3643&cropwidth=5407&degrees=0&input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FRkaze35VKPJFn9fJjM2FSQ%2Fnormalized.jpg&x=0&y=0"></article>]]></description>
+            <link>https://m.artsy.net/artwork/humberto-and-fernando-campana-fitas-buffet</link>
+            <guid isPermaLink="false">3c315969-4828-452b-8b18-5bc07eeedb30</guid>
             <pubDate>Mon, 25 Jul 2016 06:20:15 GMT</pubDate>
         </item>
     </channel>
