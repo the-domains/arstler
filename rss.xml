@@ -4,11 +4,18 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 09:44:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 09:50:44 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Bodega]]></title>
+            <description><![CDATA[<article><h1>Bodega</h1><p>Bodega is a gallery and publisher in New York</p><img src="http://bodega-us.org/image/exhibitions/54_peachtree/peachtree.jpg"></article>]]></description>
+            <link>http://bodega-us.org/</link>
+            <guid isPermaLink="false">b2785057-9d8e-43e2-a58b-76f822c32dd8</guid>
+            <pubDate>Mon, 25 Jul 2016 09:49:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sonnabend Gallery | Artist]]></title>
-            <description><![CDATA[<article><h1>Sonnabend Gallery | Artist</h1><p>The Sonnabend Gallery is specialized in contemporary work by American and European Artists - painting, sculpture and photography.</p><img src="http://sonnabendgallery.com/images/collections/x4076_JKO-253_Acrobat.jpg.pagespeed.ic.FgFnizZXcU.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Sonnabend Gallery | Artist</h1><p>The Sonnabend Gallery is specialized in contemporary work by American and European Artists - painting, sculpture and photography.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fc222a99ed42472bdb1305d325d6ab50/noop.jpg?input=http%3A%2F%2Fsonnabendgallery.com%2Fimages%2Fcollections%2Fx4076_JKO-253_Acrobat.jpg.pagespeed.ic.FgFnizZXcU.jpg"></article>]]></description>
             <link>http://sonnabendgallery.com/index.php?v=artist&amp;id=13&amp;col=1&amp;art=1</link>
             <guid isPermaLink="false">a0cc80a1-bc53-41e5-a9cb-34fc07fcdb63</guid>
             <pubDate>Mon, 25 Jul 2016 09:43:25 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Color & Black (complete set of 4 works) by Sol LeWitt on artnet Auctions</h1><p>American artist Sol LeWitt (1928-2007) is renowned as a founding member of both the Minimalist and Conceptual Art movements. Working in New York in the 1960s, LeWitt aimed to reduce art to the most basic shapes, colors, and lines. The execution of the work was much less important to LeWitt than the original concept.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8ef4420c35942e583bd0d1fcf6dd273e/croprotate.jpg?cropheight=553&cropwidth=529&degrees=0&input=https%3A%2F%2Fimages.artnet.com%2Faoa_lot_images%2F117550%2Fsol-lewitt-color-black-set-of-4-prints-and-multiples-etching-zoom_550_576.jpg&x=11&y=13"></article>]]></description>
             <link>https://www.artnet.com/auctions/artists/sol-lewitt/color-black-complete-set-of-4-works-2</link>
             <guid isPermaLink="false">2df75cba-b6f9-440d-9082-0850873aede1</guid>
-            <pubDate>Mon, 25 Jul 2016 06:20:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keisei Tamura 田村敬星, 'Micro Calligraphy Boar Sake Cup', Dai Ichi Arts | Artsy]]></title>
-            <description><![CDATA[<article><h1>Keisei Tamura 田村敬星, 'Micro Calligraphy Boar Sake Cup', Dai Ichi Arts | Artsy</h1><p>Established in 1989, Dai Ichi Arts, Ltd. is a pioneering gallery promoting and exhibiting contemporary Japanese ceramics outside of Japan. Our extensive inventory includes everything from classic tea wares to contemporary ceramic sculpture.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/407bb50992a5b7af1d9415492ca931f0/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fn9uQuzuh9VUiTb4LQLE-sw%2Flarge.jpg"></article>]]></description>
-            <link>https://m.artsy.net/artwork/keisei-tamura-tian-cun-jing-xing-micro-calligraphy-boar-sake-cup</link>
-            <guid isPermaLink="false">5953550e-3f24-45f2-b9ea-67ce1a4f81ab</guid>
             <pubDate>Mon, 25 Jul 2016 06:20:15 GMT</pubDate>
         </item>
     </channel>
