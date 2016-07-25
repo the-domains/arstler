@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 10:00:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 10:00:35 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Peter Blum Gallery]]></title>
+            <description><![CDATA[<article><h1>Peter Blum Gallery</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/78f632fc5840083e61248ebbd6b8aeb0/noop.jpg?input=http%3A%2F%2Fpeterblum.s3.amazonaws.com%2Fthumbnails%2Fexhibition%2F143%2F1007.jpg"></article>]]></description>
+            <link>http://peterblumgallery.com/</link>
+            <guid isPermaLink="false">d009daee-5708-43e1-9ebb-4d245e498839</guid>
+            <pubDate>Mon, 25 Jul 2016 10:00:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ansel Adams "Aspens, Northern New Mexico"]]></title>
             <description><![CDATA[<article><h1>Ansel Adams "Aspens, Northern New Mexico"</h1><p>We are pleased to announce that the Galley has recently acquired of a sublime piece of photographic history by Ansel Adams. Aspens, Northern New Mexico, 1958 is a 16×20 toned silver gelatin print made in 1969 and purchased from the legendary Witkin Gallery that same year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/875857a8c52647cbecdf40e4518e8ae6/noop.jpg?input=http%3A%2F%2Fgallery270.com%2Fwp-content%2Fuploads%2F2016%2F06%2Flarger.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Untitled (SF-335) by Sam Francis on artnet Auctions</h1><p>Accepted: Wire Transfer artnet Assurance Policy: Every artnet Auctions seller has been approved by artnet after a thorough review. All of our sellers are required to accept the following artnet policy: A buyer may return an item purchased through artnet Online Auctions, if the item received is not as described in its listing, or is found to be not authentic.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fb535c75502988cfca4848f7a7a0c8b4/noop.jpg?input=https%3A%2F%2Fimages.artnet.com%2Faoa_lot_images%2F117788%2Fsam-francis-untitled-sf-335-prints-and-multiples-lithograph.jpg"></article>]]></description>
             <link>https://www.artnet.com/auctions/artists/sam-francis/untitled-sf-335</link>
             <guid isPermaLink="false">8342c417-498b-4c7a-a6dc-4ba7930c0fa1</guid>
-            <pubDate>Mon, 25 Jul 2016 06:20:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scheinbar fest verankert. 1927, 148 (E 8) - Auktionshaus Lempertz]]></title>
-            <description><![CDATA[<article><h1>Scheinbar fest verankert. 1927, 148 (E 8) - Auktionshaus Lempertz</h1><p>Black reed pen drawing on ivory-coloured Ingres laid paper (30.1/30.7 x 46.2 cm), mounted on light card support by the artist. 43.6/44.7 x 63.2/63.5 cm. Framed under glass. Signed 'Klee' on the sheet upper right and on the card at bottom in pen dated, inscribed with the work number after the date and titled '1927 E.8 scheinbar fest verankert'.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0456cc30835ba6abee59d8cd533c092f/noop.jpg?input=https%3A%2F%2Fwww.lempertz.com%2Ftypo3temp%2F_processed_%2Fcsm_Lempertz_1070_311_Modern_Art_Paul_Klee_Scheinbar_fest_verankert_174a193f43.jpg"></article>]]></description>
-            <link>https://www.lempertz.com/en/catalogues/lot/1070-1/311-paul-klee.html</link>
-            <guid isPermaLink="false">3f0beea7-65cb-4d68-87a8-48ebb615a31d</guid>
             <pubDate>Mon, 25 Jul 2016 06:20:15 GMT</pubDate>
         </item>
     </channel>
