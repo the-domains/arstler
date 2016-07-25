@@ -4,15 +4,8 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 18:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 18:19:54 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Porto Cervo 2016 : Gallery FUMI Contemporary Design]]></title>
-            <description><![CDATA[<article><h1>Porto Cervo 2016 : Gallery FUMI Contemporary Design</h1><p>Gallery FUMI opens their summer gallery in Porto Cervo, Sardinia (Italy), following seven very successful previous seasons. FUMI Porto Cervo will be showing well known names alongside emerging talent in the contemporary design and art world.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48ea913f36c70b59f6d74796203cffef/croprotate.jpg?cropheight=1280&cropwidth=1920&degrees=0&input=http%3A%2F%2Fwww.galleryfumi.com%2Fcontent%2F4.Exhibitions%2F12.Current%2F4.Porto-Cervo-2016%2F900.Gallery-FUMI-Porto-Cervo.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.galleryfumi.com/Exhibitions/Current/Porto-Cervo-2016/</link>
-            <guid isPermaLink="false">5ff6eba2-4e4c-4ee6-9a8b-9135475150df</guid>
-            <pubDate>Mon, 25 Jul 2016 18:19:03 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The Cynthia Corbett Gallery | Exhibitions]]></title>
             <description><![CDATA[<article><h1>The Cynthia Corbett Gallery | Exhibitions</h1><p>View future, current and past contemporary art exhibitions of Cynthia Corbett Gallery</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/42bf9e6da09e1b7b8611953af997a194/noop.jpg?input=http%3A%2F%2Fwww.thecynthiacorbettgallery.com%2FAdmin%2Fuploads%2FDeborah.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Carsten Höller - June 9 - August 12, 2016 - Gagosian Gallery</h1><p>Carsten Höller, Divisions (Roach and Surface), 2016, acrylic glass, paint, stainless steel, screws, and roach ( fish taxidermy: Matthias Fahrni ), 17 11/16 × 7 1/2 × 29 1/2 inches (45 × 19 × 75 cm) © Carsten Höller.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e32baec5695d7106ce52823ff4724349/noop.jpg?input=http%3A%2F%2Fwww.gagosian.com%2F__data%2Faad958821bd461f6b07ed8c6c5488ab5.jpg"></article>]]></description>
             <link>http://www.gagosian.com/exhibitions/carsten-holler--june-09-2016</link>
             <guid isPermaLink="false">523f7085-384d-423d-b33d-2d5f0fc4f4d6</guid>
+            <pubDate>Mon, 25 Jul 2016 18:19:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Frank Gehry - July 18 - September 16, 2016 - Gagosian Gallery]]></title>
+            <description><![CDATA[<article><h1>Frank Gehry - July 18 - September 16, 2016 - Gagosian Gallery</h1><p>Frank Gehry, Untitled (London I), 2013, metal wire, ColorCore formica, silicone, and wooden base, 61 3/8 × 58 1/4 × 64 7/8 inches (155.9 × 148 × 164.8 cm) © Frank Gehry. Photo by Josh White Download Press Release PDF (121 Kb) Italian Version PDF (121 Kb) [Scroll down for Italian version / Testo in italiano al termine della versione in inglese] The fish is a perfect form.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/855def5b74c56c52d8b9457c914c42cb/noop.jpg?input=http%3A%2F%2Fwww.gagosian.com%2F__data%2Fbb5b750869b89115f9caf49438873a31.jpg"></article>]]></description>
+            <link>http://www.gagosian.com/exhibitions/frank-gehry--july-18-2016</link>
+            <guid isPermaLink="false">2423a4e1-fc22-4f32-911c-0e9d8faeae2b</guid>
             <pubDate>Mon, 25 Jul 2016 18:19:02 GMT</pubDate>
         </item>
     </channel>
