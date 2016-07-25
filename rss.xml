@@ -4,13 +4,27 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 18:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 18:19:51 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[LEXICON - June 1 - September 17, 2016 - Gagosian Gallery]]></title>
             <description><![CDATA[<article><h1>LEXICON - June 1 - September 17, 2016 - Gagosian Gallery</h1><p>Exhibition page for showing at Gagosian Gallery Paris.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/04fd097cec30c8264779f984185d5941/noop.jpg?input=http%3A%2F%2Fwww.gagosian.com%2F__data%2F59092d63adbd7c49c4bf3df55927e78f.jpg"></article>]]></description>
             <link>http://www.gagosian.com/exhibitions/lexicon--june-01-2016</link>
             <guid isPermaLink="false">e1812e28-0157-45ae-b9d6-fa02b53db895</guid>
+            <pubDate>Mon, 25 Jul 2016 18:19:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mark Grotjahn - June 24 - September 17, 2016 - Gagosian Gallery]]></title>
+            <description><![CDATA[<article><h1>Mark Grotjahn - June 24 - September 17, 2016 - Gagosian Gallery</h1><p>Mark Grotjahn, Untitled (Pink Cosco III Mask M40.d), 2015, painted bronze, 59 1/2 × 33 1/4 × 36 1/2 inches (151.1 × 84.5 × 92.7 cm) © Mark Grotjahn. Photo by Douglas M.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/becda139608c220276e26e340151de9b/noop.jpg?input=http%3A%2F%2Fwww.gagosian.com%2F__data%2F88ef3ece3bd2e81540eb6dc82e8dedc4.jpg"></article>]]></description>
+            <link>http://www.gagosian.com/exhibitions/mark-grotjahn--june-24-2016</link>
+            <guid isPermaLink="false">be9e65fd-4425-4981-8523-83b6f9cee014</guid>
+            <pubDate>Mon, 25 Jul 2016 18:19:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carsten Höller - June 9 - August 12, 2016 - Gagosian Gallery]]></title>
+            <description><![CDATA[<article><h1>Carsten Höller - June 9 - August 12, 2016 - Gagosian Gallery</h1><p>Carsten Höller, Divisions (Roach and Surface), 2016, acrylic glass, paint, stainless steel, screws, and roach ( fish taxidermy: Matthias Fahrni ), 17 11/16 × 7 1/2 × 29 1/2 inches (45 × 19 × 75 cm) © Carsten Höller.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e32baec5695d7106ce52823ff4724349/noop.jpg?input=http%3A%2F%2Fwww.gagosian.com%2F__data%2Faad958821bd461f6b07ed8c6c5488ab5.jpg"></article>]]></description>
+            <link>http://www.gagosian.com/exhibitions/carsten-holler--june-09-2016</link>
+            <guid isPermaLink="false">523f7085-384d-423d-b33d-2d5f0fc4f4d6</guid>
             <pubDate>Mon, 25 Jul 2016 18:19:02 GMT</pubDate>
         </item>
         <item>
@@ -61,20 +75,6 @@
             <link>http://www.jacobsongallery.com/index.php?nav=exhibitiondetails&amp;ID=156</link>
             <guid isPermaLink="false">9499c00c-c31b-4483-ab36-cdb1ecaaaa37</guid>
             <pubDate>Mon, 25 Jul 2016 18:02:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Peter Blum Gallery]]></title>
-            <description><![CDATA[<article><h1>Peter Blum Gallery</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/78f632fc5840083e61248ebbd6b8aeb0/noop.jpg?input=http%3A%2F%2Fpeterblum.s3.amazonaws.com%2Fthumbnails%2Fexhibition%2F143%2F1007.jpg"></article>]]></description>
-            <link>http://peterblumgallery.com/</link>
-            <guid isPermaLink="false">d009daee-5708-43e1-9ebb-4d245e498839</guid>
-            <pubDate>Mon, 25 Jul 2016 10:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Peter Blum Gallery]]></title>
-            <description><![CDATA[<article><h1>Peter Blum Gallery</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cc8d2a01e4874c4f14df414a1a02b2ae/croprotate.jpg?cropheight=2006&cropwidth=3000&degrees=0&input=http%3A%2F%2Fpeterblum.s3.amazonaws.com%2Finstallation_views%2F413%2Fishimotoinstall5.jpg&x=0&y=0"></article>]]></description>
-            <link>http://peterblumgallery.com/exhibitions/Katsura-Ishimoto</link>
-            <guid isPermaLink="false">2afad947-d600-4a11-a6c9-0ac5af99bc58</guid>
-            <pubDate>Mon, 25 Jul 2016 10:00:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
