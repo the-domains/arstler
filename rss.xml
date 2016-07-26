@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 20:57:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2016 20:57:15 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FELDBUSCHWIESNER | current show]]></title>
+            <description><![CDATA[<article><h1>FELDBUSCHWIESNER | current show</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1b887ffa90e54804318b8a066a1d919b/noop.jpg?input=http%3A%2F%2Fwww.feldbuschwiesner.de%2Fkunstagenten011004.data%2FSmartObjects%2F_ausstellung%2F2016_Ausstellungen%2F2016_jacob_dahlgren%2FJD290416_001_800.jpg"></article>]]></description>
+            <link>http://www.feldbuschwiesner.de/Neue_Dateien/01_artist/dahlgren/dahlgren_exhibition_2016.html</link>
+            <guid isPermaLink="false">36b90fc7-2dfa-403a-8b88-af6c9ad1256e</guid>
+            <pubDate>Tue, 26 Jul 2016 20:56:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CURRENT]]></title>
             <description><![CDATA[<article><h1>CURRENT</h1><p>Saturday Sessions 25 June, 7 pm / DIY Church #322 - Für die Vögel / Radio show with live concerts and record release with Fritz Bornstück, DJ Schlucht, der Warst, Wilted Woman and Jeff Surak / Zeromoon 09 July, 7 pm / Rostrum / Sewing machine impro by Katrin Plavčak</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fb4bcfc7d41977863c02b8d9724878ae/noop.jpg?input=http%3A%2F%2Fwww.grimmuseum.com%2Ffiles%2Fstacks_image_1519.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Porto Cervo 2016 : Gallery FUMI Contemporary Design</h1><p>Gallery FUMI opens their summer gallery in Porto Cervo, Sardinia (Italy), following seven very successful previous seasons. FUMI Porto Cervo will be showing well known names alongside emerging talent in the contemporary design and art world.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48ea913f36c70b59f6d74796203cffef/croprotate.jpg?cropheight=1280&cropwidth=1920&degrees=0&input=http%3A%2F%2Fwww.galleryfumi.com%2Fcontent%2F4.Exhibitions%2F12.Current%2F4.Porto-Cervo-2016%2F900.Gallery-FUMI-Porto-Cervo.jpg&x=0&y=0"></article>]]></description>
             <link>http://www.galleryfumi.com/Exhibitions/Current/Porto-Cervo-2016/</link>
             <guid isPermaLink="false">5ff6eba2-4e4c-4ee6-9a8b-9135475150df</guid>
-            <pubDate>Mon, 25 Jul 2016 18:19:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Cynthia Corbett Gallery | Exhibitions]]></title>
-            <description><![CDATA[<article><h1>The Cynthia Corbett Gallery | Exhibitions</h1><p>View future, current and past contemporary art exhibitions of Cynthia Corbett Gallery</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/42bf9e6da09e1b7b8611953af997a194/noop.jpg?input=http%3A%2F%2Fwww.thecynthiacorbettgallery.com%2FAdmin%2Fuploads%2FDeborah.jpg"></article>]]></description>
-            <link>http://www.thecynthiacorbettgallery.com/exhibitions.php</link>
-            <guid isPermaLink="false">3a1802fe-9973-4899-8006-f52cc3f7d55d</guid>
             <pubDate>Mon, 25 Jul 2016 18:19:03 GMT</pubDate>
         </item>
     </channel>
