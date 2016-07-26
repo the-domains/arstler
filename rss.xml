@@ -7,20 +7,6 @@
         <lastBuildDate>Tue, 26 Jul 2016 20:57:09 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[FP Contemporary :: Exhibitions]]></title>
-            <description><![CDATA[<article><h1>FP Contemporary :: Exhibitions</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9c2ad33ee25791d1449135f563176289/noop.jpg?input=http%3A%2F%2Ffpcontemporary.com%2Ffiles%2F8314%2F6412%2F2286%2FCraemer_Indigo_Line_58x35_9500.jpg"></article>]]></description>
-            <link>http://fpcontemporary.com/exhibitions</link>
-            <guid isPermaLink="false">55bf9080-2a22-4653-82ca-a7c7e12645d7</guid>
-            <pubDate>Tue, 26 Jul 2016 20:56:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Daniel Buren]]></title>
-            <description><![CDATA[<article><h1>Daniel Buren</h1><p>Triptych: a work in situApril 30 - June 25, 2016 Daniel Buren, one of the best-known and influential conceptual artists, an analytical painter, and early practitioner of what would come to be known as institutional critique, for his new project at Galerie Thomas Schulte has transformed the gallery's large and prominently visible window on the corner of Leipziger Straße and Charlottenstraße for the creation of Triptych: a work in situ.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8c9f0a31892d924400ac7d50d4176747/noop.jpg?input=http%3A%2F%2Fwww.galeriethomasschulte.de%2Ffileadmin%2Fmedia%2Fexhibitions_zweitausendsechzehn%2FDaniel_Buren%2Fgallery%2FBuren_PhotoSouvenier_1.jpg"></article>]]></description>
-            <link>http://www.galeriethomasschulte.de/en/exhibitions/2016/daniel-buren/#c1263</link>
-            <guid isPermaLink="false">c2cdea35-ad1c-4e7e-bd41-32c57bf31695</guid>
-            <pubDate>Tue, 26 Jul 2016 20:56:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Galerie Simard Bilodeau]]></title>
             <description><![CDATA[<article><h1>Galerie Simard Bilodeau</h1><p>Galerie Simard Bilodeau is an elite Fine Art gallery based in California, featuring an unparalleled collection of bronze sculptures and original paintings.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/869877027e45ff4b8d402eb1c72489d4/croprotate.png?cropheight=504&cropwidth=504&degrees=0&input=http%3A%2F%2Fi1.wp.com%2Fsimardbilodeau.com%2Fwp-content%2Fuploads%2F2015%2F12%2Fcropped-Galerie-Simard-Bilodeau_Logo-Large_Blue_01-Seal-Negative-copy.png%3Ffit%3D512%252C512&x=4&y=4"></article>]]></description>
             <link>http://simardbilodeau.com/</link>
@@ -75,6 +61,20 @@
             <link>http://www.gagosian.com/exhibitions/richard-serra--may-07-2016</link>
             <guid isPermaLink="false">da475c73-d623-4cd3-9906-000d165082ac</guid>
             <pubDate>Mon, 25 Jul 2016 18:19:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Walter De Maria - May 26 - July 30, 2016 - Gagosian Gallery]]></title>
+            <description><![CDATA[<article><h1>Walter De Maria - May 26 - July 30, 2016 - Gagosian Gallery</h1><p>Walter De Maria, TRUTH / BEAUTY SERIES (detail), 1993-2016, solid stainless steel and granite, fourteen sculptures in seven sets, each sculpture: 7 1/2 × 42 1/8 × 42 1/8 inches (19 × 107 × 107 cm) © 2016 Estate of Walter De Maria Download Press Release PDF (104 Kb) Opening reception: Thursday, 26th May, from 6:00 to 8:00pm I think to be a true minimalist you should almost nearly be invisible yourself...expressing yourself in too baroque, romantic a way might be...imposing a lot more content on the world than is necessary.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3f4aecd6085408de2ebb464ed28027fa/noop.jpg?input=http%3A%2F%2Fwww.gagosian.com%2F__data%2Fab3de0ac01c9558acd7e6f67d2f92b6c.jpg"></article>]]></description>
+            <link>http://www.gagosian.com/exhibitions/walter-de-maria--may-26-2016</link>
+            <guid isPermaLink="false">f3600161-5d69-4b4c-bdb7-894ea3cc9bb5</guid>
+            <pubDate>Mon, 25 Jul 2016 18:19:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plane.Site - May 18 - August 27, 2016 - Gagosian Gallery]]></title>
+            <description><![CDATA[<article><h1>Plane.Site - May 18 - August 27, 2016 - Gagosian Gallery</h1><p>Rachel Whiteread, YELLOW EDGE, 2007-08, plaster, pigment and resin (four units), 7 11/16 × 15 3/16 × 18 1/2 inches (19.5 × 38.6 × 47 cm) © Rachel Whiteread.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5afc3b374f4d6f055ed98e982654a92f/noop.jpg?input=http%3A%2F%2Fwww.gagosian.com%2F__data%2F74e5beda26532fffaf67ff6627503bf4.jpg"></article>]]></description>
+            <link>http://www.gagosian.com/exhibitions/planesite--may-18-2016</link>
+            <guid isPermaLink="false">d661b803-d36c-4ac3-8866-80c4e2c04f8b</guid>
+            <pubDate>Mon, 25 Jul 2016 18:19:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
