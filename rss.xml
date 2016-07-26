@@ -4,15 +4,8 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 20:57:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2016 20:56:28 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[NOW]]></title>
-            <description><![CDATA[<article><h1>NOW</h1><p>MAMA promotes progressive vision and ideas through multidisciplinary exhibition and installation, both within the walls of its gallery and in alternative space. MAMA occupies an old warehouse space in the center of the Arts District in Downtown Los Angeles.</p></article>]]></description>
-            <link>http://www.mama.gallery/</link>
-            <guid isPermaLink="false">47b80eda-933a-47b4-98fc-22a41245fa62</guid>
-            <pubDate>Tue, 26 Jul 2016 20:56:24 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Todd Gray]]></title>
             <description><![CDATA[<article><h1>Todd Gray</h1><p>Meliksetian | Briggs is a contemporary art gallery in Los Angeles. Founded in 2012, by Anna Meliksetian and Michael Briggs, the gallery represents Todd Gray, Mustafa Hulusi, John Miller, Richard Hoeck & John Miller, Aura Rosenberg, Christiane Lyons and Cody Trepte. In addition, the gallery is the exclusive worldwide representative for the Estate of Bas Jan Ader.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/288f33af28a1909484a54916bde22bc2/noop.jpeg?input=https%3A%2F%2Fs3.amazonaws.com%2Ffiles.collageplatform.com.prod%2Fimage_cache%2F1010x580_fit%2F5488a59707a72cdd3762d921%2Fd1c4be57e63f34be222f349228d06a10.jpeg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>LEXICON - June 1 - September 17, 2016 - Gagosian Gallery</h1><p>Exhibition page for showing at Gagosian Gallery Paris.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/04fd097cec30c8264779f984185d5941/noop.jpg?input=http%3A%2F%2Fwww.gagosian.com%2F__data%2F59092d63adbd7c49c4bf3df55927e78f.jpg"></article>]]></description>
             <link>http://www.gagosian.com/exhibitions/lexicon--june-01-2016</link>
             <guid isPermaLink="false">e1812e28-0157-45ae-b9d6-fa02b53db895</guid>
+            <pubDate>Mon, 25 Jul 2016 18:19:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mark Grotjahn - June 24 - September 17, 2016 - Gagosian Gallery]]></title>
+            <description><![CDATA[<article><h1>Mark Grotjahn - June 24 - September 17, 2016 - Gagosian Gallery</h1><p>Mark Grotjahn, Untitled (Pink Cosco III Mask M40.d), 2015, painted bronze, 59 1/2 × 33 1/4 × 36 1/2 inches (151.1 × 84.5 × 92.7 cm) © Mark Grotjahn. Photo by Douglas M.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/becda139608c220276e26e340151de9b/noop.jpg?input=http%3A%2F%2Fwww.gagosian.com%2F__data%2F88ef3ece3bd2e81540eb6dc82e8dedc4.jpg"></article>]]></description>
+            <link>http://www.gagosian.com/exhibitions/mark-grotjahn--june-24-2016</link>
+            <guid isPermaLink="false">be9e65fd-4425-4981-8523-83b6f9cee014</guid>
             <pubDate>Mon, 25 Jul 2016 18:19:02 GMT</pubDate>
         </item>
     </channel>
