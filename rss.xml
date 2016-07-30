@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jul 2016 14:59:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2016 15:00:07 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SNOW Contemporary | NEWS]]></title>
+            <description><![CDATA[<article><h1>SNOW Contemporary | NEWS</h1><p>SNOW Contemporaryでは2016年6月3日(金)から、12組のアーティストによるグループ展「Unveiling」を2期に分けて開催いたします。 　SNOW Contemporaryは2011年より約5年間にわたり、世田谷区弦巻のXYZ ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/26e3f1fbc89a1ae232d2403c64128d24/noop.jpg?input=http%3A%2F%2Fsnowcontemporary.com%2Fimg%2Fexhibition%2Ftop201607.jpg"></article>]]></description>
+            <link>http://snowcontemporary.com/exhibition.html</link>
+            <guid isPermaLink="false">590ce786-14aa-45fa-9a86-ff7e215a759d</guid>
+            <pubDate>Sat, 30 Jul 2016 14:59:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tomio Koyama Gallery 小山登美夫ギャラリー - Tomio Koyama Gallery 小山登美夫ギャラリー]]></title>
             <description><![CDATA[<article><h1>Tomio Koyama Gallery 小山登美夫ギャラリー - Tomio Koyama Gallery 小山登美夫ギャラリー</h1><p>Tomio Koyama Gallery 小山登美夫ギャラリー</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/22770a64ec7575315b23f45c10a904b8/croprotate.jpg?cropheight=3840&cropwidth=3071&degrees=0&input=http%3A%2F%2Ftomiokoyamagallery.com%2Fwp%2Fwp-content%2Fuploads%2F2016%2F07%2Fbe9ae92ba32bd992129521bd10f0a4d9.jpg&x=0&y=0"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.galeriethomasschulte.de/en/exhibitions/2016/daniel-buren/#c1263</link>
             <guid isPermaLink="false">c2cdea35-ad1c-4e7e-bd41-32c57bf31695</guid>
             <pubDate>Tue, 26 Jul 2016 20:56:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Galerie Simard Bilodeau]]></title>
-            <description><![CDATA[<article><h1>Galerie Simard Bilodeau</h1><p>Galerie Simard Bilodeau is an elite Fine Art gallery based in California, featuring an unparalleled collection of bronze sculptures and original paintings.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/869877027e45ff4b8d402eb1c72489d4/croprotate.png?cropheight=504&cropwidth=504&degrees=0&input=http%3A%2F%2Fi1.wp.com%2Fsimardbilodeau.com%2Fwp-content%2Fuploads%2F2015%2F12%2Fcropped-Galerie-Simard-Bilodeau_Logo-Large_Blue_01-Seal-Negative-copy.png%3Ffit%3D512%252C512&x=4&y=4"></article>]]></description>
-            <link>http://simardbilodeau.com/</link>
-            <guid isPermaLink="false">c99e5085-4177-4e35-bf25-7c904a863fa9</guid>
-            <pubDate>Tue, 26 Jul 2016 20:56:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
