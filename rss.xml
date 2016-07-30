@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jul 2016 14:59:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2016 14:59:27 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tomio Koyama Gallery 小山登美夫ギャラリー - Tomio Koyama Gallery 小山登美夫ギャラリー]]></title>
+            <description><![CDATA[<article><h1>Tomio Koyama Gallery 小山登美夫ギャラリー - Tomio Koyama Gallery 小山登美夫ギャラリー</h1><p>Tomio Koyama Gallery 小山登美夫ギャラリー</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/22770a64ec7575315b23f45c10a904b8/croprotate.jpg?cropheight=3840&cropwidth=3071&degrees=0&input=http%3A%2F%2Ftomiokoyamagallery.com%2Fwp%2Fwp-content%2Fuploads%2F2016%2F07%2Fbe9ae92ba32bd992129521bd10f0a4d9.jpg&x=0&y=0"></article>]]></description>
+            <link>http://tomiokoyamagallery.com/en/</link>
+            <guid isPermaLink="false">c1e8281f-7ae5-4ce6-bd81-43f390fc0b87</guid>
+            <pubDate>Sat, 30 Jul 2016 14:59:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SCAI THE BATHHOUSE]]></title>
             <description><![CDATA[<article><h1>SCAI THE BATHHOUSE</h1><p>One of the leading contemporary art galleries in Japan.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6564d0b47a8dd55f09ac397b55d6f3c4/noop.jpg?input=http%3A%2F%2Fwww.scaithebathhouse.com%2Fdata%2Fexhibitions%2Fassets%2Fupload%2F22top_saga.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Galerie Simard Bilodeau</h1><p>Galerie Simard Bilodeau is an elite Fine Art gallery based in California, featuring an unparalleled collection of bronze sculptures and original paintings.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/869877027e45ff4b8d402eb1c72489d4/croprotate.png?cropheight=504&cropwidth=504&degrees=0&input=http%3A%2F%2Fi1.wp.com%2Fsimardbilodeau.com%2Fwp-content%2Fuploads%2F2015%2F12%2Fcropped-Galerie-Simard-Bilodeau_Logo-Large_Blue_01-Seal-Negative-copy.png%3Ffit%3D512%252C512&x=4&y=4"></article>]]></description>
             <link>http://simardbilodeau.com/</link>
             <guid isPermaLink="false">c99e5085-4177-4e35-bf25-7c904a863fa9</guid>
-            <pubDate>Tue, 26 Jul 2016 20:56:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NOW]]></title>
-            <description><![CDATA[<article><h1>NOW</h1><p>MAMA promotes progressive vision and ideas through multidisciplinary exhibition and installation, both within the walls of its gallery and in alternative space. MAMA occupies an old warehouse space in the center of the Arts District in Downtown Los Angeles.</p></article>]]></description>
-            <link>http://www.mama.gallery/</link>
-            <guid isPermaLink="false">47b80eda-933a-47b4-98fc-22a41245fa62</guid>
             <pubDate>Tue, 26 Jul 2016 20:56:24 GMT</pubDate>
         </item>
     </channel>
