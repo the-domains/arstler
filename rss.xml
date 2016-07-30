@@ -4,7 +4,7 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jul 2016 15:00:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2016 15:00:12 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[SNOW Contemporary | NEWS]]></title>
@@ -25,6 +25,13 @@
             <description><![CDATA[<article><h1>SCAI THE BATHHOUSE</h1><p>One of the leading contemporary art galleries in Japan.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6564d0b47a8dd55f09ac397b55d6f3c4/noop.jpg?input=http%3A%2F%2Fwww.scaithebathhouse.com%2Fdata%2Fexhibitions%2Fassets%2Fupload%2F22top_saga.jpg"></article>]]></description>
             <link>http://www.scaithebathhouse.com/en/</link>
             <guid isPermaLink="false">25fd1842-37b9-4b3c-9fdd-e682b1f69884</guid>
+            <pubDate>Sat, 30 Jul 2016 14:59:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Specialist in Fine Japanese Art of the 19th and 20th Centuries]]></title>
+            <description><![CDATA[<article><h1>Specialist in Fine Japanese Art of the 19th and 20th Centuries</h1><p>Whitestone Gallery was founded in 1967. It was one of a small number of pioneering galleries in Japan and the gallery focused mostly on European post-impressionist paintings up until 1980's. The focus shifted gradually to Japanese-style paintings (Nihonga) in late 80's and Contemporary Art from year 2000.</p><img src="http://www.whitestonegallery.co.jp/exhibitions/img/20160429_global_japanese_artists/7_1280.jpg"></article>]]></description>
+            <link>http://www.whitestonegallery.co.jp/exhibitions/exhibitions.html</link>
+            <guid isPermaLink="false">4c583bbe-e7ad-45a5-b833-329339b2d4ae</guid>
             <pubDate>Sat, 30 Jul 2016 14:59:20 GMT</pubDate>
         </item>
         <item>
@@ -68,13 +75,6 @@
             <link>http://fpcontemporary.com/exhibitions</link>
             <guid isPermaLink="false">55bf9080-2a22-4653-82ca-a7c7e12645d7</guid>
             <pubDate>Tue, 26 Jul 2016 20:56:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Daniel Buren]]></title>
-            <description><![CDATA[<article><h1>Daniel Buren</h1><p>Triptych: a work in situApril 30 - June 25, 2016 Daniel Buren, one of the best-known and influential conceptual artists, an analytical painter, and early practitioner of what would come to be known as institutional critique, for his new project at Galerie Thomas Schulte has transformed the gallery's large and prominently visible window on the corner of Leipziger Straße and Charlottenstraße for the creation of Triptych: a work in situ.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8c9f0a31892d924400ac7d50d4176747/noop.jpg?input=http%3A%2F%2Fwww.galeriethomasschulte.de%2Ffileadmin%2Fmedia%2Fexhibitions_zweitausendsechzehn%2FDaniel_Buren%2Fgallery%2FBuren_PhotoSouvenier_1.jpg"></article>]]></description>
-            <link>http://www.galeriethomasschulte.de/en/exhibitions/2016/daniel-buren/#c1263</link>
-            <guid isPermaLink="false">c2cdea35-ad1c-4e7e-bd41-32c57bf31695</guid>
-            <pubDate>Tue, 26 Jul 2016 20:56:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
