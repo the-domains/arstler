@@ -4,8 +4,22 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jul 2016 15:00:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2016 15:01:07 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lorenzelli arte]]></title>
+            <description><![CDATA[<article><h1>Lorenzelli arte</h1><p>Copyright 2016 Lorenzelli Arte s.a.s. - P. Iva 09502730154 - info@lorenzelliarte.com - Privacy policy - Site by Antherica srl</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d7e0e63d3696cb957cf36a882571aec0/noop.jpg?input=http%3A%2F%2Fwww.lorenzelliarte.com%2Fen%2Fbinary_files%2Fslider%2Fresisedimg%2Fslider.555.slider_45251.jpg"></article>]]></description>
+            <link>http://www.lorenzelliarte.com/en/homepage</link>
+            <guid isPermaLink="false">093bd2f7-1c33-4442-aaab-49f49383eb98</guid>
+            <pubDate>Sat, 30 Jul 2016 15:00:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Robilant + Voena]]></title>
+            <description><![CDATA[<article><h1>Robilant + Voena</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/46e8c1246f8fcc045e81b92a13303156/noop.jpg?input=http%3A%2F%2Fwww.robilantvoena.com%2Fcustom_images%2F400x400%2Fusr%2Flibrary%2Fimages%2Fmain%2F1%2Fmark-blower-160524-painting-in-italy-robilant-and-voena-0023.jpg"></article>]]></description>
+            <link>http://www.robilantvoena.com/</link>
+            <guid isPermaLink="false">b3609aee-185f-446a-9d0a-5cfaa0152535</guid>
+            <pubDate>Sat, 30 Jul 2016 15:00:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CLEAR EDITION & GALLERY]]></title>
             <description><![CDATA[<article><h1>CLEAR EDITION & GALLERY</h1><p>contemporary art gallery based in Tokyo</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/377fa46f0415a37fe53c18e02eab5c98/croprotate.jpg?cropheight=961&cropwidth=1440&degrees=0&input=http%3A%2F%2Fwww.clearedition.jp%2Fweb%2Fwp-content%2Fuploads%2F2016%2F05%2Frenoitweb-1440x962.jpg&x=0&y=0"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.takeninagawa.com/</link>
             <guid isPermaLink="false">cd2949c5-2e3f-49ab-9742-34ef65dde77c</guid>
             <pubDate>Sat, 30 Jul 2016 15:00:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SNOW Contemporary | NEWS]]></title>
-            <description><![CDATA[<article><h1>SNOW Contemporary | NEWS</h1><p>SNOW Contemporaryでは2016年6月3日(金)から、12組のアーティストによるグループ展「Unveiling」を2期に分けて開催いたします。 　SNOW Contemporaryは2011年より約5年間にわたり、世田谷区弦巻のXYZ ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/26e3f1fbc89a1ae232d2403c64128d24/noop.jpg?input=http%3A%2F%2Fsnowcontemporary.com%2Fimg%2Fexhibition%2Ftop201607.jpg"></article>]]></description>
-            <link>http://snowcontemporary.com/exhibition.html</link>
-            <guid isPermaLink="false">590ce786-14aa-45fa-9a86-ff7e215a759d</guid>
-            <pubDate>Sat, 30 Jul 2016 14:59:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tomio Koyama Gallery 小山登美夫ギャラリー - Tomio Koyama Gallery 小山登美夫ギャラリー]]></title>
-            <description><![CDATA[<article><h1>Tomio Koyama Gallery 小山登美夫ギャラリー - Tomio Koyama Gallery 小山登美夫ギャラリー</h1><p>Tomio Koyama Gallery 小山登美夫ギャラリー</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/22770a64ec7575315b23f45c10a904b8/croprotate.jpg?cropheight=3840&cropwidth=3071&degrees=0&input=http%3A%2F%2Ftomiokoyamagallery.com%2Fwp%2Fwp-content%2Fuploads%2F2016%2F07%2Fbe9ae92ba32bd992129521bd10f0a4d9.jpg&x=0&y=0"></article>]]></description>
-            <link>http://tomiokoyamagallery.com/en/</link>
-            <guid isPermaLink="false">c1e8281f-7ae5-4ce6-bd81-43f390fc0b87</guid>
-            <pubDate>Sat, 30 Jul 2016 14:59:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
