@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 20:57:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2016 14:59:24 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SCAI THE BATHHOUSE]]></title>
+            <description><![CDATA[<article><h1>SCAI THE BATHHOUSE</h1><p>One of the leading contemporary art galleries in Japan.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6564d0b47a8dd55f09ac397b55d6f3c4/noop.jpg?input=http%3A%2F%2Fwww.scaithebathhouse.com%2Fdata%2Fexhibitions%2Fassets%2Fupload%2F22top_saga.jpg"></article>]]></description>
+            <link>http://www.scaithebathhouse.com/en/</link>
+            <guid isPermaLink="false">25fd1842-37b9-4b3c-9fdd-e682b1f69884</guid>
+            <pubDate>Sat, 30 Jul 2016 14:59:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[FELDBUSCHWIESNER | RUTH CAMPAU | IMAGINE GOLD, Jun 11 - July 21, 2016]]></title>
             <description><![CDATA[<article><h1>FELDBUSCHWIESNER | RUTH CAMPAU | IMAGINE GOLD, Jun 11 - July 21, 2016</h1><p>Her works oscillate between light and matter, transparency and density, paint and object, ephemeral and tangible, body and design.She works in straight and dense layers of paint in radiating cool yellow, steel gray, silver and violet, her painting surface is acrylic glass and mylar.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cf0bda160dbac1ea85d16932ce709eb8/noop.jpg?input=http%3A%2F%2Fwww.feldbuschwiesner.de%2Fkunstagenten011004.data%2FSmartObjects%2F_ausstellung%2F2016_Ausstellungen%2F2016_Ruth%2520Campau%2FRC_install_09_800.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>NOW</h1><p>MAMA promotes progressive vision and ideas through multidisciplinary exhibition and installation, both within the walls of its gallery and in alternative space. MAMA occupies an old warehouse space in the center of the Arts District in Downtown Los Angeles.</p></article>]]></description>
             <link>http://www.mama.gallery/</link>
             <guid isPermaLink="false">47b80eda-933a-47b4-98fc-22a41245fa62</guid>
-            <pubDate>Tue, 26 Jul 2016 20:56:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Todd Gray]]></title>
-            <description><![CDATA[<article><h1>Todd Gray</h1><p>Meliksetian | Briggs is a contemporary art gallery in Los Angeles. Founded in 2012, by Anna Meliksetian and Michael Briggs, the gallery represents Todd Gray, Mustafa Hulusi, John Miller, Richard Hoeck & John Miller, Aura Rosenberg, Christiane Lyons and Cody Trepte. In addition, the gallery is the exclusive worldwide representative for the Estate of Bas Jan Ader.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/288f33af28a1909484a54916bde22bc2/noop.jpeg?input=https%3A%2F%2Fs3.amazonaws.com%2Ffiles.collageplatform.com.prod%2Fimage_cache%2F1010x580_fit%2F5488a59707a72cdd3762d921%2Fd1c4be57e63f34be222f349228d06a10.jpeg"></article>]]></description>
-            <link>http://www.meliksetianbriggs.com/exhibitions/todd-gray2</link>
-            <guid isPermaLink="false">051277c2-e080-4dd5-b8f6-6b3b2c95193b</guid>
             <pubDate>Tue, 26 Jul 2016 20:56:24 GMT</pubDate>
         </item>
     </channel>
