@@ -4,15 +4,8 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jul 2016 15:00:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2016 15:00:30 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[MUJIN-TO Production]]></title>
-            <description><![CDATA[<article><h1>MUJIN-TO Production</h1><p>We are pleased to announce a holding of event related to Yoko Asakai's solo exhibition "Conversations".A musician, OLGA will perform a live which he composes based on Asakai's works. There also will be talk-show by Asakai, a research scientist of Amoeba-based Computing and one of models in "Conversations", Masashi Aono (works at Flucto-Order Functions Research Team, RIKEN Advanced Science Institute), whose study of the amoeba will be presented during this talk-show.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b3825606fb1c71984ce2ca13d8c60f89/noop.jpg?input=http%3A%2F%2Fwww.mujin-to.com%2Fimg_flyer%2Fmujinto10DM_grey.jpg"></article>]]></description>
-            <link>http://www.mujin-to.com/index_e.htm</link>
-            <guid isPermaLink="false">970d2d9b-0b9e-4a83-ba68-5bcd5650a438</guid>
-            <pubDate>Sat, 30 Jul 2016 15:00:22 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[THE GREAT EXHIBITION]]></title>
             <description><![CDATA[<article><h1>THE GREAT EXHIBITION</h1><p>4 June - 17 July 2016 Solo exhibition by Ken + Julia Yonetani Ken + Julia Yonetani are not unfamiliar names to the international audience. Having represented Australia at the Venice Biennale in 2009 and shown in Singapore Biennale 2013, this two-person artists' unit translates the nearby environs and current political issues into works filled with aesthetic and humour.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7e85d3af5f87ec24cce2bf62b50eb7ef/croprotate.jpg?cropheight=428&cropwidth=1038&degrees=0&input=http%3A%2F%2Fwww.mizuma.sg%2Fwp-content%2Fuploads%2F2016%2F05%2FThe-Great-Exhibition-Mizuma-Gallery-1038x429.jpg&x=0&y=0"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.grimmuseum.com/</link>
             <guid isPermaLink="false">25829bec-b57c-44d7-b55c-90df492a9090</guid>
             <pubDate>Tue, 26 Jul 2016 20:56:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leunora Salihu]]></title>
+            <description><![CDATA[<article><h1>Leunora Salihu</h1><p>Eternity Suddenly HappensJuly 2 - August 27, 2016 Leunora Salihu presents a selection of new large-scale ceramics, which have been produced over the past few months at the European Ceramic Work Centre in the Netherlands.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9137f85435113da64d5406513177b142/noop.jpg?input=http%3A%2F%2Fwww.galeriethomasschulte.de%2Ffileadmin%2Fmedia%2Fexhibitions_zweitausendsechzehn%2FLeunora_Salihu%2Fansicht_salihuP.jpg"></article>]]></description>
+            <link>http://www.galeriethomasschulte.de/en/exhibitions/2016/leunora-salihu/#c1273</link>
+            <guid isPermaLink="false">09f3a6c9-e007-44f3-b65b-2db60f0d4675</guid>
+            <pubDate>Tue, 26 Jul 2016 20:56:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
