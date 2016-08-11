@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 19:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 19:11:29 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ethel Shipton, 'Building a House', 2014, Ruiz-Healy Art | Artsy]]></title>
+            <description><![CDATA[<article><h1>Ethel Shipton, 'Building a House', 2014, Ruiz-Healy Art | Artsy</h1><p>Ruiz-Healy Art, founded in 2004, specializes in contemporary works of art, including painting, sculpture, photography and works on paper. Our focus is on the representation and exhibition of Latin American and Texas connected artists.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/32ff1b32f3489e91e50b03f40b59e871/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FSr-lYWz8gyCPMhbd-kUo6w%2Flarge.jpg"></article>]]></description>
+            <link>https://m.artsy.net/artwork/ethel-shipton-building-a-house</link>
+            <guid isPermaLink="false">f3093665-3a2a-43de-a6a1-42f573df8925</guid>
+            <pubDate>Thu, 11 Aug 2016 19:10:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Petra Cortright, '470 nitro express', 2014, Steve Turner | Artsy]]></title>
             <description><![CDATA[<article><h1>Petra Cortright, '470 nitro express', 2014, Steve Turner | Artsy</h1><p>Petra Cortright uses a range of mediums, both digital and analog, to explore the aesthetics and performative cultures of online consumption. She is particularly interested in video-sharing sites like Youtube: in (2007), for example, Cortright recorded herself on a webcam passively scrolling through different effects on the recording device, while a repetitive trance beat played in the background.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48ef4be42b5ad67f8db3c7cc75b60a0a/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fx0aLx-tKeOuBqSHvqM8IQQ%2Flarge.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Watermill Center: Benefit Auction 2016 | Artsy</h1><p>The Watermill Center will once again bring together the worlds of theater, art, fashion, design, and society for the 23rd Annual Watermill Center Summer Benefit & Auction. Watermill International Summer Program participants come from over 25 countries to create installations and performances throughout the eight and a half acres of grounds during the event.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9543fca36da6238887c04a46ff9d1132/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fifh4y6yBAGnF69Sb1A-sYw%2Fmedium.jpg"></article>]]></description>
             <link>https://m.artsy.net/auction/the-watermill-center-benefit-auction-2016</link>
             <guid isPermaLink="false">1fd7c229-821d-45d7-bcb9-82b4ca4c8d67</guid>
-            <pubDate>Sat, 30 Jul 2016 15:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Art Bastion art dealer and broker, artist representation | (Un)Foreseen]]></title>
-            <description><![CDATA[<article><h1>Art Bastion art dealer and broker, artist representation | (Un)Foreseen</h1><p>April 30th - June 11th</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd3e0b82b21be8eaef31e760899e14bb/noop.png?input=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F3127ff_03eb837a7fa447c8993bc89e0b10f145.png"></article>]]></description>
-            <link>http://www.artbastion.com/#!(Un)Foreseen/zoom/qlcus/dataItem-inhfvs9v</link>
-            <guid isPermaLink="false">6389024a-926f-4e6b-85ef-bbe1eb104a1b</guid>
             <pubDate>Sat, 30 Jul 2016 15:00:24 GMT</pubDate>
         </item>
     </channel>
