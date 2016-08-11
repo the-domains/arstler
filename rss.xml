@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 19:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 19:10:56 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stuart Semple, 'No Louder Romance', The Cat Street Gallery | Artsy]]></title>
+            <description><![CDATA[<article><h1>Stuart Semple, 'No Louder Romance', The Cat Street Gallery | Artsy</h1><p>Home Museums Artists Fairs Shows Auctions Galleries Magazine</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cc00c0cf1dc64a98f67495192cef2a2f/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FLQmcniB2JDbIBdn-oGiPWw%2Flarge.jpg"></article>]]></description>
+            <link>https://m.artsy.net/artwork/stuart-semple-no-louder-romance</link>
+            <guid isPermaLink="false">3830c97f-2de3-400f-a26c-7040f5ab78d3</guid>
+            <pubDate>Thu, 11 Aug 2016 19:10:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Faig Ahmed, 'Singularity', 2016, Montoro12 Contemporary Art | Artsy]]></title>
             <description><![CDATA[<article><h1>Faig Ahmed, 'Singularity', 2016, Montoro12 Contemporary Art | Artsy</h1><p>Faig Ahmed's surreal sculptures incorporate ancient carpet-weaving techniques from his native country of Azerbaijan into forms that anyone would identify has hyper-contemporary. His intricately patterned weavings are mounted on architectural structures, fabricated in wood or plastic.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0072bb1213b7d79c2db77eb69cd1c430/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fg7F7AS2mHQsmVo1FgWeeKQ%2Flarge.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>ART FRONT GALLERY | ART FRONT GALLERY</h1><p>Contemporary art gallery based in Daikanyama, Tokyo. Along with the exhibition shows, we generate various projects with the artists. We support private collectors and others seeking for a fruitful encounter with contemporary art of the age.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6698cf057c11dba9d211d530371bfe78/croprotate.jpg?cropheight=821&cropwidth=1916&degrees=0&input=http%3A%2F%2Fwww.artfrontgallery.com%2Fimg%2Ftop%2F5b7c3dc757fc51a8fb85f782209b436a49d104b6.jpg&x=0&y=0"></article>]]></description>
             <link>http://www.artfrontgallery.com/en/</link>
             <guid isPermaLink="false">945ba1ec-663b-4566-8ca0-529f1b843384</guid>
-            <pubDate>Sat, 30 Jul 2016 15:00:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日動画廊｜Galerie Nichido]]></title>
-            <description><![CDATA[<article><h1>日動画廊｜Galerie Nichido</h1><p>1928年に創業、日本で最も歴史のある洋画商として、油彩、彫刻、版画を 主に、内外の物故,現存あわせて数百名に及ぶ作家を取り扱っています。</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2270288f9f9d50f9e6e2d4aecc8b1640/noop.jpg?input=http%3A%2F%2Fwww.nichido-garo.co.jp%2Fsp%2Fimages%2Ftopimg_fukuoka.jpg"></article>]]></description>
-            <link>http://www.nichido-garo.co.jp/sp/</link>
-            <guid isPermaLink="false">72a3e122-e132-4352-b139-ace5c94cd684</guid>
             <pubDate>Sat, 30 Jul 2016 15:00:23 GMT</pubDate>
         </item>
     </channel>
