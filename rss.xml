@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 19:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 19:11:20 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Annie Morris, 'Stack 8 (Viridian Green)', 2015, Winston Wächter Fine Art | Artsy]]></title>
+            <description><![CDATA[<article><h1>Annie Morris, 'Stack 8 (Viridian Green)', 2015, Winston Wächter Fine Art | Artsy</h1><p>Multimedia artist Annie Morris has produced painting, sculpture, and collage, but she first became known for illustrations: in 2003, she came into the public eye for her collaboration with her longtime friend Sophie Dahl (granddaughter of the famous British children's writer Roald Dahl) on the book Man with the Dancing Eyes.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f7b84489bd4e44753fa888f74d5cc478/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FyLkqS4Gz2Y6mdAqNZW5K4A%2Flarge.jpg"></article>]]></description>
+            <link>https://m.artsy.net/artwork/annie-morris-stack-8-viridian-green</link>
+            <guid isPermaLink="false">c5ce2857-3828-4a18-8835-ce73d4cc75dc</guid>
+            <pubDate>Thu, 11 Aug 2016 19:10:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stuart Semple, 'Bad Genes Born Punk for Life ', 2015, Beautiful Crime | West Contemporary | Artsy]]></title>
             <description><![CDATA[<article><h1>Stuart Semple, 'Bad Genes Born Punk for Life ', 2015, Beautiful Crime | West Contemporary | Artsy</h1><p>Beautiful Crime is an urban and contemporary art gallery in Shoreditch selling limited edition prints and originals by emerging artists. West Contemporary is a fine art gallery selling art by the contemporary fine art scene's most promising young artists.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/901ba64a3e6b18471ad495f4d8ca3949/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F8hkMcVE6qtZkxq3c3YiKbA%2Flarge.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Robilant + Voena</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/46e8c1246f8fcc045e81b92a13303156/noop.jpg?input=http%3A%2F%2Fwww.robilantvoena.com%2Fcustom_images%2F400x400%2Fusr%2Flibrary%2Fimages%2Fmain%2F1%2Fmark-blower-160524-painting-in-italy-robilant-and-voena-0023.jpg"></article>]]></description>
             <link>http://www.robilantvoena.com/</link>
             <guid isPermaLink="false">b3609aee-185f-446a-9d0a-5cfaa0152535</guid>
-            <pubDate>Sat, 30 Jul 2016 15:00:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CLEAR EDITION & GALLERY]]></title>
-            <description><![CDATA[<article><h1>CLEAR EDITION & GALLERY</h1><p>contemporary art gallery based in Tokyo</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/377fa46f0415a37fe53c18e02eab5c98/croprotate.jpg?cropheight=961&cropwidth=1440&degrees=0&input=http%3A%2F%2Fwww.clearedition.jp%2Fweb%2Fwp-content%2Fuploads%2F2016%2F05%2Frenoitweb-1440x962.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.clearedition.jp/web/</link>
-            <guid isPermaLink="false">1704881b-836a-410f-a8aa-0c01a259d8a3</guid>
             <pubDate>Sat, 30 Jul 2016 15:00:23 GMT</pubDate>
         </item>
     </channel>
