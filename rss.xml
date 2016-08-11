@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 19:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 19:11:19 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stuart Semple, 'Bad Genes Born Punk for Life ', 2015, Beautiful Crime | West Contemporary | Artsy]]></title>
+            <description><![CDATA[<article><h1>Stuart Semple, 'Bad Genes Born Punk for Life ', 2015, Beautiful Crime | West Contemporary | Artsy</h1><p>Beautiful Crime is an urban and contemporary art gallery in Shoreditch selling limited edition prints and originals by emerging artists. West Contemporary is a fine art gallery selling art by the contemporary fine art scene's most promising young artists.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/901ba64a3e6b18471ad495f4d8ca3949/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F8hkMcVE6qtZkxq3c3YiKbA%2Flarge.jpg"></article>]]></description>
+            <link>https://m.artsy.net/artwork/stuart-semple-bad-genes-born-punk-for-life</link>
+            <guid isPermaLink="false">34a3dcce-e908-48f5-ae9d-9d30163142c8</guid>
+            <pubDate>Thu, 11 Aug 2016 19:10:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stuart Semple, 'No Louder Romance', The Cat Street Gallery | Artsy]]></title>
             <description><![CDATA[<article><h1>Stuart Semple, 'No Louder Romance', The Cat Street Gallery | Artsy</h1><p>Home Museums Artists Fairs Shows Auctions Galleries Magazine</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cc00c0cf1dc64a98f67495192cef2a2f/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FLQmcniB2JDbIBdn-oGiPWw%2Flarge.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>CLEAR EDITION & GALLERY</h1><p>contemporary art gallery based in Tokyo</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/377fa46f0415a37fe53c18e02eab5c98/croprotate.jpg?cropheight=961&cropwidth=1440&degrees=0&input=http%3A%2F%2Fwww.clearedition.jp%2Fweb%2Fwp-content%2Fuploads%2F2016%2F05%2Frenoitweb-1440x962.jpg&x=0&y=0"></article>]]></description>
             <link>http://www.clearedition.jp/web/</link>
             <guid isPermaLink="false">1704881b-836a-410f-a8aa-0c01a259d8a3</guid>
-            <pubDate>Sat, 30 Jul 2016 15:00:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ART FRONT GALLERY | ART FRONT GALLERY]]></title>
-            <description><![CDATA[<article><h1>ART FRONT GALLERY | ART FRONT GALLERY</h1><p>Contemporary art gallery based in Daikanyama, Tokyo. Along with the exhibition shows, we generate various projects with the artists. We support private collectors and others seeking for a fruitful encounter with contemporary art of the age.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6698cf057c11dba9d211d530371bfe78/croprotate.jpg?cropheight=821&cropwidth=1916&degrees=0&input=http%3A%2F%2Fwww.artfrontgallery.com%2Fimg%2Ftop%2F5b7c3dc757fc51a8fb85f782209b436a49d104b6.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.artfrontgallery.com/en/</link>
-            <guid isPermaLink="false">945ba1ec-663b-4566-8ca0-529f1b843384</guid>
             <pubDate>Sat, 30 Jul 2016 15:00:23 GMT</pubDate>
         </item>
     </channel>
