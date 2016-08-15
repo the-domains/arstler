@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Aug 2016 19:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2016 19:22:41 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Eduardo Santiere, 'Symphony #22', 2012, Henrique Faria Fine Art | Artsy]]></title>
+            <description><![CDATA[<article><h1>Eduardo Santiere, 'Symphony #22', 2012, Henrique Faria Fine Art | Artsy</h1><p>Eduardo Santiere creates delicate abstract compositions on paper exclusively using graphite, colored pencil, and incisions in the work's surface-a combined practice of marking and scratching. He is best known for using a needle to lance the paper and create linear patterns from lacerations. As a result, his works appear to be both drawings and delicate sculptural reliefs.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6eb5fd2500b87c00fafd09539b2b6547/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F1AvUc_K9WrJqJYR0EnUYsQ%2Flarge.jpg"></article>]]></description>
+            <link>https://m.artsy.net/artwork/eduardo-santiere-symphony-number-22</link>
+            <guid isPermaLink="false">ea46fb43-4456-48ec-8d9c-923e52486a68</guid>
+            <pubDate>Mon, 15 Aug 2016 19:22:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Farhad Rahman, 'Untitled', 2015, Rubber Factory | Artsy]]></title>
             <description><![CDATA[<article><h1>Farhad Rahman, 'Untitled', 2015, Rubber Factory | Artsy</h1><p>Home Museums Artists Fairs Shows Auctions Galleries Magazine</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/752d009f2abe68f2964fea7f428ed4ee/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FyeWyGK6cV6jNQ6XHkXTlWw%2Flarge.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Ethel Shipton, 'Building a House', 2014, Ruiz-Healy Art | Artsy</h1><p>Ruiz-Healy Art, founded in 2004, specializes in contemporary works of art, including painting, sculpture, photography and works on paper. Our focus is on the representation and exhibition of Latin American and Texas connected artists.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/32ff1b32f3489e91e50b03f40b59e871/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FSr-lYWz8gyCPMhbd-kUo6w%2Flarge.jpg"></article>]]></description>
             <link>https://m.artsy.net/artwork/ethel-shipton-building-a-house</link>
             <guid isPermaLink="false">f3093665-3a2a-43de-a6a1-42f573df8925</guid>
-            <pubDate>Thu, 11 Aug 2016 19:10:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Petra Cortright, '470 nitro express', 2014, Steve Turner | Artsy]]></title>
-            <description><![CDATA[<article><h1>Petra Cortright, '470 nitro express', 2014, Steve Turner | Artsy</h1><p>Petra Cortright uses a range of mediums, both digital and analog, to explore the aesthetics and performative cultures of online consumption. She is particularly interested in video-sharing sites like Youtube: in (2007), for example, Cortright recorded herself on a webcam passively scrolling through different effects on the recording device, while a repetitive trance beat played in the background.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48ef4be42b5ad67f8db3c7cc75b60a0a/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fx0aLx-tKeOuBqSHvqM8IQQ%2Flarge.jpg"></article>]]></description>
-            <link>https://m.artsy.net/artwork/petra-cortright-470-nitro-express</link>
-            <guid isPermaLink="false">e664cb23-abeb-4bac-9bab-6b99e172cd80</guid>
             <pubDate>Thu, 11 Aug 2016 19:10:52 GMT</pubDate>
         </item>
     </channel>
