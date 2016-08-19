@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 19:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 19:13:30 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Steve Schapiro, 'Robert Redford & Lauren Hutton, Sonoma, CA', 1970, Atlas Gallery | Artsy]]></title>
+            <description><![CDATA[<article><h1>Steve Schapiro, 'Robert Redford & Lauren Hutton, Sonoma, CA', 1970, Atlas Gallery | Artsy</h1><p>A prolific photographer and photojournalist, Steve Schapiro has covered major historical events and captured seminal moments, from Martin Luther King, Jr.'s 1963 march in Selma and Robert F. Kennedy's 1968 presidential campaign, to Andy Warhol and Edie Sedgwick in The Factory.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/74b7d203c5d237f3d61a34c377179409/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fs-PwT5q1Tqyr1Zcqo2jw6A%2Flarge.jpg"></article>]]></description>
+            <link>https://m.artsy.net/artwork/steve-schapiro-robert-redford-and-lauren-hutton-sonoma-ca</link>
+            <guid isPermaLink="false">6c19da1c-a93f-4bb0-ace4-db47aed0e7e1</guid>
+            <pubDate>Fri, 19 Aug 2016 19:12:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Steve Schapiro, 'Martin Luther King Jr. leading March, Selma, AL', 1965, Atlas Gallery | Artsy]]></title>
             <description><![CDATA[<article><h1>Steve Schapiro, 'Martin Luther King Jr. leading March, Selma, AL', 1965, Atlas Gallery | Artsy</h1><p>A prolific photographer and photojournalist, Steve Schapiro has covered major historical events and captured seminal moments, from Martin Luther King, Jr.'s 1963 march in Selma and Robert F. Kennedy's 1968 presidential campaign, to Andy Warhol and Edie Sedgwick in The Factory.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0e07c49737dc64f160c7de76a79dc0fd/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FoYsUzBqKM05GZedJg0LKfA%2Flarge.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Jeonghan & Choonhyang Yun, 'Magnolia 1624', 2015, Anita Shapolsky Gallery | Artsy</h1><p>Home Museums Artists Fairs Shows Auctions Galleries Magazine</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a76eb4d0ca62e19308aca63b5e46c2f7/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FHJ2fdJYmPBo7VomM9N2Ulw%2Flarge.jpg"></article>]]></description>
             <link>https://m.artsy.net/artwork/jeonghan-and-choonhyang-yun-magnolia-1624</link>
             <guid isPermaLink="false">cbe70f11-5740-4c4a-a3c8-ae81f27458c2</guid>
-            <pubDate>Mon, 15 Aug 2016 19:22:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zhou Jinhua 周金华, 'Empathetic Naturalism可怜的自然主义', 2013, ART LABOR Gallery | Artsy]]></title>
-            <description><![CDATA[<article><h1>Zhou Jinhua 周金华, 'Empathetic Naturalism可怜的自然主义', 2013, ART LABOR Gallery | Artsy</h1><p>ART LABOR Gallery is located in Shanghai, in the city's most unique neighborhood. We have nurtured some notable Chinese talents such as Lu Xinjian, Ying Yefu, and Lu Yang, and shown internationally regarded artists Douglas Coupland, An Te Liu, and Koen Vanmechelen.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/243057a1b75bff06dd9f3a0898cec236/croprotate.jpg?cropheight=608&cropwidth=636&degrees=0&input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FYQZ0PFAmaa7zRzYc4RcVew%2Flarge.jpg&x=0&y=16"></article>]]></description>
-            <link>https://m.artsy.net/artwork/zhou-jinhua-zhou-jin-hua-empathetic-naturalismke-lian-de-zi-ran-zhu-yi</link>
-            <guid isPermaLink="false">7e4efd30-c8b8-4fc5-846f-7a3b3e47fbc3</guid>
             <pubDate>Mon, 15 Aug 2016 19:22:16 GMT</pubDate>
         </item>
     </channel>
