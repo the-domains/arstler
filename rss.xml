@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 19:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 19:13:27 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Donald Sultan, 'Big Yellow, Sept 12', 2014, Newzones | Artsy]]></title>
+            <description><![CDATA[<article><h1>Donald Sultan, 'Big Yellow, Sept 12', 2014, Newzones | Artsy</h1><p>Donald Sultan's large-scale still life paintings are filled with rich iconography-provocative objects, like bulbous fruits, set against a tar-black background. Although primarily classified as a still lifes, Sultan maintains that his works (despite their representational objects-flowers, lemons, eggs, buttons) are first and foremost abstract.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8f9b54c530c90825e7807c50bdbc8b86/croprotate.jpg?cropheight=628&cropwidth=632&degrees=0&input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fd2RsVD3PLGU7VPsZj-5RJA%2Flarge.jpg&x=4&y=4"></article>]]></description>
+            <link>https://m.artsy.net/artwork/donald-sultan-big-yellow-sept-12</link>
+            <guid isPermaLink="false">0f7998d4-e3d9-4f80-8a57-c4147e4255d8</guid>
+            <pubDate>Fri, 19 Aug 2016 19:12:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Steve Schapiro, 'Warhol and Sedgwick Entourage, NYC', 1965, Atlas Gallery | Artsy]]></title>
             <description><![CDATA[<article><h1>Steve Schapiro, 'Warhol and Sedgwick Entourage, NYC', 1965, Atlas Gallery | Artsy</h1><p>A prolific photographer and photojournalist, Steve Schapiro has covered major historical events and captured seminal moments, from Martin Luther King, Jr.'s 1963 march in Selma and Robert F. Kennedy's 1968 presidential campaign, to Andy Warhol and Edie Sedgwick in The Factory.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/50a85ac4360e66a7a427f2250e700f96/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F8VUDpm-PDa6_wSOL8nbgtA%2Flarge.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Max Presneill, 'Prometheus - Redact 099', 2016, TWFINEART | Artsy</h1><p>TWFINEART is a contemporary art gallery that focuses its portfolio on the latest art trends from around the world. We represent a varied collection of pioneering and critically acclaimed international artists who push boundaries and drive culture forward through their work.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/07796db6c1e1181a62b7f99fe87f2bab/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FoXqTwaLH8QzAG4L0m2NUPQ%2Flarge.jpg"></article>]]></description>
             <link>https://m.artsy.net/artwork/max-presneill-prometheus-redact-099</link>
             <guid isPermaLink="false">e698cca7-7e18-4dd8-aa27-096041951270</guid>
-            <pubDate>Mon, 15 Aug 2016 19:22:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Farhad Rahman, 'Untitled', 2015, Rubber Factory | Artsy]]></title>
-            <description><![CDATA[<article><h1>Farhad Rahman, 'Untitled', 2015, Rubber Factory | Artsy</h1><p>Home Museums Artists Fairs Shows Auctions Galleries Magazine</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/752d009f2abe68f2964fea7f428ed4ee/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FyeWyGK6cV6jNQ6XHkXTlWw%2Flarge.jpg"></article>]]></description>
-            <link>https://m.artsy.net/artwork/farhad-rahman-untitled</link>
-            <guid isPermaLink="false">58b19590-edb4-4f69-8284-d9ee7bf5d710</guid>
             <pubDate>Mon, 15 Aug 2016 19:22:15 GMT</pubDate>
         </item>
     </channel>
