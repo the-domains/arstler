@@ -1,20 +1,4 @@
-name: arstler.com
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.31095
-title: ' arstler™ - in fact, I''d like to steal this painting™'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-634542-82
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,20 @@ color:
   lightness: 1
   saturation: 1
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: UA-634542-82
+  facebook: null
+  twitter: null
+name: arstler.com
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: ' arstler™'
 purpose: []
