@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 19:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 19:13:28 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Newzones | "Sunscreen" - Group Show]]></title>
+            <description><![CDATA[<article><h1>Newzones | "Sunscreen" - Group Show</h1><p>Newzones represents contemporary artists including Dianne Bos, Yehouda Chaki, Franco DeFrancesca, Jonathan Forrest, Bradley Harms, Joshua Jensen-Nagle, Deborah Kass, Alex Katz, Anda Kubis, Marie Lannoo, Stuart McCall, Sarah Nind, William Perehudoff, Rana Rochat, Pat Service, Donald Sultan, .</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ece86eea052573067b78eed86c7bf4cd/noop.jpg?input=http%3A%2F%2Fwww.newzones.com%2Fdynamic%2Fimages%2Fdisplay%2FYehouda_Chaki_Flowers_247_A_11873_405.jpg"></article>]]></description>
+            <link>http://www.newzones.com/dynamic/exhibit_artist.asp?ExhibitID=378#!prettyPhoto%5Bgallery%5D/1/</link>
+            <guid isPermaLink="false">8d250601-1140-4e92-b584-b1a91c07112e</guid>
+            <pubDate>Fri, 19 Aug 2016 19:12:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Donald Sultan, 'Big Yellow, Sept 12', 2014, Newzones | Artsy]]></title>
             <description><![CDATA[<article><h1>Donald Sultan, 'Big Yellow, Sept 12', 2014, Newzones | Artsy</h1><p>Donald Sultan's large-scale still life paintings are filled with rich iconography-provocative objects, like bulbous fruits, set against a tar-black background. Although primarily classified as a still lifes, Sultan maintains that his works (despite their representational objects-flowers, lemons, eggs, buttons) are first and foremost abstract.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8f9b54c530c90825e7807c50bdbc8b86/croprotate.jpg?cropheight=628&cropwidth=632&degrees=0&input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fd2RsVD3PLGU7VPsZj-5RJA%2Flarge.jpg&x=4&y=4"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Eduardo Santiere, 'Symphony #22', 2012, Henrique Faria Fine Art | Artsy</h1><p>Eduardo Santiere creates delicate abstract compositions on paper exclusively using graphite, colored pencil, and incisions in the work's surface-a combined practice of marking and scratching. He is best known for using a needle to lance the paper and create linear patterns from lacerations. As a result, his works appear to be both drawings and delicate sculptural reliefs.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6eb5fd2500b87c00fafd09539b2b6547/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F1AvUc_K9WrJqJYR0EnUYsQ%2Flarge.jpg"></article>]]></description>
             <link>https://m.artsy.net/artwork/eduardo-santiere-symphony-number-22</link>
             <guid isPermaLink="false">ea46fb43-4456-48ec-8d9c-923e52486a68</guid>
-            <pubDate>Mon, 15 Aug 2016 19:22:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Max Presneill, 'Prometheus - Redact 099', 2016, TWFINEART | Artsy]]></title>
-            <description><![CDATA[<article><h1>Max Presneill, 'Prometheus - Redact 099', 2016, TWFINEART | Artsy</h1><p>TWFINEART is a contemporary art gallery that focuses its portfolio on the latest art trends from around the world. We represent a varied collection of pioneering and critically acclaimed international artists who push boundaries and drive culture forward through their work.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/07796db6c1e1181a62b7f99fe87f2bab/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FoXqTwaLH8QzAG4L0m2NUPQ%2Flarge.jpg"></article>]]></description>
-            <link>https://m.artsy.net/artwork/max-presneill-prometheus-redact-099</link>
-            <guid isPermaLink="false">e698cca7-7e18-4dd8-aa27-096041951270</guid>
             <pubDate>Mon, 15 Aug 2016 19:22:15 GMT</pubDate>
         </item>
     </channel>
