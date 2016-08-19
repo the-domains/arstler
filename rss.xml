@@ -4,15 +4,8 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 19:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 19:13:34 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Liegender weiblicher Akt mit Hund - Werke - Neuerwerbungen Frühjahr 2016 - Ausstellungen - Galerie Ludorff]]></title>
-            <description><![CDATA[<article><h1>Liegender weiblicher Akt mit Hund - Werke - Neuerwerbungen Frühjahr 2016 - Ausstellungen - Galerie Ludorff</h1><p>Galerie Ludorff is one of the leading international dealers in German Expressionism, German Impressionism, as well as in Post War Abstraction and the work of Selected Contemporary Artists. The gallery is located in Duesseldorf, Germany.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/27ea048bc2d786ea9b8bf7721631d1d1/noop.jpg?input=http%3A%2F%2Fwww.ludorff.com%2Fimagecache%2Fca%2F94%2Ferich_heckel_liegender_weiblicher_akt_mit_hund_ca_1911_ehp_17_540x315_q80.jpg"></article>]]></description>
-            <link>http://www.ludorff.com/de/exhibition/neuerwerbungen_fruehjahr_2016/work/liegender_weiblicher_akt_mit_hund</link>
-            <guid isPermaLink="false">81421fe9-e124-48e2-a9cb-22d5525a01fd</guid>
-            <pubDate>Fri, 19 Aug 2016 19:12:56 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[SP VI - Werke - Neuerwerbungen Frühjahr 2016 - Ausstellungen - Galerie Ludorff]]></title>
             <description><![CDATA[<article><h1>SP VI - Werke - Neuerwerbungen Frühjahr 2016 - Ausstellungen - Galerie Ludorff</h1><p>Galerie Ludorff is one of the leading international dealers in German Expressionism, German Impressionism, as well as in Post War Abstraction and the work of Selected Contemporary Artists. The gallery is located in Duesseldorf, Germany.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/10e68fc5de8d4bfc7bb0fe303549049c/noop.jpg?input=http%3A%2F%2Fwww.ludorff.com%2Fimagecache%2F0b%2F26%2Fjosef_albers_sp_vi_1967_jae_70_540x315_q80.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Donald Sultan, 'Big Yellow, Sept 12', 2014, Newzones | Artsy</h1><p>Donald Sultan's large-scale still life paintings are filled with rich iconography-provocative objects, like bulbous fruits, set against a tar-black background. Although primarily classified as a still lifes, Sultan maintains that his works (despite their representational objects-flowers, lemons, eggs, buttons) are first and foremost abstract.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8f9b54c530c90825e7807c50bdbc8b86/croprotate.jpg?cropheight=628&cropwidth=632&degrees=0&input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fd2RsVD3PLGU7VPsZj-5RJA%2Flarge.jpg&x=4&y=4"></article>]]></description>
             <link>https://m.artsy.net/artwork/donald-sultan-big-yellow-sept-12</link>
             <guid isPermaLink="false">0f7998d4-e3d9-4f80-8a57-c4147e4255d8</guid>
+            <pubDate>Fri, 19 Aug 2016 19:12:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Steve Schapiro, 'Warhol and Sedgwick Entourage, NYC', 1965, Atlas Gallery | Artsy]]></title>
+            <description><![CDATA[<article><h1>Steve Schapiro, 'Warhol and Sedgwick Entourage, NYC', 1965, Atlas Gallery | Artsy</h1><p>A prolific photographer and photojournalist, Steve Schapiro has covered major historical events and captured seminal moments, from Martin Luther King, Jr.'s 1963 march in Selma and Robert F. Kennedy's 1968 presidential campaign, to Andy Warhol and Edie Sedgwick in The Factory.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/50a85ac4360e66a7a427f2250e700f96/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F8VUDpm-PDa6_wSOL8nbgtA%2Flarge.jpg"></article>]]></description>
+            <link>https://m.artsy.net/artwork/steve-schapiro-warhol-and-sedgwick-entourage-nyc</link>
+            <guid isPermaLink="false">98c485f4-c423-46c7-9643-c9b4caffa23f</guid>
             <pubDate>Fri, 19 Aug 2016 19:12:55 GMT</pubDate>
         </item>
     </channel>
