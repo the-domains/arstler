@@ -4,8 +4,15 @@
         <description><![CDATA[ arstler]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 19:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 19:13:20 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Steve Schapiro, 'Warhol and Sedgwick Entourage, NYC', 1965, Atlas Gallery | Artsy]]></title>
+            <description><![CDATA[<article><h1>Steve Schapiro, 'Warhol and Sedgwick Entourage, NYC', 1965, Atlas Gallery | Artsy</h1><p>A prolific photographer and photojournalist, Steve Schapiro has covered major historical events and captured seminal moments, from Martin Luther King, Jr.'s 1963 march in Selma and Robert F. Kennedy's 1968 presidential campaign, to Andy Warhol and Edie Sedgwick in The Factory.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/50a85ac4360e66a7a427f2250e700f96/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F8VUDpm-PDa6_wSOL8nbgtA%2Flarge.jpg"></article>]]></description>
+            <link>https://m.artsy.net/artwork/steve-schapiro-warhol-and-sedgwick-entourage-nyc</link>
+            <guid isPermaLink="false">98c485f4-c423-46c7-9643-c9b4caffa23f</guid>
+            <pubDate>Fri, 19 Aug 2016 19:12:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Madelyn Jordon Fine Art :: Exhibitions :: In the Country, By the Sea-- Parts I and II]]></title>
             <description><![CDATA[<article><h1>Madelyn Jordon Fine Art :: Exhibitions :: In the Country, By the Sea-- Parts I and II</h1><p>Madelyn Jordon Fine Art specializes in American and European works of art, from the 20th century to the contemporary. The gallery, located in Scarsdale, NY, in lower Westchester County, seeks to be a source for collectors for works of art that are accessible, affordable and of the highest quality.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bacf3019377b34859f6011eee9faf3d9/noop.jpg?input=http%3A%2F%2Fmadelynjordonfineart.com%2Fpics%2Fwork%2Fthumb%2F488a9aed-f694-4bdc-9394-4eb6e06d415f.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Farhad Rahman, 'Untitled', 2015, Rubber Factory | Artsy</h1><p>Home Museums Artists Fairs Shows Auctions Galleries Magazine</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/752d009f2abe68f2964fea7f428ed4ee/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FyeWyGK6cV6jNQ6XHkXTlWw%2Flarge.jpg"></article>]]></description>
             <link>https://m.artsy.net/artwork/farhad-rahman-untitled</link>
             <guid isPermaLink="false">58b19590-edb4-4f69-8284-d9ee7bf5d710</guid>
-            <pubDate>Mon, 15 Aug 2016 19:22:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andile Dyalvane: Camagu - Exhibitions - Friedman Benda]]></title>
-            <description><![CDATA[<article><h1>Andile Dyalvane: Camagu - Exhibitions - Friedman Benda</h1><p>New York, NY [March 23, 2016] - Friedman Benda is excited to present Camagu, the first solo exhibition in America for South African artist Andile Dyalvane. The show, which includes approximately 30 large-scale clay works, runs from June 23 - August 19, 2016.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7c797b1fd7f6384b0a9c112cf4e0e974/noop.jpg?input=http%3A%2F%2Fimages.friedmanbenda.com%2Fwww_friedmanbenda_com%2FCamagu_install_070.jpg"></article>]]></description>
-            <link>http://www.friedmanbenda.com/exhibitions/current/andile-dyalvane-camagu</link>
-            <guid isPermaLink="false">f871f9fe-d4a9-4f5e-8d52-1d0134891380</guid>
             <pubDate>Mon, 15 Aug 2016 19:22:15 GMT</pubDate>
         </item>
     </channel>
