@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: 'arstler™ - in fact, I''d like to steal this painting™'
+    id: 8e1e6782-92ec-4bae-b65d-3191a4443bf3
+    type: content
 favicon: null
 title: ' arstler™'
 description: 'in fact, I''d like to steal this painting™'
