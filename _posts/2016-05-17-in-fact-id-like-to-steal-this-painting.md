@@ -1,23 +1,37 @@
 ---
-inFeed: false
+id: 8e1e6782-92ec-4bae-b65d-3191a4443bf3
+metadata:
+  datePublished: '2016-07-23T19:05:56.178Z'
+  sourcePath: _posts/2016-05-17-in-fact-id-like-to-steal-this-painting.md
+  inFeed: false
+  isBasedOnUrl: null
+  authors: []
+  hasPage: true
+  keywords: []
+  author: []
+  via: {}
+  dateModified: '2016-07-23T19:05:56.178Z'
+  title: ''
+  publisher: {}
+  description: >-
+    This site is an experiment initiated by Genu Berlo in fabricating art focus
+    and education. arstler.com
+  inLanguage: null
+  inNav: true
+dateModified: '2016-08-19T19:57:19.752Z'
+title: ''
+datePublished: '2016-08-19T19:57:20.696Z'
+author: []
 hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
 description: >-
   This site is an experiment initiated by Genu Berlo in fabricating art focus
   and education. arstler.com
-datePublished: '2016-07-23T19:05:56.178Z'
-dateModified: '2016-07-23T19:05:46.106Z'
-title: ''
-author: []
-sourcePath: _posts/2016-05-17-in-fact-id-like-to-steal-this-painting.md
-via: {}
-authors: []
 publisher: {}
+via: {}
 starred: false
+sourcePath: _posts/2016-05-17-in-fact-id-like-to-steal-this-painting.md
 url: in-fact-id-like-to-steal-this-painting/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 This site is an experiment initiated by Genu Berlo in fabricating art focus and education. **arstler.com**
