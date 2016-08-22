@@ -33,11 +33,11 @@ navigation:
     id: 8e1e6782-92ec-4bae-b65d-3191a4443bf3
     type: content
 favicon: null
+name: arstler.com
 author:
   email: pixr2.com@gmail.com
   url: berlo.net
   name: Genu Berlo
-name: arstler.com
 opengraph:
   image: null
   type: null
@@ -47,4 +47,4 @@ analytics:
   google: UA-634542-82
   facebook: null
 typography_spectrum: 0.2408727023284882
-layout_spectrum: 0.4255319
+layout_spectrum: 0.9723404
