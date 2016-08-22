@@ -15,15 +15,15 @@ collections:
 description: ''
 color:
   saturation: 0.3719075177796185
-  brandStrength: 0.1416346735786647
-  rhythmicContrast: 0.5963188973255455
+  brandStrength: 0
+  lightness: 0.708295084303245
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  lightness: 0.708295084303245
+  rhythmicContrast: 0.5963188973255455
 cta:
   bucket: null
   version: null
@@ -32,12 +32,12 @@ navigation:
   - name: 'arstler™ - in fact, I''d like to steal this painting™'
     id: 8e1e6782-92ec-4bae-b65d-3191a4443bf3
     type: content
-favicon: null
 name: arstler.com
 author:
   email: pixr2.com@gmail.com
   url: berlo.net
   name: Genu Berlo
+favicon: null
 opengraph:
   image: null
   type: null
@@ -47,4 +47,4 @@ analytics:
   google: UA-634542-82
   facebook: null
 typography_spectrum: 0.2408727023284882
-layout_spectrum: 0.3234043
+layout_spectrum: 0.0680851
