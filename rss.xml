@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ arstler]]></title>
-        <description><![CDATA[ arstler]]></description>
+        <title><![CDATA[arstler.com]]></title>
+        <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 19:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 18:50:26 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Saatchi Art Artist: Jonas Fisch; Acrylic 2016 Painting "Outsiders"]]></title>
+            <description><![CDATA[<article><h1>Saatchi Art Artist: Jonas Fisch; Acrylic 2016 Painting "Outsiders"</h1><p>Unstretched canvas. B</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/434daf8f7bcf69c8849610a8b3a4a02f/croprotate.jpg?cropheight=582&cropwidth=737&degrees=0&input=http%3A%2F%2Fsaimg-a.akamaihd.net%2Fsaatchi%2F738587%2Fart%2F3227757%2F2297644-PQERVGYL-7.jpg&x=16&y=0"></article>]]></description>
+            <link>https://www.saatchiart.com/art/Painting-Outsiders/738587/3037012/view?utm_source=artists&amp;utm_medium=email&amp;utm_campaign=2005&amp;c_aid=news&amp;c_crid=sale11&amp;c_xid=082116&amp;utm_content=082116_news</link>
+            <guid isPermaLink="false">1d5d8250-bc5c-48c7-9cef-eaa72877962c</guid>
+            <pubDate>Mon, 22 Aug 2016 18:49:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kunstmuseum Basel | Exhibitions | Upcoming | Enthralling Engraving]]></title>
+            <description><![CDATA[<article><h1>Kunstmuseum Basel | Exhibitions | Upcoming | Enthralling Engraving</h1><p>The Kunstmuseum Basel's Kupferstichkabinett owns an exceptionally rich assortment of engravings by Goltzius; the exhibition will be the first to present the full breadth of our holdings. The works have been among the museum's treasures for a long time, and some can be traced to the generous donation made by the Basel landscape painter and collector Samuel Birmann (1793-1847).</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/047d2be4f25b295a0c0b2739291d482a/noop.jpg?input=http%3A%2F%2Fwww.kunstmuseumbasel.ch%2Ffileadmin%2Fuser_upload%2FGoltzius_Hendrik_The_four_Falling_Disgracers_Phaethon_Gesamtansicht_b659ac9f_WEB.jpg"></article>]]></description>
+            <link>http://www.kunstmuseumbasel.ch/en/exhibitions/upcoming/enthralling-engraving/</link>
+            <guid isPermaLink="false">5e38f04b-b5e7-44ad-8348-0512e0308d38</guid>
+            <pubDate>Fri, 19 Aug 2016 19:12:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Donald Judd, 'Untitled', 1969, Kunstmuseum Basel | Artsy]]></title>
             <description><![CDATA[<article><h1>Donald Judd, 'Untitled', 1969, Kunstmuseum Basel | Artsy</h1><p>Donald Judd, widely regarded as one of the most significant American artists of the post-war period, is perhaps best-known for the large-scale outdoor installations and long, spacious interiors he designed in Marfa, Texas. His oeuvre has come to define what has been referred to as Minimalist art-a label the artist strongly objected to.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b3838d933238bf3fe5bf315882feec1e/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FmK6xJu-SmIgOqgryJbxlwg%2Flarge.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Liegender weiblicher Akt mit Hund - Werke - Neuerwerbungen Frühjahr 2016 - Ausstellungen - Galerie Ludorff</h1><p>Galerie Ludorff is one of the leading international dealers in German Expressionism, German Impressionism, as well as in Post War Abstraction and the work of Selected Contemporary Artists. The gallery is located in Duesseldorf, Germany.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/27ea048bc2d786ea9b8bf7721631d1d1/noop.jpg?input=http%3A%2F%2Fwww.ludorff.com%2Fimagecache%2Fca%2F94%2Ferich_heckel_liegender_weiblicher_akt_mit_hund_ca_1911_ehp_17_540x315_q80.jpg"></article>]]></description>
             <link>http://www.ludorff.com/de/exhibition/neuerwerbungen_fruehjahr_2016/work/liegender_weiblicher_akt_mit_hund</link>
             <guid isPermaLink="false">81421fe9-e124-48e2-a9cb-22d5525a01fd</guid>
-            <pubDate>Fri, 19 Aug 2016 19:12:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SP VI - Werke - Neuerwerbungen Frühjahr 2016 - Ausstellungen - Galerie Ludorff]]></title>
-            <description><![CDATA[<article><h1>SP VI - Werke - Neuerwerbungen Frühjahr 2016 - Ausstellungen - Galerie Ludorff</h1><p>Galerie Ludorff is one of the leading international dealers in German Expressionism, German Impressionism, as well as in Post War Abstraction and the work of Selected Contemporary Artists. The gallery is located in Duesseldorf, Germany.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/10e68fc5de8d4bfc7bb0fe303549049c/noop.jpg?input=http%3A%2F%2Fwww.ludorff.com%2Fimagecache%2F0b%2F26%2Fjosef_albers_sp_vi_1967_jae_70_540x315_q80.jpg"></article>]]></description>
-            <link>http://www.ludorff.com/de/exhibition/neuerwerbungen_fruehjahr_2016/work/sp_vi</link>
-            <guid isPermaLink="false">b7dd9849-b5c6-40da-929a-b81c2acbbf1c</guid>
-            <pubDate>Fri, 19 Aug 2016 19:12:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Won Kun Jun Solo Exhibition at Youngeun Museum]]></title>
-            <description><![CDATA[<article><h1>Won Kun Jun Solo Exhibition at Youngeun Museum</h1><p>전원근 작가의 개인전이 영은미술관 (Youngeun Museum of Contemporary Art) 에서 열리고 있습니다. 많은 관심 부탁드립니다. Won Kun Jun's solo exhibition is currently being held at Youngeun Museum of Contemporary Art.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/297a810243d10cfae807eff873d2871a/noop.jpg?input=http%3A%2F%2Fwww.gallerylvs.org%2Fwp-content%2Fuploads%2F2016%2F07%2FKakaoTalk_20160723_134827564.jpg"></article>]]></description>
-            <link>http://www.gallerylvs.org/?p=3431</link>
-            <guid isPermaLink="false">eee48ee8-de1a-422c-accd-bcc97fbda145</guid>
             <pubDate>Fri, 19 Aug 2016 19:12:56 GMT</pubDate>
         </item>
     </channel>
