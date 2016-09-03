@@ -14,16 +14,16 @@ collections:
       path: '/:title/'
 description: ''
 color:
-  saturation: 0.3719075177796185
+  saturation: 0.3719075
   brandStrength: 0
-  rhythmicContrast: 0.5963188973255455
+  lightness: 1
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  lightness: 0.708295084303245
+  rhythmicContrast: 0.5963189
 cta:
   bucket: null
   version: null
@@ -47,4 +47,4 @@ navigation:
     id: 8e1e6782-92ec-4bae-b65d-3191a4443bf3
     type: content
 typography_spectrum: 0.7446808
-layout_spectrum: 0.3234043
+layout_spectrum: 0
