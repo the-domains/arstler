@@ -6,45 +6,45 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 description: ''
 color:
   saturation: 0.3719075177796185
   brandStrength: 0
-  lightness: 0.708295084303245
+  rhythmicContrast: 0.5963188973255455
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  rhythmicContrast: 0.5963188973255455
+  lightness: 0.708295084303245
 cta:
   bucket: null
   version: null
   domain: null
-navigation:
-  - name: 'arstler™ - in fact, I''d like to steal this painting™'
-    id: 8e1e6782-92ec-4bae-b65d-3191a4443bf3
-    type: content
-favicon: null
-name: arstler.com
-author:
-  email: pixr2.com@gmail.com
-  url: berlo.net
-  name: Genu Berlo
-opengraph:
-  image: null
-  type: null
-  appId: null
 analytics:
   twitter: null
   google: UA-634542-82
   facebook: null
-typography_spectrum: 0.2408727023284882
-layout_spectrum: 0.9723404
+favicon: null
+author:
+  email: pixr2.com@gmail.com
+  url: berlo.net
+  name: Genu Berlo
+name: arstler.com
+opengraph:
+  image: null
+  type: null
+  appId: null
+navigation:
+  - name: 'arstler™ - in fact, I''d like to steal this painting™'
+    id: 8e1e6782-92ec-4bae-b65d-3191a4443bf3
+    type: content
+typography_spectrum: 0.7446808
+layout_spectrum: 0.3234043
