@@ -1,5 +1,42 @@
-title: ''
-purpose: []
+typography_spectrum: 0.8438836585264653
+color:
+  saturation: 0.9627383064944297
+  brandStrength: 0.7189677257556468
+  rhythmicContrast: 0.4316069656051695
+  brandColors:
+    - '#FFFFFF'
+    - '#0D0D0F'
+    - '#010103'
+    - '#19191B'
+    - '#EFEFEF'
+  lightness: 0.9624973556492478
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.306383
+analytics:
+  twitter: null
+  google: UA-634542-82
+  facebook: null
+author:
+  email: ''
+  url: ''
+  name: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a1f760c-24ff-4080-9f8f-cc997d994ea6.png
+name: arstler.com
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: 'arstler™ - in fact, I''d like to steal this painting™'
+    id: 8e1e6782-92ec-4bae-b65d-3191a4443bf3
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0552a8d3-aeb8-433c-9c16-ed807a5c2ff9.png
 collections:
   - index:
       path: /
@@ -12,39 +49,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: ''
+content: []
 description: ''
-color:
-  saturation: 0.3719075
-  brandStrength: 0
-  lightness: 1
-  brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  rhythmicContrast: 0.5963189
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-634542-82
-  facebook: null
-favicon: null
-author:
-  email: pixr2.com@gmail.com
-  url: berlo.net
-  name: Genu Berlo
-name: arstler.com
-opengraph:
-  image: null
-  type: null
-  appId: null
-navigation:
-  - name: 'arstler™ - in fact, I''d like to steal this painting™'
-    id: 8e1e6782-92ec-4bae-b65d-3191a4443bf3
-    type: content
-typography_spectrum: 0.7446808
-layout_spectrum: 0
+purpose: []
