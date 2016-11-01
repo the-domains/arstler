@@ -4,9 +4,16 @@
         <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Nov 2016 15:01:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Nov 2016 15:03:05 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 01 Nov 2016 15:01:49 GMT</pubDate>
+        <pubDate>Tue, 01 Nov 2016 15:01:55 GMT</pubDate>
+        <item>
+            <title><![CDATA[Returning Home: Chen Jiang-Hong]]></title>
+            <description><![CDATA[<article><h1>Returning Home: Chen Jiang-Hong</h1><p>Gallery Elena Shchukina presents Returning Home, an exhibition of ink wash and oil painting by Paris-based Chinese artist Chen Jiang-Hong</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e6dad982fdb8d0ec3744dbf60dab5064/noop.jpg?input=http%3A%2F%2Fres.cloudinary.com%2Fartlogic%2Fw_450%2Ch_450%2Cc_fill%2Fws-ges%2Fusr%2Fimages%2Fexhibitions%2Fgroup_images_override%2F32%2Fchen-ba-149-sans-titre-25-f.jpg"></article>]]></description>
+            <link>http://galleryelenashchukina.com/chen-jiang-hong/returning-home/</link>
+            <guid isPermaLink="false">b0b77d8c-9489-4a11-8dff-009ab1f0e829</guid>
+            <pubDate>Tue, 01 Nov 2016 15:01:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sandra Davolio, 'Undulating Lines', 2016, J. Lohmann Gallery | Artsy]]></title>
             <description><![CDATA[<article><h1>Sandra Davolio, 'Undulating Lines', 2016, J. Lohmann Gallery | Artsy</h1><p>Home Museums Artists Fairs Shows Auctions Galleries Magazine</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/0dd905b4fd05c3e2cab1665d81c2e7c0/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FKOsW3_aSSDONjcR3bA_7Ew%2Flarge.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://frieze.com/article/frieze-art-fair-stand-prize-2016-announced</link>
             <guid isPermaLink="false">64b07e55-2964-48b6-acfd-b35cf4448212</guid>
             <pubDate>Thu, 06 Oct 2016 08:34:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grace Weaver | hot dog heaven (2014) | Available for Sale | Artsy]]></title>
-            <description><![CDATA[<article><h1>Grace Weaver | hot dog heaven (2014) | Available for Sale | Artsy</h1><p>Available for sale from Koppe Astner, Grace Weaver, hot dog heaven (2014), Oil on canvas, 1833 × 122 cm</p></article>]]></description>
-            <link>https://www.artsy.net/artwork/grace-weaver-hot-dog-heaven</link>
-            <guid isPermaLink="false">019a5557-3179-4bc4-a920-4c92131839bf</guid>
-            <pubDate>Thu, 06 Oct 2016 08:27:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
