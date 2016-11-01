@@ -1,0 +1,16 @@
+---
+inFeed: true
+description: Home Museums Artists Fairs Shows Auctions Galleries Magazine
+dateModified: '2016-10-26T15:10:24.407Z'
+datePublished: '2016-11-01T15:01:50.406Z'
+title: 'Lynn Gall, ''Study for Zowie! Zanapers!'', 2016, Carter Burden Gallery | Artsy'
+author: []
+publisher: {}
+via: {}
+isBasedOnUrl: 'https://m.artsy.net/artwork/lynn-gall-study-for-zowie-zanapers'
+starred: false
+sourcePath: _posts/2016-11-01-lynn-gall-study-for-zowie-zanapers-2016-carter-burden.md
+_type: MediaObject
+
+---
+<article style=""><h1>Lynn Gall, 'Study for Zowie! Zanapers!', 2016, Carter Burden Gallery | Artsy</h1><p>Home Museums Artists Fairs Shows Auctions Galleries Magazine</p><img src="https://d32dm0rphc51dk.cloudfront.net/Y6IYhxApkl-BUNfnCj3_EQ/large.jpg" /></article>
