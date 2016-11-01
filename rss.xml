@@ -4,9 +4,16 @@
         <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Nov 2016 15:03:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Nov 2016 15:06:01 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 01 Nov 2016 15:02:04 GMT</pubDate>
+        <pubDate>Tue, 01 Nov 2016 15:02:09 GMT</pubDate>
+        <item>
+            <title><![CDATA[Lynn Gall, 'Study for Zowie! Zanapers!', 2016, Carter Burden Gallery | Artsy]]></title>
+            <description><![CDATA[<article><h1>Lynn Gall, 'Study for Zowie! Zanapers!', 2016, Carter Burden Gallery | Artsy</h1><p>Home Museums Artists Fairs Shows Auctions Galleries Magazine</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c10f7c87daf5fc100539a23298b9a46e/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FY6IYhxApkl-BUNfnCj3_EQ%2Flarge.jpg"></article>]]></description>
+            <link>https://m.artsy.net/artwork/lynn-gall-study-for-zowie-zanapers</link>
+            <guid isPermaLink="false">a085194e-5bf6-4933-810c-d14a3b380af5</guid>
+            <pubDate>Tue, 01 Nov 2016 15:01:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CURRENT EDITION | MAURA SEGAL | VIEW COLLECTION | Marmalade | SPOTTE]]></title>
             <description><![CDATA[<article><h1>CURRENT EDITION | MAURA SEGAL | VIEW COLLECTION | Marmalade | SPOTTE</h1><p>Maura has works at the Martin Luther King Jr. Hospital, in Los Angeles, private collection in San Diego, California and the Albamarie facility in Charlotte, North Carolina. Her works are also exhibited at SLATE art, Oakland, California, Ann Connelly Fine Art, Baton Rouge, Louisiana and Blue Print, Dallas, Texas.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b679fddc4003ddc811fe6f1b81c7fbe7/noop.jpg?input=http%3A%2F%2Fspotteart.com%2Fbackend%2Fweb%2Fimages%2Fwork%2F638.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://arstler.com/damir-ocko-repeat-after-me/index.html</link>
             <guid isPermaLink="false">ef976511-48a6-4068-a20a-ec83b0338c0e</guid>
             <pubDate>Fri, 14 Oct 2016 08:00:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why I Consider Burning Man the Greatest Cultural Movement of Our Time]]></title>
-            <description><![CDATA[<article><h1>Why I Consider Burning Man the Greatest Cultural Movement of Our Time</h1><p>Burning Man has created something like a parallel art world. Over the years, I have watched many artists find their place at the event and build careers through their relationship to it. Kate Raudenbush's Helios (2016) drew inspiration from the theme of Leonardo da Vinci's Workshop, and sought to fuse art and technology.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/32e37e2e59ddf74a431907e7975857dd/noop.jpg?input=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2Fzz7G3pPfmTLGE5l0CBT1lg%252FIMG_6296.jpg"></article>]]></description>
-            <link>https://www.artsy.net/article/artsy-editorial-why-i-consider-burning-man-the-greatest-cultural-movement-of-our-time</link>
-            <guid isPermaLink="false">e33a76bd-5188-41e0-bcc8-91cd618c390f</guid>
-            <pubDate>Wed, 12 Oct 2016 19:57:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
