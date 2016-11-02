@@ -1,26 +1,28 @@
 ---
-datePublished: '2016-11-02T11:14:48.243Z'
+datePublished: '2016-11-02T11:23:53.916Z'
+sourcePath: _posts/2016-11-02-carroll-dunham-works-gladstone-gallery.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-02T11:12:19.785Z'
-title: Carroll Dunham - Works - Gladstone Gallery
+dateModified: '2016-11-02T11:23:53.141Z'
+title: 'Carroll Dunham '
 publisher: {}
-description: |-
-  Ball Painting #2, 1991
-  Mixed media on linen
-  42 1/4 x 63 x 2 1/2 inches (107.3 x 160 x 6.4 cm)
-  44 3/8 x 65 x 3 inches (112.7 x 165.1 x 7.6 cm) framed
+description: 'Born 1949 New Haven, Connecticut'
 starred: false
-sourcePath: _posts/2016-11-02-carroll-dunham-works-gladstone-gallery.md
 url: carroll-dunham-works-gladstone-gallery/index.html
 _type: Article
 
 ---
-# Carroll Dunham - Works - Gladstone Gallery
+# Carroll Dunham 
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6a13af0395cf084cc1ca852ab1b17171/croprotate.jpg?cropheight=424&amp;cropwidth=620&amp;degrees=0&amp;input=http%3A%2F%2Fgladstonegallery.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fwork_detail%2Fpublic%2FCD1039_e.jpg&amp;x=5&amp;y=0" /><p>Ball Painting #2, 1991
+Born 1949 New Haven, Connecticut
+
+1972 Degree, Trinity College, Hartford, Connecticut
+
+Lives and works in New York
+
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0a6a14bc36df4cf0c03db70e9a2650cc61a5316.jpg" /><p>Ball Painting #2, 1991
 Mixed media on linen
 42 1/4 x 63 x 2 1/2 inches (107.3 x 160 x 6.4 cm)
 44 3/8 x 65 x 3 inches (112.7 x 165.1 x 7.6 cm) framed</p></article>
