@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-11-02T10:05:59.346Z'
+datePublished: '2016-11-06T17:06:23.988Z'
 sourcePath: _posts/2016-05-17-in-fact-id-like-to-steal-this-painting.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-02T10:05:58.715Z'
+dateModified: '2016-11-06T17:06:23.433Z'
 title: arstler™
 id: 8e1e6782-92ec-4bae-b65d-3191a4443bf3
 publisher: {}
 description: >-
   arstler.com is an experimental space designed by Genu Berlo. the early mission
-  is to present and make world’s art, design, and craft, accessible, fun and
-  educational.
+  is to  keep an eye on the global art market while discovering local talent and
+  trends.
 starred: false
 url: in-fact-id-like-to-steal-this-painting/index.html
 _type: MediaObject
@@ -20,7 +20,7 @@ _type: MediaObject
 ---
 # arstler_(tm)_
 
-**arstler.com** is an experimental space designed by [Genu Berlo][0]. the early mission is to present and make world's art, design, and craft, accessible, fun and educational.
+**arstler.com** is an experimental space designed by [Genu Berlo][0]. the early mission is to keep an eye on the global art market while discovering local talent and trends.
 
 **♥**
 
