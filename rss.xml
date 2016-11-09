@@ -4,9 +4,16 @@
         <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Nov 2016 18:49:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Nov 2016 18:51:11 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 09 Nov 2016 18:49:35 GMT</pubDate>
+        <pubDate>Wed, 09 Nov 2016 18:50:28 GMT</pubDate>
+        <item>
+            <title><![CDATA[Richard Tinkler, 'untitled #45', 2016, Albert Merola Gallery ]]></title>
+            <description><![CDATA[<article><h1>Richard Tinkler, 'untitled #45', 2016, Albert Merola Gallery </h1><p>Home Museums Artists Fairs Shows Auctions Galleries Magazine</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6c4a0c68fe2dab68b699551065c84208/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FZZ0mBsNimgU9U5FyLMFxmg%2Flarge.jpg"></article>]]></description>
+            <link>http://arstler.com/richard-tinkler-untitled-45-2016-albert-merola-gallery/index.html</link>
+            <guid isPermaLink="false">d4aa08de-5702-4d8e-9c11-b9b57f2f775b</guid>
+            <pubDate>Wed, 09 Nov 2016 18:50:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kendell Geers, 'Wretched of the Earth 48', 2014-2016, ADN | Artsy]]></title>
             <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9d6f536db19cb8201ce60c052e38bac3/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F2koOQTL4ESJ5udX-y17ugw%2Flarge.jpg"><p>Incorporating language, ready-mades, broken glass, film, performance, and other elements, Kendell Geers creates work that disrupts social norms and codes. Employing a wide range of references-from art history to pornography, iconography to kitsch-Geers questions the value of aesthetics and thumbs his nose at the concept of originality.</p></article>]]></description>
@@ -36,13 +43,6 @@
             <pubDate>Wed, 09 Nov 2016 14:41:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Richard Tinkler, 'untitled #45', 2016, Albert Merola Gallery | Artsy]]></title>
-            <description><![CDATA[<article><h1>Richard Tinkler, 'untitled #45', 2016, Albert Merola Gallery | Artsy</h1><p>Home Museums Artists Fairs Shows Auctions Galleries Magazine</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6c4a0c68fe2dab68b699551065c84208/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FZZ0mBsNimgU9U5FyLMFxmg%2Flarge.jpg"></article>]]></description>
-            <link>https://m.artsy.net/artwork/richard-tinkler-untitled-number-45</link>
-            <guid isPermaLink="false">d4aa08de-5702-4d8e-9c11-b9b57f2f775b</guid>
-            <pubDate>Wed, 09 Nov 2016 14:41:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rafik Majzoub, 'Room 11 - 2', 2015, Art On 56th | Artsy]]></title>
             <description><![CDATA[<article><h1>Rafik Majzoub, 'Room 11 - 2', 2015, Art On 56th | Artsy</h1><p>Art on 56th Gallery is an independent visual art gallery in Beirut, Lebanon. In addition to presenting a roster of Middle Eastern and international artists, the gallery's mission is to promote both established and promising contemporary Lebanese artists.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f72cc56e8aa90ffd4ffe8bdaa0a29ade/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FUno4kRwyxLtHC-GIsFuwxQ%2Flarge.jpg"></article>]]></description>
             <link>https://m.artsy.net/artwork/rafik-majzoub-room-11-2</link>
@@ -58,7 +58,7 @@
         </item>
         <item>
             <title><![CDATA[Ira Hoffecker, 'Hamburg Harbour', 2013, The Front Gallery | Artsy]]></title>
-            <description><![CDATA[<article><h1>Ira Hoffecker, 'Hamburg Harbour', 2013, The Front Gallery | Artsy</h1><p>The Front Gallery features Edmonton's artistic diversity in a relaxed and welcoming environment. Exhibiting artists work from all over the world, an extensive collection of books, antique furniture and collectibles.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e04c4136ee8b03ec9e92d5a2e21aee6f/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FC08lf7_A8i3z7APH06xuiQ%2Flarge.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Ira Hoffecker, 'Hamburg Harbour', 2013, The Front Gallery | Artsy</h1><p>The Front Gallery features Edmonton's artistic diversity in a relaxed and welcoming environment. Exhibiting artists work from all over the world, an extensive collection of books, antique furniture and collectibles.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ebb779401ba9d7298a406a83fc38ea5867c6ce9.jpg"></article>]]></description>
             <link>https://m.artsy.net/artwork/ira-hoffecker-hamburg-harbour</link>
             <guid isPermaLink="false">413e7373-5e7a-46eb-9247-bd3484512248</guid>
             <pubDate>Wed, 09 Nov 2016 14:41:44 GMT</pubDate>
