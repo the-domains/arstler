@@ -4,9 +4,16 @@
         <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Nov 2016 14:45:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Nov 2016 14:45:15 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 09 Nov 2016 14:42:13 GMT</pubDate>
+        <pubDate>Wed, 09 Nov 2016 14:42:19 GMT</pubDate>
+        <item>
+            <title><![CDATA[Rafik Majzoub, 'Room 11 - 2', 2015, Art On 56th | Artsy]]></title>
+            <description><![CDATA[<article><h1>Rafik Majzoub, 'Room 11 - 2', 2015, Art On 56th | Artsy</h1><p>Art on 56th Gallery is an independent visual art gallery in Beirut, Lebanon. In addition to presenting a roster of Middle Eastern and international artists, the gallery's mission is to promote both established and promising contemporary Lebanese artists.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f72cc56e8aa90ffd4ffe8bdaa0a29ade/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FUno4kRwyxLtHC-GIsFuwxQ%2Flarge.jpg"></article>]]></description>
+            <link>https://m.artsy.net/artwork/rafik-majzoub-room-11-2</link>
+            <guid isPermaLink="false">dc4757d0-a9af-4fb4-9d18-caa6470dd3ac</guid>
+            <pubDate>Wed, 09 Nov 2016 14:41:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tim Rowan, 'Untitled ', 2016, Lacoste Gallery | Artsy]]></title>
             <description><![CDATA[<article><h1>Tim Rowan, 'Untitled ', 2016, Lacoste Gallery | Artsy</h1><p>From a kiln in the woods of upstate New York, Tim Rowan sculpts geode-like ceramic vessels that are both dense and curvilinear. His apprenticeship to Japanese artist Ryuichi Kazurezaki instilled a deep respect for traditional Japanese design, evident in the firing and flame markings of his work.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/cbb4dd069c3ca9bf8b0b4879efb09ee0/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F5dqH36JlPw-BAHgvjlJ7fw%2Flarge.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://arstler.com/michael-williams-works-gladstone-gallery/index.html</link>
             <guid isPermaLink="false">a1ce1972-b8c3-4b7c-bffb-445e963f3ad7</guid>
             <pubDate>Wed, 02 Nov 2016 11:27:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Matte Stephens Illustration Art]]></title>
-            <description><![CDATA[<article><h1>Matte Stephens Illustration Art</h1><p>I was following Matte’s art since 2009, and I have to say I am still amazed and amused every time he’s showing a new painting. They have all the jazz and coffee, and you can admire a few selections right here: </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1766caf6-b82d-42c2-a3a6-84d5ea865190.jpg"></article>]]></description>
-            <link>http://arstler.com/matte-stephens-illustration-art/index.html</link>
-            <guid isPermaLink="false">35564096-2126-4bfa-9284-db4b488b354e</guid>
-            <pubDate>Tue, 01 Nov 2016 15:16:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
