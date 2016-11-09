@@ -1,20 +1,19 @@
 ---
-inFeed: true
-description: >-
-  Challenging the traditional categories of art, Wexler Gallery exhibits work
-  that coexists in the expressive realms of design and fine art. Questioning the
-  boundaries of these fields, the gallery presents functional work that
-  celebrates innovation as much as aesthetic beauty.
-dateModified: '2016-11-07T14:13:18.827Z'
-datePublished: '2016-11-09T14:41:45.690Z'
-title: 'Peter Pincus, ''Urn'', 2015, Wexler Gallery | Artsy'
-author: []
-publisher: {}
-via: {}
-isBasedOnUrl: 'https://m.artsy.net/artwork/peter-pincus-urn-5'
-starred: false
+datePublished: '2016-11-09T18:50:45.942Z'
 sourcePath: _posts/2016-11-09-peter-pincus-urn-2015-wexler-gallery-or-artsy.md
-_type: MediaObject
+inFeed: true
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-11-09T18:50:45.328Z'
+title: ''
+publisher: {}
+description: 'Peter Pincus, ''Urn'', 2015, Wexler Gallery'
+starred: false
+url: peter-pincus-urn-2015-wexler-gallery-or-artsy/index.html
+_type: Article
 
 ---
-<article style=""><h1>Peter Pincus, 'Urn', 2015, Wexler Gallery | Artsy</h1><p>Challenging the traditional categories of art, Wexler Gallery exhibits work that coexists in the expressive realms of design and fine art. Questioning the boundaries of these fields, the gallery presents functional work that celebrates innovation as much as aesthetic beauty.</p><img src="https://d32dm0rphc51dk.cloudfront.net/rwBPuisy3fb89cJtRJ5bMw/large.jpg" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e8cbcea9647d7981cbbde68f2187abdc/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FrwBPuisy3fb89cJtRJ5bMw%2Flarge.jpg" /><p>Challenging the traditional categories of art, Wexler Gallery exhibits work that coexists in the expressive realms of design and fine art. Questioning the boundaries of these fields, the gallery presents functional work that celebrates innovation as much as aesthetic beauty.</p></article>
+
+Peter Pincus, 'Urn', 2015, Wexler Gallery
