@@ -4,9 +4,16 @@
         <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Nov 2016 14:45:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Nov 2016 14:46:18 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 09 Nov 2016 14:42:21 GMT</pubDate>
+        <pubDate>Wed, 09 Nov 2016 14:42:22 GMT</pubDate>
+        <item>
+            <title><![CDATA[Julia Fox, '3', 2016, InLiquid | Artsy]]></title>
+            <description><![CDATA[<article><h1>Julia Fox, '3', 2016, InLiquid | Artsy</h1><p>InLiquid is a 501(c)(3) nonprofit organization committed to the promotion, advancement, and exhibition of artists in the Philadelphia region and beyond. InLiquid organizes numerous community-based events and exhibitions each year, and provides extensive art resources online.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9c39e31ac531b3581e29a911ea22c630/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FVOFa-kONTtcuyHbde-ZGvg%2Flarge.jpg"></article>]]></description>
+            <link>https://m.artsy.net/artwork/julia-fox-3</link>
+            <guid isPermaLink="false">236fcb6f-c97a-456a-a73f-880a48ebb3cd</guid>
+            <pubDate>Wed, 09 Nov 2016 14:41:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Richard Tinkler, 'untitled #45', 2016, Albert Merola Gallery | Artsy]]></title>
             <description><![CDATA[<article><h1>Richard Tinkler, 'untitled #45', 2016, Albert Merola Gallery | Artsy</h1><p>Home Museums Artists Fairs Shows Auctions Galleries Magazine</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6c4a0c68fe2dab68b699551065c84208/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FZZ0mBsNimgU9U5FyLMFxmg%2Flarge.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://arstler.com/adrian-ghenie/index.html</link>
             <guid isPermaLink="false">8e7cb386-ce23-4448-80f0-f25414c02926</guid>
             <pubDate>Wed, 02 Nov 2016 15:27:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Victor Man]]></title>
-            <description><![CDATA[<article><h1>Victor Man</h1><p>Born 1974</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8929af85cfe18b3c42cd5667f3211df7ba76a76.jpg"></article>]]></description>
-            <link>http://www.gladstonegallery.com/artist/victor-man/work#&amp;panel1-8</link>
-            <guid isPermaLink="false">23702c59-e050-42d7-81fb-28c78a416321</guid>
-            <pubDate>Wed, 02 Nov 2016 11:29:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
