@@ -1,22 +1,22 @@
 ---
-datePublished: '2016-11-02T15:27:39.294Z'
+datePublished: '2016-11-09T18:51:40.463Z'
+sourcePath: _posts/2016-11-02-adrian-ghenie.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-02T15:27:27.701Z'
+dateModified: '2016-11-09T18:51:39.728Z'
 title: Adrian Ghenie
 publisher: {}
-description: 'Born 1977 in Baia Mare, Romania. Lives and works in Cluj and Berlin. '
+description: 'Born 1977 in Baia Mare, Romania. Lives and works in Cluj and Berlin.'
 starred: false
-sourcePath: _posts/2016-11-02-adrian-ghenie.md
 url: adrian-ghenie/index.html
 _type: Article
 
 ---
 # Adrian Ghenie
 
-Born 1977 in Baia Mare, Romania. Lives and works in Cluj and Berlin. 
+Born 1977 in Baia Mare, Romania. Lives and works in Cluj and Berlin.
 
 Graduated in 2001 from The University of Art and Design, Cluj. In 2015 he represented Romania at the 56th International Art Exhibition --- La Biennale di Venezia. In 2005, he co-founded Galeria Plan B in Cluj, together with Mihai Pop, a production and exhibition space for contemporary art. In 2008 Plan B opened a permanent exhibition space in Berlin. His work has been widely exhibited in group and solo exhibitions, including at Tate Liverpool, San Francisco Museum of Modern Art and Fondazione Palazzo Strozzi in Florence.
 ![Dr. Josef, 2011, oil on canvas, 60 x 50 cm](https://the-grid-user-content.s3-us-west-2.amazonaws.com/738ea09b-04fe-4d5e-b5d9-0532766c3583.jpg)
