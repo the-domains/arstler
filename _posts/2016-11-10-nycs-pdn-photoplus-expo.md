@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-11-10T10:42:44.857Z'
+datePublished: '2016-11-10T10:47:39.744Z'
+sourcePath: _posts/2016-11-10-nycs-pdn-photoplus-expo.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-10T10:42:32.885Z'
+dateModified: '2016-11-10T10:47:39.199Z'
 title: NYC’s PDN PhotoPlus Expo
 publisher: {}
 description: 'New York, NY – November 2016 / Renay Elle Morris / photopresseimages.com'
 starred: false
-sourcePath: _posts/2016-11-10-nycs-pdn-photoplus-expo.md
 url: nycs-pdn-photoplus-expo/index.html
 _type: Article
 
@@ -18,7 +18,7 @@ _type: Article
 
 New York, NY -- November 2016 / Renay Elle Morris / photopresseimages.com
 
-NYC's PDN PhotoPlus Expo Rocks. Keynote speaker Graham Nash sets the stage.
+## NYC's PDN PhotoPlus Expo Rocks. Keynote speaker Graham Nash sets the stage.
 
 New York City is a fabulous place to be especially if you are a photo enthusiast. The recent PDN PhotoPlus International Conference + Expo (October 19-22) offered an amazing, well-defined image-based agenda that captured the attention of shooters worldwide. Welcoming over 21,000 image-makers, the event, held yearly at NYC's Javits Convention Center, did not disappoint. Those eager to set eyes on a never-ending assortment of new cameras and equipment, software and hardware, and a bevy of top-of- the line digital capture products ready for market, had the opportunity to participate in a series of talks and walks, workshops, product demonstrations, lectures and portfolio reviews \_ all designed for the amateur as well as the pro.
 ![© Renay Elle Morris](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1be2dcde-b484-478a-b5e2-f3d60d4524e9.jpg)
