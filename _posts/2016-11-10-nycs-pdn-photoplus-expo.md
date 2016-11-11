@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-10T10:47:39.744Z'
+datePublished: '2016-11-11T09:20:48.734Z'
 sourcePath: _posts/2016-11-10-nycs-pdn-photoplus-expo.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-10T10:47:39.199Z'
+dateModified: '2016-11-11T09:20:48.067Z'
 title: NYC’s PDN PhotoPlus Expo
 publisher: {}
 description: 'New York, NY – November 2016 / Renay Elle Morris / photopresseimages.com'
@@ -27,8 +27,6 @@ New York City is a fabulous place to be especially if you are a photo enthusiast
 ![© Renay Elle Morris](https://the-grid-user-content.s3-us-west-2.amazonaws.com/790c76c8-97d3-4a32-a932-1963f0fd65a2.jpg)
 ![© Graham Nash / Joni Mitchell](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef8ee97d-6a97-403c-89e6-a936873f7f03.jpg)
 ![© Graham Nash / Joni Mitchell](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b87394cb-96df-4085-ad73-48f998816304.jpg)
-
----
 
 A crowd pleaser for sure, was a "Keynote Conversation" featuring two icons in music and photography. Rock legend Graham Nash (Crosby, Stills, Nash and Young) revealed private thoughts and public commentaries on the music industry and his love of the photographic medium with Rolling Stone's chief photographer, and musician himself, Mark Seliger. And with Seliger, can it get any better? The two, relaxed and unrehearsed, captured the audience's attention with an impressive and spontaneous delivery of ideas and thoughts about both mediums. Nash, years before he garnered fame as a rock icon, held his first camera as a child and never lost interest. Storytelling was a big part of the conversation while his images were displayed on 2 large screens. They were poignant and deeply personal, and reflected the sensitivity of an artist with a soul deep and caring.
 
