@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-11T16:12:51.085Z'
+datePublished: '2016-11-11T16:13:46.969Z'
 sourcePath: _posts/2016-11-10-nycs-pdn-photoplus-expo.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-11T16:12:50.248Z'
+dateModified: '2016-11-11T16:13:45.968Z'
 title: NYC’s PDN PhotoPlus Expo
 publisher: {}
 description: 'New York, NY – November 2016 / Renay Elle Morris / photopresseimages.com'
@@ -31,6 +31,6 @@ A crowd pleaser for sure, was a "Keynote Conversation" featuring two icons in mu
 ![© Renay Elle Morris](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8811778-473a-418c-a6d8-5ce54f03e773.jpg)
 ![© Renay Elle Morris](https://the-grid-user-content.s3-us-west-2.amazonaws.com/664538bf-bffe-4f2a-9e09-d4a2a40c55b4.jpg)
 ![© Renay Elle Morris](https://the-grid-user-content.s3-us-west-2.amazonaws.com/790c76c8-97d3-4a32-a932-1963f0fd65a2.jpg)
-![Nash and Seliger on stage © Renay Elle Morris ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/63ed69f4-ab71-4257-bfb7-1cca2c901a6a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/63ed69f4-ab71-4257-bfb7-1cca2c901a6a.jpg)
 ![© Graham Nash / Joni Mitchell](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef8ee97d-6a97-403c-89e6-a936873f7f03.jpg)
 ![© Graham Nash / Joni Mitchell](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b87394cb-96df-4085-ad73-48f998816304.jpg)
