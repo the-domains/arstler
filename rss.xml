@@ -4,9 +4,23 @@
         <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Nov 2016 16:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2016 10:20:20 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 11 Nov 2016 16:13:48 GMT</pubDate>
+        <pubDate>Fri, 18 Nov 2016 10:20:18 GMT</pubDate>
+        <item>
+            <title><![CDATA[Why Is Frida Kahlo's Auction Record So Low?]]></title>
+            <description><![CDATA[<article><h1>Why Is Frida Kahlo's Auction Record So Low?</h1><p>Over dinner a few days ago, I mentioned to my roommate that Frida Kahlo's auction record had recently been broken-her 1939 painting Dos Desnudos en el Bosque (La Tierra Misma) sold for $8 million at Christie's New York's spring Impressionist and modern evening sale two weeks earlier.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7d46d4ae2f4981f9f2f4085c904caaab/noop.jpg?input=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FXcfT8T5f7bohYT5IzukBPA%252F12069_EVENING_213.jpg"></article>]]></description>
+            <link>http://arstler.com/why-is-frida-kahlos-auction-record-so-low/index.html</link>
+            <guid isPermaLink="false">e065b473-61d9-441e-a814-cedbe4ce973b</guid>
+            <pubDate>Fri, 18 Nov 2016 10:20:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reading Between the Lines of Mel Bochner's Verbose Monoprints]]></title>
+            <description><![CDATA[<article><h1>Reading Between the Lines of Mel Bochner's Verbose Monoprints</h1><p>One of the words that the artist worked with for these monoprints is "money." It kicks off a cascade of synonyms and slang, appearing at the upper left corner of a work titled (appropriately) Money (2015).</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9258cdd2d16fd9896bfae80e4ac20011/noop.jpg?input=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FK_gAzygELLxHe7iZvLN1jQ%252F7_Mel_looking_at_print_%25281%2529%2B%25281%2529.jpg"></article>]]></description>
+            <link>http://arstler.com/reading-between-the-lines-of-mel-bochners-verbose-monoprint/index.html</link>
+            <guid isPermaLink="false">919109b1-5498-4777-a2c3-60232538e476</guid>
+            <pubDate>Thu, 17 Nov 2016 15:18:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NYC’s PDN PhotoPlus Expo]]></title>
             <description><![CDATA[<article><h1>NYC’s PDN PhotoPlus Expo</h1><h2>NYC’s PDN PhotoPlus Expo Rocks. Keynote speaker Graham Nash sets the stage.</h2><p>New York, NY – November 2016 / Renay Elle Morris / photopresseimages.com</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1be2dcde-b484-478a-b5e2-f3d60d4524e9.jpg"></article>]]></description>
@@ -62,20 +76,6 @@
             <link>https://m.artsy.net/artwork/rafik-majzoub-room-11-2</link>
             <guid isPermaLink="false">dc4757d0-a9af-4fb4-9d18-caa6470dd3ac</guid>
             <pubDate>Wed, 09 Nov 2016 14:41:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tim Rowan, 'Untitled ', 2016, Lacoste Gallery | Artsy]]></title>
-            <description><![CDATA[<article><h1>Tim Rowan, 'Untitled ', 2016, Lacoste Gallery | Artsy</h1><p>From a kiln in the woods of upstate New York, Tim Rowan sculpts geode-like ceramic vessels that are both dense and curvilinear. His apprenticeship to Japanese artist Ryuichi Kazurezaki instilled a deep respect for traditional Japanese design, evident in the firing and flame markings of his work.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/cbb4dd069c3ca9bf8b0b4879efb09ee0/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F5dqH36JlPw-BAHgvjlJ7fw%2Flarge.jpg"></article>]]></description>
-            <link>https://m.artsy.net/artwork/tim-rowan-untitled-7</link>
-            <guid isPermaLink="false">ffe27996-115a-44c9-983e-fa4ee65ad92f</guid>
-            <pubDate>Wed, 09 Nov 2016 14:41:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ira Hoffecker, 'Hamburg Harbour', 2013, The Front Gallery | Artsy]]></title>
-            <description><![CDATA[<article><h1>Ira Hoffecker, 'Hamburg Harbour', 2013, The Front Gallery | Artsy</h1><p>The Front Gallery features Edmonton's artistic diversity in a relaxed and welcoming environment. Exhibiting artists work from all over the world, an extensive collection of books, antique furniture and collectibles.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ebb779401ba9d7298a406a83fc38ea5867c6ce9.jpg"></article>]]></description>
-            <link>https://m.artsy.net/artwork/ira-hoffecker-hamburg-harbour</link>
-            <guid isPermaLink="false">413e7373-5e7a-46eb-9247-bd3484512248</guid>
-            <pubDate>Wed, 09 Nov 2016 14:41:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
