@@ -1,17 +1,21 @@
 ---
-datePublished: '2016-11-17T15:18:56.362Z'
+datePublished: '2016-11-18T10:20:53.984Z'
 sourcePath: >-
   _posts/2016-11-17-reading-between-the-lines-of-mel-bochners-verbose-monoprint.md
 inFeed: true
 hasPage: true
 author:
   - name: Karen Kedmey
-    url: null
+    url: >-
+      https://m.artsy.net/article/artsy-editorial-reading-between-the-lines-of-mel-bochner-s-verbose-monoprints
     avatar: {}
 via: {}
-dateModified: '2016-11-17T15:18:55.870Z'
+dateModified: '2016-11-18T10:20:53.324Z'
 title: Reading Between the Lines of Mel Bochner's Verbose Monoprints
-publisher: {}
+publisher:
+  url: >-
+    https://m.artsy.net/article/artsy-editorial-reading-between-the-lines-of-mel-bochner-s-verbose-monoprints
+  name: artsy
 description: >-
   One of the words that the artist worked with for these monoprints is "money."
   It kicks off a cascade of synonyms and slang, appearing at the upper left
