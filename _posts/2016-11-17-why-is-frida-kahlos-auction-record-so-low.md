@@ -1,16 +1,20 @@
 ---
-datePublished: '2016-11-17T15:19:06.352Z'
+datePublished: '2016-11-18T10:20:16.556Z'
 sourcePath: _posts/2016-11-17-why-is-frida-kahlos-auction-record-so-low.md
 inFeed: true
 hasPage: true
 author:
   - name: Abigail Cain
-    url: null
+    url: >-
+      https://m.artsy.net/article/artsy-editorial-why-is-frida-kahlo-s-auction-record-so-low
     avatar: {}
 via: {}
-dateModified: '2016-11-17T15:19:05.882Z'
+dateModified: '2016-11-18T10:20:16.027Z'
 title: Why Is Frida Kahlo's Auction Record So Low?
-publisher: {}
+publisher:
+  url: >-
+    https://m.artsy.net/article/artsy-editorial-why-is-frida-kahlo-s-auction-record-so-low
+  name: artsy
 description: >-
   Over dinner a few days ago, I mentioned to my roommate that Frida Kahlo's
   auction record had recently been broken-her 1939 painting Dos Desnudos en el
