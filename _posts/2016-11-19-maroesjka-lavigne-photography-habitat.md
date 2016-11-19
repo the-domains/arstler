@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-11-19T11:44:17.200Z'
+datePublished: '2016-11-19T12:10:01.188Z'
+sourcePath: _posts/2016-11-19-maroesjka-lavigne-photography-habitat.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-19T11:44:04.953Z'
+dateModified: '2016-11-19T12:05:56.191Z'
 title: Maroesjka Lavigne / Photography / Habitat
 publisher: {}
 description: >-
@@ -14,7 +15,6 @@ description: >-
   Specifically, the way we always try to adjust space to our specific needs, not
   realizing we are the alien element in these permanent landscapes.
 starred: false
-sourcePath: _posts/2016-11-19-maroesjka-lavigne-photography-habitat.md
 url: maroesjka-lavigne-photography-habitat/index.html
 _type: Article
 
@@ -29,7 +29,10 @@ At times I feel we are getting used to the absurd constructions we created withi
 
 The meaning of these landmarks change while time goes by. Sometimes, these traces are slowly being erased and natural elements are taking back these almost forgotten grounds. As a passenger travelling through these places I aim to notice and capture these alienating moments.
 
-(c) Maroesjka Lavigne ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0601f07-c014-42ba-81f0-e6f8817d2c69.jpg)
+http://www.maroesjkalavigne.be/
+
+(c) Maroesjka Lavigne
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0601f07-c014-42ba-81f0-e6f8817d2c69.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65651132-2006-4f2e-8d1a-3207a2455d74.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eead6491-a6cb-4643-b293-f0d7a6af5ee2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21caf1a5-9879-4e16-9ec0-1e8675c926cd.jpg)
