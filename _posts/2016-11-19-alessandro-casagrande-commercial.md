@@ -1,30 +1,41 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.alessandrocasagrande.com'
-  name: Alessandro Casagrande
-  favicon: >-
-    https://format-com-cld-res.cloudinary.com/image/upload/s--Fotk7aj_--/c_limit,g_center,h_16,w_16/a_auto,fl_keep_iptc.progressive,q_95/24213-24036779-dc7oRa9qi_copy.ico
-  domain: www.alessandrocasagrande.com
+datePublished: '2016-11-19T11:31:12.321Z'
+sourcePath: _posts/2016-11-19-alessandro-casagrande-commercial.md
+inFeed: true
+hasPage: true
 keywords:
   - alessandro casagrande
   - bighousediary
   - photographer
-description: >-
-  Alessandro Casagrande photographer - all images copyright © 2012-2016
-  Alessandro Casagrande | All Rights Reserved
-app_links: []
-isBasedOnUrl: 'http://www.alessandrocasagrande.com/commercial/gogo-philip'
-title: Alessandro Casagrande - COMMERCIAL
-datePublished: '2016-11-19T11:28:53.291Z'
-dateModified: '2016-11-19T11:28:33.978Z'
+related: []
+author: []
 via: {}
-inFeed: true
+dateModified: '2016-11-19T11:31:11.768Z'
+title: Alessandro Casagrande
+app_links: []
+publisher: {}
+description: gogo philip
 starred: false
-sourcePath: _posts/2016-11-19-alessandro-casagrande-commercial.md
+url: alessandro-casagrande/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Alessandro Casagrande - COMMERCIAL</h1><p>Alessandro Casagrande photographer - all images copyright © 2012-2016 Alessandro Casagrande | All Rights Reserved</p><img src="https://format-com-cld-res.cloudinary.com/image/private/s--9NS4EXNJ--/c_limit,g_center,h_1200,w_65535/a_auto,fl_keep_iptc.progressive,q_95/v1/d5691244cc4dfdfad756cf7995528952/IMG_AC_CARLO-TIVIOLI_11.jpg" /></article>
+# Alessandro Casagrande
+
+gogo philip
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b0655c7-39af-4fc6-bb4a-45108aa921f4.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c2006f9-938e-4c56-ad90-b05192f1a7de.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04343c61-7b4c-4abc-86a0-6a958a829770.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad56da32-4068-4d53-8cfa-88ba6562c140.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41ab10e6-e2cb-4fb5-a2da-3a08360935e9.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4578ef9b-160f-456e-a878-dc070e97852a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/171cfe4a-346a-4d1b-a523-f5681977923c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c1500c2-08ab-40c9-a7c3-6c8632bd614f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d001b278-6aec-4fe7-9bf0-af58eb0d8bf3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/819740bd-75e3-4f60-9b83-d45a884d8756.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87dfd3ee-01e8-4305-b221-0bd0cbdbbb65.jpg)
+
+(c) Alessandro Casagrande 
+
+---
