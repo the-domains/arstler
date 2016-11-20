@@ -4,9 +4,16 @@
         <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Nov 2016 10:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2016 10:18:01 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 20 Nov 2016 10:17:27 GMT</pubDate>
+        <pubDate>Sun, 20 Nov 2016 10:17:31 GMT</pubDate>
+        <item>
+            <title><![CDATA[Sir Howard Hodgkin: After All]]></title>
+            <description><![CDATA[<article><h1>Sir Howard Hodgkin: After All</h1><p>5 Oct 2016 - 18 Nov 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a40d6a933dd5443ec0ee0d114bef3617d2657db8.jpg"></article>]]></description>
+            <link>http://arstler.com/sir-howard-hodgkin-after-all/index.html</link>
+            <guid isPermaLink="false">9334f6c6-77ec-4988-8d16-796592798f46</guid>
+            <pubDate>Sun, 20 Nov 2016 10:17:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Art Gallery London | Current Art Exhibitions | Alan Cristea - Antony Gormley: CAST]]></title>
             <description><![CDATA[<article><h1>Art Gallery London | Current Art Exhibitions | Alan Cristea - Antony Gormley: CAST</h1><p>The Alan Cristea Gallery is the largest publisher of limited edition prints and multiples in Europe. There are many art exhibitions at the London art gallery throughout the year and dates can be found on this page.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c89f596529a07cebdd1713683c3d8c27/noop.jpg?input=http%3A%2F%2Fwww.alancristea.com%2Fimages%2F2016_05_20_01alo_exh.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://arstler.com/why-is-frida-kahlos-auction-record-so-low/index.html</link>
             <guid isPermaLink="false">e065b473-61d9-441e-a814-cedbe4ce973b</guid>
             <pubDate>Fri, 18 Nov 2016 10:20:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NYC’s PDN PhotoPlus Expo]]></title>
-            <description><![CDATA[<article><h1>NYC’s PDN PhotoPlus Expo</h1><h2>NYC’s PDN PhotoPlus Expo Rocks. Keynote speaker Graham Nash sets the stage.</h2><p>New York, NY – November 2016 / Renay Elle Morris / photopresseimages.com</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1be2dcde-b484-478a-b5e2-f3d60d4524e9.jpg"></article>]]></description>
-            <link>http://arstler.com/nycs-pdn-photoplus-expo/index.html</link>
-            <guid isPermaLink="false">8f044c83-e4fa-45b5-b8e7-a4590780e701</guid>
-            <pubDate>Fri, 11 Nov 2016 16:13:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
