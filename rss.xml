@@ -4,9 +4,16 @@
         <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Nov 2016 10:37:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2016 18:37:09 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 20 Nov 2016 10:36:49 GMT</pubDate>
+        <pubDate>Sun, 20 Nov 2016 18:37:07 GMT</pubDate>
+        <item>
+            <title><![CDATA[Untitled (A Gathering of Time) by Cy Twombly]]></title>
+            <description><![CDATA[<article><h1>Untitled (A Gathering of Time) by Cy Twombly</h1><p>Untitled (A Gathering of Time) by Cy Twombly. Artwork Type: Painting; Medium: Oil on canvas;</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a78a6e8a55896a18b3510f8167d00f7f/noop.jpeg?input=https%3A%2F%2Fdg19s6hp6ufoh.cloudfront.net%2Fpictures%2F611878618%2Fmedium%2F148.jpeg%3F1358922424"></article>]]></description>
+            <link>https://theartstack.com/artist/cy-twombly/untitled-a-gathering-of-time</link>
+            <guid isPermaLink="false">45f121b9-94ed-4d45-b5c6-9d8c4afc5517</guid>
+            <pubDate>Sun, 20 Nov 2016 18:37:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[JIM DINE]]></title>
             <description><![CDATA[<article><h1>JIM DINE</h1><p>Although often associated with both Pop Art and Abstract Expressionism, Jim Dine did not identify with a specific movement, producing a vast oeuvre of paintings, drawings, works on paper, sculpture, poetry, and performances. Emerging as a pioneer (together with Allan Kaprow, Claes Oldenburg, and Robert Whitman) of New York’s Happenings of the 1960s, Dine would carry the spontaneous energy of this movement throughout his style, which emphasized the exploration of everyday life. Personally significant objects were Dine’s primary motifs, as in his iconic series of hearts and robes. He championed a return to figuration after a period of more concept-dominated works, and is considered an important figure in Neo-Dada and a forerunner of Neo-Expressionism. “The figure is still the only thing I have faith in in terms of how much emotion it’s charged with and how much subject matter is there,” he once said.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/021c02ad-e35d-4cf0-841a-62edfdd1fa76.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.upriseart.com/art-under-800/artists/adam-frezza-terri-chiao/artworks/exquisite-plant-collage-no-10</link>
             <guid isPermaLink="false">e512c8b8-6e87-4d67-84f6-4872ce1c71d9</guid>
             <pubDate>Sat, 19 Nov 2016 10:26:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reading Between the Lines of Mel Bochner's Verbose Monoprints]]></title>
-            <description><![CDATA[<article><h1>Reading Between the Lines of Mel Bochner's Verbose Monoprints</h1><p>One of the words that the artist worked with for these monoprints is "money." It kicks off a cascade of synonyms and slang, appearing at the upper left corner of a work titled (appropriately) Money (2015).</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9258cdd2d16fd9896bfae80e4ac20011/noop.jpg?input=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FK_gAzygELLxHe7iZvLN1jQ%252F7_Mel_looking_at_print_%25281%2529%2B%25281%2529.jpg"></article>]]></description>
-            <link>http://arstler.com/reading-between-the-lines-of-mel-bochners-verbose-monoprint/index.html</link>
-            <guid isPermaLink="false">919109b1-5498-4777-a2c3-60232538e476</guid>
-            <pubDate>Fri, 18 Nov 2016 10:20:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
