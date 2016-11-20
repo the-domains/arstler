@@ -4,9 +4,16 @@
         <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Nov 2016 18:54:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2016 18:56:52 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 20 Nov 2016 18:53:50 GMT</pubDate>
+        <pubDate>Sun, 20 Nov 2016 18:56:51 GMT</pubDate>
+        <item>
+            <title><![CDATA[Cy Twombly, 'Untitled (Bacchus)' 2008]]></title>
+            <description><![CDATA[<article><h1>Cy Twombly, 'Untitled (Bacchus)' 2008</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/0fad4d1452b59f208d0bb3c84a44d1a6/noop.jpg?input=http%3A%2F%2Fwww.tate.org.uk%2Fart%2Fimages%2Fwork%2FT%2FT14%2FT14081_9.jpg"></article>]]></description>
+            <link>http://www.tate.org.uk/art/artworks/twombly-untitled-bacchus-t14081</link>
+            <guid isPermaLink="false">db0d909b-b2d6-4dba-91e9-3ede2f8a9204</guid>
+            <pubDate>Sun, 20 Nov 2016 18:56:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Untitled (A Gathering of Time) by Cy Twombly]]></title>
             <description><![CDATA[<article><h1>Untitled (A Gathering of Time) by Cy Twombly</h1><p>Untitled (A Gathering of Time) by Cy Twombly. Artwork Type: Painting; Medium: Oil on canvas;</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a78a6e8a55896a18b3510f8167d00f7f/noop.jpeg?input=https%3A%2F%2Fdg19s6hp6ufoh.cloudfront.net%2Fpictures%2F611878618%2Fmedium%2F148.jpeg%3F1358922424"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://arstler.com/less-is-more/index.html</link>
             <guid isPermaLink="false">2d354c42-5fa2-4435-8e9f-ef6f2287e6f6</guid>
             <pubDate>Sat, 19 Nov 2016 12:10:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Maroesjka Lavigne / Photography / Habitat]]></title>
-            <description><![CDATA[<article><h1>Maroesjka Lavigne / Photography / Habitat</h1><p>As people travel the world, they tend to leave traces behind that refer to their presence in past and future times. In this series, I strive to look at this relationship between human elements and the natural environment. Specifically, the way we always try to adjust space to our specific needs, not realizing we are the alien element in these permanent landscapes.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0601f07-c014-42ba-81f0-e6f8817d2c69.jpg"></article>]]></description>
-            <link>http://arstler.com/maroesjka-lavigne-photography-habitat/index.html</link>
-            <guid isPermaLink="false">fa423991-c877-40d1-a2b4-4714698be012</guid>
-            <pubDate>Sat, 19 Nov 2016 12:10:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
