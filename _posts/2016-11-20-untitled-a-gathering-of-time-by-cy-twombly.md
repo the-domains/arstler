@@ -1,11 +1,8 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://theartstack.com'
-  name: My Favorite Arts
-  favicon: 'https://theartstack.com/favicon.ico'
-  domain: theartstack.com
+datePublished: '2016-11-20T18:53:49.078Z'
+sourcePath: _posts/2016-11-20-untitled-a-gathering-of-time-by-cy-twombly.md
+inFeed: true
+isBasedOnUrl: 'https://theartstack.com/artist/cy-twombly/untitled-a-gathering-of-time'
 keywords:
   - twombly
   - art
@@ -17,10 +14,11 @@ keywords:
   - freely-scribbled
   - mallarm
   - basquiat
-description: >-
-  Untitled (A Gathering of Time) by Cy Twombly. Artwork Type: Painting; Medium:
-  Oil on canvas;
-inLanguage: en
+related: []
+author: []
+via: {}
+dateModified: '2016-11-20T18:53:48.544Z'
+title: Untitled (A Gathering of Time) by Cy Twombly
 app_links:
   - type: android
     app_name: ArtStack
@@ -30,16 +28,18 @@ app_links:
   - type: android
     namespace: ai
     app_name: ArtStack
-isBasedOnUrl: 'https://theartstack.com/artist/cy-twombly/untitled-a-gathering-of-time'
-title: Untitled (A Gathering of Time) by Cy Twombly
-datePublished: '2016-11-20T18:37:05.249Z'
-dateModified: '2016-11-20T18:36:27.903Z'
-via: {}
-inFeed: true
+publisher:
+  url: 'https://theartstack.com'
+  name: My Favorite Arts
+  favicon: 'https://theartstack.com/favicon.ico'
+  domain: theartstack.com
+description: >-
+  Untitled (A Gathering of Time) by Cy Twombly. Artwork Type: Painting; Medium:
+  Oil on canvas;
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-11-20-untitled-a-gathering-of-time-by-cy-twombly.md
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Untitled (A Gathering of Time) by Cy Twombly</h1><p>Untitled (A Gathering of Time) by Cy Twombly. Artwork Type: Painting; Medium: Oil on canvas;</p><img src="https://dg19s6hp6ufoh.cloudfront.net/pictures/611878618/medium/148.jpeg?1358922424" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a78a6e8a55896a18b3510f8167d00f7f/noop.jpeg?input=https%3A%2F%2Fdg19s6hp6ufoh.cloudfront.net%2Fpictures%2F611878618%2Fmedium%2F148.jpeg%3F1358922424" /><h1>Untitled (A Gathering of Time) by Cy Twombly</h1><p>Untitled (A Gathering of Time) by Cy Twombly. Artwork Type: Painting; Medium: Oil on canvas;</p></article>
