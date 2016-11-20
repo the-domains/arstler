@@ -4,9 +4,16 @@
         <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Nov 2016 18:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2016 18:39:30 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 20 Nov 2016 18:37:40 GMT</pubDate>
+        <pubDate>Sun, 20 Nov 2016 18:39:28 GMT</pubDate>
+        <item>
+            <title><![CDATA[Cy Twombly / Works]]></title>
+            <description><![CDATA[<article><h1>Cy Twombly / Works</h1><p>Triunfo Arciniegas Escritor colombiano, nacido en Málaga. Magíster en Literatura (Pontificia Universidad Javeriana) y Especialista en Traducción (Universidad de Pamplona). Antes maestro de herrería, zapatero, portero de discoteca, expendedor de una estación de gasolina, librero de fin de semana, maestro de escuela y profesor universitario, ahora se dedica a la escritura, la fotografía, la pintura y otras delicias.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/3bc7cde12db36515f9eb8e373d71e5be/noop.jpg?input=https%3A%2F%2Fkimballprints.files.wordpress.com%2F2011%2F07%2Fcyt.jpg"></article>]]></description>
+            <link>http://losarciniegas.blogspot.ro/2014/02/cy-twombly-works.html</link>
+            <guid isPermaLink="false">05324e8c-5ca9-49c7-a9bb-836924d33d06</guid>
+            <pubDate>Sun, 20 Nov 2016 18:39:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gagosian Presents: Cy Twombly]]></title>
             <description><![CDATA[<article><h1>Gagosian Presents: Cy Twombly</h1><p>The relationship between the late and New York's Gagosian Gallery dates back to the 1980s, resulting in numerous exhibitions of the artist's works at the gallery throughout the years. Although he died in 2011, his art will live on.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/91ec5f7a74ac75db27bb31dda1a0db07/croprotate.jpg?cropheight=441&cropwidth=855&degrees=0&input=http%3A%2F%2Fd2jv9003bew7ag.cloudfront.net%2Fuploads%2FCy-Twombly-Blooming-2001-2008.-Acrylic-wax-crayon-on-ten-wooden-panels-98-3-8-x-196-7-8-inches-250-x-500-cm.-Copyright-Cy-Twombly-Foundation.-Collection-Cy-Twombly-Foundation.-Courtesy-Gagosian-Gallery.-Photography-by-Mike-Bruce.jpg&x=0&y=63"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://arstler.com/maroesjka-lavigne-photography-habitat/index.html</link>
             <guid isPermaLink="false">fa423991-c877-40d1-a2b4-4714698be012</guid>
             <pubDate>Sat, 19 Nov 2016 12:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alessandro Casagrande]]></title>
-            <description><![CDATA[<article><h1>Alessandro Casagrande</h1><p>gogo philip</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b0655c7-39af-4fc6-bb4a-45108aa921f4.jpg"></article>]]></description>
-            <link>http://arstler.com/alessandro-casagrande/index.html</link>
-            <guid isPermaLink="false">369f0527-86da-4d55-b4f3-58c479a5d32c</guid>
-            <pubDate>Sat, 19 Nov 2016 11:31:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
