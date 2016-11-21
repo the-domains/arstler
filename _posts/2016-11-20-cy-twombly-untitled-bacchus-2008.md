@@ -1,24 +1,67 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.tate.org.uk'
-  name: Tate
-  favicon: 'http://www.tate.org.uk/sites/default/files/favicon_1.ico'
-  domain: www.tate.org.uk
-keywords: []
-description: ''
-app_links: []
-isBasedOnUrl: 'http://www.tate.org.uk/art/artworks/twombly-untitled-bacchus-t14081'
-title: 'Cy Twombly, ''Untitled (Bacchus)'' 2008'
-datePublished: '2016-11-20T18:56:48.818Z'
-dateModified: '2016-11-20T18:56:36.812Z'
-via: {}
-inFeed: true
-starred: false
+datePublished: '2016-11-21T13:37:38.705Z'
 sourcePath: _posts/2016-11-20-cy-twombly-untitled-bacchus-2008.md
+inFeed: true
+hasPage: true
+keywords: []
+related: []
+author: []
+via: {}
+dateModified: '2016-11-21T13:37:38.017Z'
+title: Cy Twombly
+app_links: []
+publisher: {}
+description: 'American, 1928–2011'
+starred: false
+url: cy-twombly/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Cy Twombly, 'Untitled (Bacchus)' 2008</h1><img src="http://www.tate.org.uk/art/images/work/T/T14/T14081_9.jpg" /></article>
+# Cy Twombly
+
+American, 1928--2011
+
+Although his work resonates strongly with generations of younger artists, ranging from Brice Marden to Richard Prince to Tacita Dean to Patti Smith, it has a general propensity to polarise its audience between perplexity and unbridled admiration. (Remember the incident in summer 2007 of a woman planting a lipstick kiss on a Twombly canvas on show in Lyon?) Additionally, the critical and historical reception has seemed to describe two Twomblys -- one about form, the other about content.
+
+Some writers have concentrated on the materiality of the artist's mark as aggressive, often illegible graffiti; others have followed the classical allusions to ferret out the references. Two elements might serve as metaphors for the predominant interpretations: the floating disc of white paint labelled "clouds" standing for the poetic and mythological aspects, and the scatological heap of brown paint designating "earth". However, Twombly's painterly palimpsests trace the progressions through which form and content, text and image are inextricably linked.
+
+Cy Twombly emerged in the 1950s, developing a characteristic painting style of expressive drips and active, scribbled, and scratched lines. "My line is childlike but not childish," he once said. "It is very difficult to fake...to get that quality you need to project yourself into the child's line. It has to be felt."
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/138ce22e-65d8-43d4-a9d3-746733eb41d0.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84ddf1b9-604f-452c-a491-735676bd82c7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d1d6193-709d-4a91-9fe7-507ccf603491.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1d48dcf-9368-4235-b5f3-b8c46d608457.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93417389-fb0b-45dc-9bc9-a82989302692.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32a59f1c-e2a7-499b-a392-090d453147f7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54b815e2-fc24-4f60-801f-f5e824d0084f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6706270a-ba8e-4427-b261-3d9f606635d8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa883f44-ba44-4230-8ffe-7edc5d700e15.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/439f771d-3366-42fa-b7ca-733abe7df823.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c325a9a8-8c53-47fb-b958-c41872867299.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5418386-9778-42c3-bdc3-7c5581988fc3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/39f12061-4a2a-4a6c-a87e-ba5ad460a1ad.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/345f451c-073a-4cb3-9c51-fda317428010.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16aef386-89f4-46f0-8b28-72510f1a2b57.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b5f1f71-ebe8-4176-b2de-41ae338caff8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd8f59a1-0f29-42bf-a30d-33ceaa4fec02.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8e7fe04-2a9c-4dae-89cf-f6e9ce8094b3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07ee227a-2126-4298-8a76-28c133d5570a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee166917-dbe7-49a0-8aee-c5ee455ceebb.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/636fc877-2cd1-45b0-945a-cba7c6d37876.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/324a7621-1dfc-4a0f-92a5-25deb37c067b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16fc89fc-e4ee-4856-93c0-a48cac2de0d1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a2e8a16-203f-4f6e-a522-295bc956f004.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20744b72-ed64-4d81-b36c-125ef52ec4aa.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6404c0a0-71af-4a11-9d4b-fb4ba9be345e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfa74a79-b900-42c5-8a16-02197960bdc7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a66daecc-a68c-45a9-848f-0f79570eed29.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eeab78b6-b1fa-49fe-8a22-80df6a367c8b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/856b0b4e-80bd-4dc0-b63e-594c4e670102.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eea7e3ef-108e-4966-8289-f7e91b7c1f06.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b461531e-6487-424d-af00-b97f00e0bbc7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c77a5405-0871-4e85-aa02-e2c889f1459f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a89e42e-d6fa-497d-bc97-caa3272dce15.jpg)
+
+(c) ALL ARTWORK CY TWOMBLY FOUNDATION 
+
+http://www.cytwombly.info/
