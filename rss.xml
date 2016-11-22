@@ -4,9 +4,23 @@
         <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Nov 2016 13:57:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2016 14:00:24 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 22 Nov 2016 13:57:52 GMT</pubDate>
+        <pubDate>Tue, 22 Nov 2016 14:00:22 GMT</pubDate>
+        <item>
+            <title><![CDATA[Fashion | Quentin de Briey]]></title>
+            <description><![CDATA[<article><h1>Fashion | Quentin de Briey</h1><p>A vast protfolio of exceptional images shot for a multitude of fashion houses and publications including Vogue, Rolling Stone magazine, Dior, Elle and many more</p></article>]]></description>
+            <link>http://www.quentindebriey.com/photography</link>
+            <guid isPermaLink="false">5754b5a8-a263-4745-b3f5-47cb2fa205eb</guid>
+            <pubDate>Tue, 22 Nov 2016 14:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Richard Mosse]]></title>
+            <description><![CDATA[<article><h1>Richard Mosse</h1></article>]]></description>
+            <link>http://www.richardmosse.com/</link>
+            <guid isPermaLink="false">dcfb90eb-19de-47d4-af81-5feb53ab026c</guid>
+            <pubDate>Tue, 22 Nov 2016 13:58:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[charlieengman.com]]></title>
             <description><![CDATA[<article><h1>charlieengman.com</h1></article>]]></description>
@@ -62,20 +76,6 @@
             <link>http://arstler.com/antony-gormley-cast/index.html</link>
             <guid isPermaLink="false">bc78f36e-d0dd-46f8-9146-0a24c362c03e</guid>
             <pubDate>Sun, 20 Nov 2016 10:19:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sir Howard Hodgkin: After All]]></title>
-            <description><![CDATA[<article><h1>Sir Howard Hodgkin: After All</h1><p>5 Oct 2016 - 18 Nov 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a40d6a933dd5443ec0ee0d114bef3617d2657db8.jpg"></article>]]></description>
-            <link>http://arstler.com/sir-howard-hodgkin-after-all/index.html</link>
-            <guid isPermaLink="false">9334f6c6-77ec-4988-8d16-796592798f46</guid>
-            <pubDate>Sun, 20 Nov 2016 10:17:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vicken Parsons: Iris]]></title>
-            <description><![CDATA[<article><h1>Vicken Parsons: Iris</h1><p>24 Nov 2016 - 7 Jan 2017</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df3f5aa8d7beeeb28c5509d820d95c970f5c2855.jpg"></article>]]></description>
-            <link>http://arstler.com/vicken-parsons-iris/index.html</link>
-            <guid isPermaLink="false">f93431a8-0e6d-427e-a42f-35a67c8fe8db</guid>
-            <pubDate>Sun, 20 Nov 2016 10:10:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
