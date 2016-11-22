@@ -4,15 +4,36 @@
         <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Nov 2016 13:38:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2016 13:57:53 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 21 Nov 2016 13:38:53 GMT</pubDate>
+        <pubDate>Tue, 22 Nov 2016 13:57:52 GMT</pubDate>
+        <item>
+            <title><![CDATA[charlieengman.com]]></title>
+            <description><![CDATA[<article><h1>charlieengman.com</h1></article>]]></description>
+            <link>http://charlieengman.com/</link>
+            <guid isPermaLink="false">0a21a3c9-8b8e-4413-9924-a0ff1cbb6c9a</guid>
+            <pubDate>Tue, 22 Nov 2016 13:57:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cy Twombly]]></title>
             <description><![CDATA[<article><h1>Cy Twombly</h1><p>American, 1928–2011</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/138ce22e-65d8-43d4-a9d3-746733eb41d0.jpg"></article>]]></description>
             <link>http://arstler.com/cy-twombly/index.html</link>
             <guid isPermaLink="false">db0d909b-b2d6-4dba-91e9-3ede2f8a9204</guid>
-            <pubDate>Mon, 21 Nov 2016 13:37:38 GMT</pubDate>
+            <pubDate>Tue, 22 Nov 2016 13:37:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Happy Halloween, punk'ins! :D]]></title>
+            <description><![CDATA[<article><h1>Happy Halloween, punk'ins! :D</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f1bd0ffddb33a8ca1c29ba41df55710c/noop.gif?input=http%3A%2F%2F66.media.tumblr.com%2F47b59cfe0403f237d53b79f09d1082e7%2Ftumblr_ofr6nrprvr1qaohmyo1_500.gif"></article>]]></description>
+            <link>http://shairaluna.tumblr.com/post/152419199656/happy-halloween-punkins-d</link>
+            <guid isPermaLink="false">c3231c5d-eb04-44ec-be3e-9eb1bf3ca0af</guid>
+            <pubDate>Tue, 22 Nov 2016 13:31:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Artspace Australia, 2016]]></title>
+            <description><![CDATA[<article><h1>Artspace Australia, 2016</h1><img src="https://static1.squarespace.com/static/555b8fb9e4b013d27c81ea8e/5820d5dccd0f684c304d8726/5820d863440243808e73c3fe/1478551291189/2016_Artspace_Australia_The_Public_Body_4.jpg"></article>]]></description>
+            <link>http://ryanmcginley.com/the-public-body/</link>
+            <guid isPermaLink="false">49ce24a8-a37a-4d33-bf54-c59d5656dcfe</guid>
+            <pubDate>Tue, 22 Nov 2016 13:28:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Untitled (A Gathering of Time) by Cy Twombly]]></title>
@@ -55,20 +76,6 @@
             <link>http://arstler.com/vicken-parsons-iris/index.html</link>
             <guid isPermaLink="false">f93431a8-0e6d-427e-a42f-35a67c8fe8db</guid>
             <pubDate>Sun, 20 Nov 2016 10:10:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tim Rowan, 'Untitled ', 2016, Lacoste Gallery | Artsy]]></title>
-            <description><![CDATA[<article><h1>Tim Rowan, 'Untitled ', 2016, Lacoste Gallery | Artsy</h1><p>From a kiln in the woods of upstate New York, Tim Rowan sculpts geode-like ceramic vessels that are both dense and curvilinear. His apprenticeship to Japanese artist Ryuichi Kazurezaki instilled a deep respect for traditional Japanese design, evident in the firing and flame markings of his work.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/cbb4dd069c3ca9bf8b0b4879efb09ee0/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F5dqH36JlPw-BAHgvjlJ7fw%2Flarge.jpg"></article>]]></description>
-            <link>http://arstler.com/tim-rowan-untitled-2016-lacoste-gallery-or-artsy/index.html</link>
-            <guid isPermaLink="false">ffe27996-115a-44c9-983e-fa4ee65ad92f</guid>
-            <pubDate>Sat, 19 Nov 2016 12:10:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Less is More]]></title>
-            <description><![CDATA[<article><h1>Less is More</h1><p> Londonian photographer Rankin - Leica S - Kunsthalle Rostock</p></article>]]></description>
-            <link>http://arstler.com/less-is-more/index.html</link>
-            <guid isPermaLink="false">2d354c42-5fa2-4435-8e9f-ef6f2287e6f6</guid>
-            <pubDate>Sat, 19 Nov 2016 12:10:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
