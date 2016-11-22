@@ -4,9 +4,16 @@
         <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Nov 2016 14:00:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2016 14:01:40 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 22 Nov 2016 14:00:35 GMT</pubDate>
+        <pubDate>Tue, 22 Nov 2016 14:01:39 GMT</pubDate>
+        <item>
+            <title><![CDATA[Brittani in Paris]]></title>
+            <description><![CDATA[<article><h1>Brittani in Paris</h1><p>Jen Senn is a fashion and portrait photographer based in New York City.</p></article>]]></description>
+            <link>http://www.jensenn.com/brittani-in-paris/</link>
+            <guid isPermaLink="false">087a8dc1-8d03-4054-aca2-69c4ebe9927a</guid>
+            <pubDate>Tue, 22 Nov 2016 14:01:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sternbach Wohnen - Jasmine Deporta]]></title>
             <description><![CDATA[<article><h1>Sternbach Wohnen - Jasmine Deporta</h1><p>sternbach fashion by hansen garments hats by reinhard plank model samira styling kamm&schere furniture sternbach wohnen</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/ed1f7324ac49ee37dd63a7c217abb8b2/noop.jpg?input=http%3A%2F%2Fpayload475.cargocollective.com%2F1%2F1%2F62616%2F11801579%2Fprt_400x658_1469825035_2x.JPG"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.widewalls.ch/gagosian-presents-cy-twombly/</link>
             <guid isPermaLink="false">adadf3f4-ef3d-4f96-a6b7-356ea2a15309</guid>
             <pubDate>Sun, 20 Nov 2016 18:53:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JIM DINE]]></title>
-            <description><![CDATA[<article><h1>JIM DINE</h1><p>Although often associated with both Pop Art and Abstract Expressionism, Jim Dine did not identify with a specific movement, producing a vast oeuvre of paintings, drawings, works on paper, sculpture, poetry, and performances. Emerging as a pioneer (together with Allan Kaprow, Claes Oldenburg, and Robert Whitman) of New York’s Happenings of the 1960s, Dine would carry the spontaneous energy of this movement throughout his style, which emphasized the exploration of everyday life. Personally significant objects were Dine’s primary motifs, as in his iconic series of hearts and robes. He championed a return to figuration after a period of more concept-dominated works, and is considered an important figure in Neo-Dada and a forerunner of Neo-Expressionism. “The figure is still the only thing I have faith in in terms of how much emotion it’s charged with and how much subject matter is there,” he once said.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/021c02ad-e35d-4cf0-841a-62edfdd1fa76.png"></article>]]></description>
-            <link>http://arstler.com/jim-dine/index.html</link>
-            <guid isPermaLink="false">c5eeb65d-adc9-4b04-9f91-15493361f3c7</guid>
-            <pubDate>Sun, 20 Nov 2016 10:36:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
