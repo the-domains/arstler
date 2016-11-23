@@ -1,18 +1,18 @@
 ---
 title: 'Alexander Calder, ''Colored Bubbles'', 1963, Partners & Mucciaccia | Artsy'
-datePublished: '2016-07-10T19:07:04.096Z'
-dateModified: '2016-07-10T18:53:22.062Z'
+datePublished: '2016-11-23T11:40:44.091Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/alexander-calder-colored-bubbles'
 description: >-
   American artist Alexander Calder changed the course of modern art by
   developing an innovative method of sculpting, bending, and twisting wire to
   create three-dimensional "drawings in space."
-starred: false
 sourcePath: _posts/2016-07-10-alexander-calder-colored-bubbles-1963-partners-and-muccia.md
+starred: false
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
