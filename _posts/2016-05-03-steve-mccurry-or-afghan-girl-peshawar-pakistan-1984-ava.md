@@ -17,24 +17,27 @@ keywords:
   - artsyterms
   - institutionsartsy
   - artsycollecting
-description: 'Available for sale from Cavalier Galleries, Steve McCurry, Afghan Girl (Peshawar, Pakistan) (1984), Print, 20 × 24 in'
+description: >-
+  Available for sale from Cavalier Galleries, Steve McCurry, Afghan Girl
+  (Peshawar, Pakistan) (1984), Print, 20 × 24 in
 inLanguage: en
 app_links:
-  - url: 'https://www.artsy.net/artwork/steve-mccurry-afghan-girl-peshawar-pakistan-1'
+  - url: >-
+      https://www.artsy.net/artwork/steve-mccurry-afghan-girl-peshawar-pakistan-1
     type: ios
     namespace: ai
     app_store_id: '703796080'
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/artwork/steve-mccurry-afghan-girl-peshawar-pakistan-1'
-title: 'Steve McCurry | Afghan Girl (Peshawar, Pakistan) (1984), Available for Sale | Artsy'
-datePublished: '2016-05-03T17:05:18.017Z'
-dateModified: '2016-05-03T17:03:10.839Z'
-starred: false
+title: >-
+  Steve McCurry | Afghan Girl (Peshawar, Pakistan) (1984), Available for Sale |
+  Artsy
+datePublished: '2016-11-23T11:11:41.520Z'
+dateModified: '2016-11-23T11:11:27.854Z'
 sourcePath: _posts/2016-05-03-steve-mccurry-or-afghan-girl-peshawar-pakistan-1984-ava.md
-published: true
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
