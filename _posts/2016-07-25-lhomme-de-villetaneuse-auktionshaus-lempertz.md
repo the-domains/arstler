@@ -1,7 +1,7 @@
 ---
 title: L'Homme de Villetaneuse - Auktionshaus Lempertz
-datePublished: '2016-07-25T06:20:15.956Z'
-dateModified: '2016-07-24T20:15:12.328Z'
+datePublished: '2016-11-23T11:40:43.638Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://www.lempertz.com/en/catalogues/lot/1071-1/612-cesar.html'
 description: >-
@@ -12,11 +12,9 @@ description: >-
   basic materials were discovered.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-25-lhomme-de-villetaneuse-auktionshaus-lempertz.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
