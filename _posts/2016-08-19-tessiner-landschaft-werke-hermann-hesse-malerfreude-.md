@@ -2,8 +2,8 @@
 title: >-
   Tessiner Landschaft - Werke - Hermann Hesse - Malerfreude - Ausstellungen -
   Galerie Ludorff
-datePublished: '2016-08-19T19:12:56.896Z'
-dateModified: '2016-08-19T18:50:07.558Z'
+datePublished: '2016-11-23T11:40:34.692Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: >-
   http://www.ludorff.com/de/exhibition/hermann_hesse_malerfreude_2/work/tessiner_landschaft_4
@@ -14,11 +14,9 @@ description: >-
   Duesseldorf, Germany.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-tessiner-landschaft-werke-hermann-hesse-malerfreude-.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
