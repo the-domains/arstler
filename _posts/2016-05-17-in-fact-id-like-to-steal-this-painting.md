@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-06T17:06:23.988Z'
+datePublished: '2016-11-23T10:57:37.440Z'
 sourcePath: _posts/2016-05-17-in-fact-id-like-to-steal-this-painting.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-06T17:06:23.433Z'
+dateModified: '2016-11-23T10:57:20.754Z'
 title: arstler™
 id: 8e1e6782-92ec-4bae-b65d-3191a4443bf3
 publisher: {}
