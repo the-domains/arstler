@@ -1,15 +1,14 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: 'https://artlist.co/artworks/b81dd06c-d094-4277-ad88-6497774b6afa'
 inLanguage: null
 keywords: []
 description: >-
   Julian Wasser, Jack Nicholson's house on Mulholland Drive in Los Angeles for
   sale
-datePublished: '2016-07-05T08:34:16.599Z'
-dateModified: '2016-07-05T08:34:12.903Z'
+datePublished: '2016-11-23T11:40:44.112Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 title: ''
 author:
   - name: ''
@@ -17,8 +16,9 @@ author:
 sourcePath: >-
   _posts/2016-07-02-julian-wasser-jack-nicholsons-house-on-mulholland-drive-in.md
 authors: []
-publisher: null
+publisher: {}
 starred: false
+via: {}
 _type: MediaObject
 
 ---
