@@ -1,15 +1,15 @@
 ---
 title: 'Catherine Eaton Skinner, ''Ametsuchi Mandala II'', MILL Contemporary | Artsy'
-datePublished: '2016-07-10T19:07:03.067Z'
-dateModified: '2016-07-10T19:01:20.140Z'
+datePublished: '2016-11-23T11:40:44.064Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/catherine-eaton-skinner-ametsuchi-mandala-ii-1'
 description: Home Museums Artists Fairs Shows Auctions Galleries Magazine
-starred: false
 sourcePath: _posts/2016-07-10-catherine-eaton-skinner-ametsuchi-mandala-ii-mill-contem.md
+starred: false
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
