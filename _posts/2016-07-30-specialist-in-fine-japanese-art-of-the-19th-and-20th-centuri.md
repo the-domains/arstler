@@ -1,7 +1,7 @@
 ---
 title: Specialist in Fine Japanese Art of the 19th and 20th Centuries
-datePublished: '2016-07-30T14:59:20.293Z'
-dateModified: '2016-07-30T14:58:26.040Z'
+datePublished: '2016-11-23T11:40:26.792Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.whitestonegallery.co.jp/exhibitions/exhibitions.html'
 description: >-
@@ -12,12 +12,10 @@ description: >-
   2000.
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-07-30-specialist-in-fine-japanese-art-of-the-19th-and-20th-centuri.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
