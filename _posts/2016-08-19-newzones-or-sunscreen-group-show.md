@@ -1,7 +1,7 @@
 ---
 title: Newzones | "Sunscreen" - Group Show
-datePublished: '2016-08-19T19:12:55.159Z'
-dateModified: '2016-08-19T19:03:52.741Z'
+datePublished: '2016-11-23T11:40:33.173Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: >-
   http://www.newzones.com/dynamic/exhibit_artist.asp?ExhibitID=378#!prettyPhoto%5Bgallery%5D/1/
@@ -12,11 +12,9 @@ description: >-
   William Perehudoff, Rana Rochat, Pat Service, Donald Sultan, .
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-newzones-or-sunscreen-group-show.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
