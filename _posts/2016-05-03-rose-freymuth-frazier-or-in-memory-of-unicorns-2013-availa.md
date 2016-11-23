@@ -33,13 +33,13 @@ isBasedOnUrl: >-
 title: >-
   Rose Freymuth-Frazier | In Memory of Unicorns (2013), Available for Sale |
   Artsy
-datePublished: '2016-11-23T11:11:41.583Z'
-dateModified: '2016-11-23T11:11:27.854Z'
+datePublished: '2016-11-23T11:40:48.490Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 sourcePath: >-
   _posts/2016-05-03-rose-freymuth-frazier-or-in-memory-of-unicorns-2013-availa.md
-starred: false
 via: {}
 inFeed: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
