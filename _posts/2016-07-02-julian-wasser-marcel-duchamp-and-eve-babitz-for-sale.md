@@ -1,21 +1,21 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: 'https://artlist.co/artworks/9b6d3fd6-57b1-463f-a689-06f9d002dadd'
 inLanguage: null
 keywords: []
 description: 'Julian Wasser, Marcel Duchamp and Eve Babitz for sale'
-datePublished: '2016-07-05T08:25:52.451Z'
-dateModified: '2016-07-05T08:25:46.036Z'
+datePublished: '2016-11-23T11:40:44.093Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-07-02-julian-wasser-marcel-duchamp-and-eve-babitz-for-sale.md
 authors: []
-publisher: null
+publisher: {}
 starred: false
+via: {}
 _type: MediaObject
 
 ---
