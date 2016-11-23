@@ -1,8 +1,8 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.sothebys.com/content/sothebys/en/auctions/2016/art-impressionniste-et-moderne-pf1606.html'
+isBasedOnUrl: >-
+  http://www.sothebys.com/content/sothebys/en/auctions/2016/art-impressionniste-et-moderne-pf1606.html
 inLanguage: en
 keywords:
   - impressionist
@@ -15,9 +15,11 @@ keywords:
   - director
   - auctions
   - participate
-description: "Art Impressionniste et Moderne - View Auction details, bid, buy and collect the various artworks at Sotheby's Art Auction House."
-datePublished: '2016-06-01T07:56:43.270Z'
-dateModified: '2016-06-01T07:55:32.303Z'
+description: >-
+  Art Impressionniste et Moderne - View Auction details, bid, buy and collect
+  the various artworks at Sotheby's Art Auction House.
+datePublished: '2016-11-23T11:40:44.949Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 related: []
 app_links: []
@@ -28,8 +30,9 @@ publisher:
   domain: www.sothebys.com
   url: 'http://www.sothebys.com'
   favicon: 'http://www.sothebys.com/etc/designs/redesigns/sothebys/img/icons/favicon.ico'
-starred: false
 sourcePath: _posts/2016-06-01-art-impressionniste-et-moderne.md
+starred: false
+via: {}
 _context: 'http://schema.org'
 _type: MediaObject
 
