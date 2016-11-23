@@ -8,15 +8,15 @@ description: >-
   Alex Katz White Impatiens , 2016 70 x 56 in (177.8 x 142.24 cm) Technique:
   26-color silkscreen on Saunders Waterford 425gsm paper Edition Size: 70
   $20,000
-datePublished: '2016-11-23T11:11:41.519Z'
-dateModified: '2016-11-23T11:11:27.854Z'
+datePublished: '2016-11-23T11:26:54.479Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 title: ''
 authors: []
 publisher: {}
 sourcePath: _posts/2016-05-03-alex-katz-white-impatiens-2016-70-x-56-in-1778-x-14224.md
-starred: false
 via: {}
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
