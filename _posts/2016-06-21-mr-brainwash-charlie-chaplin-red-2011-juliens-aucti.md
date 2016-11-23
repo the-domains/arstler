@@ -2,8 +2,8 @@
 title: >-
   Mr. Brainwash, 'Charlie Chaplin (Red)', 2011, Julien's Auctions: Street Art
   Now June 2016 | Artsy
-datePublished: '2016-06-21T07:45:28.276Z'
-dateModified: '2016-06-21T07:38:08.333Z'
+datePublished: '2016-11-23T11:40:44.228Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/mr-brainwash-charlie-chaplin-red'
 description: >-
@@ -11,11 +11,11 @@ description: >-
   Gift Shop (2010), which documented his rise to success in 2008. He has been
   quoted as saying, "Banksy captured me becoming an artist, in the end, I became
   his biggest work of art."
-starred: false
 sourcePath: _posts/2016-06-21-mr-brainwash-charlie-chaplin-red-2011-juliens-aucti.md
+starred: false
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
