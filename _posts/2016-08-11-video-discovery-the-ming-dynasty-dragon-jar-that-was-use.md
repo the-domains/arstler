@@ -2,8 +2,8 @@
 title: >-
   Video: Discovery: The Ming Dynasty 'Dragon' jar that was used as an umbrella
   stand
-datePublished: '2016-08-11T19:10:52.474Z'
-dateModified: '2016-08-09T18:51:56.798Z'
+datePublished: '2016-11-23T11:40:26.781Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: >-
   http://www.christies.com/features/Discovery-The-Ming-Dynasty-Dragon-jar-being-used-an-umbrella-stand-7581-3.aspx?pid=en_homepage_video2
@@ -15,11 +15,9 @@ description: >-
   touch with the owner, who agreed to send it to London to be inspected.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-11-video-discovery-the-ming-dynasty-dragon-jar-that-was-use.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
