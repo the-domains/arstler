@@ -1,7 +1,7 @@
 ---
 title: 'Jeff Koons, ''Rabbit'', 1986, Kunstmuseum Basel | Artsy'
-datePublished: '2016-08-19T19:12:56.926Z'
-dateModified: '2016-08-19T18:45:57.134Z'
+datePublished: '2016-11-23T11:40:34.686Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/jeff-koons-rabbit-1'
 description: >-
@@ -10,11 +10,9 @@ description: >-
   personal life are based in it."
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-jeff-koons-rabbit-1986-kunstmuseum-basel-or-artsy.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
