@@ -1,7 +1,7 @@
 ---
 title: Ring A by Robert Mangold on artnet Auctions
-datePublished: '2016-07-23T20:51:14.743Z'
-dateModified: '2016-07-23T20:38:15.303Z'
+datePublished: '2016-11-23T11:40:43.684Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://www.artnet.com/auctions/artists/robert-mangold/ring-a'
 description: >-
@@ -12,11 +12,9 @@ description: >-
   described in its listing, or is found to be not authentic.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-23-ring-a-by-robert-mangold-on-artnet-auctions.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
