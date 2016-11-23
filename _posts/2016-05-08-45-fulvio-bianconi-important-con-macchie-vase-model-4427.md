@@ -17,18 +17,24 @@ keywords:
   - post-war
   - caricaturist
   - designed
-description: 'Wright is the premier auction house specializing in modern and contemporary design. Since 2000 we have sold nearly 20,000 lots across the spectrum of 20th and 21st century design. We have pioneered whole fields of collecting and transformed the market for modern design. Our dedication to design drives what we do and who we are.'
+description: >-
+  Wright is the premier auction house specializing in modern and contemporary
+  design. Since 2000 we have sold nearly 20,000 lots across the spectrum of 20th
+  and 21st century design. We have pioneered whole fields of collecting and
+  transformed the market for modern design. Our dedication to design drives what
+  we do and who we are.
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.wright20.com/auctions/2016/05/design-masterworks/45'
-title: '45: Fulvio Bianconi / Important con Macchie vase, model 4427 < Design Masterworks, 19 May 2016 < Auctions | Wright'
-datePublished: '2016-05-08T12:06:25.378Z'
-dateModified: '2016-05-07T21:15:22.969Z'
-starred: false
+title: >-
+  45: Fulvio Bianconi / Important con Macchie vase, model 4427 < Design
+  Masterworks, 19 May 2016 < Auctions | Wright
+datePublished: '2016-11-23T11:40:44.561Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 sourcePath: _posts/2016-05-08-45-fulvio-bianconi-important-con-macchie-vase-model-4427.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
