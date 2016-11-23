@@ -1,7 +1,7 @@
 ---
 title: 'Richard Serra - May 7 - October 22, 2016 - Gagosian Gallery'
-datePublished: '2016-07-25T18:19:03.174Z'
-dateModified: '2016-07-25T18:13:19.676Z'
+datePublished: '2016-11-23T11:40:26.825Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.gagosian.com/exhibitions/richard-serra--may-07-2016'
 description: >-
@@ -10,11 +10,9 @@ description: >-
   Cristiano Mascaro Download Press Release PDF (115 Kb) EXTENDED!
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-25-richard-serra-may-7-october-22-2016-gagosian-gallery.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
