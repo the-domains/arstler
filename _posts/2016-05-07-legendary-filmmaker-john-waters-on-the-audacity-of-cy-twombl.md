@@ -20,7 +20,10 @@ keywords:
   - picasso
   - bfi
   - bacon
-description: "What is like to live with a work by post-war master Cy Twombly? According to legendary filmmaker John Waters, it's \"great because every day when you pass it you think of his nerve. The audacity of him doing this.\""
+description: >-
+  What is like to live with a work by post-war master Cy Twombly? According to
+  legendary filmmaker John Waters, it's "great because every day when you pass
+  it you think of his nerve. The audacity of him doing this."
 inLanguage: en
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=xAgsduEAGj0&feature=applinks'
@@ -61,13 +64,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=xAgsduEAGj0'
 title: Legendary Filmmaker John Waters On the Audacity of Cy Twombly
-datePublished: '2016-05-07T15:17:44.186Z'
-dateModified: '2016-05-07T15:06:01.785Z'
+datePublished: '2016-11-23T11:40:44.563Z'
+dateModified: '2016-11-23T11:26:45.121Z'
+sourcePath: >-
+  _posts/2016-05-07-legendary-filmmaker-john-waters-on-the-audacity-of-cy-twombl.md
 starred: false
-sourcePath: _posts/2016-05-07-legendary-filmmaker-john-waters-on-the-audacity-of-cy-twombl.md
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: VideoObject
 _context: 'http://schema.org'
 
