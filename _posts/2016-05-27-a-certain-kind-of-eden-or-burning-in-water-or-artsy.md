@@ -17,7 +17,11 @@ keywords:
   - rodriguez
   - water
   - work
-description: 'a certain kind of Eden Burning in Water18 April - 4 June 2016 Burning in Water is pleased to present the group exhibition a certain kind of Eden, which addresses both the fragility and resiliency of the natural environment in the face of looming ecological threats.'
+description: >-
+  a certain kind of Eden Burning in Water18 April - 4 June 2016 Burning in Water
+  is pleased to present the group exhibition a certain kind of Eden, which
+  addresses both the fragility and resiliency of the natural environment in the
+  face of looming ecological threats.
 inLanguage: en
 app_links:
   - url: 'https://www.artsy.net/show/burning-in-water-a-certain-kind-of-eden'
@@ -26,14 +30,13 @@ app_links:
     app_store_id: '703796080'
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/show/burning-in-water-a-certain-kind-of-eden'
-title: 'a certain kind of Eden | Burning in Water | Artsy'
-datePublished: '2016-05-27T20:10:40.106Z'
-dateModified: '2016-05-27T20:09:19.981Z'
-starred: false
+title: a certain kind of Eden | Burning in Water | Artsy
+datePublished: '2016-11-23T11:40:44.999Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 sourcePath: _posts/2016-05-27-a-certain-kind-of-eden-or-burning-in-water-or-artsy.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
