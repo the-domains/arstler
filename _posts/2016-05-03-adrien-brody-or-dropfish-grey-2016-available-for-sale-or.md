@@ -17,7 +17,9 @@ keywords:
   - institutionsartsy
   - artsycollecting
   - fairsgalleriesauctions
-description: 'Available for sale from David Benrimon Fine Art, Adrien Brody, Dropfish (Grey) (2016), Mixed media on canvas, 48 × 48 in'
+description: >-
+  Available for sale from David Benrimon Fine Art, Adrien Brody, Dropfish (Grey)
+  (2016), Mixed media on canvas, 48 × 48 in
 inLanguage: en
 app_links:
   - url: 'https://www.artsy.net/artwork/adrien-brody-dropfish-grey'
@@ -27,14 +29,12 @@ app_links:
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/artwork/adrien-brody-dropfish-grey'
 title: 'Adrien Brody | Dropfish (Grey) (2016), Available for Sale | Artsy'
-datePublished: '2016-05-03T17:05:18.132Z'
-dateModified: '2016-05-03T16:57:48.835Z'
-starred: false
+datePublished: '2016-11-23T11:11:41.633Z'
+dateModified: '2016-11-23T11:11:27.854Z'
 sourcePath: _posts/2016-05-03-adrien-brody-or-dropfish-grey-2016-available-for-sale-or.md
-published: true
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
