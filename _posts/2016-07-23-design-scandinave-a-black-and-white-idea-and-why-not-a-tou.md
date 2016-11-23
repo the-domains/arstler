@@ -1,7 +1,7 @@
 ---
 title: 'Design Scandinave : a black and white idea and why not a touch of pink | Piasa'
-datePublished: '2016-07-23T21:08:48.381Z'
-dateModified: '2016-07-23T21:08:29.868Z'
+datePublished: '2016-11-23T11:40:43.701Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.piasa.fr/node/133279'
 description: >-
@@ -12,12 +12,10 @@ description: >-
   2016 de 10 à 12 heures -
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-07-23-design-scandinave-a-black-and-white-idea-and-why-not-a-tou.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
