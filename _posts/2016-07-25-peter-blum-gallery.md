@@ -1,9 +1,9 @@
 ---
 title: Peter Blum Gallery
-datePublished: '2016-11-23T11:40:26.825Z'
+datePublished: '2016-11-23T11:40:26.824Z'
 dateModified: '2016-11-23T11:26:45.121Z'
 author: []
-isBasedOnUrl: 'http://peterblumgallery.com/exhibitions/Katsura-Ishimoto'
+isBasedOnUrl: 'http://peterblumgallery.com/'
 description: ''
 publisher: {}
 via: {}
@@ -13,4 +13,4 @@ inFeed: true
 _type: MediaObject
 
 ---
-<article style=""><h1>Peter Blum Gallery</h1><img src="http://peterblum.s3.amazonaws.com/installation_views/413/ishimotoinstall5.jpg" /></article>
+<article style=""><h1>Peter Blum Gallery</h1><img src="http://peterblum.s3.amazonaws.com/thumbnails/exhibition/143/1007.jpg" /></article>
