@@ -1,7 +1,7 @@
 ---
 title: Dutch Artist's Sculpture Offers a Splash From Thin Air
-datePublished: '2016-07-12T14:25:50.082Z'
-dateModified: '2016-07-12T14:22:47.036Z'
+datePublished: '2016-11-23T11:40:44.035Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: >-
   http://mobile.nytimes.com/2016/07/12/arts/design/dutch-artists-sculpture-offers-a-splash-from-thin-air.html
@@ -10,11 +10,11 @@ description: >-
   people have stopped paying attention - an unassuming red cedarwood sculpture
   in the courtyard of the Beelden aan Zee museum here ejects a stream of water,
   spraying across the patio.
-starred: false
 sourcePath: _posts/2016-07-12-dutch-artists-sculpture-offers-a-splash-from-thin-air.md
+starred: false
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
