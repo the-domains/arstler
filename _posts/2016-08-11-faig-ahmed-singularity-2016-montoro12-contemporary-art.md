@@ -1,7 +1,7 @@
 ---
 title: 'Faig Ahmed, ''Singularity'', 2016, Montoro12 Contemporary Art | Artsy'
-datePublished: '2016-08-11T19:10:52.015Z'
-dateModified: '2016-08-11T19:06:09.680Z'
+datePublished: '2016-11-23T11:40:34.712Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/faig-ahmed-singularity'
 description: >-
@@ -11,11 +11,9 @@ description: >-
   architectural structures, fabricated in wood or plastic.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-11-faig-ahmed-singularity-2016-montoro12-contemporary-art.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
