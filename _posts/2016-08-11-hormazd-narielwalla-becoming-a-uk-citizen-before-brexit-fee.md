@@ -1,7 +1,7 @@
 ---
 title: 'Hormazd Narielwalla: becoming a UK citizen before Brexit feels bittersweet'
-datePublished: '2016-08-11T19:10:52.861Z'
-dateModified: '2016-08-09T18:47:59.778Z'
+datePublished: '2016-11-23T11:40:26.797Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author:
   - name: Hormazd Narielwalla
     url: null
@@ -15,12 +15,10 @@ description: >-
   floor of the Royal Festival Hall, in London.
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-11-hormazd-narielwalla-becoming-a-uk-citizen-before-brexit-fee.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
