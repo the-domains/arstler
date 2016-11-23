@@ -2,8 +2,8 @@
 title: >-
   A Nepalese bronze figure of a Green Tara. 14th/15th century - Auktionshaus
   Lempertz
-datePublished: '2016-07-23T21:23:57.057Z'
-dateModified: '2016-07-23T21:20:40.752Z'
+datePublished: '2016-11-23T11:40:43.683Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: >-
   https://www.lempertz.com/en/catalogues/lot/1072-1/6-a-nepalese-bronze-figure-of-a-green-tara-14th15th-century.html
@@ -14,11 +14,9 @@ description: >-
   14th/15th century.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-23-a-nepalese-bronze-figure-of-a-green-tara-14th15th-century.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
