@@ -27,13 +27,12 @@ app_links:
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/artist/ali-emir-tapan'
 title: 'Ali Emir Tapan - 5 Artworks, Bio & Shows on Artsy'
-datePublished: '2016-05-08T17:38:44.312Z'
-dateModified: '2016-05-08T12:25:26.247Z'
-starred: false
+datePublished: '2016-11-23T11:40:44.541Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 sourcePath: _posts/2016-05-08-ali-emir-tapan-5-artworks-bio-and-shows-on-artsy.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
