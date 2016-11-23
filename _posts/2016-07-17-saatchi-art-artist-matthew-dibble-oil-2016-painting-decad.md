@@ -1,15 +1,15 @@
 ---
 title: 'Saatchi Art Artist: Matthew Dibble; Oil 2016 Painting "Decadent Messenger"'
-datePublished: '2016-07-17T18:18:47.633Z'
-dateModified: '2016-07-17T18:15:38.371Z'
+datePublished: '2016-11-23T11:40:43.922Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.saatchiart.com/art/Painting-Decadent-Messenger/185414/2909611/view'
 description: Oil charcoal and newsprint on stretched canvas.
-starred: false
 sourcePath: _posts/2016-07-17-saatchi-art-artist-matthew-dibble-oil-2016-painting-decad.md
+starred: false
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
