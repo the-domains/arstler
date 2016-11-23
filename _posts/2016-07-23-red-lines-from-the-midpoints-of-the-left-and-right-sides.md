@@ -1,7 +1,7 @@
 ---
 title: Red Lines from the Midpoints of the Left and Right Sides...
-datePublished: '2016-07-23T20:23:43.213Z'
-dateModified: '2016-07-23T20:12:15.386Z'
+datePublished: '2016-11-23T11:40:43.754Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: >-
   https://onlineonly.christies.com/s/first-open-post-war-contemporary-art/red-lines-midpoints-left-right-sides-3/30091
@@ -12,11 +12,9 @@ description: >-
   LINES FROM THE MID-POINTS OF THE TOP AND BOTTOM SIDES.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-23-red-lines-from-the-midpoints-of-the-left-and-right-sides.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
