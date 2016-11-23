@@ -1,18 +1,22 @@
 ---
-description: 'Matt Kleberg: Hankerings Morgan Lehman Gallery and Mulherin New York are pleased to present Hankerings, an exhibition of new paintings by Brooklyn based artist Matt Kleberg. MORGAN LEHMAN GALLERY Mar 31st – May 7th New York, 535 West 22nd StreetMap Opening Reception: Wednesday, Mar. 30th, 6pm -8pm'
+description: >-
+  Matt Kleberg: Hankerings Morgan Lehman Gallery and Mulherin New York are
+  pleased to present Hankerings, an exhibition of new paintings by Brooklyn
+  based artist Matt Kleberg. MORGAN LEHMAN GALLERY Mar 31st – May 7th New York,
+  535 West 22nd StreetMap Opening Reception: Wednesday, Mar. 30th, 6pm -8pm
+isBasedOnUrl: 'https://www.artsy.net/show/morgan-lehman-gallery-matt-kleberg-hankerings'
 author: []
-datePublished: '2016-05-08T12:06:23.925Z'
+datePublished: '2016-11-23T11:40:44.525Z'
 publisher:
   domain: www.artsy.net
   name: artsy.net
-dateModified: '2016-05-07T21:50:36.965Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 title: ''
+sourcePath: >-
+  _posts/2016-05-08-matt-kleberg-hankerings-morgan-lehman-gallery-and-mulherin.md
 starred: false
-sourcePath: _posts/2016-05-08-matt-kleberg-hankerings-morgan-lehman-gallery-and-mulherin.md
+via: {}
 inFeed: true
-hasPage: true
-inNav: false
-url: matt-kleberg-hankerings-morgan-lehman-gallery-and-mulherin/index.html
 _context: 'http://schema.org'
 _type: Article
 
