@@ -1,18 +1,16 @@
 ---
 title: FANTE DOLL AND AKUA'BA - Auktionshaus Lempertz
-datePublished: '2016-07-25T06:20:15.883Z'
-dateModified: '2016-07-24T20:17:49.421Z'
+datePublished: '2016-11-23T11:40:43.628Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: >-
   https://www.lempertz.com/en/catalogues/lot/1073-1/11-fante-doll-and-akuaba.html
 description: Do you already have a MyLempertz account? Please log in here.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-25-fante-doll-and-akuaba-auktionshaus-lempertz.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
