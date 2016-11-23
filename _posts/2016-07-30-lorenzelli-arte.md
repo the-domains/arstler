@@ -1,7 +1,7 @@
 ---
 title: Lorenzelli arte
-datePublished: '2016-07-30T15:00:24.116Z'
-dateModified: '2016-07-28T21:09:26.442Z'
+datePublished: '2016-11-23T11:40:26.792Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.lorenzelliarte.com/en/homepage'
 description: >-
@@ -9,11 +9,9 @@ description: >-
   info@lorenzelliarte.com - Privacy policy - Site by Antherica srl
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-30-lorenzelli-arte.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
