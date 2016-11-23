@@ -1,7 +1,7 @@
 ---
 title: 'Walter De Maria - May 26 - July 30, 2016 - Gagosian Gallery'
-datePublished: '2016-07-25T18:19:02.990Z'
-dateModified: '2016-07-25T18:15:27.824Z'
+datePublished: '2016-11-23T11:40:26.816Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.gagosian.com/exhibitions/walter-de-maria--may-26-2016'
 description: >-
@@ -14,11 +14,9 @@ description: >-
   might be...imposing a lot more content on the world than is necessary.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-25-walter-de-maria-may-26-july-30-2016-gagosian-gallery.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
