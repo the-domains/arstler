@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-20T10:17:29.304Z'
+datePublished: '2016-11-23T11:40:26.622Z'
 inFeed: true
 hasPage: true
 author:
@@ -7,12 +7,12 @@ author:
     url: null
     avatar: {}
 via: {}
-dateModified: '2016-11-20T10:16:30.186Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 title: 'Sir Howard Hodgkin: After All'
 publisher: {}
 description: 5 Oct 2016 - 18 Nov 2016
-starred: false
 sourcePath: _posts/2016-11-20-sir-howard-hodgkin-after-all.md
+starred: false
 url: sir-howard-hodgkin-after-all/index.html
 _type: Article
 
