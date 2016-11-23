@@ -1,24 +1,23 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: 'http://countereditions.com/eu/'
 inLanguage: null
 keywords: []
 description: La Volta (2001-2016) by Rebecca Warren
-datePublished: '2016-05-04T09:42:25.445Z'
-dateModified: '2016-05-04T09:41:28.463Z'
+datePublished: '2016-11-23T11:40:48.434Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 title: ''
 authors: []
 publisher:
-  name: countereditions.com
-  domain: countereditions.com
+  name: null
+  domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-04-la-volta-2001-2016-by-rebecca-warren.md
-published: true
+starred: false
+via: {}
 _context: 'http://schema.org'
 _type: Article
 
