@@ -1,7 +1,7 @@
 ---
 title: Kunstmuseum Basel | Exhibitions | Upcoming | Enthralling Engraving
-datePublished: '2016-08-19T19:12:57.438Z'
-dateModified: '2016-08-19T18:44:35.437Z'
+datePublished: '2016-11-23T11:40:34.692Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.kunstmuseumbasel.ch/en/exhibitions/upcoming/enthralling-engraving/'
 description: >-
@@ -13,12 +13,10 @@ description: >-
   (1793-1847).
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-19-kunstmuseum-basel-or-exhibitions-or-upcoming-or-enthralling-eng.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
