@@ -1,7 +1,7 @@
 ---
 title: 'Laura Lima, ''Sem título (Ágrafo)'', 2015, Pace Gallery | Artsy'
-datePublished: '2016-08-15T19:22:14.930Z'
-dateModified: '2016-08-15T18:40:00.818Z'
+datePublished: '2016-11-23T11:40:34.702Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/laura-lima-sem-titulo-agrafo'
 description: >-
@@ -11,11 +11,9 @@ description: >-
   since, a man and woman lie reclined and nude in a large hammock.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-15-laura-lima-sem-titulo-agrafo-2015-pace-gallery-or-arts.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
