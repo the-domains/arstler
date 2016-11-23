@@ -2,8 +2,8 @@
 title: >-
   Annie Morris, 'Stack 8 (Viridian Green)', 2015, Winston Wächter Fine Art |
   Artsy
-datePublished: '2016-08-11T19:10:52.075Z'
-dateModified: '2016-08-11T19:05:31.108Z'
+datePublished: '2016-11-23T11:40:34.712Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/annie-morris-stack-8-viridian-green'
 description: >-
@@ -14,11 +14,9 @@ description: >-
   Man with the Dancing Eyes.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-11-annie-morris-stack-8-viridian-green-2015-winston-wach.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
