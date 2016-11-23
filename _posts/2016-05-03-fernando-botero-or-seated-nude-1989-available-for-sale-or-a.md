@@ -17,7 +17,9 @@ keywords:
   - fernando
   - picasso
   - medel
-description: 'Available for sale from Heather James Fine Art, Fernando Botero, Seated Nude (1989), Oil on canvas, 49 × 39 in'
+description: >-
+  Available for sale from Heather James Fine Art, Fernando Botero, Seated Nude
+  (1989), Oil on canvas, 49 × 39 in
 inLanguage: en
 app_links:
   - url: 'https://www.artsy.net/artwork/fernando-botero-seated-nude'
@@ -27,14 +29,13 @@ app_links:
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/artwork/fernando-botero-seated-nude'
 title: 'Fernando Botero | Seated Nude (1989), Available for Sale | Artsy'
-datePublished: '2016-05-03T17:10:53.080Z'
-dateModified: '2016-05-03T17:09:03.038Z'
+datePublished: '2016-11-23T11:40:48.498Z'
+dateModified: '2016-11-23T11:26:45.121Z'
+sourcePath: >-
+  _posts/2016-05-03-fernando-botero-or-seated-nude-1989-available-for-sale-or-a.md
 starred: false
-sourcePath: _posts/2016-05-03-fernando-botero-or-seated-nude-1989-available-for-sale-or-a.md
-published: true
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
