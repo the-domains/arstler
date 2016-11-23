@@ -1,24 +1,26 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: 'http://tinyshowcase.com/artwork.php?id=2393'
 inLanguage: null
 keywords: []
-description: '"Bathers" is an edition of 100 three-color screen prints by Kaye Blegvad. With a small border for framing, the artwork is sized to fit a standard 11" wide by 14" tall frame.'
-datePublished: '2016-05-03T17:41:08.028Z'
-dateModified: '2016-05-03T17:40:59.906Z'
+description: >-
+  "Bathers" is an edition of 100 three-color screen prints by Kaye Blegvad. With
+  a small border for framing, the artwork is sized to fit a standard 11" wide by
+  14" tall frame.
+datePublished: '2016-11-23T11:40:48.430Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 title: '"Bathers" byKaye Blegvad'
 authors: []
 publisher:
-  name: tinyshowcase.com
-  domain: tinyshowcase.com
+  name: null
+  domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-03-bathers-bykaye-blegvad.md
-published: true
+starred: false
+via: {}
 _context: 'http://schema.org'
 _type: Article
 
