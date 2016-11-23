@@ -1,17 +1,15 @@
 ---
 title: 'FP Contemporary :: Exhibitions'
-datePublished: '2016-07-26T20:56:26.457Z'
-dateModified: '2016-07-26T20:47:37.909Z'
+datePublished: '2016-11-23T11:40:26.801Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://fpcontemporary.com/exhibitions'
 description: ''
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-26-fp-contemporary-exhibitions.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
