@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-09T18:50:45.942Z'
+datePublished: '2016-11-23T10:56:33.351Z'
 sourcePath: _posts/2016-11-09-peter-pincus-urn-2015-wexler-gallery-or-artsy.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-09T18:50:45.328Z'
+dateModified: '2016-11-23T10:56:27.404Z'
 title: ''
 publisher: {}
 description: 'Peter Pincus, ''Urn'', 2015, Wexler Gallery'
