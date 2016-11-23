@@ -2,8 +2,8 @@
 title: >-
   Steve Schapiro, 'Robert Redford & Lauren Hutton, Sonoma, CA', 1970, Atlas
   Gallery | Artsy
-datePublished: '2016-08-19T19:12:55.815Z'
-dateModified: '2016-08-19T18:58:15.912Z'
+datePublished: '2016-11-23T11:40:34.692Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: >-
   https://m.artsy.net/artwork/steve-schapiro-robert-redford-and-lauren-hutton-sonoma-ca
@@ -14,11 +14,9 @@ description: >-
   Andy Warhol and Edie Sedgwick in The Factory.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-steve-schapiro-robert-redford-and-lauren-hutton-sonoma-ca.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
