@@ -1,7 +1,7 @@
 ---
 title: Richard Deacon
-datePublished: '2016-07-26T20:56:26.768Z'
-dateModified: '2016-07-26T20:45:05.167Z'
+datePublished: '2016-11-23T11:40:26.804Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.galeriethomasschulte.de/en/exhibitions/2013/richard-deacon/'
 description: >-
@@ -12,11 +12,9 @@ description: >-
   reliefs and drawings will be on view.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-26-richard-deacon.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
