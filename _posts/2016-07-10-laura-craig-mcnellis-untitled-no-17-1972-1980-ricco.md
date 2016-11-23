@@ -2,8 +2,8 @@
 title: >-
   Laura Craig McNellis, 'Untitled (No. 17)', 1972-1980, Ricco/Maresca Gallery |
   Artsy
-datePublished: '2016-07-10T19:07:04.422Z'
-dateModified: '2016-07-10T18:50:00.420Z'
+datePublished: '2016-11-23T11:40:44.093Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/laura-craig-mcnellis-untitled-no-17'
 description: >-
@@ -11,11 +11,11 @@ description: >-
   outside the art-historical mainstream. The gallery focuses on significant
   contemporary art in various media, crossover artists and historically
   important American work of the 20th century.
-starred: false
 sourcePath: _posts/2016-07-10-laura-craig-mcnellis-untitled-no-17-1972-1980-ricco.md
+starred: false
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
