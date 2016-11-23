@@ -2,8 +2,8 @@
 title: >-
   Robert Kelly, 'Thicket LIV', 2001, Heather James Fine Art: Benefit Auction
   2016 | Artsy
-datePublished: '2016-07-02T19:57:14.554Z'
-dateModified: '2016-07-02T19:55:45.844Z'
+datePublished: '2016-11-23T11:40:44.126Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/robert-kelly-thicket-liv'
 description: >-
@@ -13,11 +13,11 @@ description: >-
   signs in his work. To create the ground for his paintings, he lays the
   re-appropriated paper in long strips to form irregular grids, small squares,
   and triangles.
-starred: false
 sourcePath: _posts/2016-07-02-robert-kelly-thicket-liv-2001-heather-james-fine-art-b.md
+starred: false
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
