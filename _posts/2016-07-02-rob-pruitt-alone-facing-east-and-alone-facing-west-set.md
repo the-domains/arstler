@@ -1,19 +1,19 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: 'https://artlist.co/artworks/cd87bb4e-bdac-416f-b244-7cd4552f5b0d'
 inLanguage: null
 keywords: []
 description: 'Rob Pruitt, Alone (Facing East) & Alone (Facing West) - Set of 2 for sale'
-datePublished: '2016-07-05T08:19:51.013Z'
-dateModified: '2016-07-05T08:19:36.001Z'
+datePublished: '2016-11-23T11:40:44.126Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-02-rob-pruitt-alone-facing-east-and-alone-facing-west-set.md
 authors: []
-publisher: null
+publisher: {}
 starred: false
+via: {}
 _type: MediaObject
 
 ---
