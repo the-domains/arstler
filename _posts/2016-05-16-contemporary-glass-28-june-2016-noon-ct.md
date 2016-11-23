@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: 'https://www.wright20.com/auctions/2016/06/contemporary-glass/info'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-16T09:05:50.448Z'
-dateModified: '2016-05-14T15:34:06.101Z'
+datePublished: '2016-11-23T11:40:45.014Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 title: Contemporary Glass /28 June 2016 Noon ct
 authors: []
 publisher:
-  name: wright20.com
-  domain: www.wright20.com
+  name: null
+  domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-16-contemporary-glass-28-june-2016-noon-ct.md
+starred: false
+via: {}
 _context: 'http://schema.org'
 _type: Article
 
