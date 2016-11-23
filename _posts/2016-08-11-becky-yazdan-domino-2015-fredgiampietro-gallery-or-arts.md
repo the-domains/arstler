@@ -1,7 +1,7 @@
 ---
 title: 'Becky Yazdan, ''Domino'', 2015, FRED.GIAMPIETRO Gallery | Artsy'
-datePublished: '2016-08-11T19:10:51.676Z'
-dateModified: '2016-08-11T19:07:00.905Z'
+datePublished: '2016-11-23T11:40:34.712Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/becky-yazdan-domino'
 description: >-
@@ -11,11 +11,9 @@ description: >-
   books, TV shows, dreams, and past experiences.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-11-becky-yazdan-domino-2015-fredgiampietro-gallery-or-arts.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
