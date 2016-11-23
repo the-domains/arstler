@@ -1,7 +1,7 @@
 ---
 title: 'Thomas Houseago - May 27 - August 13, 2016 - Gagosian Gallery'
-datePublished: '2016-07-25T18:19:02.190Z'
-dateModified: '2016-07-25T18:18:32.454Z'
+datePublished: '2016-11-23T11:40:26.804Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.gagosian.com/exhibitions/thomas-houseago--may-27-2016'
 description: >-
@@ -10,11 +10,9 @@ description: >-
   121.9 cm) © Thomas Houseago.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-25-thomas-houseago-may-27-august-13-2016-gagosian-galler.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
