@@ -1,17 +1,15 @@
 ---
 title: 'LEXICON - June 1 - September 17, 2016 - Gagosian Gallery'
-datePublished: '2016-07-25T18:19:02.563Z'
-dateModified: '2016-07-25T18:16:49.760Z'
+datePublished: '2016-11-23T11:40:26.809Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.gagosian.com/exhibitions/lexicon--june-01-2016'
 description: Exhibition page for showing at Gagosian Gallery Paris.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-25-lexicon-june-1-september-17-2016-gagosian-gallery.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
