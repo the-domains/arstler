@@ -2,8 +2,8 @@
 title: >-
   Retna, 'Braddock Tiles', 2013, Julien's Auctions: Street Art Now June 2016 |
   Artsy
-datePublished: '2016-06-21T07:45:27.858Z'
-dateModified: '2016-06-21T07:41:37.201Z'
+datePublished: '2016-11-23T11:40:44.208Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/retna-braddock-tiles'
 description: >-
@@ -11,11 +11,11 @@ description: >-
   from the lyrics of a Wu Tang song that resonated with him in his youth. Retna
   explains that he was inspired to pursue art after seeing graffiti on the
   freeway, and his practice now includes street art and painting on canvas.
-starred: false
 sourcePath: _posts/2016-06-21-retna-braddock-tiles-2013-juliens-auctions-street-art.md
+starred: false
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
