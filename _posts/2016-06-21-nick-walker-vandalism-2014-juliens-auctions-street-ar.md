@@ -2,8 +2,8 @@
 title: >-
   Nick Walker, 'Vandalism', 2014, Julien's Auctions: Street Art Now June 2016 |
   Artsy
-datePublished: '2016-06-21T09:07:40.962Z'
-dateModified: '2016-06-21T09:06:48.570Z'
+datePublished: '2016-11-23T11:40:44.204Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/nick-walker-vandalism'
 description: >-
@@ -12,11 +12,11 @@ description: >-
   forerunner of this technique, he believes that the combination allows him to
   "juxtapose almost photographic imagery with the rawness which evolved from
   conventional graffiti styles."
-starred: false
 sourcePath: _posts/2016-06-21-nick-walker-vandalism-2014-juliens-auctions-street-ar.md
+starred: false
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
