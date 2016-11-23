@@ -17,24 +17,28 @@ keywords:
   - institutionsartsy
   - artsycollecting
   - fairsgalleriesauctions
-description: 'Available for sale from CES Gallery, Scott Anderson, Farm To Table Dinner Theatre (2016), Oil and oil crayon on canvas, 60 × 48 in'
+description: >-
+  Available for sale from CES Gallery, Scott Anderson, Farm To Table Dinner
+  Theatre (2016), Oil and oil crayon on canvas, 60 × 48 in
 inLanguage: en
 app_links:
-  - url: 'https://www.artsy.net/artwork/scott-anderson-farm-to-table-dinner-theatre-1'
+  - url: >-
+      https://www.artsy.net/artwork/scott-anderson-farm-to-table-dinner-theatre-1
     type: ios
     namespace: ai
     app_store_id: '703796080'
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/artwork/scott-anderson-farm-to-table-dinner-theatre-1'
-title: 'Scott Anderson | Farm To Table Dinner Theatre (2016), Available for Sale | Artsy'
-datePublished: '2016-05-03T17:10:53.056Z'
-dateModified: '2016-05-03T17:08:58.683Z'
+title: >-
+  Scott Anderson | Farm To Table Dinner Theatre (2016), Available for Sale |
+  Artsy
+datePublished: '2016-11-23T11:40:48.503Z'
+dateModified: '2016-11-23T11:26:45.121Z'
+sourcePath: >-
+  _posts/2016-05-03-scott-anderson-or-farm-to-table-dinner-theatre-2016-availa.md
 starred: false
-sourcePath: _posts/2016-05-03-scott-anderson-or-farm-to-table-dinner-theatre-2016-availa.md
-published: true
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
