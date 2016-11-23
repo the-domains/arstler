@@ -17,7 +17,9 @@ keywords:
   - institutionsartsy
   - artsycollecting
   - fairsgalleriesauctions
-description: 'Available for sale from Klein Sun Gallery, Hou Yong, Landscape of Matters - 09 (2016), Oil on canvas, 69 1/4 × 78 3/4 in'
+description: >-
+  Available for sale from Klein Sun Gallery, Hou Yong, Landscape of Matters - 09
+  (2016), Oil on canvas, 69 1/4 × 78 3/4 in
 inLanguage: en
 app_links:
   - url: 'https://www.artsy.net/artwork/hou-yong-landscape-of-matters-09'
@@ -27,13 +29,12 @@ app_links:
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/artwork/hou-yong-landscape-of-matters-09'
 title: 'Hou Yong | Landscape of Matters - 09 (2016), Available for Sale | Artsy'
-datePublished: '2016-05-05T13:44:47.929Z'
-dateModified: '2016-05-05T13:43:40.489Z'
-starred: false
+datePublished: '2016-11-23T11:40:48.426Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 sourcePath: _posts/2016-05-05-hou-yong-or-landscape-of-matters-09-2016-available-for-s.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
