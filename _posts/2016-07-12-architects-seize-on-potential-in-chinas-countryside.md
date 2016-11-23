@@ -1,7 +1,7 @@
 ---
 title: Architects Seize on Potential in China's Countryside
-datePublished: '2016-07-12T14:25:49.795Z'
-dateModified: '2016-07-12T14:25:16.922Z'
+datePublished: '2016-11-23T11:40:44.078Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: >-
   http://mobile.nytimes.com/2016/06/18/arts/design/architects-see-potential-in-chinas-countryside.html
@@ -10,11 +10,11 @@ description: >-
   grass meadows, the Sun Commune is a thriving eco-farm about 60 miles from the
   eastern Chinese city of Hangzhou. Its centerpiece is a pig barn. Yet this home
   for 30 or so black hogs is no ordinary outbuilding.
-starred: false
 sourcePath: _posts/2016-07-12-architects-seize-on-potential-in-chinas-countryside.md
+starred: false
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
