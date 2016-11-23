@@ -17,7 +17,9 @@ keywords:
   - policysecurity
   - tea
   - homemuseumsartistsarticlesshow
-description: 'Browse the best of Latifa Echakhch, including artwork for sale, her latest shows & events, biography, and exclusive Latifa Echakhch articles.'
+description: >-
+  Browse the best of Latifa Echakhch, including artwork for sale, her latest
+  shows & events, biography, and exclusive Latifa Echakhch articles.
 inLanguage: en
 app_links:
   - url: 'https://www.artsy.net/artist/latifa-echakhch'
@@ -27,13 +29,12 @@ app_links:
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/artist/latifa-echakhch'
 title: 'Latifa Echakhch - 47 Artworks, Bio & Shows on Artsy'
-datePublished: '2016-05-08T17:38:44.325Z'
-dateModified: '2016-05-08T12:25:33.759Z'
-starred: false
+datePublished: '2016-11-23T11:40:44.540Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 sourcePath: _posts/2016-05-08-latifa-echakhch-47-artworks-bio-and-shows-on-artsy.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
