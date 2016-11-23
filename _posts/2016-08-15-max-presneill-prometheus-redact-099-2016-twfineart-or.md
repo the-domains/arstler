@@ -1,7 +1,7 @@
 ---
 title: 'Max Presneill, ''Prometheus - Redact 099'', 2016, TWFINEART | Artsy'
-datePublished: '2016-08-15T19:22:15.718Z'
-dateModified: '2016-08-15T18:02:19.681Z'
+datePublished: '2016-11-23T11:40:34.710Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/max-presneill-prometheus-redact-099'
 description: >-
@@ -11,11 +11,9 @@ description: >-
   and drive culture forward through their work.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-15-max-presneill-prometheus-redact-099-2016-twfineart-or.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
