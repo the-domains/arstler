@@ -1,23 +1,19 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: 'https://www.artnet.com/auctions/artists/nicolas-pol/weirdest-conversation'
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-05T12:42:22.446Z'
-dateModified: '2016-05-05T12:42:16.025Z'
+description: Nicolas Pol
+datePublished: '2016-11-23T11:40:48.445Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 title: ''
 sourcePath: _posts/2016-05-05-nicolas-pol.md
 authors: []
-publisher:
-  name: artnet.com
-  domain: www.artnet.com
-  url: null
-  favicon: null
+publisher: {}
 starred: false
+via: {}
 _context: 'http://schema.org'
 _type: Article
 
