@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-22T13:37:09.710Z'
+datePublished: '2016-11-23T10:57:37.434Z'
 sourcePath: _posts/2016-11-20-cy-twombly-untitled-bacchus-2008.md
 inFeed: true
 hasPage: true
@@ -7,7 +7,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-11-22T13:37:09.058Z'
+dateModified: '2016-11-23T10:57:20.754Z'
 title: Cy Twombly
 app_links: []
 publisher: {}
