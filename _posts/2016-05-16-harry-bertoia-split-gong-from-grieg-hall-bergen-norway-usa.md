@@ -1,23 +1,22 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: 'https://www.wright20.com/auctions/2016/05/design-masterworks/29'
 inLanguage: null
 keywords: []
-description: 'HARRY BERTOIA Split Gong from Grieg Hall, Bergen, Norway USA, 1976 silicon bronze with applied patina 72 dia x ¼ d in (183 x 1 cm)'
-datePublished: '2016-05-16T09:05:50.327Z'
-dateModified: '2016-05-14T15:40:27.985Z'
+description: >-
+  HARRY BERTOIA Split Gong from Grieg Hall, Bergen, Norway USA, 1976 silicon
+  bronze with applied patina 72 dia x ¼ d in (183 x 1 cm)
+datePublished: '2016-11-23T11:40:45.014Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 title: ''
 authors: []
-publisher:
-  name: wright20.com
-  domain: www.wright20.com
-  url: null
-  favicon: null
+publisher: {}
+sourcePath: >-
+  _posts/2016-05-16-harry-bertoia-split-gong-from-grieg-hall-bergen-norway-usa.md
 starred: false
-sourcePath: _posts/2016-05-16-harry-bertoia-split-gong-from-grieg-hall-bergen-norway-usa.md
+via: {}
 _context: 'http://schema.org'
 _type: Article
 
