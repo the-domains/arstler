@@ -1,15 +1,15 @@
 ---
 title: 'Natalie White, ''Don''t Tread On Me'', 2016, Wallplay | Artsy'
-datePublished: '2016-07-10T19:07:03.919Z'
-dateModified: '2016-07-10T18:55:07.379Z'
+datePublished: '2016-11-23T11:40:44.111Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/natalie-white-dont-tread-on-me-2'
 description: Home Museums Artists Fairs Shows Auctions Galleries Magazine
-starred: false
 sourcePath: _posts/2016-07-10-natalie-white-dont-tread-on-me-2016-wallplay-or-artsy.md
+starred: false
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
