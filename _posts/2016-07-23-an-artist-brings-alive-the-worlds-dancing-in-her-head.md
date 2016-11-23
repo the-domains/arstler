@@ -1,7 +1,7 @@
 ---
 title: An Artist Brings Alive the Worlds Dancing in Her Head
-datePublished: '2016-07-23T20:04:20.979Z'
-dateModified: '2016-07-23T19:58:19.965Z'
+datePublished: '2016-11-23T11:40:43.772Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: >-
   http://mobile.nytimes.com/2016/07/21/arts/international/an-artist-brings-alive-the-worlds-dancing-in-her-head.html
@@ -12,11 +12,9 @@ description: >-
   the zoo and sketch the animals there.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-23-an-artist-brings-alive-the-worlds-dancing-in-her-head.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
