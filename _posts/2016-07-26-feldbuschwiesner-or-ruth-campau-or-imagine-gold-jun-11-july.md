@@ -1,7 +1,7 @@
 ---
 title: 'FELDBUSCHWIESNER | RUTH CAMPAU | IMAGINE GOLD, Jun 11 - July 21, 2016'
-datePublished: '2016-07-26T20:56:27.573Z'
-dateModified: '2016-07-26T20:39:18.788Z'
+datePublished: '2016-11-23T11:40:26.804Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: >-
   http://www.feldbuschwiesner.de/Neue_Dateien/01_artist/campau/campau_exhibitions/campau_IMAGINE_GOLD_2016.html
@@ -12,12 +12,10 @@ description: >-
   her painting surface is acrylic glass and mylar.
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-07-26-feldbuschwiesner-or-ruth-campau-or-imagine-gold-jun-11-july.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
