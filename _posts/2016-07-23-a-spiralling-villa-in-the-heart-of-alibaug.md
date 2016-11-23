@@ -1,7 +1,7 @@
 ---
 title: A Spiralling Villa in the Heart of Alibaug
-datePublished: '2016-07-23T21:23:57.053Z'
-dateModified: '2016-07-23T21:22:14.238Z'
+datePublished: '2016-11-23T11:40:43.625Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: >-
   http://www.saffronart.com/real-estate/Property-Details.aspx?iid=48447&tc=0&sid=
@@ -12,11 +12,9 @@ description: >-
   online form.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-23-a-spiralling-villa-in-the-heart-of-alibaug.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
