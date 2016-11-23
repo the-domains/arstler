@@ -1,19 +1,19 @@
 ---
-datePublished: '2016-11-23T17:04:35.037Z'
+datePublished: '2016-11-23T17:42:00.179Z'
 sourcePath: _posts/2016-11-01-matte-stephens-illustration-art.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-23T17:04:24.170Z'
+dateModified: '2016-11-23T17:41:59.531Z'
 title: Matte Stephens Illustration Art
 publisher: {}
 description: >-
   I was following Matte’s art since 2009, and I have to say I am still amazed
   and amused every time he’s showing a new painting. They have all the jazz and
-  coffee, and you can admire a few selections right here.  For more paintings
-  you can visit his website here: matteart.blogspot.com
-starred: false
+  coffee, and you can admire a few selections right here. For more paintings you
+  can visit his website here: matteart.blogspot.com
+starred: true
 url: matte-stephens-illustration-art/index.html
 _type: Article
 
