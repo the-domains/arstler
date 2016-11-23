@@ -1,7 +1,7 @@
 ---
 title: The Collection of Sam and Emily Mann | Sotheby's
-datePublished: '2016-07-23T20:23:42.649Z'
-dateModified: '2016-07-23T20:23:19.707Z'
+datePublished: '2016-11-23T11:40:43.739Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: >-
   http://www.sothebys.com/en/news-video/videos/2016/07/collection-of-sam-and-emily-mann.html
@@ -11,11 +11,9 @@ description: >-
   wine, watches, prints, rugs and books at sotheby's auction house
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-23-the-collection-of-sam-and-emily-mann-or-sothebys.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
