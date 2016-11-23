@@ -1,23 +1,20 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.artnet.com/auction-houses/phillips-newyork/20th-century-contemporary-art-evening-sale-2-8-May-2016/'
+isBasedOnUrl: >-
+  http://www.artnet.com/auction-houses/phillips-newyork/20th-century-contemporary-art-evening-sale-2-8-May-2016/
 inLanguage: null
 keywords: []
-description: 'Untitled (Corner of Desire and Piety) III,2008 Lot 9'
-datePublished: '2016-05-06T10:45:57.509Z'
-dateModified: '2016-05-06T10:41:48.257Z'
+description: 'Untitled (Corner of Desire and Piety) III,2008Lot 9'
+datePublished: '2016-11-23T11:40:48.420Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 title: Mark Bradford
 authors: []
-publisher:
-  name: artnet.com
-  domain: www.artnet.com
-  url: null
-  favicon: null
-starred: false
+publisher: {}
 sourcePath: _posts/2016-05-06-mark-bradford.md
+starred: false
+via: {}
 _context: 'http://schema.org'
 _type: Article
 
