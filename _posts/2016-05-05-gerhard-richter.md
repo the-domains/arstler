@@ -1,23 +1,25 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: 'https://artlist.co/artworks/1c0e4262-4b65-44d3-b144-174f43949ba2'
 inLanguage: null
 keywords: []
-description: '- See more at: https://artlist.co/artworks/1c0e4262-4b65-44d3-b144-174f43949ba2#sthash.9Z1iWugs.dpuf'
-datePublished: '2016-05-05T13:42:22.657Z'
-dateModified: '2016-05-05T13:41:25.273Z'
+description: >-
+  - See more at:
+  https://artlist.co/artworks/1c0e4262-4b65-44d3-b144-174f43949ba2#sthash.9Z1iWugs.dpuf
+datePublished: '2016-11-23T11:40:48.445Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 title: Gerhard Richter
 authors: []
 publisher:
-  name: artlist.co
-  domain: artlist.co
+  name: null
+  domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-05-gerhard-richter.md
+starred: false
+via: {}
 _context: 'http://schema.org'
 _type: Article
 
