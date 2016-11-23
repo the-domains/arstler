@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-23T10:56:33.387Z'
+datePublished: '2016-11-23T11:40:26.638Z'
 sourcePath: _posts/2016-11-02-michael-williams-works-gladstone-gallery.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-23T10:56:27.404Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 title: Michael Williams - Works - Gladstone Gallery
 publisher: {}
 description: 'http://www.gladstonegallery.com/artist/michael-williams'
