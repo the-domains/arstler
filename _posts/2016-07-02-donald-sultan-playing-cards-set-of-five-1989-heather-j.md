@@ -2,8 +2,8 @@
 title: >-
   Donald Sultan, 'Playing Cards: Set of Five', 1989, Heather James Fine Art:
   Benefit Auction 2016 | Artsy
-datePublished: '2016-07-02T19:57:15.083Z'
-dateModified: '2016-07-02T19:54:37.584Z'
+datePublished: '2016-11-23T11:40:44.204Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/donald-sultan-playing-cards-set-of-five'
 description: >-
@@ -12,11 +12,11 @@ description: >-
   background. Although primarily classified as a still lifes, Sultan maintains
   that his works (despite their representational objects-flowers, lemons, eggs,
   buttons) are first and foremost abstract.
-starred: false
 sourcePath: _posts/2016-07-02-donald-sultan-playing-cards-set-of-five-1989-heather-j.md
+starred: false
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
