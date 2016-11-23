@@ -1,23 +1,24 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
-isBasedOnUrl: 'https://paddle8.com/work/sol-lewitt/107466-plate-4-from-brushstrokes-horizontal-and-vertical'
+isBasedOnUrl: >-
+  https://paddle8.com/work/sol-lewitt/107466-plate-4-from-brushstrokes-horizontal-and-vertical
 inLanguage: null
 keywords: []
 description: SOL LEWITT
-datePublished: '2016-05-08T12:06:24.989Z'
-dateModified: '2016-05-07T21:25:24.763Z'
+datePublished: '2016-11-23T11:40:44.558Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 title: ''
 authors: []
 publisher:
-  name: paddle8.com
-  domain: paddle8.com
+  name: null
+  domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-08-sol-lewitt.md
+starred: false
+via: {}
 _context: 'http://schema.org'
 _type: Article
 
