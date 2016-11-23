@@ -17,23 +17,28 @@ keywords:
   - artsyartsy
   - basquiat
   - multi-billion-dollar
-description: 'How did the art auctions business become a multi-billion-dollar industry? The first film in a series about the art market explores this question, leading viewers through the complex history of auctions, with specific attention to the last 20 years.'
+description: >-
+  How did the art auctions business become a multi-billion-dollar industry? The
+  first film in a series about the art market explores this question, leading
+  viewers through the complex history of auctions, with specific attention to
+  the last 20 years.
 inLanguage: en
 app_links:
-  - url: 'https://www.artsy.net/article/artsy-editorial-uncovering-the-surprisingly-secret-world-of-art-auctions'
+  - url: >-
+      https://www.artsy.net/article/artsy-editorial-uncovering-the-surprisingly-secret-world-of-art-auctions
     type: ios
     namespace: ai
     app_store_id: '703796080'
     app_name: Artsy
-isBasedOnUrl: 'https://www.artsy.net/article/artsy-editorial-uncovering-the-surprisingly-secret-world-of-art-auctions'
+isBasedOnUrl: >-
+  https://www.artsy.net/article/artsy-editorial-uncovering-the-surprisingly-secret-world-of-art-auctions
 title: Uncovering the Surprisingly Secret World of Art Auctions
-datePublished: '2016-05-27T20:20:48.419Z'
-dateModified: '2016-05-27T20:18:06.588Z'
-starred: false
+datePublished: '2016-11-23T11:40:44.992Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 sourcePath: _posts/2016-05-27-uncovering-the-surprisingly-secret-world-of-art-auctions.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
