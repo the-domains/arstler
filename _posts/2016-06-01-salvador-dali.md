@@ -1,23 +1,19 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: 'https://paddle8.com/work/salvador-dali/111298-fashion-designer/'
 inLanguage: null
 keywords: []
 description: SALVADOR DALI
-datePublished: '2016-06-01T08:21:43.778Z'
-dateModified: '2016-06-01T08:21:34.888Z'
+datePublished: '2016-11-23T11:40:44.237Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 title: ''
 authors: []
-publisher:
-  name: paddle8.com
-  domain: paddle8.com
-  url: null
-  favicon: null
-starred: false
+publisher: {}
 sourcePath: _posts/2016-06-01-salvador-dali.md
+starred: false
+via: {}
 _context: 'http://schema.org'
 _type: Article
 
