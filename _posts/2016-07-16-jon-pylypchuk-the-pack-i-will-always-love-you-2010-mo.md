@@ -2,8 +2,8 @@
 title: >-
   Jon Pylypchuk, 'the pack (i will always love you)', 2010, Mona Bismarck
   American Center | Artsy
-datePublished: '2016-07-16T17:27:57.394Z'
-dateModified: '2016-07-16T16:29:19.471Z'
+datePublished: '2016-11-23T11:40:43.939Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/jon-pylypchuk-the-pack-i-will-always-love-you'
 description: >-
@@ -13,11 +13,11 @@ description: >-
   given diorama-like installations that resemble miniature shantytowns. His
   mixed-media collages and works on paper display a similarly scavenged,
   folkloric aesthetic.
-starred: false
 sourcePath: _posts/2016-07-16-jon-pylypchuk-the-pack-i-will-always-love-you-2010-mo.md
+starred: false
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
