@@ -1,17 +1,15 @@
 ---
 title: Robilant + Voena
-datePublished: '2016-07-30T15:00:23.869Z'
-dateModified: '2016-07-28T21:11:51.282Z'
+datePublished: '2016-11-23T11:40:26.792Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.robilantvoena.com/'
 description: ''
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-30-robilant-voena.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
