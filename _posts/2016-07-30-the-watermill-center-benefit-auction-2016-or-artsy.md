@@ -1,7 +1,7 @@
 ---
 title: 'The Watermill Center: Benefit Auction 2016 | Artsy'
-datePublished: '2016-07-30T15:00:24.787Z'
-dateModified: '2016-07-28T08:57:03.789Z'
+datePublished: '2016-11-23T11:40:26.781Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/auction/the-watermill-center-benefit-auction-2016'
 description: >-
@@ -12,11 +12,9 @@ description: >-
   eight and a half acres of grounds during the event.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-30-the-watermill-center-benefit-auction-2016-or-artsy.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
