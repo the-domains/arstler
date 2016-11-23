@@ -1,7 +1,7 @@
 ---
 title: JI-SHI Urban Harvest / Atelier I-N-D-J
-datePublished: '2016-07-16T01:23:45.748Z'
-dateModified: '2016-07-16T01:23:15.059Z'
+datePublished: '2016-11-23T11:40:44.091Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.archdaily.com/791360/ji-shi-urban-harvest-atelier-i-n-d-j'
 description: >-
@@ -10,11 +10,11 @@ description: >-
   building the design seeks to occupy this banal framework; exposing slabs,
   columns and ductwork whilst shrouding the honest backdrop in certain areas
   with planes of plaster and ply.
-starred: false
 sourcePath: _posts/2016-07-16-ji-shi-urban-harvest-atelier-i-n-d-j.md
+starred: false
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
