@@ -1,7 +1,7 @@
 ---
 title: Lucky- Two Lucky's and a 20 class A cigarette stamp Blue Indian
-datePublished: '2016-07-23T20:23:42.641Z'
-dateModified: '2016-07-23T20:15:52.910Z'
+datePublished: '2016-11-23T11:40:43.748Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: >-
   https://onlineonly.christies.com/s/first-open-post-war-contemporary-art/lucky-two-luckys-20-class-cigarette-stamp-blue-indian-69/30156
@@ -12,12 +12,10 @@ description: >-
   ½ x 7 ½ in.
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-07-23-lucky-two-luckys-and-a-20-class-a-cigarette-stamp-blue-ind.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
