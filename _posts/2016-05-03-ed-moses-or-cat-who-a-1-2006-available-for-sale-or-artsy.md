@@ -17,7 +17,9 @@ keywords:
   - artsyterms
   - institutionsartsy
   - artsycollecting
-description: 'Available for sale from William Turner Gallery, Ed Moses, Cat Who A-1 (2006), Acrylic on canvas, 78 × 66 × 1 1/2 in'
+description: >-
+  Available for sale from William Turner Gallery, Ed Moses, Cat Who A-1 (2006),
+  Acrylic on canvas, 78 × 66 × 1 1/2 in
 inLanguage: en
 app_links:
   - url: 'https://www.artsy.net/artwork/ed-moses-cat-who-a-1'
@@ -27,14 +29,12 @@ app_links:
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/artwork/ed-moses-cat-who-a-1'
 title: 'Ed Moses | Cat Who A-1 (2006), Available for Sale | Artsy'
-datePublished: '2016-05-03T16:23:41.972Z'
-dateModified: '2016-05-03T16:22:25.481Z'
-starred: false
+datePublished: '2016-11-23T11:11:41.636Z'
+dateModified: '2016-11-23T11:11:27.854Z'
 sourcePath: _posts/2016-05-03-ed-moses-or-cat-who-a-1-2006-available-for-sale-or-artsy.md
-published: true
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
