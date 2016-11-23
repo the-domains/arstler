@@ -1,17 +1,15 @@
 ---
 title: Peter Blum Gallery
-datePublished: '2016-07-25T10:00:02.763Z'
-dateModified: '2016-07-25T09:59:31.308Z'
+datePublished: '2016-11-23T11:40:26.825Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://peterblumgallery.com/exhibitions/Katsura-Ishimoto'
 description: ''
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-25-peter-blum-gallery.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
