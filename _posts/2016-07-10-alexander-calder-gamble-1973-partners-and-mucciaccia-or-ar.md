@@ -1,19 +1,19 @@
 ---
 title: 'Alexander Calder, ''Gamble'', 1973, Partners & Mucciaccia | Artsy'
-datePublished: '2016-07-10T19:07:04.564Z'
-dateModified: '2016-07-10T18:52:41.686Z'
+datePublished: '2016-11-23T11:40:44.111Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/alexander-calder-gamble'
 description: >-
   American artist Alexander Calder changed the course of modern art by
   developing an innovative method of sculpting, bending, and twisting wire to
   create three-dimensional "drawings in space."
-starred: false
 sourcePath: >-
   _posts/2016-07-10-alexander-calder-gamble-1973-partners-and-mucciaccia-or-ar.md
+starred: false
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
