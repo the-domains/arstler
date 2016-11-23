@@ -1,8 +1,8 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.artsy.net/artwork/mark-bradford-untitled-pink-sfmoma-benefit?auction_id=sfmoma-the-modern-ball-auction'
+isBasedOnUrl: >-
+  https://www.artsy.net/artwork/mark-bradford-untitled-pink-sfmoma-benefit?auction_id=sfmoma-the-modern-ball-auction
 inLanguage: en
 keywords:
   - bradford
@@ -15,9 +15,11 @@ keywords:
   - modernist
   - hauser
   - untitled
-description: 'Available for sale from SFMOMA: The Modern Ball Auction, Mark Bradford, Untitled Pink (SFMOMA Benefit) (2016), Mixed media on canvas, 60 × 48 in'
-datePublished: '2016-05-06T14:13:52.335Z'
-dateModified: '2016-05-06T14:13:28.016Z'
+description: >-
+  Available for sale from SFMOMA: The Modern Ball Auction, Mark Bradford,
+  Untitled Pink (SFMOMA Benefit) (2016), Mixed media on canvas, 60 × 48 in
+datePublished: '2016-11-23T11:40:48.425Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 related: []
 app_links:
@@ -26,15 +28,18 @@ app_links:
     namespace: ai
     app_store_id: '703796080'
     app_name: Artsy
-title: 'Mark Bradford | Untitled Pink (SFMOMA Benefit) (2016), Available for Sale | Artsy'
+title: >-
+  Mark Bradford | Untitled Pink (SFMOMA Benefit) (2016), Available for Sale |
+  Artsy
 authors: []
 publisher:
   name: Artsy
   domain: www.artsy.net
   url: 'https://www.artsy.net'
   favicon: 'https://www.artsy.net/images/favicon.ico'
-starred: false
 sourcePath: _posts/2016-05-06-mark-bradford-or-untitled-pink-sfmoma-benefit-2016-avail.md
+starred: false
+via: {}
 _context: 'http://schema.org'
 _type: MediaObject
 
