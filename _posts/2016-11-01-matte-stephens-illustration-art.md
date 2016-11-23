@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-23T17:42:00.179Z'
+datePublished: '2016-11-23T18:21:36.925Z'
 sourcePath: _posts/2016-11-01-matte-stephens-illustration-art.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-23T17:41:59.531Z'
+dateModified: '2016-11-23T18:21:36.156Z'
 title: Matte Stephens Illustration Art
 publisher: {}
 description: >-
@@ -20,7 +20,7 @@ _type: Article
 ---
 # Matte Stephens Illustration Art
 
-I was following Matte's art since 2009, and I have to say I am still amazed and amused every time he's showing a new painting. They have all the jazz and coffee, and you can admire a few selections right here. For more paintings you can visit his website here:**matte**art.blogspot.com
+I was following Matte's art since 2009, and I have to say I am still amazed and amused every time he's showing a new painting. They have all the jazz and coffee, and you can admire a few selections right here. For more paintings you can visit his website here:****matteart.blogspot.com
 ![images: © Matte Stephens](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be93c51a-b03a-4064-a048-2af94137e39c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1766caf6-b82d-42c2-a3a6-84d5ea865190.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebedffda-d3a3-4e28-b4a3-bb4a06461915.jpg)
