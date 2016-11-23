@@ -1,7 +1,7 @@
 ---
 title: 'Ellsworth Kelly, ''Blue Red Rocker'', 1963, Kunstmuseum Basel | Artsy'
-datePublished: '2016-08-19T19:12:57.340Z'
-dateModified: '2016-08-19T18:43:36.960Z'
+datePublished: '2016-11-23T11:40:34.701Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/ellsworth-kelly-blue-red-rocker'
 description: >-
@@ -10,11 +10,9 @@ description: >-
   have played a pivotal role in the development of abstract art in America.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-ellsworth-kelly-blue-red-rocker-1963-kunstmuseum-basel.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
