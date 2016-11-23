@@ -1,23 +1,20 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.artnet.com/auction-houses/phillips-newyork/20th-century-contemporary-art-evening-sale-2-8-May-2016/'
+isBasedOnUrl: >-
+  http://www.artnet.com/auction-houses/phillips-newyork/20th-century-contemporary-art-evening-sale-2-8-May-2016/
 inLanguage: null
 keywords: []
-description: 'Cavaliere,1947 Lot 4'
-datePublished: '2016-05-06T10:45:57.633Z'
-dateModified: '2016-05-06T10:43:45.043Z'
+description: 'Cavaliere,1947Lot 4'
+datePublished: '2016-11-23T11:40:48.426Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 title: Marino Marini
 authors: []
-publisher:
-  name: artnet.com
-  domain: www.artnet.com
-  url: null
-  favicon: null
-starred: false
+publisher: {}
 sourcePath: _posts/2016-05-06-marino-marini.md
+starred: false
+via: {}
 _context: 'http://schema.org'
 _type: Article
 
