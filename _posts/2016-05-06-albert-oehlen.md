@@ -1,23 +1,20 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.artnet.com/auction-houses/phillips-newyork/20th-century-contemporary-art-evening-sale-2-8-May-2016/'
+isBasedOnUrl: >-
+  http://www.artnet.com/auction-houses/phillips-newyork/20th-century-contemporary-art-evening-sale-2-8-May-2016/
 inLanguage: null
 keywords: []
-description: 'Lämmle live,2004 Lot 11'
-datePublished: '2016-05-06T10:45:57.441Z'
-dateModified: '2016-05-06T10:40:55.885Z'
+description: 'Lämmle live,2004Lot 11'
+datePublished: '2016-11-23T11:40:48.415Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 title: Albert Oehlen
 authors: []
-publisher:
-  name: artnet.com
-  domain: www.artnet.com
-  url: null
-  favicon: null
-starred: false
+publisher: {}
 sourcePath: _posts/2016-05-06-albert-oehlen.md
+starred: false
+via: {}
 _context: 'http://schema.org'
 _type: Article
 
