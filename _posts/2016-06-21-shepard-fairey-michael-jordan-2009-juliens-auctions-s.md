@@ -2,8 +2,8 @@
 title: >-
   Shepard Fairey, 'Michael Jordan', 2009, Julien's Auctions: Street Art Now June
   2016 | Artsy
-datePublished: '2016-06-21T09:07:40.486Z'
-dateModified: '2016-06-21T09:07:06.972Z'
+datePublished: '2016-11-23T11:40:44.207Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/shepard-fairey-michael-jordan'
 description: >-
@@ -11,11 +11,11 @@ description: >-
   basketball great Michael Jordan. Shepard Fairey, known for his minimalist-tone
   portraits of luminaries and pop culture figures, has captured Jordan's
   graceful precision on the court.
-starred: false
 sourcePath: _posts/2016-06-21-shepard-fairey-michael-jordan-2009-juliens-auctions-s.md
+starred: false
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
