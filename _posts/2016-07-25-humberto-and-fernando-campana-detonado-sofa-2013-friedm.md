@@ -1,7 +1,7 @@
 ---
 title: 'Humberto and Fernando Campana, ''Detonado Sofa'', 2013, Friedman Benda | Artsy'
-datePublished: '2016-07-25T06:20:15.061Z'
-dateModified: '2016-07-24T20:29:54.443Z'
+datePublished: '2016-11-23T11:40:26.827Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/humberto-and-fernando-campana-detonado-sofa'
 description: >-
@@ -11,11 +11,9 @@ description: >-
   "The Vermelha chair is an homage to chaos," says Humberto.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-25-humberto-and-fernando-campana-detonado-sofa-2013-friedm.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
