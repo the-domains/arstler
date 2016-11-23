@@ -1,7 +1,7 @@
 ---
 title: 'PHILLIPS : Late Hepworth'
-datePublished: '2016-07-23T20:51:14.773Z'
-dateModified: '2016-07-23T20:50:11.126Z'
+datePublished: '2016-11-23T11:40:43.684Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://www.phillips.com/feature/late-hepworth'
 description: >-
@@ -11,11 +11,9 @@ description: >-
   today's most cutting-edge art.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-23-phillips-late-hepworth.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
