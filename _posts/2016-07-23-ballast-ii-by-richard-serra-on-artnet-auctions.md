@@ -1,7 +1,7 @@
 ---
 title: Ballast II by Richard Serra on artnet Auctions
-datePublished: '2016-07-23T20:51:15.206Z'
-dateModified: '2016-07-23T20:38:33.091Z'
+datePublished: '2016-11-23T11:40:43.675Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://www.artnet.com/auctions/artists/richard-serra/ballast-ii'
 description: >-
@@ -11,11 +11,9 @@ description: >-
   printmaking informs, and is informed by, his work in other media.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-23-ballast-ii-by-richard-serra-on-artnet-auctions.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
