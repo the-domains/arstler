@@ -1,7 +1,7 @@
 ---
 title: Rumblings in the Auction World
-datePublished: '2016-08-11T19:10:52.798Z'
-dateModified: '2016-08-09T18:50:35.363Z'
+datePublished: '2016-11-23T11:40:26.784Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: >-
   http://mobile.nytimes.com/2016/08/08/arts/international/rumblings-in-the-auction-world.html
@@ -13,11 +13,9 @@ description: >-
   by blue-chip names would hold their value.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-11-rumblings-in-the-auction-world.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
