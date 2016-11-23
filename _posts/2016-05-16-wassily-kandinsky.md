@@ -17,18 +17,23 @@ keywords:
   - neue
   - luigi
   - rognoni
-description: '(Moscow 1866-1944 Neuilly-sur-Seine)Provenance: Zeichnung für Punkt und Linie zu Fläche (Drawing for point and line to surface), 1925, signed and dated K/25; inscribed on the reverse 1925/N2/Aus "Punkt und Linie zu Fläche", Indian ink on paper mounted on cardboard, 34.5 x 22.5 cm, framed, (AR) acquired from the artist Galleria del Milione, Milan, no.'
+description: >-
+  (Moscow 1866-1944 Neuilly-sur-Seine)Provenance: Zeichnung für Punkt und Linie
+  zu Fläche (Drawing for point and line to surface), 1925, signed and dated
+  K/25; inscribed on the reverse 1925/N2/Aus "Punkt und Linie zu Fläche", Indian
+  ink on paper mounted on cardboard, 34.5 x 22.5 cm, framed, (AR) acquired from
+  the artist Galleria del Milione, Milan, no.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://www.dorotheum.com/en/auctions/current-auctions/kataloge/list-lots-detail/auktion/11844-modern-art/lotID/403/lot/2048426-wassily-kandinsky.html'
+isBasedOnUrl: >-
+  https://www.dorotheum.com/en/auctions/current-auctions/kataloge/list-lots-detail/auktion/11844-modern-art/lotID/403/lot/2048426-wassily-kandinsky.html
 title: Wassily Kandinsky
-datePublished: '2016-05-16T09:06:56.036Z'
-dateModified: '2016-05-13T11:10:53.157Z'
-starred: false
+datePublished: '2016-11-23T11:40:45.014Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 sourcePath: _posts/2016-05-16-wassily-kandinsky.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
