@@ -1,7 +1,7 @@
 ---
 title: 'Scheinbar fest verankert. 1927, 148 (E 8) - Auktionshaus Lempertz'
-datePublished: '2016-07-25T06:20:15.581Z'
-dateModified: '2016-07-24T20:21:18.451Z'
+datePublished: '2016-11-23T11:40:43.638Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://www.lempertz.com/en/catalogues/lot/1070-1/311-paul-klee.html'
 description: >-
@@ -12,11 +12,9 @@ description: >-
   '1927 E.8 scheinbar fest verankert'.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-25-scheinbar-fest-verankert-1927-148-e-8-auktionshaus-lem.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
