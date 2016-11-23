@@ -1,7 +1,7 @@
 ---
 title: Design Is Mainly About Empathy - Track Changes
-datePublished: '2016-07-21T16:01:46.978Z'
-dateModified: '2016-07-21T16:00:24.248Z'
+datePublished: '2016-11-23T11:40:43.809Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author:
   - name: Neil Renicker
     url: 'https://trackchanges.postlight.com/@tinystride'
@@ -15,11 +15,9 @@ description: >-
   about the information they want.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-21-design-is-mainly-about-empathy-track-changes.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
