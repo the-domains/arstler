@@ -1,7 +1,7 @@
 ---
 title: Leunora Salihu
-datePublished: '2016-07-26T20:56:26.830Z'
-dateModified: '2016-07-26T20:42:44.560Z'
+datePublished: '2016-11-23T11:40:26.797Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.galeriethomasschulte.de/en/exhibitions/2016/leunora-salihu/#c1273'
 description: >-
@@ -10,11 +10,9 @@ description: >-
   few months at the European Ceramic Work Centre in the Netherlands.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-26-leunora-salihu.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
