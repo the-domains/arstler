@@ -17,7 +17,9 @@ keywords:
   - institutionsartsy
   - artsycollecting
   - fairsgalleriesauctions
-description: 'Available for sale from Pékin Fine Arts, Wesley Tongson, Spiritual Mountains (No. 1496) (2010), Ink on Xuan Paper, 180 × 97 cm'
+description: >-
+  Available for sale from Pékin Fine Arts, Wesley Tongson, Spiritual Mountains
+  (No. 1496) (2010), Ink on Xuan Paper, 180 × 97 cm
 inLanguage: en
 app_links:
   - url: 'https://www.artsy.net/artwork/wesley-tongson-spiritual-mountains-no-1496'
@@ -26,15 +28,15 @@ app_links:
     app_store_id: '703796080'
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/artwork/wesley-tongson-spiritual-mountains-no-1496/zoom'
-title: 'Wesley Tongson | Spiritual Mountains (No. 1496) (2010), Available for Sale | Artsy'
-datePublished: '2016-05-03T17:10:53.097Z'
-dateModified: '2016-05-03T17:08:12.686Z'
-starred: false
+title: >-
+  Wesley Tongson | Spiritual Mountains (No. 1496) (2010), Available for Sale |
+  Artsy
+datePublished: '2016-11-23T11:40:48.497Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 sourcePath: _posts/2016-05-03-wesley-tongson-or-spiritual-mountains-no-1496-2010-avai.md
-published: true
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
