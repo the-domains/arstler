@@ -2,8 +2,8 @@
 title: >-
   Dorfstraße - Werke - Neuerwerbungen Frühjahr 2016 - Ausstellungen - Galerie
   Ludorff
-datePublished: '2016-08-19T19:12:56.853Z'
-dateModified: '2016-08-19T18:50:58.990Z'
+datePublished: '2016-11-23T11:40:34.686Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: >-
   http://www.ludorff.com/de/exhibition/neuerwerbungen_fruehjahr_2016/work/dorfstrasse
@@ -14,11 +14,9 @@ description: >-
   Duesseldorf, Germany.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-dorfstrasse-werke-neuerwerbungen-fruhjahr-2016-ausstell.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
