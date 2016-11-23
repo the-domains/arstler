@@ -1,7 +1,7 @@
 ---
 title: Guan Shanyue (1912-2000) | Doyle Auction House
-datePublished: '2016-07-23T21:08:48.352Z'
-dateModified: '2016-07-23T21:06:28.049Z'
+datePublished: '2016-11-23T11:40:43.700Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: >-
   https://doyle.com/auctions/16as02-asian-works-art/catalogue/guan-shanyue-1912-2000
@@ -10,11 +10,9 @@ description: >-
   five seals Ink and color on paper Image 18 x width 103 1/2 inches C
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-23-guan-shanyue-1912-2000-or-doyle-auction-house.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
