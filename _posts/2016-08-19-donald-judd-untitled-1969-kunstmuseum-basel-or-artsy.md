@@ -1,7 +1,7 @@
 ---
 title: 'Donald Judd, ''Untitled'', 1969, Kunstmuseum Basel | Artsy'
-datePublished: '2016-08-19T19:12:57.347Z'
-dateModified: '2016-08-19T18:44:56.130Z'
+datePublished: '2016-11-23T11:40:34.692Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/donald-judd-untitled-103'
 description: >-
@@ -12,11 +12,9 @@ description: >-
   the artist strongly objected to.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-donald-judd-untitled-1969-kunstmuseum-basel-or-artsy.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
