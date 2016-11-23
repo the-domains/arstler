@@ -2,8 +2,8 @@
 title: >-
   Alexander Calder, ' Five Branches with 1000 Leaves', ca. 1946, Kunstmuseum
   Basel | Artsy
-datePublished: '2016-08-19T19:12:56.877Z'
-dateModified: '2016-08-19T18:45:36.651Z'
+datePublished: '2016-11-23T11:40:34.698Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/alexander-calder-five-branches-with-1000-leaves'
 description: >-
@@ -12,11 +12,9 @@ description: >-
   create three-dimensional "drawings in space."
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-alexander-calder-five-branches-with-1000-leaves-ca-194.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
