@@ -1,23 +1,24 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.dorotheum.com/en/auctions/current-auctions/kataloge/list-lots/auktion/11844-modern-art.html?currentPage=1#lot-2048441'
+isBasedOnUrl: >-
+  https://www.dorotheum.com/en/auctions/current-auctions/kataloge/list-lots/auktion/11844-modern-art.html?currentPage=1#lot-2048441
 inLanguage: null
 keywords: []
-description: 'Friedensreich Hundertwasser*'
-datePublished: '2016-05-13T11:14:34.231Z'
-dateModified: '2016-05-13T11:12:23.392Z'
+description: Friedensreich Hundertwasser*
+datePublished: '2016-11-23T11:40:45.030Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 title: ''
 authors: []
 publisher:
-  name: dorotheum.com
-  domain: www.dorotheum.com
+  name: null
+  domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-13-friedensreich-hundertwasser.md
+starred: false
+via: {}
 _context: 'http://schema.org'
 _type: Article
 
