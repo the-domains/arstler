@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-19T12:10:23.607Z'
+datePublished: '2016-11-23T11:40:26.619Z'
 sourcePath: _posts/2016-10-06-less-is-more.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-14T07:29:21.577Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 title: Less is More
 publisher: {}
 description: ' Londonian photographer Rankin - Leica S - Kunsthalle Rostock'
