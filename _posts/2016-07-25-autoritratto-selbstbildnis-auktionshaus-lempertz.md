@@ -1,7 +1,7 @@
 ---
 title: Autoritratto (Selbstbildnis) - Auktionshaus Lempertz
-datePublished: '2016-07-25T06:20:15.806Z'
-dateModified: '2016-07-24T20:20:06.370Z'
+datePublished: '2016-11-23T11:40:43.624Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://www.lempertz.com/en/catalogues/lot/1070-1/301-giovanni-giacometti.html'
 description: >-
@@ -12,11 +12,9 @@ description: >-
   Research.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-25-autoritratto-selbstbildnis-auktionshaus-lempertz.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
