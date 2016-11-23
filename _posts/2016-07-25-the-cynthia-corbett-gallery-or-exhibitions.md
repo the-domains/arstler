@@ -1,7 +1,7 @@
 ---
 title: The Cynthia Corbett Gallery | Exhibitions
-datePublished: '2016-07-25T18:19:03.505Z'
-dateModified: '2016-07-25T18:07:44.318Z'
+datePublished: '2016-11-23T11:40:26.822Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.thecynthiacorbettgallery.com/exhibitions.php'
 description: >-
@@ -9,11 +9,9 @@ description: >-
   Gallery
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-25-the-cynthia-corbett-gallery-or-exhibitions.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
