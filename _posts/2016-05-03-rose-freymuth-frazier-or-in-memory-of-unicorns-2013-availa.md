@@ -17,24 +17,29 @@ keywords:
   - institutionsartsy
   - artsycollecting
   - fairsgalleriesauctions
-description: 'Available for sale from Cavalier Galleries, Rose Freymuth-Frazier, In Memory of Unicorns (2013), Oil on linen, 22 × 13 in'
+description: >-
+  Available for sale from Cavalier Galleries, Rose Freymuth-Frazier, In Memory
+  of Unicorns (2013), Oil on linen, 22 × 13 in
 inLanguage: en
 app_links:
-  - url: 'https://www.artsy.net/artwork/rose-freymuth-frazier-in-memory-of-unicorns-1'
+  - url: >-
+      https://www.artsy.net/artwork/rose-freymuth-frazier-in-memory-of-unicorns-1
     type: ios
     namespace: ai
     app_store_id: '703796080'
     app_name: Artsy
-isBasedOnUrl: 'https://www.artsy.net/artwork/rose-freymuth-frazier-in-memory-of-unicorns-1/zoom'
-title: 'Rose Freymuth-Frazier | In Memory of Unicorns (2013), Available for Sale | Artsy'
-datePublished: '2016-05-03T17:10:53.185Z'
-dateModified: '2016-05-03T17:08:04.213Z'
+isBasedOnUrl: >-
+  https://www.artsy.net/artwork/rose-freymuth-frazier-in-memory-of-unicorns-1/zoom
+title: >-
+  Rose Freymuth-Frazier | In Memory of Unicorns (2013), Available for Sale |
+  Artsy
+datePublished: '2016-11-23T11:11:41.583Z'
+dateModified: '2016-11-23T11:11:27.854Z'
+sourcePath: >-
+  _posts/2016-05-03-rose-freymuth-frazier-or-in-memory-of-unicorns-2013-availa.md
 starred: false
-sourcePath: _posts/2016-05-03-rose-freymuth-frazier-or-in-memory-of-unicorns-2013-availa.md
-published: true
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
