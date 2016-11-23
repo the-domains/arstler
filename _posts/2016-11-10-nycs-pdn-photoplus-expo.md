@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-11T16:13:46.969Z'
+datePublished: '2016-11-23T11:40:26.632Z'
 sourcePath: _posts/2016-11-10-nycs-pdn-photoplus-expo.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-11T16:13:45.968Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 title: NYC’s PDN PhotoPlus Expo
 publisher: {}
 description: 'New York, NY – November 2016 / Renay Elle Morris / photopresseimages.com'
