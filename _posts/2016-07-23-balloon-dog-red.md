@@ -1,7 +1,7 @@
 ---
 title: Balloon Dog (Red)
-datePublished: '2016-07-23T20:23:42.669Z'
-dateModified: '2016-07-23T20:18:12.789Z'
+datePublished: '2016-11-23T11:40:43.754Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: >-
   https://onlineonly.christies.com/s/first-open-post-war-contemporary-art/balloon-dog-red-249/30243
@@ -11,11 +11,9 @@ description: >-
   reverse)porcelain10 ½ x 10 ½ x 5 in. (26.7 x 26.7 x 12.7 cm.)Executed in 1995.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-23-balloon-dog-red.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
