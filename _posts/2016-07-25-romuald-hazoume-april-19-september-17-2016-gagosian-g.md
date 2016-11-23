@@ -1,7 +1,7 @@
 ---
 title: 'Romuald Hazoumè - April 19 - September 17, 2016 - Gagosian Gallery'
-datePublished: '2016-07-25T18:19:02.150Z'
-dateModified: '2016-07-25T18:17:17.283Z'
+datePublished: '2016-11-23T11:40:26.809Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.gagosian.com/exhibitions/romuald-hazoume--april-19-2016'
 description: >-
@@ -12,11 +12,9 @@ description: >-
   trouver ci-dessous la version française] EXTENDED!
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-25-romuald-hazoume-april-19-september-17-2016-gagosian-g.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
