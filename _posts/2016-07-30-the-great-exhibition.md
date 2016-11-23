@@ -1,7 +1,7 @@
 ---
 title: THE GREAT EXHIBITION
-datePublished: '2016-07-30T15:00:22.350Z'
-dateModified: '2016-07-30T14:42:59.121Z'
+datePublished: '2016-11-23T11:40:26.795Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.mizuma.sg/exhibitions/past/2016/05/04/the-great-exhibition/'
 description: >-
@@ -12,11 +12,9 @@ description: >-
   and current political issues into works filled with aesthetic and humour.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-30-the-great-exhibition.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
