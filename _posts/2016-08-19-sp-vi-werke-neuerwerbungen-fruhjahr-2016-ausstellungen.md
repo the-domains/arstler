@@ -1,7 +1,7 @@
 ---
 title: SP VI - Werke - Neuerwerbungen Frühjahr 2016 - Ausstellungen - Galerie Ludorff
-datePublished: '2016-08-19T19:12:56.383Z'
-dateModified: '2016-08-19T18:51:32.612Z'
+datePublished: '2016-11-23T11:40:34.683Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.ludorff.com/de/exhibition/neuerwerbungen_fruehjahr_2016/work/sp_vi'
 description: >-
@@ -11,11 +11,9 @@ description: >-
   Duesseldorf, Germany.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-sp-vi-werke-neuerwerbungen-fruhjahr-2016-ausstellungen.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
