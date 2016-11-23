@@ -1,7 +1,7 @@
 ---
 title: 'Nude with peach background, Maxine Smith | Artspace.com'
-datePublished: '2016-07-23T20:51:14.708Z'
-dateModified: '2016-07-23T20:47:40.688Z'
+datePublished: '2016-11-23T11:40:43.739Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.artspace.com/maxine_smith/nude-with-peach-background'
 description: >-
@@ -9,11 +9,9 @@ description: >-
   City, finding inspiration in the people riding the city's buses and sub...
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-23-nude-with-peach-background-maxine-smith-or-artspacecom.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
