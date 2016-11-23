@@ -1,7 +1,7 @@
 ---
 title: 'Steve Schapiro, ''Jodie Crossing Street, NY'', 1975, Atlas Gallery | Artsy'
-datePublished: '2016-08-19T19:12:55.503Z'
-dateModified: '2016-08-19T18:58:51.415Z'
+datePublished: '2016-11-23T11:40:34.659Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/steve-schapiro-jodie-crossing-street-ny'
 description: >-
@@ -11,11 +11,9 @@ description: >-
   Andy Warhol and Edie Sedgwick in The Factory.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-steve-schapiro-jodie-crossing-street-ny-1975-atlas-gal.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
