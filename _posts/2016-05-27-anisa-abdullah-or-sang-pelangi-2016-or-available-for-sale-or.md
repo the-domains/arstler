@@ -17,7 +17,9 @@ keywords:
   - institutionsartsy
   - artsycollecting
   - fairsgalleriesauctions
-description: 'Available for sale from Galeri Chandan, Anisa Abdullah, Sang Pelangi (2016), Collage on canvas, 182 × 152 cm'
+description: >-
+  Available for sale from Galeri Chandan, Anisa Abdullah, Sang Pelangi (2016),
+  Collage on canvas, 182 × 152 cm
 inLanguage: en
 app_links:
   - url: 'https://www.artsy.net/artwork/anisa-abdullah-sang-pelangi'
@@ -26,14 +28,14 @@ app_links:
     app_store_id: '703796080'
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/artwork/anisa-abdullah-sang-pelangi/zoom'
-title: 'Anisa Abdullah | Sang Pelangi (2016) | Available for Sale | Artsy'
-datePublished: '2016-05-27T20:10:40.105Z'
-dateModified: '2016-05-27T20:09:14.270Z'
+title: Anisa Abdullah | Sang Pelangi (2016) | Available for Sale | Artsy
+datePublished: '2016-11-23T11:40:45.003Z'
+dateModified: '2016-11-23T11:26:45.121Z'
+sourcePath: >-
+  _posts/2016-05-27-anisa-abdullah-or-sang-pelangi-2016-or-available-for-sale-or.md
 starred: false
-sourcePath: _posts/2016-05-27-anisa-abdullah-or-sang-pelangi-2016-or-available-for-sale-or.md
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
