@@ -3,8 +3,8 @@ title: >-
   Brexit exposed a Britain divided, and architects must now "redouble our
   efforts to be at the forefront of quality and innovation." - op-ed by Chris
   Williamson of Weston Williamson + Partners
-datePublished: '2016-07-23T20:51:15.254Z'
-dateModified: '2016-07-23T20:31:14.239Z'
+datePublished: '2016-11-23T11:40:43.715Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: >-
   http://archinect.com/features/article/149957963/brexit-exposed-a-britain-divided-and-architects-must-now-redouble-our-efforts-to-be-at-the-forefront-of-quality-and-innovation-op-ed-by-chris-williamson-of-weston-williamson-partners
@@ -16,12 +16,10 @@ description: >-
   River and everything suddenly felt much better.
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-07-23-brexit-exposed-a-britain-divided-and-architects-must-now-r.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
