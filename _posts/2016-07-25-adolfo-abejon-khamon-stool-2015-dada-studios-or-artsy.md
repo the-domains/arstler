@@ -1,7 +1,7 @@
 ---
 title: 'Adolfo Abejón, ''''Khamon'' Stool'', 2015, DADA STUDIOS | Artsy'
-datePublished: '2016-07-25T06:20:15.281Z'
-dateModified: '2016-07-24T20:31:36.627Z'
+datePublished: '2016-11-23T11:40:26.825Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/adolfo-abejon-khamon-stool'
 description: >-
@@ -10,11 +10,9 @@ description: >-
   forgotten. It has a polished finish made by an artisan.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-25-adolfo-abejon-khamon-stool-2015-dada-studios-or-artsy.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
