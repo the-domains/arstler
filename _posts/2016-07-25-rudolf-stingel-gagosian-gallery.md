@@ -1,17 +1,15 @@
 ---
 title: Rudolf Stingel - - Gagosian Gallery
-datePublished: '2016-07-25T18:19:03.249Z'
-dateModified: '2016-07-25T18:12:46.138Z'
+datePublished: '2016-11-23T11:40:26.820Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.gagosian.com/exhibitions/rudolf-stingel-3'
 description: 'Exhibition page for showing at Gagosian Gallery Park & 75, New York.'
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-25-rudolf-stingel-gagosian-gallery.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
