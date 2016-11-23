@@ -1,8 +1,8 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.sothebys.com/content/sothebys/en/news-video/videos/2016/05/cy-twomblys-rhapsody-in-blue.html'
+isBasedOnUrl: >-
+  http://www.sothebys.com/content/sothebys/en/news-video/videos/2016/05/cy-twomblys-rhapsody-in-blue.html
 inLanguage: en
 keywords:
   - sale
@@ -15,15 +15,18 @@ keywords:
   - blackboard
   - watch
   - wishlists
-description: 'View auction details, art exhibitions and online catalogues; bid, buy and collect contemporary, impressionist or modern art, old masters, jewellery, wine, watches, prints, rugs and books at sotheby&s auction house'
-datePublished: '2016-05-07T08:25:29.568Z'
-dateModified: '2016-05-07T08:25:24.887Z'
+description: >-
+  View auction details, art exhibitions and online catalogues; bid, buy and
+  collect contemporary, impressionist or modern art, old masters, jewellery,
+  wine, watches, prints, rugs and books at sotheby&s auction house
+datePublished: '2016-11-23T11:40:44.563Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author:
   - name: ''
     url: ''
 related: []
 app_links: []
-title: "Cy Twombly's Rhapsody in Blue | Sotheby's"
+title: Cy Twombly's Rhapsody in Blue | Sotheby's
 sourcePath: _posts/2016-05-07-cy-twomblys-rhapsody-in-blue-or-sothebys.md
 authors: []
 publisher:
@@ -32,6 +35,7 @@ publisher:
   url: 'http://www.sothebys.com'
   favicon: 'http://www.sothebys.com/etc/designs/redesigns/sothebys/img/icons/favicon.ico'
 starred: false
+via: {}
 _context: 'http://schema.org'
 _type: MediaObject
 
