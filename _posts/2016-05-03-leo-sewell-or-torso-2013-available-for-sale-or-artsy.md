@@ -17,7 +17,9 @@ keywords:
   - institutionsartsy
   - artsycollecting
   - fairsgalleriesauctions
-description: 'Available for sale from Cavalier Galleries, Leo Sewell, Torso (2013), Mixed media, 25 × 13 × 8 in'
+description: >-
+  Available for sale from Cavalier Galleries, Leo Sewell, Torso (2013), Mixed
+  media, 25 × 13 × 8 in
 inLanguage: en
 app_links:
   - url: 'https://www.artsy.net/artwork/leo-sewell-torso'
@@ -27,14 +29,12 @@ app_links:
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/artwork/leo-sewell-torso'
 title: 'Leo Sewell | Torso (2013), Available for Sale | Artsy'
-datePublished: '2016-05-03T17:10:53.229Z'
-dateModified: '2016-05-03T17:06:17.830Z'
-starred: false
+datePublished: '2016-11-23T11:11:41.598Z'
+dateModified: '2016-11-23T11:11:27.854Z'
 sourcePath: _posts/2016-05-03-leo-sewell-or-torso-2013-available-for-sale-or-artsy.md
-published: true
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
