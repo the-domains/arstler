@@ -1,17 +1,15 @@
 ---
 title: SCAI THE BATHHOUSE
-datePublished: '2016-07-30T14:59:20.590Z'
-dateModified: '2016-07-30T14:50:50.143Z'
+datePublished: '2016-11-23T11:40:26.795Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.scaithebathhouse.com/en/'
 description: One of the leading contemporary art galleries in Japan.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-30-scai-the-bathhouse.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
