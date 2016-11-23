@@ -17,24 +17,30 @@ keywords:
   - artsyartsy
   - artsyterms
   - basquiat
-description: 'Available for sale from Guy Hepner, Andy Warhol, "Shoe Of The Evening, Beautiful Shoe" from Shoe Portfolio (1955), Offset lithographs on paper with hand coloring, 10 × 14 in'
+description: >-
+  Available for sale from Guy Hepner, Andy Warhol, "Shoe Of The Evening,
+  Beautiful Shoe" from Shoe Portfolio (1955), Offset lithographs on paper with
+  hand coloring, 10 × 14 in
 inLanguage: en
 app_links:
-  - url: 'https://www.artsy.net/artwork/andy-warhol-shoe-of-the-evening-beautiful-shoe-from-shoe-portfolio'
+  - url: >-
+      https://www.artsy.net/artwork/andy-warhol-shoe-of-the-evening-beautiful-shoe-from-shoe-portfolio
     type: ios
     namespace: ai
     app_store_id: '703796080'
     app_name: Artsy
-isBasedOnUrl: 'https://www.artsy.net/artwork/andy-warhol-shoe-of-the-evening-beautiful-shoe-from-shoe-portfolio'
-title: 'Andy Warhol | "Shoe Of The Evening, Beautiful Shoe" from Shoe Portfolio (1955), Available for Sale | Artsy'
-datePublished: '2016-05-03T17:10:52.884Z'
-dateModified: '2016-05-03T17:09:06.436Z'
+isBasedOnUrl: >-
+  https://www.artsy.net/artwork/andy-warhol-shoe-of-the-evening-beautiful-shoe-from-shoe-portfolio
+title: >-
+  Andy Warhol | "Shoe Of The Evening, Beautiful Shoe" from Shoe Portfolio
+  (1955), Available for Sale | Artsy
+datePublished: '2016-11-23T11:40:48.490Z'
+dateModified: '2016-11-23T11:26:45.121Z'
+sourcePath: >-
+  _posts/2016-05-03-andy-warhol-or-shoe-of-the-evening-beautiful-shoe-from-sho.md
 starred: false
-sourcePath: _posts/2016-05-03-andy-warhol-or-shoe-of-the-evening-beautiful-shoe-from-sho.md
-published: true
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
