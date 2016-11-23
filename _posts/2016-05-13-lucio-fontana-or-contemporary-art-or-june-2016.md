@@ -1,20 +1,19 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=XK8pvgBe_Lw'
 inLanguage: null
 keywords: []
 description: .
-datePublished: '2016-05-13T11:16:00.127Z'
-dateModified: '2016-05-13T11:15:54.687Z'
+datePublished: '2016-11-23T11:40:44.474Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author:
   - name: Dorotheum
     url: 'https://www.youtube.com/user/DorotheumCom'
     avatar: {}
 related: []
 app_links: []
-title: 'Lucio Fontana | Contemporary Art | June 2016'
+title: Lucio Fontana | Contemporary Art | June 2016
 sourcePath: _posts/2016-05-13-lucio-fontana-or-contemporary-art-or-june-2016.md
 authors: []
 publisher:
@@ -23,6 +22,7 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://ipv4.google.com/favicon.ico'
 starred: false
+via: {}
 _type: VideoObject
 _context: 'http://schema.org'
 
