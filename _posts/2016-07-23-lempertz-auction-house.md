@@ -1,7 +1,7 @@
 ---
 title: Lempertz Auction House
-datePublished: '2016-07-23T21:23:57.058Z'
-dateModified: '2016-07-23T21:19:24.633Z'
+datePublished: '2016-11-23T11:40:43.621Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://www.lempertz.com/en.html'
 description: >-
@@ -14,11 +14,9 @@ description: >-
   uns an!
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-23-lempertz-auction-house.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
