@@ -17,18 +17,22 @@ keywords:
   - connoisseurs
   - beginners
   - '515'
-description: "Central Europe's largest auction house. 600 auctions, 40 specialist departments, 100 experts, 300 years experience. Contemporary Art, Paintings, Jewellery & more"
+description: >-
+  Central Europe's largest auction house. 600 auctions, 40 specialist
+  departments, 100 experts, 300 years experience. Contemporary Art, Paintings,
+  Jewellery & more
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.dorotheum.com/en.html'
-title: 'AUCTIONS - The largest auction house in Central Europe - Fine Arts, Contemporary Art, Paintings, Jewellery & more - Dorotheum'
-datePublished: '2016-05-13T11:07:10.144Z'
-dateModified: '2016-05-13T11:03:06.173Z'
-starred: false
+title: >-
+  AUCTIONS - The largest auction house in Central Europe - Fine Arts,
+  Contemporary Art, Paintings, Jewellery & more - Dorotheum
+datePublished: '2016-11-23T11:40:45.029Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 sourcePath: _posts/2016-05-13-auctions-the-largest-auction-house-in-central-europe-fin.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
