@@ -1,7 +1,7 @@
 ---
 title: 'Mark Grotjahn - June 24 - September 17, 2016 - Gagosian Gallery'
-datePublished: '2016-07-25T18:19:02.551Z'
-dateModified: '2016-07-25T18:15:57.278Z'
+datePublished: '2016-11-23T11:40:26.812Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.gagosian.com/exhibitions/mark-grotjahn--june-24-2016'
 description: >-
@@ -10,11 +10,9 @@ description: >-
   by Douglas M.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-25-mark-grotjahn-june-24-september-17-2016-gagosian-gall.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
