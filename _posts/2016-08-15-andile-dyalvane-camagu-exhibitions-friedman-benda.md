@@ -1,7 +1,7 @@
 ---
 title: 'Andile Dyalvane: Camagu - Exhibitions - Friedman Benda'
-datePublished: '2016-08-15T19:22:15.039Z'
-dateModified: '2016-08-15T18:43:28.341Z'
+datePublished: '2016-11-23T11:40:34.706Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.friedmanbenda.com/exhibitions/current/andile-dyalvane-camagu'
 description: >-
@@ -11,11 +11,9 @@ description: >-
   June 23 - August 19, 2016.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-15-andile-dyalvane-camagu-exhibitions-friedman-benda.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
