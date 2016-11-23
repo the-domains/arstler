@@ -9,19 +9,17 @@ title: >-
   and the elusiveness of the multi-layered Woodblocks is made apparent. Whether
   through the indexical trace of wood or skin, both series of prints register,
   like a shadow, footprint or photograph, a lived moment in time.
-datePublished: '2016-07-25T18:02:44.825Z'
-dateModified: '2016-07-25T18:01:33.811Z'
+datePublished: '2016-11-23T11:40:26.816Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.alancristea.com/exhibition-150-Antony-Gormley-CAST'
 description: ''
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-07-25-the-woodblocks-are-interspersed-with-a-series-of-crude-oil-a.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
