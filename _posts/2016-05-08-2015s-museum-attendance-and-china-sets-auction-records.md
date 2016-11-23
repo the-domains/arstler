@@ -1,8 +1,8 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
-isBasedOnUrl: 'https://medium.com/@alicemahoney/2015-s-museum-attendance-new-auction-records-in-china-61cb9c1220cb#.o0fk4cvnj'
+isBasedOnUrl: >-
+  https://medium.com/@alicemahoney/2015-s-museum-attendance-new-auction-records-in-china-61cb9c1220cb#.o0fk4cvnj
 inLanguage: en
 keywords:
   - museum
@@ -16,8 +16,8 @@ keywords:
   - house
   - albahie
 description: The 5 art world updates you should know this week.
-datePublished: '2016-05-08T19:30:19.144Z'
-dateModified: '2016-05-08T19:29:52.724Z'
+datePublished: '2016-11-23T11:40:44.540Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author:
   - name: Alice Marie Mahoney
     url: 'https://medium.com/@alicemahoney'
@@ -36,7 +36,8 @@ app_links:
   - url: 'medium://p/61cb9c1220cb'
     type: android
     namespace: ai
-  - url: 'https://medium.com/@alicemahoney/2015-s-museum-attendance-new-auction-records-in-china-61cb9c1220cb'
+  - url: >-
+      https://medium.com/@alicemahoney/2015-s-museum-attendance-new-auction-records-in-china-61cb9c1220cb
     type: web
     namespace: ai
   - url: 'medium://p/61cb9c1220cb'
@@ -48,15 +49,12 @@ app_links:
     package: com.medium.reader
     namespace: google
     type: android
-title: '2015’s Museum Attendance & China Sets Auction Records'
+title: 2015’s Museum Attendance & China Sets Auction Records
 sourcePath: _posts/2016-05-08-2015s-museum-attendance-and-china-sets-auction-records.md
 authors: []
-publisher:
-  name: Medium
-  domain: medium.com
-  url: 'https://medium.com'
-  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
+publisher: {}
 starred: false
+via: {}
 _type: Article
 _context: 'http://schema.org'
 
