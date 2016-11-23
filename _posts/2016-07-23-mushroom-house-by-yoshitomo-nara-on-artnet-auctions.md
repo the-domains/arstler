@@ -1,7 +1,7 @@
 ---
 title: Mushroom House by Yoshitomo Nara on artnet Auctions
-datePublished: '2016-07-23T20:51:15.201Z'
-dateModified: '2016-07-23T20:36:10.087Z'
+datePublished: '2016-11-23T11:40:43.701Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://www.artnet.com/auctions/artists/yoshitomo-nara/mushroom-house-2'
 description: >-
@@ -12,11 +12,9 @@ description: >-
   between the thatched, brightly colored mushroom-like layers.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-23-mushroom-house-by-yoshitomo-nara-on-artnet-auctions.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
