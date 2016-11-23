@@ -1,7 +1,7 @@
 ---
 title: 'Volker Hüller, ''L.I.T.S. (Victory) v.II'', 2016, GRIMM | Artsy'
-datePublished: '2016-07-10T19:07:03.152Z'
-dateModified: '2016-07-10T19:03:16.202Z'
+datePublished: '2016-11-23T11:40:44.050Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/volker-huller-lits-victory-vii'
 description: >-
@@ -11,11 +11,11 @@ description: >-
   fragmented body parts, creating large-scale, Miró-esque pieces. His delicate,
   scratchy linework provides a striking contrast to collaged pieces of
   snakeskin, velvet, foil, and trash.
-starred: false
 sourcePath: _posts/2016-07-10-volker-huller-lits-victory-vii-2016-grimm-or-arts.md
+starred: false
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
