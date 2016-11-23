@@ -1,17 +1,15 @@
 ---
 title: 'Chang Ae Song, ''Waterscape grass 1409'', 2014, Gallery Now | Artsy'
-datePublished: '2016-08-15T19:22:16.740Z'
-dateModified: '2016-08-15T17:59:17.306Z'
+datePublished: '2016-11-23T11:40:34.702Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/chang-ae-song-waterscape-grass-1409'
 description: Home Museums Artists Fairs Shows Auctions Galleries Magazine
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-15-chang-ae-song-waterscape-grass-1409-2014-gallery-now-or.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
