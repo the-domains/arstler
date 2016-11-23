@@ -1,7 +1,7 @@
 ---
 title: Won Kun Jun Solo Exhibition at Youngeun Museum
-datePublished: '2016-08-19T19:12:56.248Z'
-dateModified: '2016-08-19T18:54:53.013Z'
+datePublished: '2016-11-23T11:40:34.683Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.gallerylvs.org/?p=3431'
 description: >-
@@ -10,11 +10,9 @@ description: >-
   Museum of Contemporary Art.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-won-kun-jun-solo-exhibition-at-youngeun-museum.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
