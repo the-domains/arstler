@@ -1,7 +1,7 @@
 ---
 title: waiting for pancakes
-datePublished: '2016-07-16T01:32:12.572Z'
-dateModified: '2016-07-16T01:31:25.592Z'
+datePublished: '2016-11-23T11:40:43.948Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author:
   - name: Apofiss
     url: 'http://Apofiss.deviantart.com'
@@ -11,11 +11,11 @@ description: >-
   Jiji sitting on the wall and waiting for the pancakes :] the special features
   content of Kiki's Delivery Service blu-ray version is quite inspiring! talking
   about Stockholm and Visby references mmm...
-starred: false
 sourcePath: _posts/2016-07-16-waiting-for-pancakes.md
+starred: false
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
