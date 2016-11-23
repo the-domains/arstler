@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-09T18:50:27.792Z'
+datePublished: '2016-11-23T11:40:26.594Z'
 sourcePath: _posts/2016-11-09-richard-tinkler-untitled-45-2016-albert-merola-gallery.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-09T18:50:26.972Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 title: 'Richard Tinkler, ''untitled #45'', 2016, Albert Merola Gallery '
 publisher: {}
 description: Home Museums Artists Fairs Shows Auctions Galleries Magazine
