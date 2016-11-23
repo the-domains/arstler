@@ -2,8 +2,8 @@
 title: >-
   William Betts, 'Sunbathers, Miami Beach', 2016, Margaret Thatcher Projects |
   Artsy
-datePublished: '2016-07-10T19:07:03.517Z'
-dateModified: '2016-07-10T19:00:05.931Z'
+datePublished: '2016-11-23T11:40:44.078Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/william-betts-sunbathers-miami-beach'
 description: >-
@@ -12,11 +12,11 @@ description: >-
   acrylic dots to canvas to mimic the pixelated images captured by CCTV, or
   translating a single row of pixels from a digital photo into abstractions with
   an uncannily organic quality.
-starred: false
 sourcePath: _posts/2016-07-10-william-betts-sunbathers-miami-beach-2016-margaret-tha.md
+starred: false
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
