@@ -2,8 +2,8 @@
 title: >-
   Jonah Historically Regarded (from Moby Dick Domes) by Frank Stella on artnet
   Auctions
-datePublished: '2016-07-23T20:51:15.114Z'
-dateModified: '2016-07-23T20:38:02.978Z'
+datePublished: '2016-11-23T11:40:43.730Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: >-
   https://www.artnet.com/auctions/artists/frank-stella/jonah-historically-regarded-from-moby-dick-domes-3
@@ -15,11 +15,9 @@ description: >-
   career, with sometimes subtle and great changes.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-23-jonah-historically-regarded-from-moby-dick-domes-by-frank.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
