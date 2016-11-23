@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-11-23T10:57:37.463Z'
+datePublished: '2016-11-23T11:30:12.449Z'
+sourcePath: _posts/2016-11-22-jeanette-for-p-magazine-jen-senn.md
 inFeed: true
 hasPage: true
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-11-23T10:57:20.754Z'
+dateModified: '2016-11-23T11:30:11.854Z'
 title: Jeanette for P Magazine — Jen Senn
 app_links: []
 publisher: {}
-description: 'http://www.jensenn.com/jeanette-for-p-magazine'
-sourcePath: _posts/2016-11-22-jeanette-for-p-magazine-jen-senn.md
+description: Jen Senn is a fashion and portrait photographer based in New York City.
 starred: false
 url: jeanette-for-p-magazine-jen-senn/index.html
 _context: 'http://schema.org'
@@ -20,11 +20,10 @@ _type: MediaObject
 ---
 # Jeanette for P Magazine --- Jen Senn
 
-<article style=""><img src="https://static1.squarespace.com/static/53967dd8e4b00e052630b00a/56d5f1acc2ea512ffe9d9c55/56d5f1d48a65e23a0894c97f/1456861672362/DSC04583.2.jpg" /><h1>Jeanette for P Magazine</h1><p>Jen Senn is a fashion and portrait photographer based in New York City.</p></article>
-
+Jen Senn is a fashion and portrait photographer based in New York City.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4995d3d-0969-4b02-a04b-d18127a65f5c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94f936f0-5e79-4b10-b415-08a52d251ff3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c0af04c-5074-49d8-a789-e944132d70e1.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4995d3d-0969-4b02-a04b-d18127a65f5c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47ff7a9c-cba9-4496-8cf6-2ca05a32df68.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3262c21b-f9bf-4479-814e-f14373cd965c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/81dac869-15bb-4e6d-86d0-e687899ec800.jpg)
