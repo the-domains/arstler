@@ -12,12 +12,12 @@ inLanguage: fr
 app_links: []
 isBasedOnUrl: 'http://ryanmcginley.com/the-public-body/'
 title: 'Artspace Australia, 2016'
-datePublished: '2016-11-22T13:28:13.799Z'
-dateModified: '2016-11-22T13:27:24.338Z'
+datePublished: '2016-11-23T10:57:37.459Z'
+dateModified: '2016-11-23T10:57:20.754Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-11-22-artspace-australia-2016.md
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
