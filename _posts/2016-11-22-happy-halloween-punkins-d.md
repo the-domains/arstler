@@ -14,12 +14,12 @@ description: ''
 app_links: []
 isBasedOnUrl: 'http://shairaluna.tumblr.com/post/152419199656/happy-halloween-punkins-d'
 title: 'Happy Halloween, punk''ins! :D'
-datePublished: '2016-11-22T13:31:09.643Z'
-dateModified: '2016-11-22T13:29:40.364Z'
+datePublished: '2016-11-23T10:57:37.464Z'
+dateModified: '2016-11-23T10:57:20.754Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-11-22-happy-halloween-punkins-d.md
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
