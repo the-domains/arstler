@@ -1,7 +1,7 @@
 ---
 title: Le Carrousel du Louvre by Marc Chagall on artnet Auctions
-datePublished: '2016-07-23T20:51:14.735Z'
-dateModified: '2016-07-23T20:39:34.927Z'
+datePublished: '2016-11-23T11:40:43.715Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://www.artnet.com/auctions/artists/marc-chagall/le-carrousel-du-louvre'
 description: >-
@@ -12,11 +12,9 @@ description: >-
   color that brought him to the forefront of 20th-century artists.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-23-le-carrousel-du-louvre-by-marc-chagall-on-artnet-auctions.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
