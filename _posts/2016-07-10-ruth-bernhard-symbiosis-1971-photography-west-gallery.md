@@ -1,7 +1,7 @@
 ---
 title: 'Ruth Bernhard, ''Symbiosis '', 1971, Photography West Gallery | Artsy'
-datePublished: '2016-07-10T19:07:03.032Z'
-dateModified: '2016-07-10T19:02:02.222Z'
+datePublished: '2016-11-23T11:40:44.049Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/ruth-bernhard-symbiosis'
 description: >-
@@ -9,11 +9,11 @@ description: >-
   focusing on the sensuality of the human body, resulting in images that are
   charged with erotic power. In her silver gelatin print, Mother & Child, Joane
   (1963), a mother clutches her infant, lovingly cradling it to her.
-starred: false
 sourcePath: _posts/2016-07-10-ruth-bernhard-symbiosis-1971-photography-west-gallery.md
+starred: false
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
