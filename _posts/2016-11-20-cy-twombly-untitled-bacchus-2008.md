@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-23T11:40:26.622Z'
+datePublished: '2016-11-23T18:47:47.466Z'
 sourcePath: _posts/2016-11-20-cy-twombly-untitled-bacchus-2008.md
 inFeed: true
 hasPage: true
@@ -7,8 +7,8 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
-title: Cy Twombly
+dateModified: '2016-11-23T18:47:46.740Z'
+title: Cy Twombly - Painting
 app_links: []
 publisher: {}
 description: 'American, 1928–2011'
@@ -18,7 +18,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Cy Twombly
+# Cy Twombly - Painting
 
 American, 1928--2011
 
@@ -45,15 +45,6 @@ Cy Twombly emerged in the 1950s, developing a characteristic painting style of e
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/636fc877-2cd1-45b0-945a-cba7c6d37876.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/324a7621-1dfc-4a0f-92a5-25deb37c067b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16fc89fc-e4ee-4856-93c0-a48cac2de0d1.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a2e8a16-203f-4f6e-a522-295bc956f004.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20744b72-ed64-4d81-b36c-125ef52ec4aa.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6404c0a0-71af-4a11-9d4b-fb4ba9be345e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a66daecc-a68c-45a9-848f-0f79570eed29.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/856b0b4e-80bd-4dc0-b63e-594c4e670102.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eea7e3ef-108e-4966-8289-f7e91b7c1f06.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b461531e-6487-424d-af00-b97f00e0bbc7.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c77a5405-0871-4e85-aa02-e2c889f1459f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a89e42e-d6fa-497d-bc97-caa3272dce15.jpg)
 
 (c) ALL ARTWORK CY TWOMBLY FOUNDATION
 
