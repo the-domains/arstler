@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-20T18:53:41.803Z'
+datePublished: '2016-11-23T10:57:37.464Z'
 sourcePath: _posts/2016-11-20-gagosian-presents-cy-twombly.md
 inFeed: true
 isBasedOnUrl: 'http://www.widewalls.ch/gagosian-presents-cy-twombly/'
@@ -20,7 +20,7 @@ author:
     url: null
     avatar: {}
 via: {}
-dateModified: '2016-11-20T18:53:41.108Z'
+dateModified: '2016-11-23T10:57:20.754Z'
 title: 'Gagosian Presents: Cy Twombly'
 app_links: []
 publisher:
