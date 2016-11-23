@@ -2,8 +2,8 @@
 title: >-
   Liegender weiblicher Akt mit Hund - Werke - Neuerwerbungen Frühjahr 2016 -
   Ausstellungen - Galerie Ludorff
-datePublished: '2016-08-19T19:12:56.426Z'
-dateModified: '2016-08-19T18:51:14.261Z'
+datePublished: '2016-11-23T11:40:34.676Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: >-
   http://www.ludorff.com/de/exhibition/neuerwerbungen_fruehjahr_2016/work/liegender_weiblicher_akt_mit_hund
@@ -14,11 +14,9 @@ description: >-
   Duesseldorf, Germany.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-liegender-weiblicher-akt-mit-hund-werke-neuerwerbungen-f.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
