@@ -17,7 +17,9 @@ keywords:
   - artsyartsy
   - paintings
   - rothko
-description: 'Available for sale from Mitchell-Innes & Nash, Sarah Braman, Pink (2016), Steel, glass, metal table, 44 1/2 × 27 3/4 × 21 3/4 in'
+description: >-
+  Available for sale from Mitchell-Innes & Nash, Sarah Braman, Pink (2016),
+  Steel, glass, metal table, 44 1/2 × 27 3/4 × 21 3/4 in
 inLanguage: en
 app_links:
   - url: 'https://www.artsy.net/artwork/sarah-braman-pink'
@@ -27,13 +29,12 @@ app_links:
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/artwork/sarah-braman-pink'
 title: 'Sarah Braman | Pink (2016), Available for Sale | Artsy'
-datePublished: '2016-05-10T17:03:02.743Z'
-dateModified: '2016-05-08T19:45:00.232Z'
-starred: false
+datePublished: '2016-11-23T11:40:44.520Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 sourcePath: _posts/2016-05-10-sarah-braman-or-pink-2016-available-for-sale-or-artsy.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
