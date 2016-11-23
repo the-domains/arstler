@@ -1,7 +1,7 @@
 ---
 title: 'Andy Warhol @ Christie''s: By the Book'
-datePublished: '2016-07-23T20:08:31.944Z'
-dateModified: '2016-07-23T20:07:09.726Z'
+datePublished: '2016-11-23T11:40:43.788Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: >-
   https://onlineonly.christies.com/s/andy-warhol-christies-book/lots/275?pid=en_homepage_row1_slot1_2
@@ -12,11 +12,9 @@ description: >-
   In the Bottom of My Garden and Wild Raspberries , as well as a rare Lips book.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-23-andy-warhol-christies-by-the-book.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
