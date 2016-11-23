@@ -1,21 +1,21 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: 'https://artlist.co/artworks/e57f07ce-343d-4388-92cc-84888bc77ebe'
 inLanguage: null
 keywords: []
 description: 'Bosco Sodi, Untitled for sale'
-datePublished: '2016-07-05T08:24:44.223Z'
-dateModified: '2016-07-05T08:24:37.225Z'
+datePublished: '2016-11-23T11:40:44.118Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-07-02-bosco-sodi-untitled-for-sale.md
 authors: []
-publisher: null
+publisher: {}
 starred: false
+via: {}
 _type: MediaObject
 
 ---
