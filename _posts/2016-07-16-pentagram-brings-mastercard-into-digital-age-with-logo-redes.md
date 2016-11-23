@@ -1,7 +1,7 @@
 ---
 title: Pentagram brings Mastercard into digital age with logo redesign
-datePublished: '2016-07-16T01:26:54.143Z'
-dateModified: '2016-07-16T01:26:25.083Z'
+datePublished: '2016-11-23T11:40:44.077Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author:
   - name: Dan Howarth
     url: 'http://www.dezeen.com/author/dan-howarth/'
@@ -13,12 +13,12 @@ description: >-
   Mastercard, the credit card company's first branding redesign in 20 years. The
   new design retains the two overlapping red and yellow circles, but swaps the
   stripes in the central portion for a block orange colour.
-starred: false
 sourcePath: >-
   _posts/2016-07-16-pentagram-brings-mastercard-into-digital-age-with-logo-redes.md
+starred: false
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
