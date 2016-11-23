@@ -1,17 +1,15 @@
 ---
 title: Bernard Jacobson Gallery - Group Show
-datePublished: '2016-07-25T18:02:44.817Z'
-dateModified: '2016-07-25T17:48:15.818Z'
+datePublished: '2016-11-23T11:40:26.824Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.jacobsongallery.com/index.php?nav=exhibitiondetails&ID=156'
 description: Works by Group Show
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-25-bernard-jacobson-gallery-group-show.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
