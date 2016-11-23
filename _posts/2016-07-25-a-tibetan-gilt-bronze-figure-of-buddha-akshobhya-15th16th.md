@@ -2,8 +2,8 @@
 title: >-
   A Tibetan gilt bronze figure of Buddha Akshobhya. 15th/16th century -
   Auktionshaus Lempertz
-datePublished: '2016-07-25T06:20:15.825Z'
-dateModified: '2016-07-24T20:18:45.451Z'
+datePublished: '2016-11-23T11:40:43.638Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: >-
   https://www.lempertz.com/en/catalogues/lot/1072-1/4-a-tibetan-gilt-bronze-figure-of-buddha-akshobhya-15th16th-century.html
@@ -13,11 +13,9 @@ description: >-
   century.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-25-a-tibetan-gilt-bronze-figure-of-buddha-akshobhya-15th16th.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
