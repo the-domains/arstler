@@ -1,7 +1,7 @@
 ---
 title: Untitled (Pendant)
-datePublished: '2016-07-23T20:23:43.239Z'
-dateModified: '2016-07-23T20:14:29.768Z'
+datePublished: '2016-11-23T11:40:43.760Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: >-
   https://onlineonly.christies.com/s/first-open-post-war-contemporary-art/untitled-pendant-46/30133
@@ -11,11 +11,9 @@ description: >-
   unique.PROVENANCEAcquired directly from the artist by the present owner
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-23-untitled-pendant.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
