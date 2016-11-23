@@ -1,7 +1,7 @@
 ---
 title: Blue Curve
-datePublished: '2016-07-16T17:38:17.090Z'
-dateModified: '2016-07-16T17:36:21.853Z'
+datePublished: '2016-11-23T11:40:43.984Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://onlineonly.christies.com/s/first-open-editions/blue-curve-583/30074'
 description: >-
@@ -10,11 +10,11 @@ description: >-
   signed in pencil, numbered 145/220 (there were also 38 artist's proofs),
   published by Gemini G.E.L., Los Angeles, with their inkstamp on the
   reverseSheet: 8 x 6 in.
-starred: false
 sourcePath: _posts/2016-07-16-blue-curve.md
+starred: false
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
