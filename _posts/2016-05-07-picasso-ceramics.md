@@ -17,18 +17,23 @@ keywords:
   - lots
   - online
   - impressionist
-description: "Coinciding with our May Impressionist & Modern Art and Post-War and Contemporary Art sales, Christie's presents an online auction of ceramics by Pablo Picasso. Featuring 88 lots, with estimates ranging from $800 to $80,000, our Picasso Ceramics online sale offers a diverse selection of statement pieces."
+description: >-
+  Coinciding with our May Impressionist & Modern Art and Post-War and
+  Contemporary Art sales, Christie's presents an online auction of ceramics by
+  Pablo Picasso. Featuring 88 lots, with estimates ranging from $800 to $80,000,
+  our Picasso Ceramics online sale offers a diverse selection of statement
+  pieces.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://onlineonly.christies.com/s/picasso-ceramics/lots/244?SitecoreGUID={0BFA6C33-95EE-47B0-BA39-EEF625C23B1A}&sectionName=auctions_Nav&lid=1'
+isBasedOnUrl: >-
+  https://onlineonly.christies.com/s/picasso-ceramics/lots/244?SitecoreGUID={0BFA6C33-95EE-47B0-BA39-EEF625C23B1A}&sectionName=auctions_Nav&lid=1
 title: Picasso Ceramics
-datePublished: '2016-05-07T07:45:49.961Z'
-dateModified: '2016-05-07T07:45:22.282Z'
-starred: false
+datePublished: '2016-11-23T11:40:44.561Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 sourcePath: _posts/2016-05-07-picasso-ceramics.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
