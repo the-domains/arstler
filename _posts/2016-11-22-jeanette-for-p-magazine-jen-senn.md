@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-11-22T14:45:14.521Z'
+datePublished: '2016-11-23T10:57:37.463Z'
 inFeed: true
 hasPage: true
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-11-22T14:44:02.692Z'
+dateModified: '2016-11-23T10:57:20.754Z'
 title: Jeanette for P Magazine — Jen Senn
 app_links: []
 publisher: {}
 description: 'http://www.jensenn.com/jeanette-for-p-magazine'
-starred: false
 sourcePath: _posts/2016-11-22-jeanette-for-p-magazine-jen-senn.md
+starred: false
 url: jeanette-for-p-magazine-jen-senn/index.html
 _context: 'http://schema.org'
 _type: MediaObject
