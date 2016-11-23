@@ -1,7 +1,7 @@
 ---
 title: 'Petra Cortright, ''470 nitro express'', 2014, Steve Turner | Artsy'
-datePublished: '2016-08-11T19:10:52.496Z'
-dateModified: '2016-08-11T18:56:40.166Z'
+datePublished: '2016-11-23T11:40:26.781Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/petra-cortright-470-nitro-express'
 description: >-
@@ -13,11 +13,9 @@ description: >-
   played in the background.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-11-petra-cortright-470-nitro-express-2014-steve-turner-or-a.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
