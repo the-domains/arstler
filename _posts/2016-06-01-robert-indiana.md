@@ -1,23 +1,19 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: 'https://paddle8.com/work/robert-indiana/111289-love/'
 inLanguage: null
 keywords: []
 description: ROBERT INDIANA
-datePublished: '2016-06-01T08:21:43.731Z'
-dateModified: '2016-06-01T08:20:18.055Z'
+datePublished: '2016-11-23T11:40:44.949Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 title: ''
 authors: []
-publisher:
-  name: paddle8.com
-  domain: paddle8.com
-  url: null
-  favicon: null
-starred: false
+publisher: {}
 sourcePath: _posts/2016-06-01-robert-indiana.md
+starred: false
+via: {}
 _context: 'http://schema.org'
 _type: Article
 
