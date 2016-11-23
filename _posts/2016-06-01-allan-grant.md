@@ -1,23 +1,19 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: 'https://paddle8.com/work/allan-grant/111255-marilyn-the-last-days-july-1962/'
 inLanguage: null
 keywords: []
 description: ALLAN GRANT
-datePublished: '2016-06-01T08:21:43.842Z'
-dateModified: '2016-06-01T08:20:35.494Z'
+datePublished: '2016-11-23T11:40:44.958Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 title: ''
 authors: []
-publisher:
-  name: paddle8.com
-  domain: paddle8.com
-  url: null
-  favicon: null
-starred: false
+publisher: {}
 sourcePath: _posts/2016-06-01-allan-grant.md
+starred: false
+via: {}
 _context: 'http://schema.org'
 _type: Article
 
