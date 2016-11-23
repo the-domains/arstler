@@ -17,18 +17,22 @@ keywords:
   - contemporary
   - works
   - top
-description: "Art on Top: The Artists and Art Works in the Christie's Evening Sales Why are the artists in the Christie's evening sales art historically important? How does one understand their cultural significance and the high prices collectors will pay for their works?"
+description: >-
+  Art on Top: The Artists and Art Works in the Christie's Evening Sales Why are
+  the artists in the Christie's evening sales art historically important? How
+  does one understand their cultural significance and the high prices collectors
+  will pay for their works?
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.christies.com/auctions/2016/20th-century-at-christies-new-york-may-2016?pid=en_homepage_row1_slot1_1'
-title: "20th Century at Christie's | New York | May 2016"
-datePublished: '2016-05-07T07:37:34.635Z'
-dateModified: '2016-05-07T07:36:41.202Z'
-starred: false
+isBasedOnUrl: >-
+  http://www.christies.com/auctions/2016/20th-century-at-christies-new-york-may-2016?pid=en_homepage_row1_slot1_1
+title: 20th Century at Christie's | New York | May 2016
+datePublished: '2016-11-23T11:40:44.564Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 sourcePath: _posts/2016-05-07-20th-century-at-christies-or-new-york-or-may-2016.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
