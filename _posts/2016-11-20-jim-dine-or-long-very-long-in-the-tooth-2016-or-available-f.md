@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-23T11:11:41.520Z'
+datePublished: '2016-11-23T11:26:54.484Z'
 sourcePath: >-
   _posts/2016-11-20-jim-dine-or-long-very-long-in-the-tooth-2016-or-available-f.md
 inFeed: true
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-11-23T11:11:27.854Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 title: JIM DINE
 app_links:
   - url: 'https://www.artsy.net/artwork/jim-dine-long-very-long-in-the-tooth-3'
