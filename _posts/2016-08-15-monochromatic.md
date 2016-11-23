@@ -1,7 +1,7 @@
 ---
 title: Monochromatic
-datePublished: '2016-08-15T19:22:14.355Z'
-dateModified: '2016-08-15T18:47:43.330Z'
+datePublished: '2016-11-23T11:40:34.706Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.asyageisberggallery.com/exhibitions/monochromatic'
 description: >-
@@ -13,11 +13,9 @@ description: >-
   primacy when color is extracted.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-15-monochromatic.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
