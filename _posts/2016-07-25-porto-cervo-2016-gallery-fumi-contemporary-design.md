@@ -1,7 +1,7 @@
 ---
 title: 'Porto Cervo 2016 : Gallery FUMI Contemporary Design'
-datePublished: '2016-07-25T18:19:03.546Z'
-dateModified: '2016-07-25T18:09:56.447Z'
+datePublished: '2016-11-23T11:40:26.822Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.galleryfumi.com/Exhibitions/Current/Porto-Cervo-2016/'
 description: >-
@@ -11,11 +11,9 @@ description: >-
   and art world.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-25-porto-cervo-2016-gallery-fumi-contemporary-design.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
