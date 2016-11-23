@@ -32,12 +32,12 @@ isBasedOnUrl: 'https://www.artsy.net/artwork/steve-mccurry-afghan-girl-peshawar-
 title: >-
   Steve McCurry | Afghan Girl (Peshawar, Pakistan) (1984), Available for Sale |
   Artsy
-datePublished: '2016-11-23T11:11:41.520Z'
-dateModified: '2016-11-23T11:11:27.854Z'
+datePublished: '2016-11-23T11:26:54.491Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 sourcePath: _posts/2016-05-03-steve-mccurry-or-afghan-girl-peshawar-pakistan-1984-ava.md
-starred: false
 via: {}
 inFeed: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
