@@ -29,12 +29,12 @@ app_links:
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/artwork/adrien-brody-dropfish-grey'
 title: 'Adrien Brody | Dropfish (Grey) (2016), Available for Sale | Artsy'
-datePublished: '2016-11-23T11:11:41.633Z'
-dateModified: '2016-11-23T11:11:27.854Z'
+datePublished: '2016-11-23T11:40:26.594Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 sourcePath: _posts/2016-05-03-adrien-brody-or-dropfish-grey-2016-available-for-sale-or.md
-starred: false
 via: {}
 inFeed: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
