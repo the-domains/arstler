@@ -1,8 +1,8 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.sothebys.com/en/auctions/ecatalogue/2016/chinese-art-hk0649/lot.758.html'
+isBasedOnUrl: >-
+  http://www.sothebys.com/en/auctions/ecatalogue/2016/chinese-art-hk0649/lot.758.html
 inLanguage: en
 keywords:
   - deities
@@ -16,12 +16,19 @@ keywords:
   - qing
   - tibetan
 description: 02 JUNE 2016 - 04 JUNE 2016
-datePublished: '2016-06-01T07:58:58.048Z'
-dateModified: '2016-06-01T07:58:51.303Z'
+datePublished: '2016-11-23T11:40:44.943Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 related:
   - score: 0.6603801847
-    description: 'For PJ. Check out Nyan Cat at http://nyan.cat/ Official Nyan Cat Facebook: http://www.facebook.com/NyanCatWorld Nyan Cat on Twitter: https://twitter.com/nyannyancat Nyan Cat Store: http://nyancat.cat/store.html GIF by PRguitarman http://www.prguitarman.com/index.php?id=348 Song by Daniwell-P/Momone Momo UTAU http://momolabo.lolipop.jp/nyancatsong/Nyan/ ***used with permission; I own neither***'
+    description: >-
+      For PJ. Check out Nyan Cat at http://nyan.cat/ Official Nyan Cat Facebook:
+      http://www.facebook.com/NyanCatWorld Nyan Cat on Twitter:
+      https://twitter.com/nyannyancat Nyan Cat Store:
+      http://nyancat.cat/store.html GIF by PRguitarman
+      http://www.prguitarman.com/index.php?id=348 Song by Daniwell-P/Momone Momo
+      UTAU http://momolabo.lolipop.jp/nyancatsong/Nyan/ ***used with permission;
+      I own neither***
     title: 'Nyan Cat [original]'
     url: 'https://www.youtube.com/watch?v=QH2-TGUlwu4'
     thumbnail_height: 360
@@ -35,8 +42,9 @@ publisher:
   domain: www.sothebys.com
   url: 'http://www.sothebys.com'
   favicon: 'http://www.sothebys.com/etc/designs/redesigns/sothebys/img/icons/favicon.ico'
-starred: false
 sourcePath: _posts/2016-06-01-chinese-art.md
+starred: false
+via: {}
 _context: 'http://schema.org'
 _type: MediaObject
 
