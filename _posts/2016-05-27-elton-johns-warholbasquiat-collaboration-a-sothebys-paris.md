@@ -17,18 +17,23 @@ keywords:
   - contemporain
   - basquiat
   - watch
-description: 'Discover highlights from our Art Contemporain auction in Paris on 7 and 8 June 2016, including a collaborative work by Andy Warhol and Jean-Michel Basquiat from the collection of Sir Elton John and David Furnish.'
+description: >-
+  Discover highlights from our Art Contemporain auction in Paris on 7 and 8 June
+  2016, including a collaborative work by Andy Warhol and Jean-Michel Basquiat
+  from the collection of Sir Elton John and David Furnish.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.sothebys.com/content/sothebys/en/news-video/videos/2016/05/elton-john-warhol-basquiat-collaboration-sothebys-paris.html'
-title: "Elton John's Warhol/Basquiat Collaboration a Sotheby's Paris Highlight | Sotheby's"
-datePublished: '2016-05-27T20:27:04.512Z'
-dateModified: '2016-05-27T20:26:38.578Z'
-starred: false
+isBasedOnUrl: >-
+  http://www.sothebys.com/content/sothebys/en/news-video/videos/2016/05/elton-john-warhol-basquiat-collaboration-sothebys-paris.html
+title: >-
+  Elton John's Warhol/Basquiat Collaboration a Sotheby's Paris Highlight |
+  Sotheby's
+datePublished: '2016-11-23T11:40:44.988Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 sourcePath: _posts/2016-05-27-elton-johns-warholbasquiat-collaboration-a-sothebys-paris.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
