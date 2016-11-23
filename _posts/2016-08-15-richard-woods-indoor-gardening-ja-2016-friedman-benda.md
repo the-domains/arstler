@@ -1,7 +1,7 @@
 ---
 title: 'Richard Woods, ''Indoor Gardening (JA)'', 2016, Friedman Benda | Artsy'
-datePublished: '2016-08-15T19:22:14.969Z'
-dateModified: '2016-08-15T18:42:28.492Z'
+datePublished: '2016-11-23T11:40:34.706Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/richard-woods-indoor-gardening-ja'
 description: >-
@@ -11,11 +11,9 @@ description: >-
   patterns, architecture, and iconography in his installation Super Tudor.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-15-richard-woods-indoor-gardening-ja-2016-friedman-benda.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
