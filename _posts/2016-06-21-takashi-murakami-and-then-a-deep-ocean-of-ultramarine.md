@@ -2,8 +2,8 @@
 title: >-
   Takashi Murakami, 'And Then (A Deep Ocean Of Ultramarine)', 2013, Julien's
   Auctions: Street Art Now June 2016 | Artsy
-datePublished: '2016-06-21T09:05:09.660Z'
-dateModified: '2016-06-21T09:04:45.522Z'
+datePublished: '2016-11-23T11:40:44.202Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: >-
   https://m.artsy.net/artwork/takashi-murakami-and-then-a-deep-ocean-of-ultramarine
@@ -14,11 +14,11 @@ description: >-
   print are shown together-yellows, blues, greens, and candy colored reds
   enhance and change an image that has become as recognizable as Andy Warhol's
   soup cans, thanks to the almost cult status of his "Mr. DOB" character.
-starred: false
 sourcePath: _posts/2016-06-21-takashi-murakami-and-then-a-deep-ocean-of-ultramarine.md
+starred: false
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
