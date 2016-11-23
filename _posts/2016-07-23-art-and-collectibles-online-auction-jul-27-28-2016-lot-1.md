@@ -2,8 +2,8 @@
 title: >-
   Art And Collectibles Online Auction -Jul 27-28, 2016 -Lot 1 -Gaganendranath
   Tagore
-datePublished: '2016-07-23T21:23:57.022Z'
-dateModified: '2016-07-23T21:23:00.068Z'
+datePublished: '2016-11-23T11:40:43.583Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.saffronart.com/auctions/PreWork.aspx?l=21870'
 description: >-
@@ -14,11 +14,9 @@ description: >-
   painting and a briefer still one in academic studies.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-23-art-and-collectibles-online-auction-jul-27-28-2016-lot-1.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
