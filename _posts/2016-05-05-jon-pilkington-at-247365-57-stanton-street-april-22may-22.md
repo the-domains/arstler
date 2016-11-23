@@ -1,18 +1,23 @@
 ---
-description: 'Jon Pilkington at 247365 57 STANTON STREET, APRIL 22–MAY 22 Installation view of Jon Pilkington at 247365, 2016. Photo courtesy of 247365. Stirring together painting’s basic elements of line, form, and color, the London-based Pilkington creates works that toe the line between abstraction and figuration. In some pieces, beneath whirls of energetic brushstrokes, a viewer might find hints of a still life—a plate, a plant, a Matisse-like fishbowl. Other canvases are gridded off into sections of pattern and washes of color.'
+description: >-
+  Jon Pilkington at 247365 57 STANTON STREET, APRIL 22–MAY 22 Installation view
+  of Jon Pilkington at 247365, 2016. Photo courtesy of 247365. Stirring together
+  painting’s basic elements of line, form, and color, the London-based
+  Pilkington creates works that toe the line between abstraction and figuration.
+  In some pieces, beneath whirls of energetic brushstrokes, a viewer might find
+  hints of a still life—a plate, a plant, a Matisse-like fishbowl. Other
+  canvases are gridded off into sections of pattern and washes of color.
+isBasedOnUrl: >-
+  https://www.artsy.net/article/artsy-editorial-21-new-york-gallery-shows-in-may-where-you-ll-find-exciting-young-artists
 author: []
-datePublished: '2016-05-05T13:44:48.031Z'
-publisher:
-  domain: www.artsy.net
-  name: artsy.net
-dateModified: '2016-05-05T13:43:11.788Z'
+datePublished: '2016-11-23T11:40:48.441Z'
+publisher: {}
+dateModified: '2016-11-23T11:26:45.121Z'
 title: ''
-starred: false
 sourcePath: _posts/2016-05-05-jon-pilkington-at-247365-57-stanton-street-april-22may-22.md
+starred: false
+via: {}
 inFeed: true
-hasPage: true
-inNav: false
-url: jon-pilkington-at-247365-57-stanton-street-april-22may-22/index.html
 _context: 'http://schema.org'
 _type: Article
 
