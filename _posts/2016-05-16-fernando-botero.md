@@ -1,23 +1,24 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.dorotheum.com/en/auctions/current-auctions/kataloge/list-lots/auktion/11844-modern-art.html?currentPage=1#lot-2048439'
+isBasedOnUrl: >-
+  https://www.dorotheum.com/en/auctions/current-auctions/kataloge/list-lots/auktion/11844-modern-art.html?currentPage=1#lot-2048439
 inLanguage: null
 keywords: []
-description: 'Fernando Botero *'
-datePublished: '2016-05-16T09:06:55.950Z'
-dateModified: '2016-05-13T11:13:51.113Z'
+description: Fernando Botero *
+datePublished: '2016-11-23T11:40:45.018Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 title: ''
 authors: []
 publisher:
-  name: dorotheum.com
-  domain: www.dorotheum.com
+  name: null
+  domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-16-fernando-botero.md
+starred: false
+via: {}
 _context: 'http://schema.org'
 _type: Article
 
