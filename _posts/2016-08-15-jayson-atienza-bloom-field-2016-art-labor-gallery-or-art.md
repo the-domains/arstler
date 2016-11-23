@@ -1,7 +1,7 @@
 ---
 title: 'Jayson Atienza, ''Bloom Field'', 2016, ART LABOR Gallery | Artsy'
-datePublished: '2016-08-15T19:22:16.738Z'
-dateModified: '2016-08-15T17:58:20.205Z'
+datePublished: '2016-11-23T11:40:34.712Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/jayson-atienza-bloom-field'
 description: >-
@@ -11,11 +11,9 @@ description: >-
   Douglas Coupland, An Te Liu, and Koen Vanmechelen.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-15-jayson-atienza-bloom-field-2016-art-labor-gallery-or-art.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
