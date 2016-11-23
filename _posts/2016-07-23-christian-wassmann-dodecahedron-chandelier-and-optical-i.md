@@ -2,8 +2,8 @@
 title: >-
   Christian Wassmann, '"Dodecahedron" chandelier and optical instrument', 2014,
   Watermill Center Summer Benefit Auction 2016 | Artsy
-datePublished: '2016-07-23T20:04:21.320Z'
-dateModified: '2016-07-23T19:54:03.588Z'
+datePublished: '2016-11-23T11:40:43.797Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: >-
   https://m.artsy.net/artwork/christian-wassmann-dodecahedron-chandelier-and-optical-instrument
@@ -16,11 +16,9 @@ description: >-
   than the modernist mantra "form follows function."
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-23-christian-wassmann-dodecahedron-chandelier-and-optical-i.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
