@@ -1,13 +1,12 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: 'https://artlist.co/artworks/c0d0ed18-2d46-464b-b414-0ad1cd92f566'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-08T19:37:45.960Z'
-dateModified: '2016-05-08T19:37:32.290Z'
+datePublished: '2016-11-23T11:40:44.546Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 title: Damien Hirst
 authors: []
@@ -16,8 +15,9 @@ publisher:
   domain: artlist.co
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-08-damien-hirst.md
+starred: false
+via: {}
 _context: 'http://schema.org'
 _type: Article
 
