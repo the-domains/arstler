@@ -1,7 +1,7 @@
 ---
 title: 'Ansel Adams "Aspens, Northern New Mexico"'
-datePublished: '2016-07-25T10:00:02.550Z'
-dateModified: '2016-07-25T09:57:27.440Z'
+datePublished: '2016-11-23T11:40:26.825Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://gallery270.com/ansel-adams-aspens-northern-new-mexico/'
 description: >-
@@ -11,11 +11,9 @@ description: >-
   legendary Witkin Gallery that same year.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-25-ansel-adams-aspens-northern-new-mexico.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
