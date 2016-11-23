@@ -1,19 +1,19 @@
 ---
-inFeed: true
-description: >-
-  The Front Gallery features Edmonton's artistic diversity in a relaxed and
-  welcoming environment. Exhibiting artists work from all over the world, an
-  extensive collection of books, antique furniture and collectibles.
-dateModified: '2016-11-07T14:18:42.291Z'
-datePublished: '2016-11-09T14:41:44.670Z'
-title: 'Ira Hoffecker, ''Hamburg Harbour'', 2013, The Front Gallery | Artsy'
-author: []
-publisher: {}
-via: {}
-isBasedOnUrl: 'https://m.artsy.net/artwork/ira-hoffecker-hamburg-harbour'
-starred: false
+datePublished: '2016-11-23T11:40:26.591Z'
 sourcePath: _posts/2016-11-09-ira-hoffecker-hamburg-harbour-2013-the-front-gallery-or.md
-_type: MediaObject
+inFeed: true
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-11-23T11:26:45.121Z'
+title: ''
+publisher: {}
+description: 'Ira Hoffecker, ''Hamburg Harbour'', 2013, The Front Gallery'
+starred: false
+url: ira-hoffecker-hamburg-harbour-2013-the-front-gallery-or/index.html
+_type: Article
 
 ---
-<article style=""><h1>Ira Hoffecker, 'Hamburg Harbour', 2013, The Front Gallery | Artsy</h1><p>The Front Gallery features Edmonton's artistic diversity in a relaxed and welcoming environment. Exhibiting artists work from all over the world, an extensive collection of books, antique furniture and collectibles.</p><img src="https://d32dm0rphc51dk.cloudfront.net/C08lf7_A8i3z7APH06xuiQ/large.jpg" /></article>
+Ira Hoffecker, 'Hamburg Harbour', 2013, The Front Gallery
+
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e04c4136ee8b03ec9e92d5a2e21aee6f/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FC08lf7_A8i3z7APH06xuiQ%2Flarge.jpg" /><p>The Front Gallery features Edmonton's artistic diversity in a relaxed and welcoming environment. Exhibiting artists work from all over the world, an extensive collection of books, antique furniture and collectibles.</p></article>
