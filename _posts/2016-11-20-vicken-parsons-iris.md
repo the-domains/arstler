@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-20T10:10:18.510Z'
+datePublished: '2016-11-23T11:40:26.622Z'
 inFeed: true
 hasPage: true
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-11-20T10:10:14.921Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 title: 'Vicken Parsons: Iris'
 app_links: []
 publisher:
@@ -26,8 +26,8 @@ publisher:
   domain: www.alancristea.com
 description: 24 Nov 2016 - 7 Jan 2017
 inLanguage: en
-starred: false
 sourcePath: _posts/2016-11-20-vicken-parsons-iris.md
+starred: false
 url: vicken-parsons-iris/index.html
 _context: 'http://schema.org'
 _type: MediaObject
