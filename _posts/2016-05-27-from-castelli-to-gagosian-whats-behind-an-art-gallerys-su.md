@@ -17,23 +17,27 @@ keywords:
   - series
   - artsyartsy
   - dragset
-description: What does an art gallery do for an artist? What fuels the global expansion of galleries like Gagosian and White Cube? And how has the internet affected the way galleries do business?
+description: >-
+  What does an art gallery do for an artist? What fuels the global expansion of
+  galleries like Gagosian and White Cube? And how has the internet affected the
+  way galleries do business?
 inLanguage: en
 app_links:
-  - url: 'https://www.artsy.net/article/artsy-editorial-from-castelli-to-gagosian-what-s-behind-an-art-gallery-s-success'
+  - url: >-
+      https://www.artsy.net/article/artsy-editorial-from-castelli-to-gagosian-what-s-behind-an-art-gallery-s-success
     type: ios
     namespace: ai
     app_store_id: '703796080'
     app_name: Artsy
-isBasedOnUrl: 'https://www.artsy.net/article/artsy-editorial-from-castelli-to-gagosian-what-s-behind-an-art-gallery-s-success'
-title: "From Castelli to Gagosian, What's behind an Art Gallery's Success?"
-datePublished: '2016-05-27T20:20:48.423Z'
-dateModified: '2016-05-27T20:17:47.688Z'
-starred: false
+isBasedOnUrl: >-
+  https://www.artsy.net/article/artsy-editorial-from-castelli-to-gagosian-what-s-behind-an-art-gallery-s-success
+title: 'From Castelli to Gagosian, What''s behind an Art Gallery''s Success?'
+datePublished: '2016-11-23T11:40:44.999Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 sourcePath: _posts/2016-05-27-from-castelli-to-gagosian-whats-behind-an-art-gallerys-su.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
