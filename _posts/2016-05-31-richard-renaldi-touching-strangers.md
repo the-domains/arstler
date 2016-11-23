@@ -1,7 +1,6 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
 inLanguage: en
 keywords:
   - duration
@@ -15,8 +14,8 @@ keywords:
   - parents
   - '432'
 description: Richard Renaldi - Touching Strangers
-datePublished: '2016-05-31T10:38:44.298Z'
-dateModified: '2016-05-31T10:38:33.395Z'
+datePublished: '2016-11-23T11:40:44.935Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author:
   - name: Sevgi Cukka
     url: 'https://www.youtube.com/channel/UCEV7-dfmpP1Zqfbl22F2E1w'
@@ -61,13 +60,10 @@ app_links:
     type: ios
 title: ''
 authors: []
-publisher:
-  name: YouTube
-  domain: www.youtube.com
-  url: 'https://www.youtube.com/'
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-starred: false
+publisher: {}
 sourcePath: _posts/2016-05-31-richard-renaldi-touching-strangers.md
+starred: false
+via: {}
 url: richard-renaldi-touching-strangers/index.html
 _type: VideoObject
 _context: 'http://schema.org'
