@@ -1,7 +1,7 @@
 ---
 title: 'Pokémon in museums, Kahlo selfies and medieval beasts - the week in art'
-datePublished: '2016-07-23T20:04:20.880Z'
-dateModified: '2016-07-23T19:59:21.558Z'
+datePublished: '2016-11-23T11:40:43.773Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author:
   - name: Jonathan Jones
     url: 'https://www.theguardian.com/profile/jonathanjones'
@@ -16,11 +16,9 @@ description: >-
   highlight of this year's Edinburgh art festival.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-23-pokemon-in-museums-kahlo-selfies-and-medieval-beasts-the.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
