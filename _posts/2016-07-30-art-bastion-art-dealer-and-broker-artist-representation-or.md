@@ -1,18 +1,16 @@
 ---
 title: 'Art Bastion art dealer and broker, artist representation | (Un)Foreseen'
-datePublished: '2016-07-30T15:00:24.527Z'
-dateModified: '2016-07-27T17:42:32.357Z'
+datePublished: '2016-11-23T11:40:26.797Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.artbastion.com/#!(Un)Foreseen/zoom/qlcus/dataItem-inhfvs9v'
 description: April 30th - June 11th
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-07-30-art-bastion-art-dealer-and-broker-artist-representation-or.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
