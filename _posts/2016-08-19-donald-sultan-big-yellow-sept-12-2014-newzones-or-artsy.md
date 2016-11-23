@@ -1,7 +1,7 @@
 ---
 title: 'Donald Sultan, ''Big Yellow, Sept 12'', 2014, Newzones | Artsy'
-datePublished: '2016-08-19T19:12:55.118Z'
-dateModified: '2016-08-19T19:02:50.533Z'
+datePublished: '2016-11-23T11:40:34.665Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/donald-sultan-big-yellow-sept-12'
 description: >-
@@ -12,11 +12,9 @@ description: >-
   buttons) are first and foremost abstract.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-donald-sultan-big-yellow-sept-12-2014-newzones-or-artsy.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
