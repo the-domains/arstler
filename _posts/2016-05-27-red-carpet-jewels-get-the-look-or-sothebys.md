@@ -17,18 +17,21 @@ keywords:
   - show-stopping
   - watch
   - cartier
-description: 'View auction details, art exhibitions and online catalogues; bid, buy and collect contemporary, impressionist or modern art, old masters, jewellery, wine, watches, prints, rugs and books at sotheby&s auction house'
+description: >-
+  View auction details, art exhibitions and online catalogues; bid, buy and
+  collect contemporary, impressionist or modern art, old masters, jewellery,
+  wine, watches, prints, rugs and books at sotheby&s auction house
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.sothebys.com/content/sothebys/en/news-video/videos/2016/05/red-carpet-jewels-get-the-look.html'
-title: "Red Carpet Jewels: Get the Look | Sotheby's"
-datePublished: '2016-05-27T20:29:59.166Z'
-dateModified: '2016-05-27T20:27:19.840Z'
-starred: false
+isBasedOnUrl: >-
+  http://www.sothebys.com/content/sothebys/en/news-video/videos/2016/05/red-carpet-jewels-get-the-look.html
+title: 'Red Carpet Jewels: Get the Look | Sotheby''s'
+datePublished: '2016-11-23T11:40:44.978Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 sourcePath: _posts/2016-05-27-red-carpet-jewels-get-the-look-or-sothebys.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
