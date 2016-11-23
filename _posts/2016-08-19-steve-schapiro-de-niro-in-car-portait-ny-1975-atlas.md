@@ -1,7 +1,7 @@
 ---
 title: 'Steve Schapiro, ''De Niro in Car (Portait), NY'', 1975, Atlas Gallery | Artsy'
-datePublished: '2016-08-19T19:12:55.924Z'
-dateModified: '2016-08-19T18:57:14.208Z'
+datePublished: '2016-11-23T11:40:34.678Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/steve-schapiro-de-niro-in-car-portait-ny'
 description: >-
@@ -11,11 +11,9 @@ description: >-
   Andy Warhol and Edie Sedgwick in The Factory.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-steve-schapiro-de-niro-in-car-portait-ny-1975-atlas.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
