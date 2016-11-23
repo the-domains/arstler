@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-23T11:06:17.858Z'
+datePublished: '2016-11-23T11:26:54.494Z'
 sourcePath: _posts/2016-11-01-matte-stephens-illustration-art.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-23T11:06:09.685Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 title: Matte Stephens Illustration Art
 publisher: {}
 description: >-
