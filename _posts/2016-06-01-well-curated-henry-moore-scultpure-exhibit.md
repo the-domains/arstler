@@ -23,18 +23,20 @@ keywords:
   - upright
   - '1983'
   - garden
-description: "Preview the largest outdoor show of Moore's sculptures ever mounted in the United States. The show can be seen at the Atlanta Botanical Garden through October 31."
+description: >-
+  Preview the largest outdoor show of Moore's sculptures ever mounted in the
+  United States. The show can be seen at the Atlanta Botanical Garden through
+  October 31.
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.veranda.com/outdoor-garden/henry-moore-outdoor-sculptures_'
 title: 'Well-Curated: Henry Moore Scultpure Exhibit'
-datePublished: '2016-06-01T08:19:28.476Z'
-dateModified: '2016-06-01T08:10:31.325Z'
-starred: false
+datePublished: '2016-11-23T11:40:44.936Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 sourcePath: _posts/2016-06-01-well-curated-henry-moore-scultpure-exhibit.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
