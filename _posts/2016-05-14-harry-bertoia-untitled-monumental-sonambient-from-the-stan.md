@@ -1,23 +1,27 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: 'https://www.wright20.com/auctions/2016/05/design-masterworks/30'
 inLanguage: null
 keywords: []
-description: 'HARRY BERTOIA Untitled (Monumental Sonambient) from the Standard Oil Commission USA, 1975 beryllium copper and Naval brass 131½ w x 20¾ d x 138¾ h in (334 x 53 x 352 cm) estimate: $300,000–500,000 This work is comprised of 110 rods. Sold with a title of authentication from Bertoia Studio. provenance: Standard Oil Building, Chicago | Private Collection literature: Chicago Tribune, 25 June 1975, illustrates this work in situ The World of Bertoia, Schiffer and Bertoia, pg. 187 discusses the commission'
-datePublished: '2016-05-14T15:42:23.071Z'
-dateModified: '2016-05-14T15:42:09.716Z'
+description: >-
+  HARRY BERTOIA Untitled (Monumental Sonambient) from the Standard Oil
+  Commission USA, 1975 beryllium copper and Naval brass 131½ w x 20¾ d x 138¾ h
+  in (334 x 53 x 352 cm) estimate: $300,000–500,000 This work is comprised of
+  110 rods. Sold with a title of authentication from Bertoia Studio. provenance:
+  Standard Oil Building, Chicago | Private Collection literature: Chicago
+  Tribune, 25 June 1975, illustrates this work in situ The World of Bertoia,
+  Schiffer and Bertoia, pg. 187 discusses the commission
+datePublished: '2016-11-23T11:40:45.004Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 title: ''
 authors: []
-publisher:
-  name: wright20.com
-  domain: www.wright20.com
-  url: null
-  favicon: null
+publisher: {}
+sourcePath: >-
+  _posts/2016-05-14-harry-bertoia-untitled-monumental-sonambient-from-the-stan.md
 starred: false
-sourcePath: _posts/2016-05-14-harry-bertoia-untitled-monumental-sonambient-from-the-stan.md
+via: {}
 _context: 'http://schema.org'
 _type: Article
 
