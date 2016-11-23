@@ -1,17 +1,15 @@
 ---
 title: Gió Marconi
-datePublished: '2016-07-30T15:00:24.510Z'
-dateModified: '2016-07-28T21:10:04.244Z'
+datePublished: '2016-11-23T11:40:26.789Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.giomarconi.com/'
 description: ''
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-30-gio-marconi.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
