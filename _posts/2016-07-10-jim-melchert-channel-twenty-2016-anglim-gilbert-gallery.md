@@ -1,7 +1,7 @@
 ---
 title: 'Jim Melchert, ''Channel Twenty'', 2016, Anglim Gilbert Gallery | Artsy'
-datePublished: '2016-07-10T19:07:02.973Z'
-dateModified: '2016-07-10T19:02:25.374Z'
+datePublished: '2016-11-23T11:40:44.078Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/jim-melchert-channel-twenty'
 description: >-
@@ -9,11 +9,11 @@ description: >-
   forged its identity with the California Beat artists, Bay Area Conceptualists
   & experimental movements in the art of California. The gallery program also
   includes national & international artists.
-starred: false
 sourcePath: _posts/2016-07-10-jim-melchert-channel-twenty-2016-anglim-gilbert-gallery.md
+starred: false
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
