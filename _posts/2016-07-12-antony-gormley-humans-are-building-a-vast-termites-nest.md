@@ -1,7 +1,7 @@
 ---
 title: 'Antony Gormley: Humans are building ''a vast termites'' nest'' of greed'
-datePublished: '2016-07-12T14:18:31.486Z'
-dateModified: '2016-07-12T14:17:29.907Z'
+datePublished: '2016-11-23T11:40:44.065Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author:
   - name: Hannah Ellis-Petersen
     url: 'https://www.theguardian.com/profile/hannah-ellis-petersen'
@@ -12,11 +12,11 @@ description: >-
   Antony Gormley says his first White Cube exhibition in four years, which opens
   in September, is driven by "more of a sense of urgency" than any other show he
   has done.
-starred: false
 sourcePath: _posts/2016-07-12-antony-gormley-humans-are-building-a-vast-termites-nest.md
+starred: false
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
