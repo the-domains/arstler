@@ -1,21 +1,21 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: 'https://artlist.co/artworks/d6cf1ee0-86a0-4064-b4f0-56996fcb31b8'
 inLanguage: null
 keywords: []
 description: 'Kaws, Stormtrooper Companion for sale'
-datePublished: '2016-07-05T08:21:22.368Z'
-dateModified: '2016-07-05T08:21:14.811Z'
+datePublished: '2016-11-23T11:40:44.118Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-07-02-kaws-stormtrooper-companion-for-sale.md
 authors: []
-publisher: null
+publisher: {}
 starred: false
+via: {}
 _type: MediaObject
 
 ---
