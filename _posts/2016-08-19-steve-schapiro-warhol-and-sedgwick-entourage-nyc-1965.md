@@ -2,8 +2,8 @@
 title: >-
   Steve Schapiro, 'Warhol and Sedgwick Entourage, NYC', 1965, Atlas Gallery |
   Artsy
-datePublished: '2016-08-19T19:12:55.096Z'
-dateModified: '2016-08-19T18:59:20.573Z'
+datePublished: '2016-11-23T11:40:34.658Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/steve-schapiro-warhol-and-sedgwick-entourage-nyc'
 description: >-
@@ -13,11 +13,9 @@ description: >-
   Andy Warhol and Edie Sedgwick in The Factory.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-steve-schapiro-warhol-and-sedgwick-entourage-nyc-1965.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
