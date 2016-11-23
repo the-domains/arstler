@@ -1,7 +1,7 @@
 ---
 title: 'Frank Gehry - July 18 - September 16, 2016 - Gagosian Gallery'
-datePublished: '2016-07-25T18:19:02.297Z'
-dateModified: '2016-07-25T18:17:36.176Z'
+datePublished: '2016-11-23T11:40:26.804Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'http://www.gagosian.com/exhibitions/frank-gehry--july-18-2016'
 description: >-
@@ -12,11 +12,9 @@ description: >-
   italiano al termine della versione in inglese] The fish is a perfect form.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-25-frank-gehry-july-18-september-16-2016-gagosian-galler.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
