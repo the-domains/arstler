@@ -17,18 +17,21 @@ keywords:
   - julian
   - gallery
   - street
-description: "Pace Gallery is honored to represent Julian Schnabel. Next season, the gallery will present a show of Schnabel's work, which will also be featured in its booth at Art Basel next month. Read more from the New York Times here. Revisit Julian Sc..."
+description: >-
+  Pace Gallery is honored to represent Julian Schnabel. Next season, the gallery
+  will present a show of Schnabel's work, which will also be featured in its
+  booth at Art Basel next month. Read more from the New York Times here. Revisit
+  Julian Sc...
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.pacegallery.com/news/2739/julian-schnabel-joins-pace'
 title: Pace Gallery - Julian Schnabel joins Pace
-datePublished: '2016-05-08T12:06:24.023Z'
-dateModified: '2016-05-07T21:43:23.512Z'
-starred: false
+datePublished: '2016-11-23T11:40:44.535Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 sourcePath: _posts/2016-05-08-pace-gallery-julian-schnabel-joins-pace.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
