@@ -1,17 +1,15 @@
 ---
 title: LOBI STOOL - Auktionshaus Lempertz
-datePublished: '2016-07-25T06:20:15.854Z'
-dateModified: '2016-07-24T20:17:20.840Z'
+datePublished: '2016-11-23T11:40:43.645Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://www.lempertz.com/en/catalogues/lot/1073-1/4-lobi-stool.html'
 description: Do you already have a MyLempertz account? Please log in here.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-25-lobi-stool-auktionshaus-lempertz.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
