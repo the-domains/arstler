@@ -2,7 +2,7 @@
 title: >-
   Ron English, 'Marilyn Monroe Mickey 1', 2004, Julien's Auctions: Street Art
   Now June 2016 | Artsy
-datePublished: '2016-11-23T11:40:44.207Z'
+datePublished: '2016-11-23T11:40:44.208Z'
 dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/ron-english-marilyn-monroe-mickey-1'
