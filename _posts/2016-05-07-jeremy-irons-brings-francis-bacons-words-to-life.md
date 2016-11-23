@@ -20,7 +20,11 @@ keywords:
   - marko
   - dev
   - infinity
-description: "As Francis Bacon said, \"Everything I do goes into painting.\" In this short video, Academy Award-winning actor Jeremy Irons brings to life excerpts from the artist's interviews with David Sylvester and reveals Bacon's own thoughts.."
+description: >-
+  As Francis Bacon said, "Everything I do goes into painting." In this short
+  video, Academy Award-winning actor Jeremy Irons brings to life excerpts from
+  the artist's interviews with David Sylvester and reveals Bacon's own
+  thoughts..
 inLanguage: en
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=I8K2_-MQ43s&feature=applinks'
@@ -60,14 +64,13 @@ app_links:
     namespace: google
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=I8K2_-MQ43s#action=share'
-title: "Jeremy Irons Brings Francis Bacon's Words to Life"
-datePublished: '2016-05-07T13:28:31.695Z'
-dateModified: '2016-05-07T13:23:33.130Z'
-starred: false
+title: Jeremy Irons Brings Francis Bacon's Words to Life
+datePublished: '2016-11-23T11:40:44.563Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 sourcePath: _posts/2016-05-07-jeremy-irons-brings-francis-bacons-words-to-life.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _type: VideoObject
 _context: 'http://schema.org'
 
