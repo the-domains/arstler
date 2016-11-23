@@ -1,24 +1,26 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: 'https://www.pinterest.com/pin/417216352957041937/'
 inLanguage: null
 keywords: []
-description: '“I paint self-portraits because I am so often alone, because I am the person I know best. ” Frida Kahlo'
-datePublished: '2016-05-04T09:32:04.933Z'
-dateModified: '2016-05-04T09:31:59.354Z'
+description: >-
+  “I paint self-portraits because I am so often alone, because I am the person I
+  know best. ” Frida Kahlo
+datePublished: '2016-11-23T11:40:48.451Z'
+dateModified: '2016-11-23T11:26:45.121Z'
 author: []
 title: ''
 authors: []
 publisher:
-  name: pinterest.com
-  domain: www.pinterest.com
+  name: null
+  domain: null
   url: null
   favicon: null
+sourcePath: >-
+  _posts/2016-05-04-i-paint-self-portraits-because-i-am-so-often-alone-because.md
 starred: false
-sourcePath: _posts/2016-05-04-i-paint-self-portraits-because-i-am-so-often-alone-because.md
-published: true
+via: {}
 _context: 'http://schema.org'
 _type: Article
 
