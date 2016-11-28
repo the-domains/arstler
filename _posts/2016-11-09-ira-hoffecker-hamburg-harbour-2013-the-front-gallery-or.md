@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-23T11:40:26.591Z'
+datePublished: '2016-11-28T19:29:25.115Z'
 sourcePath: _posts/2016-11-09-ira-hoffecker-hamburg-harbour-2013-the-front-gallery-or.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2016-11-28T19:29:17.408Z'
 title: ''
 publisher: {}
 description: 'Ira Hoffecker, ''Hamburg Harbour'', 2013, The Front Gallery'
