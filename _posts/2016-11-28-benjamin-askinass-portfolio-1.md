@@ -13,12 +13,12 @@ description: Photography by Benjamin Askinas
 app_links: []
 isBasedOnUrl: 'http://www.benjaminaskinas.com/'
 title: 'Benjamin Askinas''s Portfolio - ##1'
-datePublished: '2016-11-28T19:22:54.178Z'
-dateModified: '2016-11-28T19:21:34.502Z'
+datePublished: '2016-11-28T19:29:25.110Z'
+dateModified: '2016-11-28T19:29:17.408Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-11-28-benjamin-askinass-portfolio-1.md
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
