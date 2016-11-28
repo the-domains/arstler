@@ -4,9 +4,9 @@
         <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Nov 2016 10:41:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2016 10:42:05 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 28 Nov 2016 10:41:30 GMT</pubDate>
+        <pubDate>Mon, 28 Nov 2016 10:41:46 GMT</pubDate>
         <item>
             <title><![CDATA[Steve McCurry | Afghan Girl (Peshawar, Pakistan) (1984), Available for Sale | Artsy]]></title>
             <description><![CDATA[<article><h1>Steve McCurry | Afghan Girl (Peshawar, Pakistan) (1984), Available for Sale | Artsy</h1><p>Available for sale from Cavalier Galleries, Steve McCurry, Afghan Girl (Peshawar, Pakistan) (1984), Print, 20 × 24 in</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58762ba3d04870dd9db04d2ebe2a159a3b1780d4.jpg"></article>]]></description>
@@ -34,6 +34,13 @@
             <link>http://arstler.com/matte-stephens-illustration/index.html</link>
             <guid isPermaLink="false">35564096-2126-4bfa-9284-db4b488b354e</guid>
             <pubDate>Wed, 23 Nov 2016 18:38:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[a u d r e y * k a w a s a k i]]></title>
+            <description><![CDATA[<article><h1>a u d r e y * k a w a s a k i</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/ae96557c66b6e48d377cd236a2039234/noop.jpg?input=http%3A%2F%2Fwww.audrey-kawasaki.com%2Fpaintings%2Fforeverstill_lj.jpg"></article>]]></description>
+            <link>http://www.audrey-kawasaki.com/galleries.php?g=1&amp;r=88&amp;p_id=672&amp;page=1</link>
+            <guid isPermaLink="false">72b0b4ca-9088-4bf2-992c-ca6d74ca5096</guid>
+            <pubDate>Mon, 28 Nov 2016 10:41:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Interlude (Main Room)]]></title>
@@ -69,13 +76,6 @@
             <link>http://arstler.com/jim-dine/index.html</link>
             <guid isPermaLink="false">c5eeb65d-adc9-4b04-9f91-15493361f3c7</guid>
             <pubDate>Sun, 27 Nov 2016 19:21:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ira Hoffecker, 'Hamburg Harbour', 2013, The Front Gallery | Artsy]]></title>
-            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e04c4136ee8b03ec9e92d5a2e21aee6f/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FC08lf7_A8i3z7APH06xuiQ%2Flarge.jpg"><p>The Front Gallery features Edmonton&apos;s artistic diversity in a relaxed and welcoming environment. Exhibiting artists work from all over the world, an extensive collection of books, antique furniture and collectibles.</p></article>]]></description>
-            <link>http://arstler.com/ira-hoffecker-hamburg-harbour-2013-the-front-gallery-or/index.html</link>
-            <guid isPermaLink="false">413e7373-5e7a-46eb-9247-bd3484512248</guid>
-            <pubDate>Wed, 23 Nov 2016 11:40:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
