@@ -28,12 +28,12 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://thinkspacegallery.com/shows/audreykawasaki-2016/show-pieces/'
 title: Interlude (Main Room)
-datePublished: '2016-11-28T10:41:26.685Z'
-dateModified: '2016-11-28T10:40:11.150Z'
+datePublished: '2016-11-28T19:23:17.374Z'
+dateModified: '2016-11-28T19:23:05.710Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-11-28-interlude-main-room.md
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
