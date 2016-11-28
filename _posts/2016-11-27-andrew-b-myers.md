@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-28T11:07:51.345Z'
+datePublished: '2016-11-28T19:23:17.347Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-28T11:07:42.770Z'
+dateModified: '2016-11-28T19:23:05.710Z'
 title: Andrew B. Myers
 publisher: {}
 description: Canadian photographer living and working in New York City.
