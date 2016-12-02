@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Exhibition of painting, drawing, and sculpture by Colombian contemporary
   artist Mario Vélez
-dateModified: '2016-11-28T19:29:17.408Z'
-datePublished: '2016-11-28T19:29:25.106Z'
+dateModified: '2016-12-02T13:45:05.350Z'
+datePublished: '2016-12-02T13:45:12.344Z'
 title: 'Canto Rodado (Boulder): Mario Vélez'
 author: []
 publisher: {}
@@ -12,6 +12,7 @@ via: {}
 isBasedOnUrl: 'http://galleryelenashchukina.com/mario-velez/canto-rodado/'
 sourcePath: _posts/2016-11-01-canto-rodado-boulder-mario-velez.md
 starred: false
+datePublishedOriginal: '2016-11-28T19:29:25.106Z'
 _type: MediaObject
 
 ---
