@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-02T13:43:41.517Z'
+datePublished: '2016-12-02T13:43:38.426Z'
 sourcePath: _posts/2016-12-02-joseph-beuys-english-subtitles-how-to-explain-pictures-t.md
 inFeed: true
 isBasedOnUrl: 'https://youtu.be/Mo47lqk_QH0'
@@ -9,7 +9,7 @@ author:
     avatar: {}
 via: {}
 datePublishedOriginal: '2016-12-02T13:41:13.627Z'
-dateModified: '2016-12-02T13:43:41.188Z'
+dateModified: '2016-12-02T13:43:37.899Z'
 title: Joseph Beuys
 publisher: {}
 description: >-
@@ -30,4 +30,4 @@ His extensive work is grounded in concepts of humanism, social philosophy and an
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F5HVOCay10m8%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5HVOCay10m8&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F5HVOCay10m8%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-<article style=""><img src="https://d32dm0rphc51dk.cloudfront.net/AvObXyaXds-Oehf2is6o3Q/large.jpg" /><h1>Joseph Beuys - 75 Artworks, Bio &amp; Shows on Artsy</h1><p>Find the latest shows, biography, and artworks for sale by Joseph Beuys. A major figure of the postwar German avant-garde, Joseph Beuys viewed art as a vehic...</p></article>
+<article style=""><h1>Joseph Beuys - 75 Artworks, Bio &amp; Shows on Artsy</h1><p>Find the latest shows, biography, and artworks for sale by Joseph Beuys. A major figure of the postwar German avant-garde, Joseph Beuys viewed art as a vehic...</p><img src="https://d32dm0rphc51dk.cloudfront.net/AvObXyaXds-Oehf2is6o3Q/large.jpg" /></article>
