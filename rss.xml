@@ -4,9 +4,9 @@
         <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Dec 2016 13:35:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2016 13:36:46 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 02 Dec 2016 13:35:54 GMT</pubDate>
+        <pubDate>Fri, 02 Dec 2016 13:36:41 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/666db49d-866a-4b6b-a215-7729c3f576a3.jpg">]]></description>
@@ -69,6 +69,13 @@
             <link>http://arstler.com/rafik-majzoub-room-11-2-2015-art-on-56th/index.html</link>
             <guid isPermaLink="false">dc4757d0-a9af-4fb4-9d18-caa6470dd3ac</guid>
             <pubDate>Mon, 28 Nov 2016 19:29:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Benjamin Askinas]]></title>
+            <description><![CDATA[<article><h1>Benjamin Askinas</h1><p>A fashion, editorial and Commercial BTS photographer, based in Los Angeles, CA</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/405fd084-c96f-421d-a2fe-7559d155d4c4.jpg"></article>]]></description>
+            <link>http://arstler.com/benjamin-askinas/index.html</link>
+            <guid isPermaLink="false">41a802a3-205c-4ad5-b8d5-d9e827e82fbb</guid>
+            <pubDate>Fri, 02 Dec 2016 13:35:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
