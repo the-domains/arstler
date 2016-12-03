@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-23T11:40:26.631Z'
+datePublished: '2016-12-03T12:10:32.467Z'
 sourcePath: _posts/2016-11-19-maroesjka-lavigne-photography-habitat.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2016-12-03T12:10:22.256Z'
 title: Maroesjka Lavigne / Photography / Habitat
 publisher: {}
 description: >-
@@ -15,6 +15,7 @@ description: >-
   Specifically, the way we always try to adjust space to our specific needs, not
   realizing we are the alien element in these permanent landscapes.
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.631Z'
 url: maroesjka-lavigne-photography-habitat/index.html
 _type: Article
 
