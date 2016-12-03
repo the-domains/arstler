@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-03T11:36:00.168Z'
+datePublished: '2016-12-03T11:36:44.733Z'
 sourcePath: >-
   _posts/2016-12-01-ikeda-manabu-or-histry-of-rise-and-fall-2006-or-available-fo.md
 inFeed: true
@@ -22,7 +22,7 @@ author:
     avatar: {}
 via: {}
 datePublishedOriginal: '2016-12-01T17:36:00.405Z'
-dateModified: '2016-12-03T11:35:59.854Z'
+dateModified: '2016-12-03T11:36:44.187Z'
 title: 'Ikeda Manabu - monumental ink and pen '
 app_links:
   - url: 'https://www.artsy.net/artwork/ikeda-manabu-histry-of-rise-and-fall'
@@ -51,6 +51,9 @@ _type: MediaObject
 
 2013- Lives and Works in Madison, WI, USA
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d732d9f0-0bc5-4e83-a9b1-254e8cafecf2.jpg)
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FoovPt6X-4zU%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoovPt6X-4zU&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FoovPt6X-4zU%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c608e378-3148-441d-8244-9cfbc9d9730c.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d2ad2b7-b670-45cb-9310-4feefe219eaa.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a641086-aaad-4559-a984-f7fd9204cebd.png)
