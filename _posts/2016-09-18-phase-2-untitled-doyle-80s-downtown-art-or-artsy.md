@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-23T11:40:29.237Z'
+datePublished: '2016-12-03T12:10:32.087Z'
 sourcePath: _posts/2016-09-18-phase-2-untitled-doyle-80s-downtown-art-or-artsy.md
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/phase-2-untitled'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2016-12-03T12:10:22.256Z'
 title: 'Phase 2, ''Untitled'', Doyle: ''80s Downtown Art '
 publisher: {}
 description: >-
@@ -15,6 +15,7 @@ description: >-
   the formative hip-hop scene, as a DJ, a B-Boy, and a designer of concert
   posters for Grand Master Flash and DJ Kool Herc.
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.237Z'
 _type: MediaObject
 
 ---
