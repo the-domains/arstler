@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-02T13:16:49.682Z'
+datePublished: '2016-12-03T12:10:32.446Z'
 inFeed: true
 hasPage: true
 keywords: []
@@ -7,13 +7,13 @@ related: []
 author: []
 via: {}
 datePublishedOriginal: '2016-12-02T13:16:49.682Z'
-dateModified: '2016-12-02T13:16:46.549Z'
+dateModified: '2016-12-03T12:10:22.256Z'
 title: fiona torre
 app_links: []
 publisher: {}
 description: 'http://fionatorre.com/'
-starred: false
 sourcePath: _posts/2016-12-02-fiona-torre.md
+starred: false
 url: fiona-torre/index.html
 _context: 'http://schema.org'
 _type: MediaObject
