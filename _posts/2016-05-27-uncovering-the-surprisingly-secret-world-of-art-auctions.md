@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-02T13:06:04.195Z'
+datePublished: '2016-12-03T12:10:32.455Z'
 sourcePath: _posts/2016-05-27-uncovering-the-surprisingly-secret-world-of-art-auctions.md
 inFeed: true
 hasPage: true
@@ -18,7 +18,7 @@ related: []
 author: []
 via: {}
 datePublishedOriginal: '2016-12-02T13:06:04.195Z'
-dateModified: '2016-12-02T13:05:57.020Z'
+dateModified: '2016-12-03T12:10:22.256Z'
 title: Uncovering the Surprisingly Secret World of Art Auctions
 app_links:
   - url: >-
