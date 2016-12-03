@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-02T13:18:53.184Z'
+datePublished: '2016-12-03T12:10:32.451Z'
 inFeed: true
 hasPage: true
 keywords:
@@ -17,7 +17,7 @@ related: []
 author: []
 via: {}
 datePublishedOriginal: '2016-12-02T13:18:53.184Z'
-dateModified: '2016-12-02T13:18:45.874Z'
+dateModified: '2016-12-03T12:10:22.256Z'
 title: Marco Guerra
 app_links: []
 publisher: {}
@@ -26,8 +26,8 @@ description: >-
   roads and soccer fields carved in mountains. In each image, the eye can find
   traces of humanity that echoes Pablo Neruda's poem “Towards An Impure Poetry”
 inLanguage: en
-starred: false
 sourcePath: _posts/2016-12-02-marco-guerra.md
+starred: false
 url: marco-guerra/index.html
 _context: 'http://schema.org'
 _type: MediaObject
