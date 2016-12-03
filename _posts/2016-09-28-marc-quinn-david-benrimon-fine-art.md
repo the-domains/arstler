@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-23T11:40:26.651Z'
+datePublished: '2016-12-03T12:10:32.060Z'
 inFeed: true
 isBasedOnUrl: 'http://www.benrimon.com/artists/marc-quinn/featured-works?view=slider#1'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2016-12-03T12:10:22.256Z'
 title: 'Marc Quinn - David Benrimon Fine Art '
 publisher: {}
 description: >-
@@ -15,6 +15,7 @@ description: >-
   of his head made with his own frozen blood, and Garden (2000).
 sourcePath: _posts/2016-09-28-marc-quinn-david-benrimon-fine-art.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.651Z'
 _type: MediaObject
 
 ---
