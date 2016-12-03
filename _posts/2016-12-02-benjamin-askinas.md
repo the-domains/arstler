@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-02T13:45:12.312Z'
+datePublished: '2016-12-03T12:10:32.436Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-12-02T13:35:32.966Z'
-dateModified: '2016-12-02T13:45:05.350Z'
+dateModified: '2016-12-03T12:10:22.256Z'
 title: Benjamin Askinas
 publisher: {}
 description: 'A fashion, editorial and Commercial BTS photographer, based in Los Angeles, CA'
