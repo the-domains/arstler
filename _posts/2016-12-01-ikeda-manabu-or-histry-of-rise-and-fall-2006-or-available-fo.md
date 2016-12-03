@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-03T11:35:20.402Z'
+datePublished: '2016-12-03T11:35:19.842Z'
 sourcePath: >-
   _posts/2016-12-01-ikeda-manabu-or-histry-of-rise-and-fall-2006-or-available-fo.md
 inFeed: true
@@ -16,13 +16,10 @@ keywords:
   - policysecurity
   - homemuseumsartistsarticlesshow
 related: []
-author:
-  - name: JapanSocietyNYC
-    url: 'https://www.youtube.com/user/JapanSocietyNYC'
-    avatar: {}
+author: []
 via: {}
 datePublishedOriginal: '2016-12-01T17:36:00.405Z'
-dateModified: '2016-12-03T11:35:19.878Z'
+dateModified: '2016-12-03T11:35:19.675Z'
 title: 'Ikeda Manabu - monumental ink and pen '
 app_links:
   - url: 'https://www.artsy.net/artwork/ikeda-manabu-histry-of-rise-and-fall'
