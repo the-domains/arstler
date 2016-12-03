@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-03T11:34:05.863Z'
+datePublished: '2016-12-03T11:34:17.112Z'
 sourcePath: >-
   _posts/2016-12-01-ikeda-manabu-or-histry-of-rise-and-fall-2006-or-available-fo.md
 inFeed: true
@@ -22,7 +22,7 @@ author:
     avatar: {}
 via: {}
 datePublishedOriginal: '2016-12-01T17:36:00.405Z'
-dateModified: '2016-12-03T11:34:05.319Z'
+dateModified: '2016-12-03T11:34:16.649Z'
 title: Ikeda Manabu
 app_links:
   - url: 'https://www.artsy.net/artwork/ikeda-manabu-histry-of-rise-and-fall'
@@ -31,11 +31,7 @@ app_links:
     app_store_id: '703796080'
     app_name: Artsy
 publisher: {}
-description: >-
-  http://byebyekittyart.com/ Joe Earle, Japan Society Director of Gallery,
-  provides a quick glimpse of the current ongoing exhibition at Japan Society,
-  titled "Bye Bye Kitty!!! - Between Heaven and Hell in Contemporary Japanese
-  Art". The work is that of Manabu Ikeda, "History of Rise and Fall" 2006.
+description: '1973 Born in Taku city, Saga, Japan'
 inLanguage: en
 starred: false
 url: ikeda-manabu-or-histry-of-rise-and-fall-2006-or-available-fo/index.html
@@ -45,9 +41,8 @@ _type: MediaObject
 ---
 # Ikeda Manabu
 
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FoovPt6X-4zU%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoovPt6X-4zU&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FoovPt6X-4zU%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+1973 Born in Taku city, Saga, Japan
 
-* 1973 Born in Taku city, Saga, Japan
 * 1998 Graduated from department of design, Tokyo University of the Arts
 * 2000 Completed the course of MA, Tokyo University of the Arts
 * 2010 Agency for Cultural Affairs, Japan, Emerging Artist Overseas Study Grant recipient (Vancouver, Canada)
