@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-23T11:40:28.188Z'
+datePublished: '2016-12-03T12:10:32.086Z'
 sourcePath: _posts/2016-09-18-keith-haring-untitled-scissors-from-pop-shop-iii-198.md
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/keith-haring-untitled-scissors-from-pop-shop-iii'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2016-12-03T12:10:22.256Z'
 title: >-
   Keith Haring, 'Untitled (Scissors - from Pop Shop III)', 1989, Doyle: '80s
   Downtown Art | Artsy
@@ -15,6 +15,7 @@ description: >-
   prominence in the early 1980s with his graffiti drawings made in the subways
   and on the sidewalks of New York City.
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:28.188Z'
 _type: MediaObject
 
 ---
