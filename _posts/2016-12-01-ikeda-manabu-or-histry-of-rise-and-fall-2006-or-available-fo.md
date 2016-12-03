@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-03T11:35:14.791Z'
+datePublished: '2016-12-03T11:35:20.402Z'
 sourcePath: >-
   _posts/2016-12-01-ikeda-manabu-or-histry-of-rise-and-fall-2006-or-available-fo.md
 inFeed: true
@@ -22,7 +22,7 @@ author:
     avatar: {}
 via: {}
 datePublishedOriginal: '2016-12-01T17:36:00.405Z'
-dateModified: '2016-12-03T11:35:14.390Z'
+dateModified: '2016-12-03T11:35:19.878Z'
 title: 'Ikeda Manabu - monumental ink and pen '
 app_links:
   - url: 'https://www.artsy.net/artwork/ikeda-manabu-histry-of-rise-and-fall'
@@ -50,3 +50,4 @@ _type: MediaObject
 2010 Agency for Cultural Affairs, Japan, Emerging Artist Overseas Study Grant recipient (Vancouver, Canada)
 
 2013- Lives and Works in Madison, WI, USA
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d732d9f0-0bc5-4e83-a9b1-254e8cafecf2.jpg)
