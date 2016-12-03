@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-03T11:35:56.214Z'
+datePublished: '2016-12-03T11:36:00.168Z'
 sourcePath: >-
   _posts/2016-12-01-ikeda-manabu-or-histry-of-rise-and-fall-2006-or-available-fo.md
 inFeed: true
@@ -22,7 +22,7 @@ author:
     avatar: {}
 via: {}
 datePublishedOriginal: '2016-12-01T17:36:00.405Z'
-dateModified: '2016-12-03T11:35:55.462Z'
+dateModified: '2016-12-03T11:35:59.854Z'
 title: 'Ikeda Manabu - monumental ink and pen '
 app_links:
   - url: 'https://www.artsy.net/artwork/ikeda-manabu-histry-of-rise-and-fall'
@@ -57,8 +57,8 @@ _type: MediaObject
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/956767c1-bafb-4920-9331-5fd90eea8f74.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/10b1841b-fcb8-4a80-8313-864905e5c0f9.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbb75a8c-dbb6-4e01-8c9a-338b2cf89f2e.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77907e27-16a3-486e-8c8b-ef5ab0423dd6.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db53cf14-4a66-4bee-8900-e5ebc4d017de.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe7bcdac-7b81-4f43-a993-0299b9221e14.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/552ef10d-bb35-4b4b-a306-6b58f8eaf8bf.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77907e27-16a3-486e-8c8b-ef5ab0423dd6.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/470dbd73-f416-45b5-9bf6-b9667bf9e3b8.jpg)
