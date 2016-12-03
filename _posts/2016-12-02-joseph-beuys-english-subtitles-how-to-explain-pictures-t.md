@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-03T12:08:26.189Z'
+datePublished: '2016-12-03T12:08:31.049Z'
 sourcePath: _posts/2016-12-02-joseph-beuys-english-subtitles-how-to-explain-pictures-t.md
 inFeed: true
 hasPage: true
@@ -9,7 +9,7 @@ author:
     avatar: {}
 via: {}
 datePublishedOriginal: '2016-12-02T13:41:13.627Z'
-dateModified: '2016-12-03T12:08:25.697Z'
+dateModified: '2016-12-03T12:08:30.598Z'
 title: Joseph Beuys
 publisher: {}
 description: >-
@@ -31,6 +31,6 @@ His extensive work is grounded in concepts of humanism, social philosophy and an
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F5HVOCay10m8%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5HVOCay10m8&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F5HVOCay10m8%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c6924a48772f5c5b1284a5fe41262cc4/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FAvObXyaXds-Oehf2is6o3Q%2Flarge.jpg" /><h1>Joseph Beuys - 75 Artworks, Bio &amp; Shows on Artsy</h1><p>Find the latest shows, biography, and artworks for sale by Joseph Beuys. A major figure of the postwar German avant-garde, Joseph Beuys viewed art as a vehic...</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2608718f70695f01dbb9d663d34e9f70ae899b5c.jpg" /><h1>Joseph Beuys - 75 Artworks, Bio &amp; Shows on Artsy</h1><p>Find the latest shows, biography, and artworks for sale by Joseph Beuys. A major figure of the postwar German avant-garde, Joseph Beuys viewed art as a vehic...</p></article>
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fo8NgYS4jxM8%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Do8NgYS4jxM8&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fo8NgYS4jxM8%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
