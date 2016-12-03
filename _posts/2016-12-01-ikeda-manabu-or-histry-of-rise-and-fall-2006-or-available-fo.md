@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-03T11:34:29.091Z'
+datePublished: '2016-12-03T11:34:39.688Z'
 sourcePath: >-
   _posts/2016-12-01-ikeda-manabu-or-histry-of-rise-and-fall-2006-or-available-fo.md
 inFeed: true
@@ -22,8 +22,8 @@ author:
     avatar: {}
 via: {}
 datePublishedOriginal: '2016-12-01T17:36:00.405Z'
-dateModified: '2016-12-03T11:34:28.618Z'
-title: Ikeda Manabu
+dateModified: '2016-12-03T11:34:38.922Z'
+title: 'Ikeda Manabu - momumental ink '
 app_links:
   - url: 'https://www.artsy.net/artwork/ikeda-manabu-histry-of-rise-and-fall'
     type: ios
@@ -39,7 +39,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Ikeda Manabu
+# Ikeda Manabu - momumental ink 
 
 1973 Born in Taku city, Saga, Japan
 
