@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-03T11:12:53.917Z'
+datePublished: '2016-12-03T11:33:57.941Z'
 sourcePath: >-
   _posts/2016-12-01-ikeda-manabu-or-histry-of-rise-and-fall-2006-or-available-fo.md
 inFeed: true
@@ -16,25 +16,26 @@ keywords:
   - policysecurity
   - homemuseumsartistsarticlesshow
 related: []
-author: []
+author:
+  - name: JapanSocietyNYC
+    url: 'https://www.youtube.com/user/JapanSocietyNYC'
+    avatar: {}
 via: {}
 datePublishedOriginal: '2016-12-01T17:36:00.405Z'
-dateModified: '2016-12-03T11:12:53.436Z'
-title: Ikeda Manabu | Histry of Rise And Fall (2006) | Available for Sale | Artsy
+dateModified: '2016-12-03T11:33:57.438Z'
+title: Ikeda Manabu
 app_links:
   - url: 'https://www.artsy.net/artwork/ikeda-manabu-histry-of-rise-and-fall'
     type: ios
     namespace: ai
     app_store_id: '703796080'
     app_name: Artsy
-publisher:
-  url: 'https://www.artsy.net'
-  name: Artsy
-  favicon: 'https://www.artsy.net/images/favicon.ico'
-  domain: www.artsy.net
+publisher: {}
 description: >-
-  Available for sale from Mizuma Art Gallery, Ikeda Manabu, Histry of Rise And
-  Fall (2006), Pen, acrylic ink on paper, mounted on board
+  http://byebyekittyart.com/ Joe Earle, Japan Society Director of Gallery,
+  provides a quick glimpse of the current ongoing exhibition at Japan Society,
+  titled "Bye Bye Kitty!!! - Between Heaven and Hell in Contemporary Japanese
+  Art". The work is that of Manabu Ikeda, "History of Rise and Fall" 2006.
 inLanguage: en
 starred: false
 url: ikeda-manabu-or-histry-of-rise-and-fall-2006-or-available-fo/index.html
@@ -42,4 +43,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://d7hftxdivxxvm.cloudfront.net/?resize_to=fit&amp;width=640&amp;height=639&amp;quality=95&amp;src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F_a54kJMhvDxGzDybozq2Jw%2Flarge.jpg" /><h1>Ikeda Manabu | Histry of Rise And Fall (2006) | Available for Sale | Artsy</h1><p>Available for sale from Mizuma Art Gallery, Ikeda Manabu, Histry of Rise And Fall (2006), Pen, acrylic ink on paper, mounted on board</p></article>
+# Ikeda Manabu
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FoovPt6X-4zU%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoovPt6X-4zU&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FoovPt6X-4zU%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+---
