@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-23T11:40:28.155Z'
+datePublished: '2016-12-03T12:10:32.086Z'
 sourcePath: _posts/2016-09-18-ronnie-cutrone-untitled-woody-woodpecker-crest-1994-d.md
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/ronnie-cutrone-untitled-woody-woodpecker-crest'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2016-12-03T12:10:22.256Z'
 title: >-
   Ronnie Cutrone, 'Untitled (Woody Woodpecker Crest)', 1994, Doyle: '80s
   Downtown Art | Artsy
@@ -18,6 +18,7 @@ description: >-
   also include Keith Haring, Kenny Scharf and Jean-Michel Basquiat, among
   others.
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:28.155Z'
 _type: MediaObject
 
 ---
