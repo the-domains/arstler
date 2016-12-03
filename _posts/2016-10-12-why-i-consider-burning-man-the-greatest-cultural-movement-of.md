@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-23T11:40:26.607Z'
+datePublished: '2016-12-03T12:10:32.036Z'
 sourcePath: >-
   _posts/2016-10-12-why-i-consider-burning-man-the-greatest-cultural-movement-of.md
 inFeed: true
@@ -21,7 +21,7 @@ author:
     url: null
     avatar: {}
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2016-12-03T12:10:22.256Z'
 title: Why I Consider Burning Man the Greatest Cultural Movement of Our Time
 app_links:
   - url: >-
@@ -43,6 +43,7 @@ description: >-
   art and technology.
 inLanguage: en
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.607Z'
 url: why-i-consider-burning-man-the-greatest-cultural-movement-of/index.html
 _context: 'http://schema.org'
 _type: MediaObject
