@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-23T11:30:12.449Z'
+datePublished: '2016-12-03T12:10:32.469Z'
 sourcePath: _posts/2016-11-22-jeanette-for-p-magazine-jen-senn.md
 inFeed: true
 hasPage: true
@@ -7,12 +7,13 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-11-23T11:30:11.854Z'
+dateModified: '2016-12-03T12:10:22.256Z'
 title: Jeanette for P Magazine — Jen Senn
 app_links: []
 publisher: {}
 description: Jen Senn is a fashion and portrait photographer based in New York City.
 starred: false
+datePublishedOriginal: '2016-11-23T11:30:12.449Z'
 url: jeanette-for-p-magazine-jen-senn/index.html
 _context: 'http://schema.org'
 _type: MediaObject
