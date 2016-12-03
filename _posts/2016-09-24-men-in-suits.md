@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-23T11:40:28.154Z'
+datePublished: '2016-12-03T12:10:32.069Z'
 sourcePath: _posts/2016-09-24-men-in-suits.md
 inFeed: true
 isBasedOnUrl: 'http://www.longsharpgallery.com/exhibits-new-york/men-in-suits'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2016-12-03T12:10:22.256Z'
 title: Men In Suits
 publisher: {}
 description: >-
@@ -16,6 +16,7 @@ description: >-
   that explore the meaning and attitudes behind the outfit - be it a three piece
   with tie or a superhero.
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:28.154Z'
 _type: MediaObject
 
 ---
