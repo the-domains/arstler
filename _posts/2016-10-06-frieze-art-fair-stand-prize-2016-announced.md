@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-23T11:40:26.594Z'
+datePublished: '2016-12-03T12:10:32.045Z'
 sourcePath: _posts/2016-10-06-frieze-art-fair-stand-prize-2016-announced.md
 inFeed: true
 hasPage: true
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2016-12-03T12:10:22.256Z'
 title: Frieze Art Fair Stand Prize 2016 Announced
 app_links: []
 publisher:
@@ -33,6 +33,7 @@ description: >-
   between the works on view.'
 inLanguage: en
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.594Z'
 url: frieze-art-fair-stand-prize-2016-announced/index.html
 _context: 'http://schema.org'
 _type: MediaObject
