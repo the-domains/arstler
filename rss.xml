@@ -4,9 +4,9 @@
         <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Dec 2016 13:48:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2016 11:34:02 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 02 Dec 2016 13:45:38 GMT</pubDate>
+        <pubDate>Sat, 03 Dec 2016 11:34:01 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/666db49d-866a-4b6b-a215-7729c3f576a3.jpg">]]></description>
@@ -43,13 +43,6 @@
             <pubDate>Mon, 28 Nov 2016 19:29:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ira Hoffecker, 'Hamburg Harbour', 2013, The Front Gallery | Artsy]]></title>
-            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e04c4136ee8b03ec9e92d5a2e21aee6f/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FC08lf7_A8i3z7APH06xuiQ%2Flarge.jpg"><p>The Front Gallery features Edmonton&apos;s artistic diversity in a relaxed and welcoming environment. Exhibiting artists work from all over the world, an extensive collection of books, antique furniture and collectibles.</p></article>]]></description>
-            <link>http://arstler.com/ira-hoffecker-hamburg-harbour-2013-the-front-gallery-or/index.html</link>
-            <guid isPermaLink="false">413e7373-5e7a-46eb-9247-bd3484512248</guid>
-            <pubDate>Mon, 28 Nov 2016 19:29:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tim Rowan, 'Untitled ', 2016, Lacoste Gallery | Artsy]]></title>
             <description><![CDATA[<article><h1>Tim Rowan, 'Untitled ', 2016, Lacoste Gallery | Artsy</h1><p>From a kiln in the woods of upstate New York, Tim Rowan sculpts geode-like ceramic vessels that are both dense and curvilinear. His apprenticeship to Japanese artist Ryuichi Kazurezaki instilled a deep respect for traditional Japanese design, evident in the firing and flame markings of his work.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/cbb4dd069c3ca9bf8b0b4879efb09ee0/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F5dqH36JlPw-BAHgvjlJ7fw%2Flarge.jpg"></article>]]></description>
             <link>http://arstler.com/tim-rowan-untitled-2016-lacoste-gallery-or-artsy/index.html</link>
@@ -76,6 +69,13 @@
             <link>http://arstler.com/joseph-beuys/index.html</link>
             <guid isPermaLink="false">b758b41d-9019-4ef8-885a-1e16b13c8166</guid>
             <pubDate>Fri, 02 Dec 2016 13:43:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ikeda Manabu]]></title>
+            <description><![CDATA[<article><h1>Ikeda Manabu</h1><p>http://byebyekittyart.com/ Joe Earle, Japan Society Director of Gallery, provides a quick glimpse of the current ongoing exhibition at Japan Society, titled "Bye Bye Kitty!!! - Between Heaven and Hell in Contemporary Japanese Art". The work is that of Manabu Ikeda, "History of Rise and Fall" 2006.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9afe7b81adcffc262ce9a99ad0c8d371/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FoovPt6X-4zU%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>http://arstler.com/ikeda-manabu-or-histry-of-rise-and-fall-2006-or-available-fo/index.html</link>
+            <guid isPermaLink="false">ab729766-1601-4d09-b8b4-1c0af21dc869</guid>
+            <pubDate>Sat, 03 Dec 2016 11:33:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
