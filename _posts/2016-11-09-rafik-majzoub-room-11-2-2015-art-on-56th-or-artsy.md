@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-28T19:29:25.116Z'
+datePublished: '2016-12-03T12:10:32.400Z'
 sourcePath: _posts/2016-11-09-rafik-majzoub-room-11-2-2015-art-on-56th-or-artsy.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-28T19:29:17.408Z'
+dateModified: '2016-12-03T12:10:22.256Z'
 title: 'Rafik Majzoub, ''Room 11 - 2'', 2015, Art On 56th '
 publisher: {}
 description: >-
@@ -14,6 +14,7 @@ description: >-
   artists, the gallery's mission is to promote both established and promising
   contemporary Lebanese artists.
 starred: false
+datePublishedOriginal: '2016-11-28T19:29:25.116Z'
 url: rafik-majzoub-room-11-2-2015-art-on-56th/index.html
 _type: Article
 
