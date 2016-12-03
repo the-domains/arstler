@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-02T13:12:53.886Z'
+datePublished: '2016-12-03T12:10:32.455Z'
 inFeed: true
 hasPage: true
 keywords: []
@@ -7,7 +7,7 @@ related: []
 author: []
 via: {}
 datePublishedOriginal: '2016-12-02T13:12:53.886Z'
-dateModified: '2016-12-02T13:12:39.804Z'
+dateModified: '2016-12-03T12:10:22.256Z'
 title: 'hatsumi''s laundry campaign : Cameron Hammond'
 app_links: []
 publisher:
@@ -16,8 +16,8 @@ publisher:
   favicon: null
   domain: www.cameronhammond.com
 description: 'http://www.cameronhammond.com/hatsumis-laundry-campaign/'
-starred: false
 sourcePath: _posts/2016-12-02-hatsumis-laundry-campaign-cameron-hammond.md
+starred: false
 url: hatsumis-laundry-campaign-cameron-hammond/index.html
 _context: 'http://schema.org'
 _type: MediaObject
