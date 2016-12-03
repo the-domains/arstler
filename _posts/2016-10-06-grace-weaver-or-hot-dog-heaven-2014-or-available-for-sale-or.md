@@ -29,13 +29,14 @@ app_links:
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/artwork/grace-weaver-hot-dog-heaven'
 title: Grace Weaver | hot dog heaven (2014) | Available for Sale | Artsy
-datePublished: '2016-11-23T11:40:26.606Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2016-12-03T12:10:32.052Z'
+dateModified: '2016-12-03T12:10:22.256Z'
 via: {}
 inFeed: true
 sourcePath: >-
   _posts/2016-10-06-grace-weaver-or-hot-dog-heaven-2014-or-available-for-sale-or.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.606Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
