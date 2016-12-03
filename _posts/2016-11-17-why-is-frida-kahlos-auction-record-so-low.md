@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-23T11:40:26.631Z'
+datePublished: '2016-12-03T12:10:32.045Z'
 sourcePath: _posts/2016-11-17-why-is-frida-kahlos-auction-record-so-low.md
 inFeed: true
 hasPage: true
@@ -9,7 +9,7 @@ author:
       https://m.artsy.net/article/artsy-editorial-why-is-frida-kahlo-s-auction-record-so-low
     avatar: {}
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2016-12-03T12:10:22.256Z'
 title: Why Is Frida Kahlo's Auction Record So Low?
 publisher:
   url: >-
@@ -21,6 +21,7 @@ description: >-
   Bosque (La Tierra Misma) sold for $8 million at Christie's New York's spring
   Impressionist and modern evening sale two weeks earlier.
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.631Z'
 url: why-is-frida-kahlos-auction-record-so-low/index.html
 _type: Article
 
