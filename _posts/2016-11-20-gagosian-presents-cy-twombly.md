@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-23T11:40:26.616Z'
+datePublished: '2016-12-03T12:10:32.467Z'
 sourcePath: _posts/2016-11-20-gagosian-presents-cy-twombly.md
 inFeed: true
 isBasedOnUrl: 'http://www.widewalls.ch/gagosian-presents-cy-twombly/'
@@ -20,7 +20,7 @@ author:
     url: null
     avatar: {}
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2016-12-03T12:10:22.256Z'
 title: 'Gagosian Presents: Cy Twombly'
 app_links: []
 publisher:
@@ -34,6 +34,7 @@ description: >-
   gallery throughout the years. Although he died in 2011, his art will live on.
 inLanguage: en
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.616Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
