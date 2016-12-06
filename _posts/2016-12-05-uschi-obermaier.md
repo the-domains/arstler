@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-06T19:58:04.852Z'
+datePublished: '2016-12-06T19:58:07.394Z'
 sourcePath: _posts/2016-12-05-uschi-obermaier.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-06T19:58:04.446Z'
+dateModified: '2016-12-06T19:58:07.143Z'
 title: USCHI OBERMAIER
 publisher: {}
 description: >-
