@@ -1,19 +1,19 @@
 ---
-datePublished: '2016-12-06T19:55:52.779Z'
+datePublished: '2016-12-06T19:56:00.585Z'
 sourcePath: _posts/2016-12-05-uschi-obermaier.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-12-06T19:55:52.587Z'
+dateModified: '2016-12-06T19:55:59.926Z'
 title: USCHI OBERMAIER
 publisher: {}
 description: >-
   Uschi Obermaier was a key figure of the sexual revolution, even influencing
   John Lennon and Yoko Ono with her credo of free love. She is known to have had
   affairs with Mick Jagger, Keith Richards, and Jimi Hendrix.
-hasPage: true
 starred: false
 datePublishedOriginal: '2016-12-05T20:07:30.473Z'
+hasPage: true
 url: uschi-obermaier/index.html
 _type: Article
 
@@ -29,3 +29,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/38fcf4f8-1abb-4bb2-a80c-73b5ef0fa144.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/12ca4aaa-5ed1-4da4-a027-2d64f0588c13.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2cad00c4-f070-44e8-b330-ba9de3876c6c.jpg)
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F4p6p1-R1oaE%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4p6p1-R1oaE&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4p6p1-R1oaE%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a172d683-6717-439d-8f90-75fe1b0245a3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7bef7a8-7f71-4bf4-b286-82d4caaa1327.jpg)
