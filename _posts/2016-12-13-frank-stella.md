@@ -4,16 +4,16 @@ description: >-
   Frank Philip Stella (born May 12, 1936) is an American painter and printmaker,
   noted for his work in the areas of minimalism and post-painterly abstraction.
   Stella lives and works in New York.
-dateModified: '2016-12-13T16:40:35.596Z'
-datePublished: '2016-12-13T16:40:37.772Z'
+dateModified: '2016-12-13T16:58:52.523Z'
+datePublished: '2016-12-13T16:59:18.895Z'
 title: FRANK STELLA
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2016-12-13-frank-stella.md
 starred: false
 datePublishedOriginal: '2016-12-13T16:40:31.028Z'
-sourcePath: _posts/2016-12-13-frank-stella.md
 url: frank-stella/index.html
 _type: Article
 
