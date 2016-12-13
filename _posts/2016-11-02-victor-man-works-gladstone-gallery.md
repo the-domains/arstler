@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-12-03T12:10:32.024Z'
+datePublished: '2016-12-13T16:29:34.323Z'
 sourcePath: _posts/2016-11-02-victor-man-works-gladstone-gallery.md
 inFeed: true
 isBasedOnUrl: 'http://www.gladstonegallery.com/artist/victor-man/work#&panel1-8'
 author: []
 via: {}
-dateModified: '2016-12-03T12:10:22.256Z'
+dateModified: '2016-12-13T16:29:24.718Z'
 title: Victor Man
 publisher: {}
 description: Born 1974
-starred: false
 datePublishedOriginal: '2016-11-23T11:40:26.628Z'
+starred: false
 _type: MediaObject
 
 ---
