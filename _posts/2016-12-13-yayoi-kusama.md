@@ -5,16 +5,16 @@ description: >-
   she's been focused on these massive multitude of hallucinatory dots in
   patterns as well as sculptures, on everyday objects with painted growths,
   "soft sculptures", constantly exploring the ideas of infinity and love.
-dateModified: '2016-12-04T16:12:42.823Z'
-datePublished: '2016-12-13T16:42:49.115Z'
-datePublishedOriginal: '2016-12-13T16:42:49.115Z'
+dateModified: '2016-12-13T16:58:52.523Z'
+datePublished: '2016-12-13T16:59:18.869Z'
 title: YAYOI KUSAMA
 author: []
 publisher: {}
 via: {}
 isBasedOnUrl: 'http://www.formidablemag.com/yayoi-kusama/'
-starred: false
 sourcePath: _posts/2016-12-13-yayoi-kusama.md
+starred: false
+datePublishedOriginal: '2016-12-13T16:42:49.115Z'
 _type: MediaObject
 
 ---
