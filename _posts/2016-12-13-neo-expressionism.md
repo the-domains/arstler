@@ -30,14 +30,14 @@ app_links:
     namespace: google
     type: android
 title: Neo-expressionism
-datePublished: '2016-12-13T16:42:16.265Z'
-dateModified: '2016-12-13T16:42:15.670Z'
+datePublished: '2016-12-13T16:59:18.757Z'
+dateModified: '2016-12-13T16:58:52.523Z'
 via: {}
 inFeed: true
 hasPage: true
+sourcePath: _posts/2016-12-13-neo-expressionism.md
 starred: false
 datePublishedOriginal: '2016-12-13T16:42:12.859Z'
-sourcePath: _posts/2016-12-13-neo-expressionism.md
 url: neo-expressionism/index.html
 _context: 'http://schema.org'
 _type: MediaObject
