@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-03T12:10:32.455Z'
+datePublished: '2016-12-13T16:29:34.254Z'
 sourcePath: _posts/2016-05-08-shiro-kuramata-miss-blanche-chair-ishimaru-co-japan-japan.md
 inFeed: true
 hasPage: true
@@ -9,7 +9,7 @@ author:
     avatar: {}
 via: {}
 datePublishedOriginal: '2016-12-02T12:44:13.213Z'
-dateModified: '2016-12-03T12:10:22.256Z'
+dateModified: '2016-12-13T16:29:24.718Z'
 title: 'A-Zdvent calendar: Miss Blanche Chair by Shiro Kuramata'
 publisher: {}
 description: >-
