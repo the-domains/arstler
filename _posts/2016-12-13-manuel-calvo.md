@@ -5,16 +5,16 @@ description: >-
   He held his first solo exhibition in 1958, at age twenty four, at Alfil
   Gallery in Madrid, Spain. Calvo's "hard-edge" painting rejected the subjective
   emphasis of the prevalling Abstract Expressionism.
-dateModified: '2016-12-04T15:46:15.391Z'
-datePublished: '2016-12-13T16:42:33.860Z'
-datePublishedOriginal: '2016-12-13T16:42:33.860Z'
+dateModified: '2016-12-13T16:58:52.523Z'
+datePublished: '2016-12-13T16:59:18.757Z'
 title: MANUEL CALVO
 author: []
 publisher: {}
 via: {}
 isBasedOnUrl: 'http://www.formidablemag.com/manuel-calvo/'
-starred: false
 sourcePath: _posts/2016-12-13-manuel-calvo.md
+starred: false
+datePublishedOriginal: '2016-12-13T16:42:33.860Z'
 _type: MediaObject
 
 ---
