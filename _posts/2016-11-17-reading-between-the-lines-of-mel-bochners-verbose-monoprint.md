@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-03T12:10:32.040Z'
+datePublished: '2016-12-13T16:29:34.286Z'
 sourcePath: >-
   _posts/2016-11-17-reading-between-the-lines-of-mel-bochners-verbose-monoprint.md
 inFeed: true
@@ -10,7 +10,7 @@ author:
       https://m.artsy.net/article/artsy-editorial-reading-between-the-lines-of-mel-bochner-s-verbose-monoprints
     avatar: {}
 via: {}
-dateModified: '2016-12-03T12:10:22.256Z'
+dateModified: '2016-12-13T16:29:24.718Z'
 title: Reading Between the Lines of Mel Bochner's Verbose Monoprints
 publisher:
   url: >-
@@ -20,8 +20,8 @@ description: >-
   One of the words that the artist worked with for these monoprints is "money."
   It kicks off a cascade of synonyms and slang, appearing at the upper left
   corner of a work titled (appropriately) Money (2015).
-starred: false
 datePublishedOriginal: '2016-11-23T11:40:26.628Z'
+starred: false
 url: reading-between-the-lines-of-mel-bochners-verbose-monoprint/index.html
 _type: Article
 
