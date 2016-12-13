@@ -5,16 +5,16 @@ isBasedOnUrl: 'https://artlist.co/artworks/320d2959-a7f1-4919-8a4c-267ae51b9bf0'
 inLanguage: null
 keywords: []
 description: '$33,500'
-datePublished: '2016-12-03T12:10:32.326Z'
-dateModified: '2016-12-03T12:10:22.256Z'
+datePublished: '2016-12-13T16:29:34.203Z'
+dateModified: '2016-12-13T16:29:24.718Z'
 author: []
 title: Robin Rhode
 authors: []
 publisher: {}
 sourcePath: _posts/2016-05-03-robin-rhode.md
 via: {}
-starred: false
 datePublishedOriginal: '2016-11-28T19:29:25.109Z'
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
