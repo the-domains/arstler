@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-03T12:10:32.467Z'
+datePublished: '2016-12-13T16:29:34.306Z'
 inFeed: true
 hasPage: true
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-12-03T12:10:22.256Z'
+dateModified: '2016-12-13T16:29:24.718Z'
 title: 'Vicken Parsons: Iris'
 app_links: []
 publisher:
@@ -27,8 +27,8 @@ publisher:
 description: 24 Nov 2016 - 7 Jan 2017
 inLanguage: en
 sourcePath: _posts/2016-11-20-vicken-parsons-iris.md
-starred: false
 datePublishedOriginal: '2016-11-23T11:40:26.622Z'
+starred: false
 url: vicken-parsons-iris/index.html
 _context: 'http://schema.org'
 _type: MediaObject
