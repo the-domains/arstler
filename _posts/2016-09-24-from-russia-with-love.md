@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-12-03T12:10:32.073Z'
+datePublished: '2016-12-13T16:29:34.364Z'
 sourcePath: _posts/2016-09-24-from-russia-with-love.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-03T12:10:22.256Z'
+dateModified: '2016-12-13T16:29:24.718Z'
 title: From Russia With Love
 publisher: {}
 description: by Renay Elle Morris
-starred: false
 datePublishedOriginal: '2016-11-23T11:40:29.290Z'
+starred: false
 url: from-russia-with-love/index.html
 _type: Article
 
