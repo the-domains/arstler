@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-13T16:29:34.243Z'
+datePublished: '2016-12-13T16:59:18.911Z'
 inFeed: true
 hasPage: true
 keywords:
@@ -14,8 +14,7 @@ keywords:
 related: []
 author: []
 via: {}
-datePublishedOriginal: '2016-12-02T13:25:41.315Z'
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2016-12-13T16:58:52.523Z'
 title: BRUNO DAYAN
 app_links: []
 publisher: {}
@@ -23,6 +22,7 @@ description: Bruno Dayan - Still
 inLanguage: en
 sourcePath: _posts/2016-12-02-bruno-dayan.md
 starred: false
+datePublishedOriginal: '2016-12-02T13:25:41.315Z'
 url: bruno-dayan/index.html
 _context: 'http://schema.org'
 _type: MediaObject
