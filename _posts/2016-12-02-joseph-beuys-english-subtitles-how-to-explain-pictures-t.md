@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-13T16:29:34.204Z'
+datePublished: '2016-12-13T16:59:18.830Z'
 sourcePath: _posts/2016-12-02-joseph-beuys-english-subtitles-how-to-explain-pictures-t.md
 inFeed: true
 hasPage: true
@@ -8,8 +8,7 @@ author:
     url: 'https://www.youtube.com/user/mishiko1824'
     avatar: {}
 via: {}
-datePublishedOriginal: '2016-12-02T13:41:13.627Z'
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2016-12-13T16:58:52.523Z'
 title: Joseph Beuys
 publisher: {}
 description: >-
@@ -17,6 +16,7 @@ description: >-
   and performance artist as well as a sculptor, installation artist, graphic
   artist, art theorist, and pedagogue.
 starred: false
+datePublishedOriginal: '2016-12-02T13:41:13.627Z'
 url: joseph-beuys/index.html
 _type: Article
 
