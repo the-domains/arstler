@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-03T12:10:32.061Z'
+datePublished: '2016-12-13T16:29:34.350Z'
 sourcePath: _posts/2016-09-24-damien-hirst-artists-david-benrimon-fine-art-specializ.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-03T12:10:22.256Z'
+dateModified: '2016-12-13T16:29:24.718Z'
 title: 'Damien Hirst - Artist - David Benrimon Fine Art '
 publisher: {}
 description: >-
@@ -13,8 +13,8 @@ description: >-
   Contemporary Art. Recent exhibitions feature works across multiple media
   including Picasso paintings, Botero sculptures and Pop prints by Andy Warhol
   and Roy Lichtenstein.
-starred: false
 datePublishedOriginal: '2016-11-23T11:40:28.153Z'
+starred: false
 url: damien-hirst-artists-david-benrimon-fine-art-specializ/index.html
 _type: Article
 
