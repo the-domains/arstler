@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-03T12:10:32.448Z'
+datePublished: '2016-12-13T16:29:34.242Z'
 sourcePath: _posts/2016-05-08-damien-hirst.md
 inFeed: true
 authors: []
@@ -8,7 +8,7 @@ keywords: []
 author: []
 via: {}
 datePublishedOriginal: '2016-12-02T13:00:08.860Z'
-dateModified: '2016-12-03T12:10:22.256Z'
+dateModified: '2016-12-13T16:29:24.718Z'
 title: Damien Hirst
 publisher: {}
 description: ''
