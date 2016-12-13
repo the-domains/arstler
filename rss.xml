@@ -4,9 +4,9 @@
         <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 13 Dec 2016 16:51:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2016 16:51:29 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 13 Dec 2016 16:49:38 GMT</pubDate>
+        <pubDate>Tue, 13 Dec 2016 16:49:42 GMT</pubDate>
         <item>
             <title><![CDATA[Joseph Beuys]]></title>
             <description><![CDATA[<article><h1>Joseph Beuys</h1><p>Joseph Beuys (12 May 1921 – 23 January 1986) was a German Fluxus, happening, and performance artist as well as a sculptor, installation artist, graphic artist, art theorist, and pedagogue.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5048b993893c5516659b2e79ac7fa139/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FMo47lqk_QH0%2Fhqdefault.jpg"></article>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Tue, 13 Dec 2016 16:29:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[MANUEL CALVO]]></title>
+            <description><![CDATA[<article><h1>MANUEL CALVO</h1><p>Manuel Calvo early geometric art revolutionized the art scene of the late 50s. He held his first solo exhibition in 1958, at age twenty four, at Alfil Gallery in Madrid, Spain. Calvo's "hard-edge" painting rejected the subjective emphasis of the prevalling Abstract Expressionism.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6f33766b70f04c675fe819fd4f2cc779/noop.jpg?input=http%3A%2F%2Fwww.formidablemag.com%2Fwp-content%2Fuploads%2F2014%2F09%2Fmanuelcalvo.jpg"></article>]]></description>
+            <link>http://www.formidablemag.com/manuel-calvo/</link>
+            <guid isPermaLink="false">1db19f20-036e-4020-91ec-c64db03fc6ff</guid>
+            <pubDate>Tue, 13 Dec 2016 16:42:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Neo-expressionism]]></title>
             <description><![CDATA[<article><h1>Neo-expressionism</h1><p>Neo-expressionism is a style of late-modernist or early-postmodern painting and sculpture that emerged in the late 1970s. Neo-expressionists were sometimes called Neue Wilden ('The new wild ones'; 'New Fauves' would better meet the meaning of the term). It is characterized by intense subjectivity and rough handling of materials.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9cae27e7fa2505730a7e6cbc09dae5ec457767d5.jpg"></article>]]></description>
             <link>http://arstler.com/neo-expressionism/index.html</link>
@@ -69,13 +76,6 @@
             <link>http://arstler.com/stash-de-rola-formidable-mag-exemplary-lives/index.html</link>
             <guid isPermaLink="false">3000bb76-d779-4508-8d1b-b54563c10262</guid>
             <pubDate>Tue, 13 Dec 2016 16:32:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JASPER JOHNS]]></title>
-            <description><![CDATA[<article><h1>JASPER JOHNS</h1><p>Jasper Johns was born in 1930 in Georgia, after stints at the University of South Carolina and the Parsons School of Design, Johns began his career in New York City. The reverberations of his work affected nearly every artistic movement from the 1950s through the present day.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/74b855de43099946c19c70473714748e/noop.jpg?input=http%3A%2F%2Fwww.formidablemag.com%2Fwp-content%2Fuploads%2F2015%2F11%2Fdevice-circle-1959-oil-on-canvas.jpg"></article>]]></description>
-            <link>http://www.formidablemag.com/jasper-johns/</link>
-            <guid isPermaLink="false">d1c5416f-69e2-4f21-824c-b2e5ef26999c</guid>
-            <pubDate>Tue, 13 Dec 2016 16:29:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
