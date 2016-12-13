@@ -9,16 +9,16 @@ description: >-
   virtually unknown in Europe at the time: Allan McCollum, Louise Lawler and
   Richard Prince were among those presented here at an early stage in their
   careers.
-dateModified: '2016-12-03T12:10:22.256Z'
-datePublished: '2016-12-03T12:10:32.078Z'
+dateModified: '2016-12-13T16:29:24.718Z'
+datePublished: '2016-12-13T16:29:34.363Z'
 title: Galerie Isabella Czarnowska
 author: []
 publisher: {}
 via: {}
 isBasedOnUrl: 'http://galerie-czarnowska.de/'
 sourcePath: _posts/2016-09-20-galerie-isabella-czarnowska.md
-starred: false
 datePublishedOriginal: '2016-11-23T11:40:28.154Z'
+starred: false
 _type: MediaObject
 
 ---
