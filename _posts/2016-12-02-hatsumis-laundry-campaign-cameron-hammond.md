@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-03T12:10:32.455Z'
+datePublished: '2016-12-13T16:29:34.254Z'
 inFeed: true
 hasPage: true
 keywords: []
@@ -7,7 +7,7 @@ related: []
 author: []
 via: {}
 datePublishedOriginal: '2016-12-02T13:12:53.886Z'
-dateModified: '2016-12-03T12:10:22.256Z'
+dateModified: '2016-12-13T16:29:24.718Z'
 title: 'hatsumi''s laundry campaign : Cameron Hammond'
 app_links: []
 publisher:
