@@ -29,15 +29,16 @@ app_links:
     package: org.wikipedia
     namespace: google
     type: android
-isBasedOnUrl: 'https://en.wikipedia.org/wiki/Neo-expressionism'
 title: Neo-expressionism
-datePublished: '2016-12-13T16:42:10.158Z'
-dateModified: '2016-12-13T16:42:09.403Z'
+datePublished: '2016-12-13T16:42:16.265Z'
+dateModified: '2016-12-13T16:42:15.670Z'
 via: {}
 inFeed: true
+hasPage: true
 starred: false
-datePublishedOriginal: '2016-12-13T16:42:10.158Z'
+datePublishedOriginal: '2016-12-13T16:42:12.859Z'
 sourcePath: _posts/2016-12-13-neo-expressionism.md
+url: neo-expressionism/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
