@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-13T16:29:34.241Z'
+datePublished: '2016-12-13T16:59:18.869Z'
 sourcePath: _posts/2016-11-22-brittani-in-paris.md
 inFeed: true
 hasPage: true
@@ -7,13 +7,13 @@ keywords: []
 related: []
 author: []
 via: {}
-datePublishedOriginal: '2016-12-02T13:23:23.380Z'
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2016-12-13T16:58:52.523Z'
 title: Jen Senn
 app_links: []
 publisher: {}
 description: Jen Senn is a fashion and commercial photographer based in New York City.
 starred: false
+datePublishedOriginal: '2016-12-02T13:23:23.380Z'
 url: jen-senn/index.html
 _context: 'http://schema.org'
 _type: MediaObject
