@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-03T12:10:32.467Z'
+datePublished: '2016-12-13T16:29:34.321Z'
 sourcePath: _posts/2016-11-19-maroesjka-lavigne-photography-habitat.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-03T12:10:22.256Z'
+dateModified: '2016-12-13T16:29:24.718Z'
 title: Maroesjka Lavigne / Photography / Habitat
 publisher: {}
 description: >-
@@ -14,8 +14,8 @@ description: >-
   this relationship between human elements and the natural environment.
   Specifically, the way we always try to adjust space to our specific needs, not
   realizing we are the alien element in these permanent landscapes.
-starred: false
 datePublishedOriginal: '2016-11-23T11:40:26.631Z'
+starred: false
 url: maroesjka-lavigne-photography-habitat/index.html
 _type: Article
 
