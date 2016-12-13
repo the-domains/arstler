@@ -4,8 +4,8 @@ description: >-
   Frank Philip Stella (born May 12, 1936) is an American painter and printmaker,
   noted for his work in the areas of minimalism and post-painterly abstraction.
   Stella lives and works in New York.
-dateModified: '2016-12-13T16:58:52.523Z'
-datePublished: '2016-12-13T16:59:18.895Z'
+dateModified: '2016-12-13T17:04:25.527Z'
+datePublished: '2016-12-13T17:04:28.181Z'
 title: FRANK STELLA
 author: []
 publisher: {}
@@ -26,7 +26,7 @@ Upon moving to New York City, he reacted against the expressive use of paint by 
 
 Frank Stella gained recognition with his series of coolly impersonal black striped paintings which follow a natural progression of dynamism, tactility, and scale: first, by expanding his initial monochrome palette to bright colors, and, later, moving painting into the third dimension through the incorporation of other, non-painterly elements onto the canvas.
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5238840163dab81d8e00efe8781aed12f9c7ff61.jpg" /><h1>FRANK STELLA - FORMIDABLE magazine - American contemporary artist</h1><p>Frank Stella was one of the key figures in 20th-century art helping give rise to Minimalism, Post-Painterly Abstraction, and Color Field painting.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5238840163dab81d8e00efe8781aed12f9c7ff61.jpg" /><p>Frank Stella was one of the key figures in 20th-century art helping give rise to Minimalism, Post-Painterly Abstraction, and Color Field painting. FRANK STELLA - FORMIDABLE magazine - American contemporary artist</p></article>
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPLuFa9o_Hkh4sMUP3BhtablkNMYA4spAUC&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcN_rRCfRdmQ&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FcN_rRCfRdmQ%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
