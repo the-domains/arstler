@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-13T16:29:34.243Z'
+datePublished: '2016-12-13T16:59:18.918Z'
 sourcePath: >-
   _posts/2016-12-01-ikeda-manabu-or-histry-of-rise-and-fall-2006-or-available-fo.md
 inFeed: true
@@ -21,8 +21,7 @@ author:
     url: 'https://www.youtube.com/user/JapanSocietyNYC'
     avatar: {}
 via: {}
-datePublishedOriginal: '2016-12-01T17:36:00.405Z'
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2016-12-13T16:58:52.523Z'
 title: 'Ikeda Manabu - monumental ink and pen '
 app_links:
   - url: 'https://www.artsy.net/artwork/ikeda-manabu-histry-of-rise-and-fall'
@@ -34,6 +33,7 @@ publisher: {}
 description: '1973 Born in Taku city, Saga, Japan'
 inLanguage: en
 starred: false
+datePublishedOriginal: '2016-12-01T17:36:00.405Z'
 url: ikeda-manabu-or-histry-of-rise-and-fall-2006-or-available-fo/index.html
 _context: 'http://schema.org'
 _type: MediaObject
