@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-13T16:29:34.228Z'
+datePublished: '2016-12-13T16:59:18.945Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2016-12-13T16:58:52.523Z'
 title: YVES KLEIN
 publisher: {}
 description: >-
