@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-03T12:10:32.055Z'
+datePublished: '2016-12-13T16:29:34.337Z'
 sourcePath: _posts/2016-11-01-matte-stephens-illustration-art.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-03T12:10:22.256Z'
+dateModified: '2016-12-13T16:29:24.718Z'
 title: Matte Stephens Illustration
 publisher: {}
 description: >-
@@ -13,8 +13,8 @@ description: >-
   and amused every time he’s showing a new painting. They have all the jazz and
   coffee, and you can admire a few selections right here. For more paintings you
   can visit his website here: matteart.blogspot.com
-starred: false
 datePublishedOriginal: '2016-11-28T19:23:17.386Z'
+starred: false
 url: matte-stephens-illustration/index.html
 _type: Article
 
