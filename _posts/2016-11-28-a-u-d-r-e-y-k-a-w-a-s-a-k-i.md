@@ -11,13 +11,13 @@ description: ''
 app_links: []
 isBasedOnUrl: 'http://www.audrey-kawasaki.com/galleries.php?g=1&r=88&p_id=672&page=1'
 title: a u d r e y * k a w a s a k i
-datePublished: '2016-12-13T16:29:34.203Z'
-dateModified: '2016-12-13T16:29:24.718Z'
+datePublished: '2016-12-13T16:59:18.900Z'
+dateModified: '2016-12-13T16:58:52.523Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-11-28-a-u-d-r-e-y-k-a-w-a-s-a-k-i.md
-datePublishedOriginal: '2016-11-28T19:23:17.336Z'
 starred: false
+datePublishedOriginal: '2016-11-28T19:23:17.336Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
