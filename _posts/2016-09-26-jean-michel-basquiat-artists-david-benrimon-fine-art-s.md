@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-03T12:10:32.062Z'
+datePublished: '2016-12-13T16:29:34.358Z'
 sourcePath: _posts/2016-09-26-jean-michel-basquiat-artists-david-benrimon-fine-art-s.md
 inFeed: true
 isBasedOnUrl: >-
   http://www.benrimon.com/artists/jean-michel-basquiat/featured-works?view=slider#2
 author: []
 via: {}
-dateModified: '2016-12-03T12:10:22.256Z'
+dateModified: '2016-12-13T16:29:24.718Z'
 title: Jean-Michel Basquiat - David Benrimon Fine Art Gallery
 publisher: {}
 description: >-
@@ -14,8 +14,8 @@ description: >-
   Contemporary Art. Recent exhibitions feature works across multiple media
   including Picasso paintings, Botero sculptures and Pop prints by Andy Warhol
   and Roy Lichtenstein.
-starred: false
 datePublishedOriginal: '2016-11-23T11:40:28.154Z'
+starred: false
 _type: MediaObject
 
 ---
