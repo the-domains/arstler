@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-06T21:45:41.221Z'
+datePublished: '2016-12-13T16:29:34.228Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-06T21:45:30.330Z'
+dateModified: '2016-12-13T16:29:24.718Z'
 title: YVES KLEIN
 publisher: {}
 description: >-
@@ -13,9 +13,9 @@ description: >-
   development of Performance art, and is seen as an inspiration to and as a
   forerunner of Minimal art. His short career was characterized by many radical
   gestures, often touched with his flair for spectacle.
+sourcePath: _posts/2016-12-06-yves-klein.md
 starred: false
 datePublishedOriginal: '2016-12-06T21:45:41.221Z'
-sourcePath: _posts/2016-12-06-yves-klein.md
 url: yves-klein/index.html
 _type: Article
 
