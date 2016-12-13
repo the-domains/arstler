@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-03T12:10:32.460Z'
+datePublished: '2016-12-13T16:29:34.306Z'
 sourcePath: _posts/2016-11-20-untitled-a-gathering-of-time-by-cy-twombly.md
 inFeed: true
 isBasedOnUrl: 'https://theartstack.com/artist/cy-twombly/untitled-a-gathering-of-time'
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-12-03T12:10:22.256Z'
+dateModified: '2016-12-13T16:29:24.718Z'
 title: Untitled (A Gathering of Time) by Cy Twombly
 app_links:
   - type: android
@@ -37,8 +37,8 @@ description: >-
   Untitled (A Gathering of Time) by Cy Twombly. Artwork Type: Painting; Medium:
   Oil on canvas;
 inLanguage: en
-starred: false
 datePublishedOriginal: '2016-11-23T11:40:26.607Z'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
