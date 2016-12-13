@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: '(January 24, 1915 – July 16, 1991)'
-dateModified: '2016-12-13T17:27:13.811Z'
-datePublished: '2016-12-13T17:27:14.882Z'
+dateModified: '2016-12-13T17:45:13.932Z'
+datePublished: '2016-12-13T17:45:14.699Z'
 title: Robert Motherwell
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2016-12-13-robert-motherwell.md
 starred: false
 datePublishedOriginal: '2016-12-13T17:27:14.882Z'
-sourcePath: _posts/2016-12-13-robert-motherwell.md
 url: robert-motherwell/index.html
 _type: Article
 
@@ -19,7 +19,7 @@ _type: Article
 
 (January 24, 1915 -- July 16, 1991)
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6becf240a6ddb0bfda3a509fde338c62/noop.jpg?input=http%3A%2F%2Fwww.formidablemag.com%2Fwp-content%2Fuploads%2F2014%2F06%2F20140628-172014-62414460-jpg.jpg" /><p>Robert Motherwell, a major figure of the Abstract Expressionist generation, encompassed both the expressive brushwork of action painting and the breadth of scale and saturated hues of color field painting. He was a member of the New York School, a term he coined, which also included Philip Guston, Willem de Kooning, Jackson Pollock, and Mark Rothko.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/874dd5699d26f147c6985f2b3c806595eb4c8ce5.jpg" /><p>Robert Motherwell, a major figure of the Abstract Expressionist generation, encompassed both the expressive brushwork of action painting and the breadth of scale and saturated hues of color field painting. He was a member of the New York School, a term he coined, which also included Philip Guston, Willem de Kooning, Jackson Pollock, and Mark Rothko.</p></article>
 
 **Robert Motherwell** was an American painter, printmaker, and editor. He was one of the youngest of the New York School (a phrase he coined), which also included Philip Guston, Willem de Kooning, Jackson Pollock, and Mark Rothko.
 
@@ -38,6 +38,25 @@ Thus, in the early 1940s, Robert Motherwell played a significant role in laying 
 It is essential for the understanding of action painting to place it in historical context. A product of the post-World War II artistic resurgence of expressionism in America and more specifically New York City, action painting developed in an era where quantum mechanics and psychoanalysis were beginning to flourish and were changing people's perception of the physical and psychological world; and civilization's understanding of the world through heightened self-consciousness and awareness.
 
 source: [wikipedia.org][16]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f13db30a-ce71-4664-bd4a-e93693be55a5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a19025e7-ca32-4750-a555-766f2357473f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32af6073-e388-4ada-a2b3-959ac26da417.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6536d04-68dc-4697-92af-c7cb5e3de069.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1297b55-3e37-42bc-b2b5-cebb41e70f3d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c944b9f7-2024-4f3c-8caa-25cdbf65cc92.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a428292-8ca6-4177-8a93-9aa8063f9e82.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fef864e-8974-4285-afb8-e2fe36fd9d70.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ef8d627-6404-4d2e-a904-fcda23c4a8f4.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c450005-17fd-4b03-8bce-5d5ea43ffc0f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99752922-6ce2-4dc2-b88e-0dc0efb1e603.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f3760d9-3c13-4c6b-92c1-323517333dda.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/861b96c3-72c8-4e1c-8fa0-8e0440abb743.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a95cfffa-43c3-4cfe-a049-189114de620d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a6de2a9-0940-4596-82ce-a05e2916af67.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f86b357d-fa7c-447a-bf74-7953fdd2e112.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67b9496c-97dd-4ba2-9752-e6f439458273.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61288fab-ea2b-4d6a-98e6-fa14ccf49c40.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d8c1aa4-f667-49c3-af4a-ecd86cfde82f.jpg)
 
 [0]: http://www.formidablemag.com/ad-reinhardt/ "AD REINHARDT"
 [1]: https://en.wikipedia.org/wiki/Columbia_University "Columbia University"
