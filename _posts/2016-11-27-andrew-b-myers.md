@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-12-13T16:29:34.242Z'
+datePublished: '2016-12-13T16:59:18.896Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2016-12-13T16:58:52.523Z'
 title: Andrew B. Myers
 publisher: {}
 description: Canadian photographer living and working in New York City.
 sourcePath: _posts/2016-11-27-andrew-b-myers.md
-datePublishedOriginal: '2016-11-28T19:23:17.347Z'
 starred: false
+datePublishedOriginal: '2016-11-28T19:23:17.347Z'
 url: andrew-b-myers/index.html
 _type: Article
 
