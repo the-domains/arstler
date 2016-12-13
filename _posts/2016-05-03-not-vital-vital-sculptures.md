@@ -9,16 +9,16 @@ description: >-
   Swiss artist Not Vital (b. 1948). Vital’s conceptual sculptures skirt the
   shifting borderland between dream and reality. He fuses abstract and
   figurative idioms in a harmonious, meditative union.
-datePublished: '2016-12-13T16:29:34.202Z'
-dateModified: '2016-12-13T16:29:24.718Z'
+datePublished: '2016-12-13T16:59:18.831Z'
+dateModified: '2016-12-13T16:58:52.523Z'
 author: []
 title: 'Not Vital: Vital Sculptures'
 authors: []
 publisher: {}
 sourcePath: _posts/2016-05-03-not-vital-vital-sculptures.md
 via: {}
-datePublishedOriginal: '2016-11-28T19:29:25.116Z'
 starred: false
+datePublishedOriginal: '2016-11-28T19:29:25.116Z'
 _context: 'http://schema.org'
 _type: Article
 
