@@ -4,9 +4,9 @@
         <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 13 Dec 2016 16:50:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2016 16:50:53 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 13 Dec 2016 16:49:23 GMT</pubDate>
+        <pubDate>Tue, 13 Dec 2016 16:49:35 GMT</pubDate>
         <item>
             <title><![CDATA[Joseph Beuys]]></title>
             <description><![CDATA[<article><h1>Joseph Beuys</h1><p>Joseph Beuys (12 May 1921 – 23 January 1986) was a German Fluxus, happening, and performance artist as well as a sculptor, installation artist, graphic artist, art theorist, and pedagogue.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5048b993893c5516659b2e79ac7fa139/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FMo47lqk_QH0%2Fhqdefault.jpg"></article>]]></description>
@@ -50,11 +50,18 @@
             <pubDate>Tue, 13 Dec 2016 16:29:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Neo-expressionism]]></title>
+            <description><![CDATA[<article><h1>Neo-expressionism</h1><p>Neo-expressionism is a style of late-modernist or early-postmodern painting and sculpture that emerged in the late 1970s. Neo-expressionists were sometimes called Neue Wilden ('The new wild ones'; 'New Fauves' would better meet the meaning of the term). It is characterized by intense subjectivity and rough handling of materials.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9cae27e7fa2505730a7e6cbc09dae5ec457767d5.jpg"></article>]]></description>
+            <link>https://en.wikipedia.org/wiki/Neo-expressionism</link>
+            <guid isPermaLink="false">17ceaebb-2732-4396-9dec-48f04220b890</guid>
+            <pubDate>Tue, 13 Dec 2016 16:42:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[FRANK STELLA]]></title>
             <description><![CDATA[<article><h1>FRANK STELLA</h1><p>Frank Philip Stella (born May 12, 1936) is an American painter and printmaker, noted for his work in the areas of minimalism and post-painterly abstraction. Stella lives and works in New York.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5238840163dab81d8e00efe8781aed12f9c7ff61.jpg"></article>]]></description>
-            <link>http://www.formidablemag.com/frank-stella/</link>
+            <link>http://arstler.com/frank-stella/index.html</link>
             <guid isPermaLink="false">540634e4-9d18-45b9-b16b-db8a966c5323</guid>
-            <pubDate>Tue, 13 Dec 2016 16:40:29 GMT</pubDate>
+            <pubDate>Tue, 13 Dec 2016 16:40:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stash De Rola - FORMIDABLE MAG - Exemplary Lives]]></title>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>JASPER JOHNS</h1><p>Jasper Johns was born in 1930 in Georgia, after stints at the University of South Carolina and the Parsons School of Design, Johns began his career in New York City. The reverberations of his work affected nearly every artistic movement from the 1950s through the present day.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/74b855de43099946c19c70473714748e/noop.jpg?input=http%3A%2F%2Fwww.formidablemag.com%2Fwp-content%2Fuploads%2F2015%2F11%2Fdevice-circle-1959-oil-on-canvas.jpg"></article>]]></description>
             <link>http://www.formidablemag.com/jasper-johns/</link>
             <guid isPermaLink="false">d1c5416f-69e2-4f21-824c-b2e5ef26999c</guid>
-            <pubDate>Tue, 13 Dec 2016 16:29:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tim Rowan, 'Untitled ', 2016, Lacoste Gallery | Artsy]]></title>
-            <description><![CDATA[<article><h1>Tim Rowan, 'Untitled ', 2016, Lacoste Gallery | Artsy</h1><p>From a kiln in the woods of upstate New York, Tim Rowan sculpts geode-like ceramic vessels that are both dense and curvilinear. His apprenticeship to Japanese artist Ryuichi Kazurezaki instilled a deep respect for traditional Japanese design, evident in the firing and flame markings of his work.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/cbb4dd069c3ca9bf8b0b4879efb09ee0/noop.jpg?input=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F5dqH36JlPw-BAHgvjlJ7fw%2Flarge.jpg"></article>]]></description>
-            <link>http://arstler.com/tim-rowan-untitled-2016-lacoste-gallery-or-artsy/index.html</link>
-            <guid isPermaLink="false">ffe27996-115a-44c9-983e-fa4ee65ad92f</guid>
             <pubDate>Tue, 13 Dec 2016 16:29:34 GMT</pubDate>
         </item>
     </channel>
