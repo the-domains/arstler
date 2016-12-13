@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-03T12:10:32.468Z'
+datePublished: '2016-12-13T16:29:34.335Z'
 sourcePath: _posts/2016-11-20-cy-twombly-untitled-bacchus-2008.md
 inFeed: true
 hasPage: true
@@ -7,13 +7,13 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-12-03T12:10:22.256Z'
+dateModified: '2016-12-13T16:29:24.718Z'
 title: Cy Twombly - Painting
 app_links: []
 publisher: {}
 description: 'American, 1928–2011'
-starred: false
 datePublishedOriginal: '2016-11-23T18:47:47.466Z'
+starred: false
 url: cy-twombly/index.html
 _context: 'http://schema.org'
 _type: MediaObject
