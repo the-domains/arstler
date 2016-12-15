@@ -7,8 +7,8 @@ description: >-
   the controversial artist Balthus was the dandy aesthete of swinging London;
   Refined and rebellious, immaculately dressed and someone who everyone wanted
   to know.
-dateModified: '2016-12-13T16:58:52.523Z'
-datePublished: '2016-12-13T16:59:18.869Z'
+dateModified: '2016-12-15T12:51:32.005Z'
+datePublished: '2016-12-15T12:52:06.691Z'
 title: Stash De Rola - FORMIDABLE MAG - Exemplary Lives
 author: []
 publisher: {}
