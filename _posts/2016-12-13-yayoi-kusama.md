@@ -5,8 +5,8 @@ description: >-
   she's been focused on these massive multitude of hallucinatory dots in
   patterns as well as sculptures, on everyday objects with painted growths,
   "soft sculptures", constantly exploring the ideas of infinity and love.
-dateModified: '2016-12-13T16:58:52.523Z'
-datePublished: '2016-12-13T16:59:18.869Z'
+dateModified: '2016-12-15T12:51:32.005Z'
+datePublished: '2016-12-15T12:52:06.665Z'
 title: YAYOI KUSAMA
 author: []
 publisher: {}
