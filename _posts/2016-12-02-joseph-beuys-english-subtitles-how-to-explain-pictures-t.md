@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-13T16:59:18.830Z'
+datePublished: '2016-12-15T12:52:06.691Z'
 sourcePath: _posts/2016-12-02-joseph-beuys-english-subtitles-how-to-explain-pictures-t.md
 inFeed: true
 hasPage: true
@@ -8,7 +8,7 @@ author:
     url: 'https://www.youtube.com/user/mishiko1824'
     avatar: {}
 via: {}
-dateModified: '2016-12-13T16:58:52.523Z'
+dateModified: '2016-12-15T12:51:32.005Z'
 title: Joseph Beuys
 publisher: {}
 description: >-
