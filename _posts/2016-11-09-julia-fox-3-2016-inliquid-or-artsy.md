@@ -5,8 +5,8 @@ description: >-
   advancement, and exhibition of artists in the Philadelphia region and beyond.
   InLiquid organizes numerous community-based events and exhibitions each year,
   and provides extensive art resources online.
-dateModified: '2016-12-13T16:58:52.523Z'
-datePublished: '2016-12-13T16:59:18.896Z'
+dateModified: '2016-12-15T12:51:32.005Z'
+datePublished: '2016-12-15T12:52:06.875Z'
 title: 'Julia Fox, ''3'', 2016, InLiquid | Artsy'
 author: []
 publisher: {}
