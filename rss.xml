@@ -4,9 +4,9 @@
         <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 13 Dec 2016 17:06:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2016 12:44:34 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 13 Dec 2016 17:04:31 GMT</pubDate>
+        <pubDate>Thu, 15 Dec 2016 12:44:27 GMT</pubDate>
         <item>
             <title><![CDATA[FRANK STELLA]]></title>
             <description><![CDATA[<article><h1>FRANK STELLA</h1><p>Frank Philip Stella (born May 12, 1936) is an American painter and printmaker, noted for his work in the areas of minimalism and post-painterly abstraction. Stella lives and works in New York.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5238840163dab81d8e00efe8781aed12f9c7ff61.jpg"></article>]]></description>
@@ -20,6 +20,13 @@
             <link>http://arstler.com/joseph-beuys/index.html</link>
             <guid isPermaLink="false">b758b41d-9019-4ef8-885a-1e16b13c8166</guid>
             <pubDate>Tue, 13 Dec 2016 16:59:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Robert Motherwell]]></title>
+            <description><![CDATA[<article><h1>Robert Motherwell</h1><p>(January 24, 1915 – July 16, 1991)</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6aa8f9a1e00e54640752ae15ab64f762/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FU-LFxm-wYL0%2Fhqdefault.jpg"></article>]]></description>
+            <link>http://arstler.com/robert-motherwell/index.html</link>
+            <guid isPermaLink="false">df45de00-9f43-4a3a-829a-ce14504ac650</guid>
+            <pubDate>Thu, 15 Dec 2016 12:44:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[YVES KLEIN]]></title>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>YAYOI KUSAMA</h1><p>Yayoi Kusama is famously known for her "dots". In her early work to present she's been focused on these massive multitude of hallucinatory dots in patterns as well as sculptures, on everyday objects with painted growths, "soft sculptures", constantly exploring the ideas of infinity and love.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c10dc16acb8450e1595a8e67376647b2/noop.jpg?input=http%3A%2F%2Fwww.formidablemag.com%2Fwp-content%2Fuploads%2F2014%2F01%2Fkusama_400.jpg"></article>]]></description>
             <link>http://www.formidablemag.com/yayoi-kusama/</link>
             <guid isPermaLink="false">e2ae5a44-27cb-4f53-856b-da4cd1cf1cc7</guid>
-            <pubDate>Tue, 13 Dec 2016 16:59:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MANUEL CALVO]]></title>
-            <description><![CDATA[<article><h1>MANUEL CALVO</h1><p>Manuel Calvo early geometric art revolutionized the art scene of the late 50s. He held his first solo exhibition in 1958, at age twenty four, at Alfil Gallery in Madrid, Spain. Calvo's "hard-edge" painting rejected the subjective emphasis of the prevalling Abstract Expressionism.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6f33766b70f04c675fe819fd4f2cc779/noop.jpg?input=http%3A%2F%2Fwww.formidablemag.com%2Fwp-content%2Fuploads%2F2014%2F09%2Fmanuelcalvo.jpg"></article>]]></description>
-            <link>http://www.formidablemag.com/manuel-calvo/</link>
-            <guid isPermaLink="false">1db19f20-036e-4020-91ec-c64db03fc6ff</guid>
             <pubDate>Tue, 13 Dec 2016 16:59:18 GMT</pubDate>
         </item>
     </channel>
