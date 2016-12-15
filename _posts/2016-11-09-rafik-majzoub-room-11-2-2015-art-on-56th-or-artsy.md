@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-13T16:59:18.895Z'
+datePublished: '2016-12-15T12:52:06.875Z'
 sourcePath: _posts/2016-11-09-rafik-majzoub-room-11-2-2015-art-on-56th-or-artsy.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-13T16:58:52.523Z'
+dateModified: '2016-12-15T12:51:32.005Z'
 title: 'Rafik Majzoub, ''Room 11 - 2'', 2015, Art On 56th '
 publisher: {}
 description: >-
