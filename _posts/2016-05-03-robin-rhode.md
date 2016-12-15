@@ -5,8 +5,8 @@ isBasedOnUrl: 'https://artlist.co/artworks/320d2959-a7f1-4919-8a4c-267ae51b9bf0'
 inLanguage: null
 keywords: []
 description: '$33,500'
-datePublished: '2016-12-13T16:59:18.868Z'
-dateModified: '2016-12-13T16:58:52.523Z'
+datePublished: '2016-12-15T12:52:06.572Z'
+dateModified: '2016-12-15T12:51:32.005Z'
 author: []
 title: Robin Rhode
 authors: []
