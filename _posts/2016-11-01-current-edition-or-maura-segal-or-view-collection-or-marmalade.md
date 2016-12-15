@@ -6,8 +6,8 @@ description: >-
   Charlotte, North Carolina. Her works are also exhibited at SLATE art, Oakland,
   California, Ann Connelly Fine Art, Baton Rouge, Louisiana and Blue Print,
   Dallas, Texas.
-dateModified: '2016-12-13T16:58:52.523Z'
-datePublished: '2016-12-13T16:59:18.904Z'
+dateModified: '2016-12-15T12:51:32.005Z'
+datePublished: '2016-12-15T12:52:06.900Z'
 title: CURRENT EDITION | MAURA SEGAL | VIEW COLLECTION | Marmalade | SPOTTE
 author: []
 publisher: {}
