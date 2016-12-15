@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: '(January 24, 1915 – July 16, 1991)'
-dateModified: '2016-12-15T12:44:21.230Z'
-datePublished: '2016-12-15T12:44:22.977Z'
+dateModified: '2016-12-15T12:46:45.781Z'
+datePublished: '2016-12-15T12:46:48.403Z'
 title: Robert Motherwell
 author:
   - name: wgbhstocksales
@@ -56,13 +56,19 @@ source: [wikipedia.org][16]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ef8d627-6404-4d2e-a904-fcda23c4a8f4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c450005-17fd-4b03-8bce-5d5ea43ffc0f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99752922-6ce2-4dc2-b88e-0dc0efb1e603.jpg)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/87050b50a202fcbac11dcc47b81bf6b7/croprotate.jpg?cropheight=480&cropwidth=341&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1f3760d9-3c13-4c6b-92c1-323517333dda.jpg&x=11&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9e633fac83dc3019be723207aad8dd65acd3756.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/861b96c3-72c8-4e1c-8fa0-8e0440abb743.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a95cfffa-43c3-4cfe-a049-189114de620d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a6de2a9-0940-4596-82ce-a05e2916af67.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f86b357d-fa7c-447a-bf74-7953fdd2e112.jpg)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/602b8a0c460ebb7d8de7a120c6b5be27/croprotate.jpg?cropheight=413&cropwidth=592&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F67b9496c-97dd-4ba2-9752-e6f439458273.jpg&x=24&y=0)
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FDqIwiNhEoWE%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDqIwiNhEoWE&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FDqIwiNhEoWE%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/33466e25d57d726c4a8df25a60d063a760872a93.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61288fab-ea2b-4d6a-98e6-fa14ccf49c40.jpg)
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F0LARorO2vtE%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0LARorO2vtE&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F0LARorO2vtE%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d8c1aa4-f667-49c3-af4a-ecd86cfde82f.jpg)
 
 [0]: http://www.formidablemag.com/ad-reinhardt/ "AD REINHARDT"
