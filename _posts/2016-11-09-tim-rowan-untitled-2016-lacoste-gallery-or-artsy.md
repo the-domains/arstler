@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-13T16:59:18.869Z'
+datePublished: '2016-12-15T12:52:06.572Z'
 sourcePath: _posts/2016-11-09-tim-rowan-untitled-2016-lacoste-gallery-or-artsy.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-13T16:58:52.523Z'
+dateModified: '2016-12-15T12:51:32.005Z'
 title: 'Tim Rowan, ''Untitled '', 2016, Lacoste Gallery | Artsy'
 publisher: {}
 description: >-
