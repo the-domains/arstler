@@ -1,35 +1,35 @@
 ---
-datePublished: '2016-12-13T16:29:34.142Z'
+datePublished: '2016-12-15T09:40:59.488Z'
 sourcePath: _posts/2016-05-17-in-fact-id-like-to-steal-this-painting.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2016-12-15T09:40:58.846Z'
 title: arstler™
 id: 8e1e6782-92ec-4bae-b65d-3191a4443bf3
 publisher: {}
 description: >-
   arstler.com is an experimental space designed by Genu Berlo. the early mission
-  is to keep an eye on the global art market while discovering local talent and
-  trends.
-datePublishedOriginal: '2016-11-28T19:23:17.348Z'
+  is to connect to art, save links to favourite emerging and established global
+  art players, and feature local shows and artists I enjoy.
 starred: false
+datePublishedOriginal: '2016-11-28T19:23:17.348Z'
 url: in-fact-id-like-to-steal-this-painting/index.html
 _type: MediaObject
 
 ---
 # arstler(tm)
 
-**arstler.com** is an experimental space designed by [Genu Berlo][0]. the early mission is to keep an eye on the global art market while discovering local talent and trends.
+**arstler.com** is an experimental space designed by Genu Berlo. the early mission is to connect to art, save links to favourite emerging and established global art players, and feature local shows and artists I enjoy.
 
 **♥**
 
-galleries, art fairs, museums, collectors and artists - interested in partnering with **arstler**_(tm) _to feature your show or artwork? send an email and let us know your mind. we're open to working together and have you proud on our front page. jointventure@arstler.com
+galleries, collectors and artists - interested in partnering with **arstler**_(tm) _to feature your show or artwork? send an email and let us know your mind. we're open to working together and have you proud on our front page. jointventure@arstler.com
 
 **♥**
 
-collaborators: [Renay Elle Morris][1]
+collaborators: [Renay Elle Morris][0], [Eugen Berlo][1]
 
 **♥**
 
@@ -41,5 +41,5 @@ subscribe to weekly post digest
 
 _(c) arstler(tm) - in fact, I'd like to steal this painting(tm)_
 
-[0]: http://berlo.net/genu-eugen-berlo
-[1]: http://arstler.com/renay-elle-morris/
+[0]: http://arstler.com/renay-elle-morris/
+[1]: http://berlo.net/genu-eugen-berlo/
