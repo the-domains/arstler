@@ -4,9 +4,9 @@
         <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Dec 2016 15:43:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2016 15:43:46 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Dec 2016 15:42:48 GMT</pubDate>
+        <pubDate>Fri, 16 Dec 2016 15:42:51 GMT</pubDate>
         <item>
             <title><![CDATA[Robert Motherwell]]></title>
             <description><![CDATA[<article><h1>Robert Motherwell</h1><p>(January 24, 1915 – July 16, 1991)</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6aa8f9a1e00e54640752ae15ab64f762/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FU-LFxm-wYL0%2Fhqdefault.jpg"></article>]]></description>
@@ -20,6 +20,13 @@
             <link>http://arstler.com/frank-stella/index.html</link>
             <guid isPermaLink="false">540634e4-9d18-45b9-b16b-db8a966c5323</guid>
             <pubDate>Thu, 15 Dec 2016 12:52:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Christopher Alexander - Wikipedia]]></title>
+            <description><![CDATA[<article><h1>Christopher Alexander - Wikipedia</h1><p>Christopher Wolfgang Alexander (born 4 October 1936 in Vienna, Austria) is a widely influential architect and design theorist, and currently emeritus professor at the University of California, Berkeley. His theories about the nature of human-centered design have had notable impacts across many fields beyond architecture, including urban design, software, sociology and other fields.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/ffb911c6ec275be82256b1fa914025a0/noop.jpg?input=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F95%2FChristopherAlexander2012.jpg%2F220px-ChristopherAlexander2012.jpg"></article>]]></description>
+            <link>https://en.wikipedia.org/wiki/Christopher_Alexander</link>
+            <guid isPermaLink="false">dde461fc-94c3-4d49-899c-a91c77d3de61</guid>
+            <pubDate>Fri, 16 Dec 2016 15:42:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jungian archetypes - Wikipedia]]></title>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Not Vital: Vital Sculptures</h1><p>Vital Sculptures is the first solo exhibition in Finland by the versatile Swiss artist Not Vital (b. 1948). Vital’s conceptual sculptures skirt the shifting borderland between dream and reality. He fuses abstract and figurative idioms in a harmonious, meditative union.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d4301425f9b63f81a0fb6971fe361cd1eec3b1f.jpg"></article>]]></description>
             <link>https://www.artsy.net/show/galerie-forsblom-not-vital-vital-sculptures</link>
             <guid isPermaLink="false">164f9d53-c8d8-42c8-beb5-244dd132a0b8</guid>
-            <pubDate>Thu, 15 Dec 2016 12:52:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ed Moses | Cat Who A-1 (2006), Available for Sale | Artsy]]></title>
-            <description><![CDATA[<article><h1>Ed Moses | Cat Who A-1 (2006), Available for Sale | Artsy</h1><p>Available for sale from William Turner Gallery, Ed Moses, Cat Who A-1 (2006), Acrylic on canvas, 78 × 66 × 1 1/2 in</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75e2f533a00b6ae0f208d942590205f118d628ff.jpg"></article>]]></description>
-            <link>https://www.artsy.net/artwork/ed-moses-cat-who-a-1</link>
-            <guid isPermaLink="false">157ca461-316e-471f-8e55-7047575a5c3e</guid>
             <pubDate>Thu, 15 Dec 2016 12:52:06 GMT</pubDate>
         </item>
     </channel>
