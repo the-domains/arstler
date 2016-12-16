@@ -4,9 +4,9 @@
         <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Dec 2016 15:42:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2016 15:43:17 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Dec 2016 15:42:45 GMT</pubDate>
+        <pubDate>Fri, 16 Dec 2016 15:42:48 GMT</pubDate>
         <item>
             <title><![CDATA[Robert Motherwell]]></title>
             <description><![CDATA[<article><h1>Robert Motherwell</h1><p>(January 24, 1915 – July 16, 1991)</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6aa8f9a1e00e54640752ae15ab64f762/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FU-LFxm-wYL0%2Fhqdefault.jpg"></article>]]></description>
@@ -20,6 +20,13 @@
             <link>http://arstler.com/frank-stella/index.html</link>
             <guid isPermaLink="false">540634e4-9d18-45b9-b16b-db8a966c5323</guid>
             <pubDate>Thu, 15 Dec 2016 12:52:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jungian archetypes - Wikipedia]]></title>
+            <description><![CDATA[<article><h1>Jungian archetypes - Wikipedia</h1><p>Strictly speaking, Jungian archetypes refer to unclear underlying forms or the archetypes-as-such from which emerge images and motifs such as the mother, the child, the trickster, and the flood among others. It is history, culture and personal context that shape these manifest representations thereby giving them their specific content.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/847e4e2e018a196bca036bd86f578327/noop.jpg?input=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F43%2FUsnisavijaya.jpg%2F220px-Usnisavijaya.jpg"></article>]]></description>
+            <link>https://en.wikipedia.org/wiki/Jungian_archetypes</link>
+            <guid isPermaLink="false">ce128657-8ec7-4879-9125-9fc3f80e52b1</guid>
+            <pubDate>Fri, 16 Dec 2016 15:42:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Pattern Language - Wikipedia]]></title>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Ed Moses | Cat Who A-1 (2006), Available for Sale | Artsy</h1><p>Available for sale from William Turner Gallery, Ed Moses, Cat Who A-1 (2006), Acrylic on canvas, 78 × 66 × 1 1/2 in</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75e2f533a00b6ae0f208d942590205f118d628ff.jpg"></article>]]></description>
             <link>https://www.artsy.net/artwork/ed-moses-cat-who-a-1</link>
             <guid isPermaLink="false">157ca461-316e-471f-8e55-7047575a5c3e</guid>
-            <pubDate>Thu, 15 Dec 2016 12:52:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[USCHI OBERMAIER]]></title>
-            <description><![CDATA[<article><h1>USCHI OBERMAIER</h1><p>Uschi Obermaier was a key figure of the sexual revolution, even influencing John Lennon and Yoko Ono with her credo of free love. She is known to have had affairs with Mick Jagger, Keith Richards, and Jimi Hendrix.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0633cd02856a4aec1cf116489664ddbded92ba8.jpg"></article>]]></description>
-            <link>http://arstler.com/uschi-obermaier/index.html</link>
-            <guid isPermaLink="false">39388529-7bc5-415a-8a17-86051c2f733f</guid>
             <pubDate>Thu, 15 Dec 2016 12:52:06 GMT</pubDate>
         </item>
     </channel>
