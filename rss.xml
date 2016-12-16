@@ -4,9 +4,9 @@
         <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Dec 2016 10:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2016 15:42:47 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Dec 2016 10:23:41 GMT</pubDate>
+        <pubDate>Fri, 16 Dec 2016 15:42:45 GMT</pubDate>
         <item>
             <title><![CDATA[Robert Motherwell]]></title>
             <description><![CDATA[<article><h1>Robert Motherwell</h1><p>(January 24, 1915 – July 16, 1991)</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6aa8f9a1e00e54640752ae15ab64f762/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FU-LFxm-wYL0%2Fhqdefault.jpg"></article>]]></description>
@@ -20,6 +20,13 @@
             <link>http://arstler.com/frank-stella/index.html</link>
             <guid isPermaLink="false">540634e4-9d18-45b9-b16b-db8a966c5323</guid>
             <pubDate>Thu, 15 Dec 2016 12:52:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Pattern Language - Wikipedia]]></title>
+            <description><![CDATA[<article><h1>A Pattern Language - Wikipedia</h1><p>A Pattern Language: Towns, Buildings, Construction is a 1977 book on architecture, urban design, and community livability. It was authored by Christopher Alexander, Sara Ishikawa and Murray Silverstein of the Center for Environmental Structure of Berkeley, California, with writing credits also to Max Jacobson, Ingrid Fiksdahl-King and Shlomo Angel.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1e61f423409154da6f42d6f8d232f506/noop.jpg?input=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2Fe%2Fe6%2FA_Pattern_Language.jpg%2F220px-A_Pattern_Language.jpg"></article>]]></description>
+            <link>https://en.wikipedia.org/wiki/A_Pattern_Language</link>
+            <guid isPermaLink="false">6113ed45-0440-4e7c-8de9-fe150f4ae1f8</guid>
+            <pubDate>Fri, 16 Dec 2016 15:42:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Francis Bacon Biography, Art, and Analysis of Works]]></title>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>USCHI OBERMAIER</h1><p>Uschi Obermaier was a key figure of the sexual revolution, even influencing John Lennon and Yoko Ono with her credo of free love. She is known to have had affairs with Mick Jagger, Keith Richards, and Jimi Hendrix.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0633cd02856a4aec1cf116489664ddbded92ba8.jpg"></article>]]></description>
             <link>http://arstler.com/uschi-obermaier/index.html</link>
             <guid isPermaLink="false">39388529-7bc5-415a-8a17-86051c2f733f</guid>
-            <pubDate>Thu, 15 Dec 2016 12:52:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Neo-expressionism]]></title>
-            <description><![CDATA[<article><h1>Neo-expressionism</h1><p>Neo-expressionism is a style of late-modernist or early-postmodern painting and sculpture that emerged in the late 1970s. Neo-expressionists were sometimes called Neue Wilden ('The new wild ones'; 'New Fauves' would better meet the meaning of the term). It is characterized by intense subjectivity and rough handling of materials.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9cae27e7fa2505730a7e6cbc09dae5ec457767d5.jpg"></article>]]></description>
-            <link>http://arstler.com/neo-expressionism/index.html</link>
-            <guid isPermaLink="false">17ceaebb-2732-4396-9dec-48f04220b890</guid>
             <pubDate>Thu, 15 Dec 2016 12:52:06 GMT</pubDate>
         </item>
     </channel>
