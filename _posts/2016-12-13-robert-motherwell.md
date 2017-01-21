@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: '(January 24, 1915 – July 16, 1991)'
-dateModified: '2016-12-15T13:03:20.320Z'
-datePublished: '2016-12-15T13:03:21.405Z'
+dateModified: '2017-01-21T15:24:21.076Z'
+datePublished: '2017-01-21T15:24:22.125Z'
 title: Robert Motherwell
 author:
   - name: wgbhstocksales
