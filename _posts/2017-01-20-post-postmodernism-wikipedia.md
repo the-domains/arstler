@@ -29,13 +29,13 @@ app_links:
     type: android
 isBasedOnUrl: 'https://en.wikipedia.org/wiki/Post-postmodernism'
 title: Post-postmodernism - Wikipedia
-datePublished: '2017-01-20T14:57:27.563Z'
-dateModified: '2016-12-16T11:31:53.413Z'
-datePublishedOriginal: '2017-01-20T14:57:27.563Z'
+datePublished: '2017-01-21T15:24:21.898Z'
+dateModified: '2017-01-21T15:24:21.076Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-01-20-post-postmodernism-wikipedia.md
+starred: false
+datePublishedOriginal: '2017-01-20T14:57:27.563Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
