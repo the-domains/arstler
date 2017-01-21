@@ -32,13 +32,13 @@ app_links:
     type: android
 isBasedOnUrl: 'https://en.wikipedia.org/wiki/Christopher_Alexander'
 title: Christopher Alexander - Wikipedia
-datePublished: '2016-12-16T15:42:46.579Z'
-dateModified: '2016-12-16T15:41:44.448Z'
-datePublishedOriginal: '2016-12-16T15:42:46.579Z'
+datePublished: '2017-01-21T15:24:22.421Z'
+dateModified: '2017-01-21T15:24:21.076Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-12-16-christopher-alexander-wikipedia.md
+starred: false
+datePublishedOriginal: '2016-12-16T15:42:46.579Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
