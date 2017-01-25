@@ -1,12 +1,12 @@
 ---
 inFeed: true
 description: '(January 24, 1915 – July 16, 1991)'
-dateModified: '2017-01-21T15:24:21.076Z'
-datePublished: '2017-01-21T15:24:22.125Z'
+dateModified: '2017-01-25T14:58:47.766Z'
+datePublished: '2017-01-25T14:58:48.431Z'
 title: Robert Motherwell
 author:
-  - name: wgbhstocksales
-    url: 'https://www.youtube.com/user/wgbhstocksales'
+  - name: Arts Et Culture
+    url: 'https://www.youtube.com/user/MrLougal'
     avatar: {}
 publisher: {}
 via: {}
@@ -21,8 +21,6 @@ _type: Article
 # Robert Motherwell
 
 (January 24, 1915 -- July 16, 1991)
-
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FU-LFxm-wYL0%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DU-LFxm-wYL0&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FU-LFxm-wYL0%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FWMt1KQtXNzA%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWMt1KQtXNzA&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWMt1KQtXNzA%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
@@ -70,6 +68,12 @@ source: [wikipedia.org][16]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/33466e25d57d726c4a8df25a60d063a760872a93.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61288fab-ea2b-4d6a-98e6-fa14ccf49c40.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d8c1aa4-f667-49c3-af4a-ecd86cfde82f.jpg)
+
+---
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FU-LFxm-wYL0%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DU-LFxm-wYL0&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FU-LFxm-wYL0%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+
 
 [0]: http://www.formidablemag.com/ad-reinhardt/ "AD REINHARDT"
 [1]: https://en.wikipedia.org/wiki/Columbia_University "Columbia University"
