@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-13T16:29:34.322Z'
+datePublished: '2017-01-28T12:25:15.333Z'
 sourcePath: >-
   _posts/2016-11-20-art-gallery-london-or-current-art-exhibitions-or-alan-cristea.md
 inFeed: true
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: 'Antony Gormley: CAST'
 app_links: []
 publisher:
@@ -28,8 +28,8 @@ publisher:
   domain: www.alancristea.com
 description: 13 May 2016 - 30 Jul 2016
 inLanguage: en
-datePublishedOriginal: '2016-11-23T11:40:26.619Z'
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.619Z'
 url: antony-gormley-cast/index.html
 _context: 'http://schema.org'
 _type: MediaObject
