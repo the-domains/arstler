@@ -28,12 +28,13 @@ isBasedOnUrl: 'http://www.saffronart.com/auctions/PostWork.aspx?l=20641'
 title: >-
   Evening Sale Of Modern And Contemporary Indian Art -Feb-24, 2016 -Lot 9 -M F
   Husain
-datePublished: '2016-11-23T11:40:44.560Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:26:04.262Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 sourcePath: _posts/2016-05-08-evening-sale-of-modern-and-contemporary-indian-art-feb-24.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.560Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
