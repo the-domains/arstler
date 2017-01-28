@@ -1,7 +1,7 @@
 ---
 title: Color & Black (complete set of 4 works) by Sol LeWitt on artnet Auctions
-datePublished: '2016-11-23T11:40:43.611Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:44.992Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author: []
 isBasedOnUrl: >-
   https://www.artnet.com/auctions/artists/sol-lewitt/color-black-complete-set-of-4-works-2
@@ -15,8 +15,9 @@ publisher: {}
 via: {}
 sourcePath: >-
   _posts/2016-07-25-color-and-black-complete-set-of-4-works-by-sol-lewitt-on-art.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:43.611Z'
 _type: MediaObject
 
 ---
