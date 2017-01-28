@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-12-13T16:29:34.349Z'
+datePublished: '2017-01-28T12:25:20.688Z'
 sourcePath: _posts/2016-09-24-mel-bochner-artists-two-palms.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: Mel Bochner - Artists - Two Palms
 publisher: {}
 description: >-
   Mel Bochner [born 1940] is recognized as one of the leading figures in the
   development of Conceptual art in New York in the 1960s and 1970s.
-datePublishedOriginal: '2016-11-23T11:40:26.652Z'
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.652Z'
 url: mel-bochner-artists-two-palms/index.html
 _type: Article
 
