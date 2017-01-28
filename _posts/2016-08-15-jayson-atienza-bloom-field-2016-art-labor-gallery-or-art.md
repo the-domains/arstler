@@ -1,7 +1,7 @@
 ---
 title: 'Jayson Atienza, ''Bloom Field'', 2016, ART LABOR Gallery | Artsy'
-datePublished: '2016-11-23T11:40:34.712Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:38.135Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/jayson-atienza-bloom-field'
 description: >-
@@ -12,8 +12,9 @@ description: >-
 publisher: {}
 via: {}
 sourcePath: _posts/2016-08-15-jayson-atienza-bloom-field-2016-art-labor-gallery-or-art.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:34.712Z'
 _type: MediaObject
 
 ---
