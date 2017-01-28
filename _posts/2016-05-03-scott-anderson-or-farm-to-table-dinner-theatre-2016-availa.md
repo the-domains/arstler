@@ -32,11 +32,12 @@ isBasedOnUrl: 'https://www.artsy.net/artwork/scott-anderson-farm-to-table-dinner
 title: >-
   Scott Anderson | Farm To Table Dinner Theatre (2016), Available for Sale |
   Artsy
-datePublished: '2016-11-23T11:40:48.503Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:26:08.219Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 sourcePath: >-
   _posts/2016-05-03-scott-anderson-or-farm-to-table-dinner-theatre-2016-availa.md
 starred: false
+datePublishedOriginal: '2016-05-03T17:10:53.056Z'
 via: {}
 inFeed: true
 _context: 'http://schema.org'
