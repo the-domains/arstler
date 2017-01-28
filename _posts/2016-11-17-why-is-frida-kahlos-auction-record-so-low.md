@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-13T16:29:34.287Z'
+datePublished: '2017-01-28T12:25:16.207Z'
 sourcePath: _posts/2016-11-17-why-is-frida-kahlos-auction-record-so-low.md
 inFeed: true
 hasPage: true
@@ -9,7 +9,7 @@ author:
       https://m.artsy.net/article/artsy-editorial-why-is-frida-kahlo-s-auction-record-so-low
     avatar: {}
 via: {}
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: Why Is Frida Kahlo's Auction Record So Low?
 publisher:
   url: >-
@@ -20,8 +20,8 @@ description: >-
   auction record had recently been broken-her 1939 painting Dos Desnudos en el
   Bosque (La Tierra Misma) sold for $8 million at Christie's New York's spring
   Impressionist and modern evening sale two weeks earlier.
-datePublishedOriginal: '2016-11-23T11:40:26.631Z'
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.631Z'
 url: why-is-frida-kahlos-auction-record-so-low/index.html
 _type: Article
 
