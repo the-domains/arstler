@@ -5,8 +5,8 @@ isBasedOnUrl: 'http://countereditions.com/eu/'
 inLanguage: null
 keywords: []
 description: La Volta (2001-2016) by Rebecca Warren
-datePublished: '2016-11-23T11:40:48.434Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:26:07.529Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author: []
 title: ''
 authors: []
@@ -17,6 +17,7 @@ publisher:
   favicon: null
 sourcePath: _posts/2016-05-04-la-volta-2001-2016-by-rebecca-warren.md
 starred: false
+datePublishedOriginal: '2016-05-04T09:42:25.445Z'
 via: {}
 _context: 'http://schema.org'
 _type: Article
