@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-23T11:40:29.299Z'
+datePublished: '2017-01-28T12:25:25.757Z'
 sourcePath: _posts/2016-09-16-schoolism-subscriptions-art-education-made-affordable.md
 inFeed: true
 hasPage: true
@@ -8,7 +8,7 @@ author:
     url: 'https://vimeo.com/user14395055'
     avatar: {}
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: 'SCHOOLISM SUBSCRIPTIONS: ART EDUCATION MADE AFFORDABLE'
 publisher:
   name: 'https://www.kickstarter.com/profile/bobbychiu'
@@ -19,6 +19,7 @@ description: >-
   We've given you access to the top artists, now we want to make it affordable
   for all.
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.299Z'
 url: schoolism-subscriptions-art-education-made-affordable/index.html
 _type: Article
 
