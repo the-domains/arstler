@@ -28,12 +28,13 @@ isBasedOnUrl: >-
 title: >-
   Elton John's Warhol/Basquiat Collaboration a Sotheby's Paris Highlight |
   Sotheby's
-datePublished: '2016-11-23T11:40:44.988Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:58.009Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 sourcePath: _posts/2016-05-27-elton-johns-warholbasquiat-collaboration-a-sothebys-paris.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.988Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
