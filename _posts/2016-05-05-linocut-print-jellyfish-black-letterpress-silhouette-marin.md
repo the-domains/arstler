@@ -6,8 +6,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-11-23T11:40:48.327Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:26:06.132Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author: []
 title: LINOCUT PRINT - Jellyfish BLACK letterpress silhouette marine poster 8x10
 authors: []
@@ -19,6 +19,7 @@ publisher:
 sourcePath: >-
   _posts/2016-05-05-linocut-print-jellyfish-black-letterpress-silhouette-marin.md
 starred: false
+datePublishedOriginal: '2016-05-05T15:49:52.670Z'
 via: {}
 _context: 'http://schema.org'
 _type: Article
