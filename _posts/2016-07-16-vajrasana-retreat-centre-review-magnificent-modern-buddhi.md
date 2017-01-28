@@ -1,7 +1,7 @@
 ---
 title: 'Vajrasana retreat centre review - magnificent, modern Buddhist haven'
-datePublished: '2016-11-23T11:40:44.049Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:50.449Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author:
   - name: Oliver Wainwright
     url: 'https://www.theguardian.com/profile/oliver-wainwright'
@@ -15,10 +15,11 @@ description: >-
   the edge of the sleepy village of Walsham-le-Willows, but then this is no
   ordinary barn.
 sourcePath: _posts/2016-07-16-vajrasana-retreat-centre-review-magnificent-modern-buddhi.md
-starred: false
 publisher: {}
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.049Z'
 _type: MediaObject
 
 ---
