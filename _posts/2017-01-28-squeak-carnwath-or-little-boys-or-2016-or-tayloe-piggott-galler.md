@@ -86,14 +86,14 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://www.tayloepiggottgallery.com/artist/Squeak_Carnwath/works/2252'
 title: Squeak Carnwath | Little Boys | 2016 | Tayloe Piggott Gallery
-datePublished: '2017-01-28T12:38:57.856Z'
-dateModified: '2017-01-28T12:38:02.147Z'
-datePublishedOriginal: '2017-01-28T12:38:57.856Z'
+datePublished: '2017-01-28T12:45:23.612Z'
+dateModified: '2017-01-28T12:45:23.141Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-01-28-squeak-carnwath-or-little-boys-or-2016-or-tayloe-piggott-galler.md
+starred: false
+datePublishedOriginal: '2017-01-28T12:38:57.856Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
