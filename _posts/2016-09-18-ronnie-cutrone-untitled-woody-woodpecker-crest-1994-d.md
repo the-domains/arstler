@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-13T16:29:34.358Z'
+datePublished: '2017-01-28T12:25:22.788Z'
 sourcePath: _posts/2016-09-18-ronnie-cutrone-untitled-woody-woodpecker-crest-1994-d.md
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/ronnie-cutrone-untitled-woody-woodpecker-crest'
 author: []
 via: {}
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: >-
   Ronnie Cutrone, 'Untitled (Woody Woodpecker Crest)', 1994, Doyle: '80s
   Downtown Art | Artsy
@@ -17,8 +17,8 @@ description: >-
   a key first member of the stellar roster Tony Shafrazi culled, which would
   also include Keith Haring, Kenny Scharf and Jean-Michel Basquiat, among
   others.
-datePublishedOriginal: '2016-11-23T11:40:28.155Z'
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:28.155Z'
 _type: MediaObject
 
 ---
