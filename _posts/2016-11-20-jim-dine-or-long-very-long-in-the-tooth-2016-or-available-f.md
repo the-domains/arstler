@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-13T16:29:34.273Z'
+datePublished: '2017-01-28T12:25:15.318Z'
 sourcePath: >-
   _posts/2016-11-20-jim-dine-or-long-very-long-in-the-tooth-2016-or-available-f.md
 inFeed: true
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: JIM DINE
 app_links:
   - url: 'https://www.artsy.net/artwork/jim-dine-long-very-long-in-the-tooth-3'
@@ -42,8 +42,8 @@ description: >-
   terms of how much emotion it’s charged with and how much subject matter is
   there,” he once said.
 inLanguage: en
-datePublishedOriginal: '2016-11-27T19:21:54.719Z'
 starred: false
+datePublishedOriginal: '2016-11-27T19:21:54.719Z'
 url: jim-dine/index.html
 _context: 'http://schema.org'
 _type: MediaObject
