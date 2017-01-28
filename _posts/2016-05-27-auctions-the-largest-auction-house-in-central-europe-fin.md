@@ -27,12 +27,13 @@ isBasedOnUrl: 'https://www.dorotheum.com/en.html'
 title: >-
   AUCTIONS - The largest auction house in Central Europe - Fine Arts,
   Contemporary Art, Paintings, Jewellery & more - Dorotheum
-datePublished: '2016-11-23T11:40:44.958Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:57.517Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 sourcePath: _posts/2016-05-27-auctions-the-largest-auction-house-in-central-europe-fin.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.958Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
