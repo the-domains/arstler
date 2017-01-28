@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-23T11:40:29.409Z'
+datePublished: '2017-01-28T12:25:27.205Z'
 inFeed: true
 isBasedOnUrl: 'http://www.artspace.com/julian_hoeber/xc-schematic-001'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: 'XC Schematic 001, Julian Hoeber | Artspace.com'
 publisher: {}
 description: >-
@@ -14,6 +14,7 @@ description: >-
   represent or explore the problems of those structures.
 sourcePath: _posts/2016-09-13-xc-schematic-001-julian-hoeber-or-artspacecom.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.409Z'
 _type: MediaObject
 
 ---
