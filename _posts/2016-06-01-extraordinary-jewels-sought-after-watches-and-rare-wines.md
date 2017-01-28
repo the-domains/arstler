@@ -19,8 +19,8 @@ description: >-
   In a special week dedicated to luxury, Christie's presents a series of
   auctions from the Jewellery, Watch and Wine departments, to take place from
   7-13 June in New York.
-datePublished: '2016-11-23T11:40:44.957Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:56.629Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author: []
 related: []
 app_links: []
@@ -34,8 +34,9 @@ publisher:
   url: 'http://www.christies.com'
   favicon: 'http://www.christies.com/static/images/favicon.ico?v=1'
 sourcePath: _posts/2016-06-01-extraordinary-jewels-sought-after-watches-and-rare-wines.md
-starred: false
 via: {}
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.957Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
