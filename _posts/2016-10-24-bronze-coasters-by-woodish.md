@@ -1,19 +1,19 @@
 ---
-datePublished: '2016-12-13T16:29:34.255Z'
+datePublished: '2017-01-28T12:25:14.052Z'
 sourcePath: _posts/2016-10-24-bronze-coasters-by-woodish.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: BRONZE COASTERS by WOODISH
 publisher: {}
 description: >-
   Because we really like craft with a note of hipster in it, I want to present
   you these rad sets of hand painted hexagonal coasters made by WOODISH ( Maria
   Burachu ) in Romania. Enjoy!
-datePublishedOriginal: '2016-11-23T11:40:26.607Z'
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.607Z'
 url: bronze-coasters-by-woodish/index.html
 _type: Article
 
