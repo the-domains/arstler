@@ -5,14 +5,15 @@ isBasedOnUrl: 'https://www.artnet.com/auctions/artists/nicolas-pol/weirdest-conv
 inLanguage: null
 keywords: []
 description: Nicolas Pol
-datePublished: '2016-11-23T11:40:48.445Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:26:07.169Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author: []
 title: ''
 sourcePath: _posts/2016-05-05-nicolas-pol.md
 authors: []
 publisher: {}
 starred: false
+datePublishedOriginal: '2016-05-05T12:42:22.446Z'
 via: {}
 _context: 'http://schema.org'
 _type: Article
