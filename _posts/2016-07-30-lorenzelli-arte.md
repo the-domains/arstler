@@ -1,7 +1,7 @@
 ---
 title: Lorenzelli arte
-datePublished: '2016-11-23T11:40:26.792Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:40.566Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author: []
 isBasedOnUrl: 'http://www.lorenzelliarte.com/en/homepage'
 description: >-
@@ -10,8 +10,9 @@ description: >-
 publisher: {}
 via: {}
 sourcePath: _posts/2016-07-30-lorenzelli-arte.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.792Z'
 _type: MediaObject
 
 ---
