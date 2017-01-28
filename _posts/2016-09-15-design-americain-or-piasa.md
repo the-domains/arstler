@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-23T11:40:29.305Z'
+datePublished: '2017-01-28T12:25:26.103Z'
 inFeed: true
 isBasedOnUrl: 'http://www.piasa.fr/design-americian'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: Design Américain | Piasa
 publisher: {}
 description: >-
@@ -13,6 +13,7 @@ description: >-
   novembre 2016 de 10 à 12 heures -
 sourcePath: _posts/2016-09-15-design-americain-or-piasa.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.305Z'
 _type: MediaObject
 
 ---
