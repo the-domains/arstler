@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-13T16:29:34.287Z'
+datePublished: '2017-01-28T12:25:15.884Z'
 sourcePath: >-
   _posts/2016-11-19-exquisite-plant-collage-no-10-adam-frezza-and-terri-chiao-.md
 inFeed: true
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: Exquisite Plant Collage No. 10 - Adam Frezza & Terri Chiao - Uprise Art
 app_links: []
 publisher:
@@ -35,8 +35,8 @@ description: >-
   palettes, surreal elements, and their projects can be characterized as
   existing at the "intersection of imagination and the natural world."
 inLanguage: en
-datePublishedOriginal: '2016-11-23T11:40:26.619Z'
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.619Z'
 url: exquisite-plant-collage-no-10-adam-frezza-and-terri-chiao-/index.html
 _context: 'http://schema.org'
 _type: MediaObject
