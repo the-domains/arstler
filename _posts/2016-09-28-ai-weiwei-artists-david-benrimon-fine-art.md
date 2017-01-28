@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-13T16:29:34.350Z'
+datePublished: '2017-01-28T12:25:21.067Z'
 inFeed: true
 isBasedOnUrl: 'http://www.benrimon.com/artists/ai-weiwei'
 author: []
 via: {}
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: Ai Weiwei - Artists - David Benrimon Fine Art
 publisher:
   name: Wikipedia
@@ -24,8 +24,8 @@ description: >-
 
   Influenced by: Andy Warhol, Marcel Duchamp, Joseph Beuys, Jasper Johns
 sourcePath: _posts/2016-09-28-ai-weiwei-artists-david-benrimon-fine-art.md
-datePublishedOriginal: '2016-11-23T11:40:26.650Z'
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.650Z'
 _type: MediaObject
 
 ---
