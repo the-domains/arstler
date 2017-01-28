@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-23T11:40:29.449Z'
+datePublished: '2017-01-28T12:25:29.947Z'
 inFeed: true
 isBasedOnUrl: >-
   https://www.artnet.com/auctions/artists/steve-mccurry/stilt-fisherman-sri-lanka-2
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: 'Stilt Fisherman, Sri Lanka by Steve McCurry on artnet Auctions'
 publisher: {}
 description: >-
@@ -16,6 +16,7 @@ description: >-
 sourcePath: >-
   _posts/2016-09-15-stilt-fisherman-sri-lanka-by-steve-mccurry-on-artnet-auctio.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.449Z'
 _type: MediaObject
 
 ---
