@@ -1,7 +1,7 @@
 ---
 title: Untitled (SF-335) by Sam Francis on artnet Auctions
-datePublished: '2016-11-23T11:40:43.599Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:45.093Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author: []
 isBasedOnUrl: 'https://www.artnet.com/auctions/artists/sam-francis/untitled-sf-335'
 description: >-
@@ -13,8 +13,9 @@ description: >-
 publisher: {}
 via: {}
 sourcePath: _posts/2016-07-25-untitled-sf-335-by-sam-francis-on-artnet-auctions.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:43.599Z'
 _type: MediaObject
 
 ---
