@@ -6,14 +6,15 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: 'Cavaliere,1947Lot 4'
-datePublished: '2016-11-23T11:40:48.426Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:26:06.092Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author: []
 title: Marino Marini
 authors: []
 publisher: {}
 sourcePath: _posts/2016-05-06-marino-marini.md
 starred: false
+datePublishedOriginal: '2016-05-06T10:45:57.633Z'
 via: {}
 _context: 'http://schema.org'
 _type: Article
