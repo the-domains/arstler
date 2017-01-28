@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-23T11:40:29.237Z'
+datePublished: '2017-01-28T12:25:23.429Z'
 sourcePath: _posts/2016-09-18-jeff-koons-balloon-dog-red-2002-doyle-80s-downtown.md
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/jeff-koons-balloon-dog-red-10'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: 'Jeff Koons, ''Balloon Dog (Red)'', 2002, Doyle: ''80s Downtown Art | Artsy'
 publisher: {}
 description: >-
@@ -16,6 +16,7 @@ description: >-
   force and a puckish prankster capable of confounding the public with his
   overly slick productions.
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.237Z'
 _type: MediaObject
 
 ---
