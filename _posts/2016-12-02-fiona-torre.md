@@ -1,19 +1,19 @@
 ---
-datePublished: '2016-12-13T16:29:34.242Z'
+datePublished: '2017-01-28T12:25:12.456Z'
 inFeed: true
 hasPage: true
 keywords: []
 related: []
 author: []
 via: {}
-datePublishedOriginal: '2016-12-02T13:16:49.682Z'
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: fiona torre
 app_links: []
 publisher: {}
 description: 'http://fionatorre.com/'
 sourcePath: _posts/2016-12-02-fiona-torre.md
 starred: false
+datePublishedOriginal: '2016-12-02T13:16:49.682Z'
 url: fiona-torre/index.html
 _context: 'http://schema.org'
 _type: MediaObject
