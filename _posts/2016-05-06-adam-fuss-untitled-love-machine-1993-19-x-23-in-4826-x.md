@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Adam Fuss Untitled (Love Machine) , 1993 19 x 23 in (48.26 x 58.42 cm)
   Technique: Cibachrome Photogram Mounted on Acrylic Edition Size: Unquie
-datePublished: '2016-11-23T11:40:48.388Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:26:05.676Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author: []
 title: ''
 authors: []
@@ -19,6 +19,7 @@ publisher:
   favicon: null
 sourcePath: _posts/2016-05-06-adam-fuss-untitled-love-machine-1993-19-x-23-in-4826-x.md
 starred: false
+datePublishedOriginal: '2016-05-06T12:15:37.602Z'
 via: {}
 _context: 'http://schema.org'
 _type: Article
