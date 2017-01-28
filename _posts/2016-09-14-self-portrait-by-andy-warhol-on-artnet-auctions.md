@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-23T11:40:29.450Z'
+datePublished: '2017-01-28T12:25:29.976Z'
 inFeed: true
 isBasedOnUrl: 'https://www.artnet.com/auctions/artists/andy-warhol/self-portrait-19'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: Self-Portrait by Andy Warhol on artnet Auctions
 publisher: {}
 description: >-
@@ -12,6 +12,7 @@ description: >-
   Andy Warhol, now available for sale on artnet Auctions.
 sourcePath: _posts/2016-09-14-self-portrait-by-andy-warhol-on-artnet-auctions.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.450Z'
 _type: MediaObject
 
 ---
