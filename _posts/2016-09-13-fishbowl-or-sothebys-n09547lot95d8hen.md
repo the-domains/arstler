@@ -4,8 +4,8 @@ description: >-
   View auction details, art exhibitions and online catalogues; bid, buy and
   collect contemporary, impressionist or modern art, old masters, jewellery,
   wine, watches, prints, rugs and books at sotheby's auction house
-dateModified: '2016-11-23T11:26:45.121Z'
-datePublished: '2016-11-23T11:40:29.443Z'
+dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-01-28T12:25:28.723Z'
 title: fishbowl | sotheby's n09547lot95d8hen
 author: []
 publisher: {}
@@ -14,6 +14,7 @@ isBasedOnUrl: >-
   http://www.sothebys.com/en/auctions/ecatalogue/2015/saturday-sothebys-asian-art-n09547/lot.901.html
 sourcePath: _posts/2016-09-13-fishbowl-or-sothebys-n09547lot95d8hen.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.443Z'
 _type: MediaObject
 
 ---
