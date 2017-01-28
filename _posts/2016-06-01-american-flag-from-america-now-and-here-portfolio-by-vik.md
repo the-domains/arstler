@@ -22,8 +22,8 @@ description: >-
   contribution to the "America: Now and Here" portfolio, a set of thirteen
   prints by prominent artists made to accompany Eric Fischl's 2011 traveling
   exhibition meant to stir conversations about national identity and the arts.
-datePublished: '2016-11-23T11:40:44.949Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:56.599Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author: []
 related: []
 app_links: []
@@ -35,8 +35,9 @@ publisher:
   url: 'https://paddle8.com'
   favicon: 'https://paddle8.com/p8_favicon.ico?3'
 sourcePath: _posts/2016-06-01-american-flag-from-america-now-and-here-portfolio-by-vik.md
-starred: false
 via: {}
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.949Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
