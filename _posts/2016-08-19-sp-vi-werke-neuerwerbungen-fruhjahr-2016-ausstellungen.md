@@ -1,7 +1,7 @@
 ---
 title: SP VI - Werke - Neuerwerbungen Frühjahr 2016 - Ausstellungen - Galerie Ludorff
-datePublished: '2016-11-23T11:40:34.683Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:35.693Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author: []
 isBasedOnUrl: 'http://www.ludorff.com/de/exhibition/neuerwerbungen_fruehjahr_2016/work/sp_vi'
 description: >-
@@ -12,8 +12,9 @@ description: >-
 publisher: {}
 via: {}
 sourcePath: _posts/2016-08-19-sp-vi-werke-neuerwerbungen-fruhjahr-2016-ausstellungen.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:34.683Z'
 _type: MediaObject
 
 ---
