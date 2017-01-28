@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-23T11:40:29.464Z'
+datePublished: '2017-01-28T12:25:33.449Z'
 inFeed: true
 isBasedOnUrl: >-
   https://m.artsy.net/artwork/james-rosenquist-below-the-equator-above-the-equator
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: >-
   James Rosenquist, 'Below the Equator, Above the Equator', 1975, Phillips: New
   Now | Artsy
@@ -18,6 +18,7 @@ description: >-
   1957-60, Rosenquist earned his living as a billboard painter).
 sourcePath: _posts/2016-09-11-james-rosenquist-below-the-equator-above-the-equator-19.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.464Z'
 _type: MediaObject
 
 ---
