@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-23T11:40:29.322Z'
+datePublished: '2017-01-28T12:25:27.212Z'
 inFeed: true
 isBasedOnUrl: 'http://www.artspace.com/dan-levenson/blaise-kellermuller'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: 'Blaise Kellermüller, Dan Levenson | Artspace.com'
 publisher: {}
 description: >-
@@ -16,6 +16,7 @@ description: >-
   scuffed, cracked, rusted, and yellowed.
 sourcePath: _posts/2016-09-13-blaise-kellermuller-dan-levenson-or-artspacecom.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.322Z'
 _type: MediaObject
 
 ---
