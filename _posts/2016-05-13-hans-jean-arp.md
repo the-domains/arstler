@@ -1,23 +1,21 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.dorotheum.com/en/auctions/current-auctions/kataloge/list-lots/auktion/11844-modern-art.html?currentPage=1#lot-2048444'
+isBasedOnUrl: >-
+  https://www.dorotheum.com/en/auctions/current-auctions/kataloge/list-lots/auktion/11844-modern-art.html?currentPage=1#lot-2048444
 inLanguage: null
 keywords: []
-description: 'Hans (Jean) Arp *'
-datePublished: '2016-05-13T11:14:34.178Z'
-dateModified: '2016-05-13T11:12:36.410Z'
+description: Hans (Jean) Arp *
+datePublished: '2017-01-28T12:26:00.504Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author: []
 title: ''
 authors: []
-publisher:
-  name: dorotheum.com
-  domain: www.dorotheum.com
-  url: null
-  favicon: null
-starred: false
+publisher: {}
 sourcePath: _posts/2016-05-13-hans-jean-arp.md
+via: {}
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:45.032Z'
 _context: 'http://schema.org'
 _type: Article
 
