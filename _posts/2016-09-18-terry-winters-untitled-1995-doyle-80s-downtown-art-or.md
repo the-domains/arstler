@@ -5,8 +5,8 @@ description: >-
   since his very first exhibition. A painter, draftsman, and printmaker, Winters
   began exhibiting in New York in 1977 after his graduation from Pratt Institute
   in 1971.
-dateModified: '2016-11-23T11:26:45.121Z'
-datePublished: '2016-11-23T11:40:29.290Z'
+dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-01-28T12:25:24.596Z'
 title: 'Terry Winters, ''Untitled'', 1995, Doyle: ''80s Downtown Art | Artsy'
 author: []
 publisher: {}
@@ -14,6 +14,7 @@ via: {}
 isBasedOnUrl: 'https://m.artsy.net/artwork/terry-winters-untitled-2007'
 sourcePath: _posts/2016-09-18-terry-winters-untitled-1995-doyle-80s-downtown-art-or.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.290Z'
 _type: MediaObject
 
 ---
