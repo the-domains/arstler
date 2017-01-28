@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-23T11:40:34.654Z'
+datePublished: '2017-01-28T12:25:33.434Z'
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/matt-connors-untitled-5'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: 'Matt Connors, ''Untitled'', 2015, Phillips: New Now | Artsy'
 publisher: {}
 description: >-
@@ -16,6 +16,7 @@ description: >-
   a bumpy sfumato and the signature spray of graffiti."
 sourcePath: _posts/2016-09-11-matt-connors-untitled-2015-phillips-new-now-or-artsy.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:34.654Z'
 _type: MediaObject
 
 ---
