@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-23T11:40:29.298Z'
+datePublished: '2017-01-28T12:25:25.618Z'
 sourcePath: _posts/2016-09-16-ukiyo-e-heroes-online-store-is-now-open.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: 'Ukiyo-e Heroes online store is now open:'
 publisher: {}
 description: >-
@@ -13,6 +13,7 @@ description: >-
   project, commenting on the ancient origins of modern Japanese game culture.
   浮世絵ヒーロー
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.298Z'
 url: ukiyo-e-heroes-online-store-is-now-open/index.html
 _type: Article
 
