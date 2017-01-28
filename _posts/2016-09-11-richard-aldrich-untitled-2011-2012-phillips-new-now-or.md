@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-23T11:40:34.661Z'
+datePublished: '2017-01-28T12:25:33.849Z'
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/richard-aldrich-untitled-80'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: 'Richard Aldrich, ''Untitled'', 2011-2012, Phillips: New Now | Artsy'
 publisher: {}
 description: >-
@@ -16,6 +16,7 @@ description: >-
   signature style.
 sourcePath: _posts/2016-09-11-richard-aldrich-untitled-2011-2012-phillips-new-now-or.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:34.661Z'
 _type: MediaObject
 
 ---
