@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-23T11:40:29.471Z'
+datePublished: '2017-01-28T12:25:33.094Z'
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/ellsworth-kelly-untitled-8'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: 'Ellsworth Kelly, ''Untitled'', 1987, Phillips: New Now | Artsy'
 publisher: {}
 description: >-
@@ -16,6 +16,7 @@ description: >-
   maquette for the cover of the original catalogue raisonné of Kelly's prints.
 sourcePath: _posts/2016-09-11-ellsworth-kelly-untitled-1987-phillips-new-now-or-artsy.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.471Z'
 _type: MediaObject
 
 ---
