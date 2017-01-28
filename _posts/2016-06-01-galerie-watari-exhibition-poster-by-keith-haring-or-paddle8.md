@@ -26,13 +26,14 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://paddle8.com/work/keith-haring/111282-galerie-watari-exhibition-poster/'
 title: Galerie Watari Exhibition Poster by Keith Haring | Paddle8
-datePublished: '2016-11-23T11:40:44.950Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:56.172Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 sourcePath: >-
   _posts/2016-06-01-galerie-watari-exhibition-poster-by-keith-haring-or-paddle8.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.950Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
