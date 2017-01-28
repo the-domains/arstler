@@ -4,29 +4,15 @@
         <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 Jan 2017 12:26:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jan 2017 12:26:26 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Jan 2017 12:25:25 GMT</pubDate>
+        <pubDate>Sat, 28 Jan 2017 12:25:29 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f582e36-bc68-404f-b36b-2450002b80c3.jpg">,<p>©&nbsp;bhl_2017 / renay elle morris /<a href="http://photopresseimages.com/">photopresseimages.com</a>&nbsp;/ 2017<br>Bernard-Henri Lévy_portrait studyThe Ukrainian Institute of America / January 2017_NYCDiscussion of The Genius of Judaism&nbsp;</p>]]></description>
             <link>http://arstler.com/c-bhl_2017-renay-elle-morris-photopresseimagescom-2017/index.html</link>
             <guid isPermaLink="false">f1053a32-798a-4d71-807a-4c79e025c958</guid>
             <pubDate>Sat, 28 Jan 2017 12:22:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Tonari No Totoro", Limited Edition Die-Cut Print by Victor Vercesi - From $149 - Curioos]]></title>
-            <description><![CDATA[<article><h1>&quot;Tonari No Totoro&quot;, Limited Edition Die-Cut Print by Victor Vercesi - From $149 - Curioos</h1><p>Sublimation art print on a .045 thick aluminum sheet, precision cut into custom shape. Includes wall hanging hardware. Manually numbered, signed, and shipped with a certificate of authenticity.</p><img src="https://www.curioos.com/Content/Files/Products/150431/583890/ProductOriginal"></article>]]></description>
-            <link>https://www.curioos.com/product/aluminum-die-cut/tonari-no-totoro</link>
-            <guid isPermaLink="false">579cf215-42f7-41d0-9ad0-c7c5ded46759</guid>
-            <pubDate>Wed, 25 Jan 2017 14:55:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Postmodernism - Wikipedia]]></title>
-            <description><![CDATA[<article><h1>Postmodernism - Wikipedia</h1><p>Postmodernism describes both an era and a broad movement that developed in the mid to late 20th century across philosophy, the arts, architecture, and criticism which marked a departure from modernism.</p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Henryk_Miko%C5%82aj_G%C3%B3recki_Polish_composer.jpg/220px-Henryk_Miko%C5%82aj_G%C3%B3recki_Polish_composer.jpg"></article>]]></description>
-            <link>https://en.wikipedia.org/wiki/Postmodernism</link>
-            <guid isPermaLink="false">16bf71e3-882c-4c02-a05a-632c84065db5</guid>
-            <pubDate>Fri, 20 Jan 2017 14:57:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -76,6 +62,20 @@
             <link>https://en.wikipedia.org/wiki/A_Pattern_Language</link>
             <guid isPermaLink="false">6113ed45-0440-4e7c-8de9-fe150f4ae1f8</guid>
             <pubDate>Fri, 16 Dec 2016 15:42:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Tonari No Totoro", Limited Edition Die-Cut Print by Victor Vercesi - From $149 - Curioos]]></title>
+            <description><![CDATA[<article><h1>&quot;Tonari No Totoro&quot;, Limited Edition Die-Cut Print by Victor Vercesi - From $149 - Curioos</h1><p>Sublimation art print on a .045 thick aluminum sheet, precision cut into custom shape. Includes wall hanging hardware. Manually numbered, signed, and shipped with a certificate of authenticity.</p><img src="https://www.curioos.com/Content/Files/Products/150431/583890/ProductOriginal"></article>]]></description>
+            <link>https://www.curioos.com/product/aluminum-die-cut/tonari-no-totoro</link>
+            <guid isPermaLink="false">579cf215-42f7-41d0-9ad0-c7c5ded46759</guid>
+            <pubDate>Wed, 25 Jan 2017 14:55:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Postmodernism - Wikipedia]]></title>
+            <description><![CDATA[<article><h1>Postmodernism - Wikipedia</h1><p>Postmodernism describes both an era and a broad movement that developed in the mid to late 20th century across philosophy, the arts, architecture, and criticism which marked a departure from modernism.</p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Henryk_Miko%C5%82aj_G%C3%B3recki_Polish_composer.jpg/220px-Henryk_Miko%C5%82aj_G%C3%B3recki_Polish_composer.jpg"></article>]]></description>
+            <link>https://en.wikipedia.org/wiki/Postmodernism</link>
+            <guid isPermaLink="false">16bf71e3-882c-4c02-a05a-632c84065db5</guid>
+            <pubDate>Fri, 20 Jan 2017 14:57:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
