@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-23T11:40:29.311Z'
+datePublished: '2017-01-28T12:25:26.874Z'
 inFeed: true
 isBasedOnUrl: 'http://www.artspace.com/karel_appel/ten-by-appel-series-2-nd-172-175-24-x-32'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: 'Ten by Appel series #2, nd, 172-175, 24 x 32, Karel Appel | Artspace.com'
 publisher: {}
 description: >-
@@ -13,6 +13,7 @@ description: >-
   1921. His fi...
 sourcePath: _posts/2016-09-13-ten-by-appel-series-2-nd-172-175-24-x-32-karel-appel-or.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.311Z'
 _type: MediaObject
 
 ---
