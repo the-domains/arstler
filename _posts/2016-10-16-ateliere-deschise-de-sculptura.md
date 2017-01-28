@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-12-13T16:29:34.364Z'
+datePublished: '2017-01-28T12:25:17.679Z'
 sourcePath: _posts/2016-10-16-ateliere-deschise-de-sculptura.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: Ateliere Deschise de Sculptura - Sculpture Open Studios
 publisher:
   name: Vlad Aurel
 description: 'Bucharest, 15/16 - 22/23 Oct'
-datePublishedOriginal: '2016-11-23T11:40:26.631Z'
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.631Z'
 url: ateliere-deschise-de-sculptura/index.html
 _type: Article
 
