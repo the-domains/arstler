@@ -26,12 +26,13 @@ app_links: []
 isBasedOnUrl: >-
   http://www.sothebys.com/content/sothebys/en/news-video/videos/2016/05/red-carpet-jewels-get-the-look.html
 title: 'Red Carpet Jewels: Get the Look | Sotheby''s'
-datePublished: '2016-11-23T11:40:44.978Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:57.658Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 sourcePath: _posts/2016-05-27-red-carpet-jewels-get-the-look-or-sothebys.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.978Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
