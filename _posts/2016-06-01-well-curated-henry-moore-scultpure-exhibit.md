@@ -31,12 +31,13 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.veranda.com/outdoor-garden/henry-moore-outdoor-sculptures_'
 title: 'Well-Curated: Henry Moore Scultpure Exhibit'
-datePublished: '2016-11-23T11:40:44.936Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:56.217Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 sourcePath: _posts/2016-06-01-well-curated-henry-moore-scultpure-exhibit.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.936Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
