@@ -28,13 +28,14 @@ app_links: []
 isBasedOnUrl: >-
   http://www.christies.com/auctions/2016/asia-30th-anniversary-may-2016?sc_lang=en&pid=en_homepage_row1_slot1_1
 title: Christie's Hong Kong 30th Anniversary | Hong Kong Spring Auctions | May 2016
-datePublished: '2016-11-23T11:40:44.978Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:57.585Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 sourcePath: >-
   _posts/2016-05-27-christies-hong-kong-30th-anniversary-or-hong-kong-spring-auc.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.978Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
