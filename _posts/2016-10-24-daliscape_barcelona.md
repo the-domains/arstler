@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-13T16:29:34.256Z'
+datePublished: '2017-01-28T12:25:14.185Z'
 sourcePath: _posts/2016-10-24-daliscape_barcelona.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: Daliscape_Barcelona
 publisher:
   name: |-
@@ -14,8 +14,8 @@ publisher:
 description: >-
   From the series “Women in the Landscape.” © Renay Elle Morris /
   photopresseimages.com
-datePublishedOriginal: '2016-11-23T11:40:26.607Z'
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.607Z'
 url: daliscape_barcelona/index.html
 _type: Article
 
