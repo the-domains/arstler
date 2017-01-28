@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-13T16:59:18.895Z'
+datePublished: '2017-01-28T12:25:11.824Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-13T16:58:52.523Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: Cy Twombly - Sculpture
 publisher: {}
 description: 'American, 1928–2011'
