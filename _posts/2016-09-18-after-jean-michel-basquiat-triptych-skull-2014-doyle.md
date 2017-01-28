@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Home Museums Artists Fairs Shows Auctions Galleries Magazine
-dateModified: '2016-11-23T11:26:45.121Z'
-datePublished: '2016-11-23T11:40:28.213Z'
+dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-01-28T12:25:23.393Z'
 title: >-
   After Jean-Michel Basquiat, 'Triptych Skull', 2014, Doyle: '80s Downtown Art |
   Artsy
@@ -12,6 +12,7 @@ via: {}
 isBasedOnUrl: 'https://m.artsy.net/artwork/after-jean-michel-basquiat-triptych-skull'
 sourcePath: _posts/2016-09-18-after-jean-michel-basquiat-triptych-skull-2014-doyle.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:28.213Z'
 _type: MediaObject
 
 ---
