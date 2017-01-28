@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-13T16:29:34.224Z'
+datePublished: '2017-01-28T12:25:12.405Z'
 inFeed: true
 hasPage: true
 keywords:
@@ -16,8 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-datePublishedOriginal: '2016-12-02T13:18:53.184Z'
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: Marco Guerra
 app_links: []
 publisher: {}
@@ -28,6 +27,7 @@ description: >-
 inLanguage: en
 sourcePath: _posts/2016-12-02-marco-guerra.md
 starred: false
+datePublishedOriginal: '2016-12-02T13:18:53.184Z'
 url: marco-guerra/index.html
 _context: 'http://schema.org'
 _type: MediaObject
