@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: Home Museums Artists Fairs Shows Auctions Galleries Magazine
-dateModified: '2016-12-13T16:29:24.718Z'
-datePublished: '2016-12-13T16:29:34.273Z'
+dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-01-28T12:25:13.821Z'
 title: 'Sandra Davolio, ''Undulating Lines'', 2016, J. Lohmann Gallery | Artsy'
 author: []
 publisher: {}
 via: {}
 isBasedOnUrl: 'https://m.artsy.net/artwork/sandra-davolio-undulating-lines'
 sourcePath: _posts/2016-11-01-sandra-davolio-undulating-lines-2016-j-lohmann-gallery.md
-datePublishedOriginal: '2016-11-23T11:40:26.594Z'
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.594Z'
 _type: MediaObject
 
 ---
