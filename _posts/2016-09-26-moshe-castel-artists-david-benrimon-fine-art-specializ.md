@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-13T16:29:34.350Z'
+datePublished: '2017-01-28T12:25:21.099Z'
 sourcePath: _posts/2016-09-26-moshe-castel-artists-david-benrimon-fine-art-specializ.md
 inFeed: true
 isBasedOnUrl: 'http://www.benrimon.com/artists/moshe-castel'
 author: []
 via: {}
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: Moshe Castel - David Benrimon Fine Art - New York City gallery
 publisher: {}
 description: >-
@@ -13,8 +13,8 @@ description: >-
   Contemporary Art. Recent exhibitions feature works across multiple media
   including Picasso paintings, Botero sculptures and Pop prints by Andy Warhol
   and Roy Lichtenstein.
-datePublishedOriginal: '2016-11-23T11:40:26.649Z'
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.649Z'
 _type: MediaObject
 
 ---
