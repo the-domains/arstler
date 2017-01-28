@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-13T16:29:34.349Z'
+datePublished: '2017-01-28T12:25:15.937Z'
 sourcePath: _posts/2016-11-19-alessandro-casagrande-commercial.md
 inFeed: true
 hasPage: true
@@ -10,13 +10,13 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: Alessandro Casagrande
 app_links: []
 publisher: {}
 description: gogo philip
-datePublishedOriginal: '2016-11-23T11:40:26.625Z'
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.625Z'
 url: alessandro-casagrande/index.html
 _context: 'http://schema.org'
 _type: MediaObject
