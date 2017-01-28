@@ -2,8 +2,8 @@
 title: >-
   Zhou Jinhua 周金华, 'Empathetic Naturalism可怜的自然主义', 2013, ART LABOR Gallery |
   Artsy
-datePublished: '2016-11-23T11:40:34.709Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:38.435Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author: []
 isBasedOnUrl: >-
   https://m.artsy.net/artwork/zhou-jinhua-zhou-jin-hua-empathetic-naturalismke-lian-de-zi-ran-zhu-yi
@@ -15,8 +15,9 @@ description: >-
 publisher: {}
 via: {}
 sourcePath: _posts/2016-08-15-zhou-jinhua-empathetic-naturalism-2013-art-l.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:34.709Z'
 _type: MediaObject
 
 ---
