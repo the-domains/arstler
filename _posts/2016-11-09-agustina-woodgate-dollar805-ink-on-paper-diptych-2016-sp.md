@@ -6,8 +6,8 @@ description: >-
   Buenos Aires, Woodgate moved to Miami in 2004, where she gained recognition
   for covertly stitching labels inscribed with poems into thrift-store clothing
   ("poetry bombing,") and for her work made with human hair.
-dateModified: '2016-12-13T16:29:24.718Z'
-datePublished: '2016-12-13T16:29:34.305Z'
+dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-01-28T12:25:16.883Z'
 title: >-
   Agustina Woodgate, '$8.05 (Ink on paper diptych )', 2016, Spinello Projects |
   Artsy
@@ -17,8 +17,8 @@ via: {}
 isBasedOnUrl: >-
   https://m.artsy.net/artwork/agustina-woodgate-8-dollars-05-cents-ink-on-paper-diptych-1
 sourcePath: _posts/2016-11-09-agustina-woodgate-dollar805-ink-on-paper-diptych-2016-sp.md
-datePublishedOriginal: '2016-11-23T11:40:26.625Z'
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.625Z'
 _type: MediaObject
 
 ---
