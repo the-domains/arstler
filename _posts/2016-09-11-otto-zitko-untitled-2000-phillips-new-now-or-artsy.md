@@ -1,7 +1,7 @@
 ---
 title: 'Otto Zitko, ''Untitled'', 2000, Phillips: New Now | Artsy'
-datePublished: '2016-11-23T11:40:29.471Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:32.232Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/otto-zitko-untitled-19'
 description: >-
@@ -16,6 +16,7 @@ via: {}
 inFeed: true
 sourcePath: _posts/2016-09-11-otto-zitko-untitled-2000-phillips-new-now-or-artsy.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.471Z'
 _type: MediaObject
 
 ---
