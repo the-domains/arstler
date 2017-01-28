@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2016-12-13T16:29:24.718Z'
-datePublished: '2016-12-13T16:29:34.362Z'
+dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-01-28T12:25:22.425Z'
 title: Florian Meisenberg - Um nice guy - Wentrup Gallery
 author: []
 publisher: {}
@@ -10,8 +10,8 @@ via: {}
 isBasedOnUrl: >-
   http://www.wentrupgallery.com/installationphotos/florian-meisenberg-um-nice-guy/
 sourcePath: _posts/2016-09-20-florian-meisenberg-um-nice-guy-wentrup-gallery.md
-datePublishedOriginal: '2016-11-23T11:40:28.172Z'
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:28.172Z'
 _type: MediaObject
 
 ---
