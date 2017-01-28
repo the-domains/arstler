@@ -1,7 +1,7 @@
 ---
 title: The Collection of Sam and Emily Mann | Sotheby's
-datePublished: '2016-11-23T11:40:43.739Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:47.706Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author: []
 isBasedOnUrl: >-
   http://www.sothebys.com/en/news-video/videos/2016/07/collection-of-sam-and-emily-mann.html
@@ -12,8 +12,9 @@ description: >-
 publisher: {}
 via: {}
 sourcePath: _posts/2016-07-23-the-collection-of-sam-and-emily-mann-or-sothebys.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:43.739Z'
 _type: MediaObject
 
 ---
