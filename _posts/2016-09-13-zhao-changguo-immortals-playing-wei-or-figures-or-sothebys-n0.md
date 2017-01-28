@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-23T11:40:29.430Z'
+datePublished: '2017-01-28T12:25:29.098Z'
 inFeed: true
 isBasedOnUrl: >-
   http://www.sothebys.com/en/auctions/ecatalogue/2016/roy-and-marilyn-papp-collection-of-chinese-paintings-n09544/lot.510.html
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: zhao changguo immortals playing wei | figures | sotheby's n09544lot94r3nen
 publisher: {}
 description: >-
@@ -15,6 +15,7 @@ description: >-
 sourcePath: >-
   _posts/2016-09-13-zhao-changguo-immortals-playing-wei-or-figures-or-sothebys-n0.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.430Z'
 _type: MediaObject
 
 ---
