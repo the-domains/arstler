@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-13T16:29:34.358Z'
+datePublished: '2017-01-28T12:25:22.520Z'
 inFeed: true
 isBasedOnUrl: 'https://www.artsy.net/artwork/russell-james-ten-1'
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: 'Russell James | Ten (2015) | Available for Sale '
 app_links:
   - url: 'https://www.artsy.net/artwork/russell-james-ten-1'
@@ -34,8 +34,8 @@ description: >-
   Archival Pigment Print, 46 7/8 × 59 7/8 in
 inLanguage: en
 sourcePath: _posts/2016-09-19-russell-james-or-ten-2015-or-available-for-sale.md
-datePublishedOriginal: '2016-11-23T11:40:28.189Z'
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:28.189Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
