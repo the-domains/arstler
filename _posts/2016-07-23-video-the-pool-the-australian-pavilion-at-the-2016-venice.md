@@ -2,8 +2,8 @@
 title: >-
   Video: The Pool - The Australian Pavilion at the 2016 Venice Biennale of
   Architecture
-datePublished: '2016-11-23T11:40:43.730Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:47.462Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author:
   - name: Lauren Crockett
     url: 'http://www.archdaily.com/author/lauren-crockett'
@@ -20,8 +20,9 @@ description: >-
 publisher: {}
 via: {}
 sourcePath: _posts/2016-07-23-video-the-pool-the-australian-pavilion-at-the-2016-venice.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:43.730Z'
 _type: MediaObject
 
 ---
