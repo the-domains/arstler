@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-23T11:40:29.470Z'
+datePublished: '2017-01-28T12:25:32.828Z'
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/richard-deacon-coat'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: 'Richard Deacon, ''Coat'', 1990, Phillips: New Now | Artsy'
 publisher: {}
 description: >-
@@ -14,6 +14,7 @@ description: >-
   strength, the organic and the geometric, grace and awkwardness.
 sourcePath: _posts/2016-09-11-richard-deacon-coat-1990-phillips-new-now-or-artsy.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.470Z'
 _type: MediaObject
 
 ---
