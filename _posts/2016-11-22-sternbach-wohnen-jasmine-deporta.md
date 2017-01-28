@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-13T16:29:34.223Z'
+datePublished: '2017-01-28T12:25:12.196Z'
 sourcePath: _posts/2016-11-22-sternbach-wohnen-jasmine-deporta.md
 inFeed: true
 hasPage: true
@@ -8,8 +8,7 @@ keywords:
 related: []
 author: []
 via: {}
-datePublishedOriginal: '2016-12-02T13:19:35.596Z'
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: Sternbach Wohnen - Jasmine Deporta
 app_links: []
 publisher:
@@ -21,6 +20,7 @@ description: >-
   sternbach fashion by hansen garments hats by reinhard plank model samira
   styling kamm&schere furniture sternbach wohnen
 starred: false
+datePublishedOriginal: '2016-12-02T13:19:35.596Z'
 url: sternbach-wohnen-jasmine-deporta/index.html
 _context: 'http://schema.org'
 _type: MediaObject
