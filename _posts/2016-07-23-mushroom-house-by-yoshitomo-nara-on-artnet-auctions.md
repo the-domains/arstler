@@ -1,7 +1,7 @@
 ---
 title: Mushroom House by Yoshitomo Nara on artnet Auctions
-datePublished: '2016-11-23T11:40:43.701Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:47.339Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author: []
 isBasedOnUrl: 'https://www.artnet.com/auctions/artists/yoshitomo-nara/mushroom-house-2'
 description: >-
@@ -13,8 +13,9 @@ description: >-
 publisher: {}
 via: {}
 sourcePath: _posts/2016-07-23-mushroom-house-by-yoshitomo-nara-on-artnet-auctions.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:43.701Z'
 _type: MediaObject
 
 ---
