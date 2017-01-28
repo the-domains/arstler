@@ -34,11 +34,12 @@ isBasedOnUrl: >-
 title: >-
   Andy Warhol | "Shoe Of The Evening, Beautiful Shoe" from Shoe Portfolio
   (1955), Available for Sale | Artsy
-datePublished: '2016-11-23T11:40:48.490Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:26:07.900Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 sourcePath: >-
   _posts/2016-05-03-andy-warhol-or-shoe-of-the-evening-beautiful-shoe-from-sho.md
 starred: false
+datePublishedOriginal: '2016-05-03T17:10:52.884Z'
 via: {}
 inFeed: true
 _context: 'http://schema.org'
