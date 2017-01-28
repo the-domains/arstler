@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-13T16:29:34.357Z'
+datePublished: '2017-01-28T12:25:21.078Z'
 inFeed: true
 isBasedOnUrl: 'http://www.benrimon.com/artists/marc-quinn/featured-works?view=slider#1'
 author: []
 via: {}
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: 'Marc Quinn - David Benrimon Fine Art '
 publisher: {}
 description: >-
@@ -14,8 +14,8 @@ description: >-
   has been installed on the fourth plinth at Trafalgar Square, Self, a sculpture
   of his head made with his own frozen blood, and Garden (2000).
 sourcePath: _posts/2016-09-28-marc-quinn-david-benrimon-fine-art.md
-datePublishedOriginal: '2016-11-23T11:40:26.651Z'
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.651Z'
 _type: MediaObject
 
 ---
