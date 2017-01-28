@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-12-13T16:29:34.287Z'
+datePublished: '2017-01-28T12:25:16.715Z'
 sourcePath: _posts/2016-11-09-kendell-geers-wretched-of-the-earth-48-2014-2016-adn-or.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: ''
 publisher: {}
 description: 'Kendell Geers, ''Wretched of the Earth 48'', 2014-2016, ADN'
-datePublishedOriginal: '2016-11-23T11:40:26.622Z'
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.622Z'
 url: kendell-geers-wretched-of-the-earth-48-2014-2016-adn-or/index.html
 _type: Article
 
