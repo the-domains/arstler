@@ -14,8 +14,8 @@ keywords:
   - parents
   - '432'
 description: Richard Renaldi - Touching Strangers
-datePublished: '2016-11-23T11:40:44.935Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:57.041Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author:
   - name: Sevgi Cukka
     url: 'https://www.youtube.com/channel/UCEV7-dfmpP1Zqfbl22F2E1w'
@@ -62,8 +62,9 @@ title: ''
 authors: []
 publisher: {}
 sourcePath: _posts/2016-05-31-richard-renaldi-touching-strangers.md
-starred: false
 via: {}
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.935Z'
 url: richard-renaldi-touching-strangers/index.html
 _type: VideoObject
 _context: 'http://schema.org'
