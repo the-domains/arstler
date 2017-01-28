@@ -1,7 +1,7 @@
 ---
 title: ART FRONT GALLERY | ART FRONT GALLERY
-datePublished: '2016-11-23T11:40:26.781Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:40.457Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author: []
 isBasedOnUrl: 'http://www.artfrontgallery.com/en/'
 description: >-
@@ -12,8 +12,9 @@ description: >-
 publisher: {}
 via: {}
 sourcePath: _posts/2016-07-30-art-front-gallery-or-art-front-gallery.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.781Z'
 _type: MediaObject
 
 ---
