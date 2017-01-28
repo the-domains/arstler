@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-23T11:40:28.190Z'
+datePublished: '2017-01-28T12:25:23.468Z'
 sourcePath: _posts/2016-09-18-eric-kroll-madonna-1-ca-1984-doyle-80s-downtown-art.md
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/eric-kroll-madonna-number-1'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: 'Eric Kroll, ''Madonna #1'', ca. 1984, Doyle: ''80s Downtown Art '
 publisher: {}
 description: >-
@@ -15,6 +15,7 @@ description: >-
   seediest spots and denizens, sharing a certain aesthetic with fellow
   photographers Larry Clark and Richard Kern.
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:28.190Z'
 _type: MediaObject
 
 ---
