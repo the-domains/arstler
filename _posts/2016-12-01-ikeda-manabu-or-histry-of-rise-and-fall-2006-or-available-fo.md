@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-13T16:59:18.918Z'
+datePublished: '2017-01-28T12:25:11.817Z'
 sourcePath: >-
   _posts/2016-12-01-ikeda-manabu-or-histry-of-rise-and-fall-2006-or-available-fo.md
 inFeed: true
@@ -21,7 +21,7 @@ author:
     url: 'https://www.youtube.com/user/JapanSocietyNYC'
     avatar: {}
 via: {}
-dateModified: '2016-12-13T16:58:52.523Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: 'Ikeda Manabu - monumental ink and pen '
 app_links:
   - url: 'https://www.artsy.net/artwork/ikeda-manabu-histry-of-rise-and-fall'
