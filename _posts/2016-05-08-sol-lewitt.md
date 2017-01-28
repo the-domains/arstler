@@ -6,19 +6,16 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: SOL LEWITT
-datePublished: '2016-11-23T11:40:44.558Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:26:03.666Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author: []
 title: ''
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 sourcePath: _posts/2016-05-08-sol-lewitt.md
-starred: false
 via: {}
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.558Z'
 _context: 'http://schema.org'
 _type: Article
 
