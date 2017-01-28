@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-11-23T11:40:29.305Z'
+datePublished: '2017-01-28T12:25:25.657Z'
 sourcePath: >-
   _posts/2016-09-16-hans-fex-is-raising-funds-for-mini-museum-2-the-second-edit.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: ''
 publisher: {}
 description: >-
@@ -14,6 +14,7 @@ description: >-
   Kickstarter! Billions of years of life, science and history in the palm of
   your hand! Curated and handcrafted to inspire for generations.
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.305Z'
 url: hans-fex-is-raising-funds-for-mini-museum-2-the-second-edit/index.html
 _type: Article
 
