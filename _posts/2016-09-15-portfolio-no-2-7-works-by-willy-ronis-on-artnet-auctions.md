@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-23T11:40:29.443Z'
+datePublished: '2017-01-28T12:25:29.495Z'
 inFeed: true
 isBasedOnUrl: 'https://www.artnet.com/auctions/artists/willy-ronis/portfolio-no-2-7-works-2'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: Portfolio No. 2 (7 works) by Willy Ronis on artnet Auctions
 publisher: {}
 description: >-
@@ -14,6 +14,7 @@ description: >-
   throughout his career from the 1930s to 1990s.
 sourcePath: _posts/2016-09-15-portfolio-no-2-7-works-by-willy-ronis-on-artnet-auctions.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.443Z'
 _type: MediaObject
 
 ---
