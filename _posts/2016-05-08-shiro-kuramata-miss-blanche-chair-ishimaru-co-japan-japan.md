@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-13T16:29:34.254Z'
+datePublished: '2017-01-28T12:25:13.436Z'
 sourcePath: _posts/2016-05-08-shiro-kuramata-miss-blanche-chair-ishimaru-co-japan-japan.md
 inFeed: true
 hasPage: true
@@ -8,8 +8,7 @@ author:
     url: 'https://www.dezeen.com/author/dan-howarth/'
     avatar: {}
 via: {}
-datePublishedOriginal: '2016-12-02T12:44:13.213Z'
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: 'A-Zdvent calendar: Miss Blanche Chair by Shiro Kuramata'
 publisher: {}
 description: >-
@@ -23,6 +22,7 @@ description: >-
   Sottsass, 21_21 Design Sight exhibition catalog, pg. 68 for a drawing, ppg.
   69, 208, 211
 starred: false
+datePublishedOriginal: '2016-12-02T12:44:13.213Z'
 url: a-zdvent-calendar-miss-blanche-chair-by-shiro-kuramata/index.html
 _context: 'http://schema.org'
 _type: Article
