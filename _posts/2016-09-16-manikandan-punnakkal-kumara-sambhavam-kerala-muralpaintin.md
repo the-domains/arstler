@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Manikandan Punnakkal - Kumara Sambhavam (Kerala MuralPainting) - Acrylic on
   canvas 29.7 x 26 in 75.5 x 66 cm - Acrylic on canvas
-dateModified: '2016-11-23T11:26:45.121Z'
-datePublished: '2016-11-23T11:40:29.284Z'
+dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-01-28T12:25:25.171Z'
 title: Manikandan Punnakkal - Kumara Sambhavam (Kerala MuralPainting)
 author: []
 publisher: {}
@@ -12,6 +12,7 @@ via: {}
 isBasedOnUrl: 'https://www.storyltd.com/auction/item.aspx?eid=4009&lotno=31'
 sourcePath: _posts/2016-09-16-manikandan-punnakkal-kumara-sambhavam-kerala-muralpaintin.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.284Z'
 _type: MediaObject
 
 ---
