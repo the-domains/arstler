@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Artists Exhibitions Publications Art Fairs Contact News
-dateModified: '2016-11-23T11:26:45.121Z'
-datePublished: '2016-11-23T11:40:29.283Z'
+dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-01-28T12:25:24.768Z'
 title: John Santoro - Exhibitions - Richard Gray Gallery
 author: []
 publisher: {}
@@ -11,6 +11,7 @@ isBasedOnUrl: >-
   http://www.richardgraygallery.com/exhibitions/john-santoro/selected-works?view=slider
 sourcePath: _posts/2016-09-17-john-santoro-exhibitions-richard-gray-gallery.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.283Z'
 _type: MediaObject
 
 ---
