@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-23T11:40:34.676Z'
+datePublished: '2017-01-28T12:25:33.869Z'
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/chris-martin-dedicated-to-blinky-palermo-1973-2005'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: >-
   Chris Martin, 'Dedicated to Blinky Palermo, 1973-2005', 1973-2005, Phillips:
   New Now | Artsy
@@ -15,6 +15,7 @@ description: >-
   and dated "C MARTIN 1973-2005 CM" on the reverse
 sourcePath: _posts/2016-09-11-chris-martin-dedicated-to-blinky-palermo-1973-2005-1973.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:34.676Z'
 _type: MediaObject
 
 ---
