@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-23T11:40:28.205Z'
+datePublished: '2017-01-28T12:25:23.655Z'
 sourcePath: _posts/2016-09-18-donald-baechler-untitled-1996-doyle-80s-downtown-art.md
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/donald-baechler-untitled-9'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: 'Donald Baechler, ''Untitled'', 1996, Doyle: ''80s Downtown Art | Artsy'
 publisher: {}
 description: >-
@@ -15,6 +15,7 @@ description: >-
   drawings, or purposely cliché motifs such as a skull, a rose, a globe, and a
   soccer ball.
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:28.205Z'
 _type: MediaObject
 
 ---
