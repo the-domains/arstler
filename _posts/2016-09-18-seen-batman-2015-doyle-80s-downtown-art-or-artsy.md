@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-23T11:40:28.190Z'
+datePublished: '2017-01-28T12:25:24.090Z'
 sourcePath: _posts/2016-09-18-seen-batman-2015-doyle-80s-downtown-art-or-artsy.md
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/seen-batman'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: 'SEEN, ''Batman'', 2015, Doyle: ''80s Downtown Art '
 publisher: {}
 description: >-
@@ -14,6 +14,7 @@ description: >-
   the late 60s-early 70s style of famed comic art legends Jim Aparo and Carmine
   Infantino. -Courtesy of Doyle
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:28.190Z'
 _type: MediaObject
 
 ---
