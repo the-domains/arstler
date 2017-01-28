@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-13T16:29:34.363Z'
+datePublished: '2017-01-28T12:25:22.860Z'
 sourcePath: _posts/2016-09-18-keith-haring-am-fm-radio-ca-1985-doyle-80s-downtown.md
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/keith-haring-am-fm-radio'
 author: []
 via: {}
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: 'Keith Haring, ''AM-FM Radio'', ca. 1985, Doyle: ''80s Downtown Art | Artsy'
 publisher: {}
 description: >-
@@ -14,8 +14,8 @@ description: >-
   store was known for. The Dog pull toy, created after his passing in 1992, is
   indicative of how masterfully his imagery and color palette relate to
   children.
-datePublishedOriginal: '2016-11-23T11:40:29.238Z'
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.238Z'
 _type: MediaObject
 
 ---
