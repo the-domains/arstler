@@ -2,8 +2,8 @@
 title: >-
   Ella Kruglyanskaya, 'Apples and Oranges in Blue', 2013, Phillips: New Now |
   Artsy
-datePublished: '2016-11-23T11:40:34.667Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:33.982Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/ella-kruglyanskaya-apples-and-oranges-in-blue'
 description: >-
@@ -17,6 +17,7 @@ via: {}
 inFeed: true
 sourcePath: _posts/2016-09-11-ella-kruglyanskaya-apples-and-oranges-in-blue-2013-phil.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:34.667Z'
 _type: MediaObject
 
 ---
