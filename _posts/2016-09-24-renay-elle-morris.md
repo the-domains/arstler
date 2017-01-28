@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-12-13T16:29:34.357Z'
+datePublished: '2017-01-28T12:25:21.749Z'
 sourcePath: _posts/2016-09-24-renay-elle-morris.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: Renay Elle Morris
 publisher: {}
 description: Invited Author
-datePublishedOriginal: '2016-11-23T11:40:28.180Z'
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:28.180Z'
 url: renay-elle-morris/index.html
 _type: Blurb
 
