@@ -16,15 +16,16 @@ description: >-
   denotes the place where the basic materials were discovered. Inspired by the
   famous French “BirdMan”, Léo Valentin, César creates his winged figures which
   represent a central theme in the artist's early oeuvre.
-datePublished: '2016-11-23T11:40:45.019Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:59.837Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author: []
 title: ''
 authors: []
 publisher: {}
 sourcePath: _posts/2016-05-16-cesar-marseille-1921-1998-paris-lhomme-de-villetaneuse-19.md
-starred: false
 via: {}
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:45.019Z'
 _context: 'http://schema.org'
 _type: Article
 
