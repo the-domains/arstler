@@ -1,19 +1,19 @@
 ---
-datePublished: '2016-12-03T12:10:32.087Z'
+datePublished: '2017-01-28T12:25:23.066Z'
 sourcePath: _posts/2016-09-18-jeff-koons-cracked-egg-red-2008-doyle-80s-downtown.md
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/jeff-koons-cracked-egg-red-1'
 author: []
 via: {}
-dateModified: '2016-12-03T12:10:22.256Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: 'Jeff Koons, ''Cracked Egg (Red)'', 2008, Doyle: ''80s Downtown Art | Artsy'
 publisher: {}
 description: >-
   Jeff Koons plays with ideas of taste, pleasure, celebrity, and commerce. "I
   believe in advertisement and media completely," he says. "My art and my
   personal life are based in it."
-starred: false
 datePublishedOriginal: '2016-11-23T11:40:28.152Z'
+starred: false
 _type: MediaObject
 
 ---
