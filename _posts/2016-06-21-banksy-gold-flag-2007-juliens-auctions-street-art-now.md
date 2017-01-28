@@ -1,7 +1,7 @@
 ---
 title: 'Banksy, ''Gold Flag'', 2007, Julien''s Auctions: Street Art Now June 2016 | Artsy'
-datePublished: '2016-11-23T11:40:44.221Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:55.030Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/banksy-gold-flag-9'
 description: >-
@@ -11,10 +11,11 @@ description: >-
   conquerors stand defiant and proud nonetheless, waving the flag above the
   scorched remnants of the American dream.
 sourcePath: _posts/2016-06-21-banksy-gold-flag-2007-juliens-auctions-street-art-now.md
-starred: false
 publisher: {}
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.221Z'
 _type: MediaObject
 
 ---
