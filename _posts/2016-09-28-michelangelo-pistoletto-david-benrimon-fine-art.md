@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-13T16:29:34.350Z'
+datePublished: '2017-01-28T12:25:20.860Z'
 inFeed: true
 isBasedOnUrl: >-
   http://www.benrimon.com/artists/michelangelo-pistoletto/featured-works?view=slider#2
 author: []
 via: {}
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: 'Michelangelo Pistoletto - David Benrimon Fine Art '
 publisher: {}
 description: >-
@@ -15,8 +15,8 @@ description: >-
   with the subject matter of reflection and the unification of art and everyday
   life in terms of a Gesamtkunstwerk.
 sourcePath: _posts/2016-09-28-michelangelo-pistoletto-david-benrimon-fine-art.md
-datePublishedOriginal: '2016-11-23T11:40:26.651Z'
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.651Z'
 _type: MediaObject
 
 ---
