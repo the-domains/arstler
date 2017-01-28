@@ -22,12 +22,13 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://arteuropeauctions.com/daanvgolden/'
 title: Daan van Golden Highlight - Art Europe Auctions
-datePublished: '2016-11-23T11:40:44.560Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:26:04.405Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 sourcePath: _posts/2016-05-08-daan-van-golden-highlight-art-europe-auctions.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.560Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
