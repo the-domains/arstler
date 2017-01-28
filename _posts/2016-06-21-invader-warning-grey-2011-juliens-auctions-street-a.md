@@ -2,8 +2,8 @@
 title: >-
   Invader, 'Warning (Grey)', 2011, Julien's Auctions: Street Art Now June 2016 |
   Artsy
-datePublished: '2016-11-23T11:40:44.239Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:55.429Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/invader-warning-grey'
 description: >-
@@ -14,10 +14,11 @@ description: >-
   pieces to sell in traditional brick and mortar galleries, often reproducing
   his street stencils into prints for consumption by the general public.
 sourcePath: _posts/2016-06-21-invader-warning-grey-2011-juliens-auctions-street-a.md
-starred: false
 publisher: {}
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.239Z'
 _type: MediaObject
 
 ---
