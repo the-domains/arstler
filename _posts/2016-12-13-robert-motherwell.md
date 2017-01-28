@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: '(January 24, 1915 – July 16, 1991)'
-dateModified: '2017-01-25T14:58:47.766Z'
-datePublished: '2017-01-25T14:58:48.431Z'
+dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-01-28T12:25:07.113Z'
 title: Robert Motherwell
 author:
   - name: Arts Et Culture
