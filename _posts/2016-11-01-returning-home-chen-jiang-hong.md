@@ -3,16 +3,16 @@ inFeed: true
 description: >-
   Gallery Elena Shchukina presents Returning Home, an exhibition of ink wash and
   oil painting by Paris-based Chinese artist Chen Jiang-Hong
-dateModified: '2016-12-13T16:29:24.718Z'
-datePublished: '2016-12-13T16:29:34.274Z'
+dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-01-28T12:25:13.788Z'
 title: 'Returning Home: Chen Jiang-Hong'
 author: []
 publisher: {}
 via: {}
 isBasedOnUrl: 'http://galleryelenashchukina.com/chen-jiang-hong/returning-home/'
 sourcePath: _posts/2016-11-01-returning-home-chen-jiang-hong.md
-datePublishedOriginal: '2016-11-23T11:40:26.598Z'
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.598Z'
 _type: MediaObject
 
 ---
