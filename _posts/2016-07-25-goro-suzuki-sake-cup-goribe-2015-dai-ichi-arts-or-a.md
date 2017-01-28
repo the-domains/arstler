@@ -1,7 +1,7 @@
 ---
 title: 'Goro Suzuki 鈴木五郎, ''Sake Cup Goribe'', 2015, Dai Ichi Arts | Artsy'
-datePublished: '2016-11-23T11:40:43.645Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:44.572Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/goro-suzuki-ling-mu-wu-lang-sake-cup-goribe-1'
 description: >-
@@ -12,8 +12,9 @@ description: >-
 publisher: {}
 via: {}
 sourcePath: _posts/2016-07-25-goro-suzuki-sake-cup-goribe-2015-dai-ichi-arts-or-a.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:43.645Z'
 _type: MediaObject
 
 ---
