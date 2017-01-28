@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-23T11:40:29.471Z'
+datePublished: '2017-01-28T12:25:32.240Z'
 inFeed: true
 isBasedOnUrl: >-
   https://m.artsy.net/artwork/joseph-beuys-die-wahreit-als-winderkerze-fur-klaus-hennig
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: >-
   Joseph Beuys, 'Die Wahreit als Winderkerze für Klaus Hennig', 1973, Phillips:
   New Now | Artsy
@@ -18,6 +18,7 @@ description: >-
   and dead animals.
 sourcePath: _posts/2016-09-11-joseph-beuys-die-wahreit-als-winderkerze-fur-klaus-hennig.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.471Z'
 _type: MediaObject
 
 ---
