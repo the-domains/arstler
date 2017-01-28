@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-23T11:40:29.323Z'
+datePublished: '2017-01-28T12:25:27.369Z'
 inFeed: true
 isBasedOnUrl: 'http://www.artspace.com/matthew-chambers/our-defective-senses'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: 'Our Defective Senses, Matthew Chambers | Artspace.com'
 publisher: {}
 description: >-
@@ -15,6 +15,7 @@ description: >-
   never stopped and the images never ceased moving.
 sourcePath: _posts/2016-09-13-our-defective-senses-matthew-chambers-or-artspacecom.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.323Z'
 _type: MediaObject
 
 ---
