@@ -31,12 +31,13 @@ app_links:
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/show/burning-in-water-a-certain-kind-of-eden'
 title: a certain kind of Eden | Burning in Water | Artsy
-datePublished: '2016-11-23T11:40:44.999Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:25:58.574Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 sourcePath: _posts/2016-05-27-a-certain-kind-of-eden-or-burning-in-water-or-artsy.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.999Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
