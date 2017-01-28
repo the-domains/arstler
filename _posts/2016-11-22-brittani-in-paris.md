@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-13T16:59:18.869Z'
+datePublished: '2017-01-28T12:25:12.217Z'
 sourcePath: _posts/2016-11-22-brittani-in-paris.md
 inFeed: true
 hasPage: true
@@ -7,7 +7,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-12-13T16:58:52.523Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: Jen Senn
 app_links: []
 publisher: {}
