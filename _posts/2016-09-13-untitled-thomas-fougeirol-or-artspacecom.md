@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-23T11:40:29.312Z'
+datePublished: '2017-01-28T12:25:27.270Z'
 inFeed: true
 isBasedOnUrl: 'http://www.artspace.com/thomas-fougeirol/untitled'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: 'Untitled, Thomas Fougeirol | Artspace.com'
 publisher: {}
 description: >-
@@ -12,6 +12,7 @@ description: >-
   characterized by an exploration of notions of absence and disappear...
 sourcePath: _posts/2016-09-13-untitled-thomas-fougeirol-or-artspacecom.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.312Z'
 _type: MediaObject
 
 ---
