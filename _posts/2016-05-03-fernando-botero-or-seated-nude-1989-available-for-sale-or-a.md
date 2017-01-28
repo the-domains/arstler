@@ -29,11 +29,12 @@ app_links:
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/artwork/fernando-botero-seated-nude'
 title: 'Fernando Botero | Seated Nude (1989), Available for Sale | Artsy'
-datePublished: '2016-11-23T11:40:48.498Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-28T12:26:08.084Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 sourcePath: >-
   _posts/2016-05-03-fernando-botero-or-seated-nude-1989-available-for-sale-or-a.md
 starred: false
+datePublishedOriginal: '2016-05-03T17:10:53.080Z'
 via: {}
 inFeed: true
 _context: 'http://schema.org'
