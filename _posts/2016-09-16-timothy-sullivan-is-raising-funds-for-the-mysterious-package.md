@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-11-23T11:40:29.290Z'
+datePublished: '2017-01-28T12:25:25.984Z'
 sourcePath: >-
   _posts/2016-09-16-timothy-sullivan-is-raising-funds-for-the-mysterious-package.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: ''
 publisher: {}
 description: >-
@@ -14,6 +14,7 @@ description: >-
   Filigree in Shadow on Kickstarter! Filigree in Shadow is a Victorian thriller,
   delivered to your doorstep by mail.
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.290Z'
 url: timothy-sullivan-is-raising-funds-for-the-mysterious-package/index.html
 _type: Article
 
