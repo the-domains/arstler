@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-13T16:29:34.272Z'
+datePublished: '2017-01-28T12:25:14.743Z'
 sourcePath: _posts/2016-11-22-artspace-australia-2016.md
 inFeed: true
 hasPage: true
@@ -7,14 +7,14 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: 'Artspace Australia, 2016 - RYAN McGINLEY'
 app_links: []
 publisher: {}
 description: 'http://ryanmcginley.com/the-public-body/'
 inLanguage: fr
-datePublishedOriginal: '2016-11-27T19:21:42.721Z'
 starred: false
+datePublishedOriginal: '2016-11-27T19:21:42.721Z'
 url: artspace-australia-2016-ryan-mcginley/index.html
 _context: 'http://schema.org'
 _type: MediaObject
