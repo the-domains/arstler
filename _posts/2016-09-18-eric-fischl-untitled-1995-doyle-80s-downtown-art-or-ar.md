@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-03T12:10:32.087Z'
+datePublished: '2017-01-28T12:25:23.371Z'
 sourcePath: _posts/2016-09-18-eric-fischl-untitled-1995-doyle-80s-downtown-art-or-ar.md
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/eric-fischl-untitled-96'
 author: []
 via: {}
-dateModified: '2016-12-03T12:10:22.256Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: 'Eric Fischl, ''Untitled'', 1995, Doyle: ''80s Downtown Art | Artsy'
 publisher: {}
 description: >-
@@ -15,8 +15,8 @@ description: >-
   masturbating. His work commonly exposes the dark, disturbing undercurrents of
   American life; his unconventional 9/11 memorial sculpture, Tumbling Woman
   (2001), was removed from public view amid controversy.
-starred: false
 datePublishedOriginal: '2016-11-23T11:40:28.190Z'
+starred: false
 _type: MediaObject
 
 ---
