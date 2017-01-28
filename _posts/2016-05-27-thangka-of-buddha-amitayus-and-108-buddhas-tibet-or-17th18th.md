@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-12-13T16:29:34.242Z'
+datePublished: '2017-01-28T12:25:13.049Z'
 sourcePath: >-
   _posts/2016-05-27-thangka-of-buddha-amitayus-and-108-buddhas-tibet-or-17th18th.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-datePublishedOriginal: '2016-12-02T13:07:49.369Z'
-dateModified: '2016-12-13T16:29:24.718Z'
+dateModified: '2017-01-28T12:24:29.511Z'
 title: THANGKA OF BUDDHA AMITAYUS AND 108 BUDDHAS.
 publisher: {}
 description: 'THANGKA OF BUDDHA AMITAYUS AND 108 BUDDHAS '
 starred: false
+datePublishedOriginal: '2016-12-02T13:07:49.369Z'
 url: thangka-of-buddha-amitayus-and-108-buddhas/index.html
 _context: 'http://schema.org'
 _type: Article
