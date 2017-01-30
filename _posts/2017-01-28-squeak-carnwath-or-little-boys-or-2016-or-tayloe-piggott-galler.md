@@ -84,18 +84,19 @@ description: >-
   Paintings, sculpture, limited edition prints, art consulting and interior
   design services.
 app_links: []
-isBasedOnUrl: 'http://www.tayloepiggottgallery.com/artist/Squeak_Carnwath/works/2252'
 title: Squeak Carnwath | Little Boys | 2016 | Tayloe Piggott Gallery
-datePublished: '2017-01-28T12:45:23.612Z'
-dateModified: '2017-01-28T12:45:23.141Z'
+datePublished: '2017-01-30T11:35:55.750Z'
+dateModified: '2017-01-30T11:35:55.104Z'
 via: {}
 inFeed: true
 sourcePath: >-
   _posts/2017-01-28-squeak-carnwath-or-little-boys-or-2016-or-tayloe-piggott-galler.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-01-28T12:38:57.856Z'
+url: squeak-carnwath-or-little-boys-or-2016-or-tayloe-piggott-galler/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Squeak Carnwath | Little Boys | 2016 | Tayloe Piggott Gallery</h1><p>Tayloe Piggott Gallery (previously JH Muse Gallery) exhibits modern and contemporary art in Jackson Hole, Wyoming. http://www.tayloepiggottgallery.com Paintings, sculpture, limited edition prints, art consulting and interior design services.</p><img src="http://d2wsxwt4dr9n8v.cloudfront.net/cf/www.tayloepiggottgallery.com/17943_h1000w1000gt.3.jpg" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5f66920e0128c1848eabf510824ff8ac/noop.jpg?input=http%3A%2F%2Fd2wsxwt4dr9n8v.cloudfront.net%2Fcf%2Fwww.tayloepiggottgallery.com%2F17943_h1000w1000gt.3.jpg" /><h1>Squeak Carnwath | Little Boys | 2016 | Tayloe Piggott Gallery</h1><p>Tayloe Piggott Gallery (previously JH Muse Gallery) exhibits modern and contemporary art in Jackson Hole, Wyoming. http://www.tayloepiggottgallery.com Paintings, sculpture, limited edition prints, art consulting and interior design services.</p></article>
