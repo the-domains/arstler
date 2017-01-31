@@ -30,8 +30,8 @@ app_links:
     namespace: google
     type: android
 title: Neo-expressionism
-datePublished: '2017-01-28T12:25:09.933Z'
-dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-01-31T14:27:16.519Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 via: {}
 inFeed: true
 hasPage: true
