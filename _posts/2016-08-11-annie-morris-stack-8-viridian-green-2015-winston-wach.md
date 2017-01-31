@@ -2,8 +2,8 @@
 title: >-
   Annie Morris, 'Stack 8 (Viridian Green)', 2015, Winston Wächter Fine Art |
   Artsy
-datePublished: '2016-11-23T11:40:34.712Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:27:47.103Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/annie-morris-stack-8-viridian-green'
 description: >-
@@ -15,8 +15,9 @@ description: >-
 publisher: {}
 via: {}
 sourcePath: _posts/2016-08-11-annie-morris-stack-8-viridian-green-2015-winston-wach.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:34.712Z'
 _type: MediaObject
 
 ---
