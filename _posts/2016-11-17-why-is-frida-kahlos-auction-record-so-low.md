@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-28T12:25:16.207Z'
+datePublished: '2017-01-31T14:27:23.271Z'
 sourcePath: _posts/2016-11-17-why-is-frida-kahlos-auction-record-so-low.md
 inFeed: true
 hasPage: true
@@ -9,7 +9,7 @@ author:
       https://m.artsy.net/article/artsy-editorial-why-is-frida-kahlo-s-auction-record-so-low
     avatar: {}
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: Why Is Frida Kahlo's Auction Record So Low?
 publisher:
   url: >-
