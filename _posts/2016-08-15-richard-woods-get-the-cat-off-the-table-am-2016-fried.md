@@ -1,7 +1,7 @@
 ---
 title: 'Richard Woods, ''Get the Cat Off the Table (AM)'', 2016, Friedman Benda | Artsy'
-datePublished: '2016-11-23T11:40:34.706Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:27:45.534Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/richard-woods-get-the-cat-off-the-table-am'
 description: >-
@@ -12,8 +12,9 @@ description: >-
 publisher: {}
 via: {}
 sourcePath: _posts/2016-08-15-richard-woods-get-the-cat-off-the-table-am-2016-fried.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:34.706Z'
 _type: MediaObject
 
 ---
