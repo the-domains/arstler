@@ -18,8 +18,8 @@ keywords:
 description: >-
   Available for sale from SFMOMA: The Modern Ball Auction, Mark Bradford,
   Untitled Pink (SFMOMA Benefit) (2016), Mixed media on canvas, 60 × 48 in
-datePublished: '2017-01-28T12:26:05.317Z'
-dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-01-31T14:28:14.746Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 related: []
 app_links:
@@ -38,9 +38,9 @@ publisher:
   url: 'https://www.artsy.net'
   favicon: 'https://www.artsy.net/images/favicon.ico'
 sourcePath: _posts/2016-05-06-mark-bradford-or-untitled-pink-sfmoma-benefit-2016-avail.md
+via: {}
 starred: false
 datePublishedOriginal: '2016-05-06T14:13:52.335Z'
-via: {}
 _context: 'http://schema.org'
 _type: MediaObject
 
