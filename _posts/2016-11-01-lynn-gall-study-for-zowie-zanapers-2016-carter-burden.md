@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Home Museums Artists Fairs Shows Auctions Galleries Magazine
-dateModified: '2017-01-28T12:24:29.511Z'
-datePublished: '2017-01-28T12:25:11.210Z'
+dateModified: '2017-01-31T14:26:38.007Z'
+datePublished: '2017-01-31T14:27:17.864Z'
 title: 'Lynn Gall, ''Study for Zowie! Zanapers!'', 2016, Carter Burden Gallery | Artsy'
 author: []
 publisher: {}
