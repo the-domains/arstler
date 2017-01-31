@@ -5,8 +5,8 @@ description: >-
   photographs over the course of his career. He became famous for "Un Voyage
   Sentimental" (1971), a series of photos depicting both banal and deeply
   intimate scenes of his wife during their honeymoon.
-dateModified: '2017-01-28T12:24:29.511Z'
-datePublished: '2017-01-28T12:25:25.428Z'
+dateModified: '2017-01-31T14:26:38.007Z'
+datePublished: '2017-01-31T14:27:32.823Z'
 title: >-
   Nobuyoshi Araki, 'Untitled, #28, from the series "Last by Leica"', 2012-2014,
   Galerie OstLicht | Artsy
