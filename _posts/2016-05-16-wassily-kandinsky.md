@@ -28,12 +28,13 @@ app_links: []
 isBasedOnUrl: >-
   https://www.dorotheum.com/en/auctions/current-auctions/kataloge/list-lots-detail/auktion/11844-modern-art/lotID/403/lot/2048426-wassily-kandinsky.html
 title: Wassily Kandinsky
-datePublished: '2016-11-23T11:40:45.014Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:28:08.195Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 sourcePath: _posts/2016-05-16-wassily-kandinsky.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:45.014Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
