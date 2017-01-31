@@ -9,14 +9,15 @@ description: >-
 isBasedOnUrl: >-
   https://doyle.com/auctions/16pt02-post-war-contemporary-art/post-war-contemporary-art
 author: []
-datePublished: '2016-11-23T11:40:44.565Z'
+datePublished: '2017-01-31T14:28:14.379Z'
 publisher: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: ''
 sourcePath: _posts/2016-05-06-lot-28-franz-kline-american-1910-1962-untitled-circa-1957.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.565Z'
 _context: 'http://schema.org'
 _type: Article
 
