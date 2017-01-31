@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-28T12:25:23.147Z'
+datePublished: '2017-01-31T14:27:30.385Z'
 sourcePath: _posts/2016-09-18-phase-2-untitled-doyle-80s-downtown-art-or-artsy.md
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/phase-2-untitled'
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: 'Phase 2, ''Untitled'', Doyle: ''80s Downtown Art '
 publisher: {}
 description: >-
@@ -14,8 +14,8 @@ description: >-
   have become an indispensable form of style. Phase 2 was also a key player in
   the formative hip-hop scene, as a DJ, a B-Boy, and a designer of concert
   posters for Grand Master Flash and DJ Kool Herc.
-datePublishedOriginal: '2016-11-23T11:40:29.237Z'
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.237Z'
 _type: MediaObject
 
 ---
