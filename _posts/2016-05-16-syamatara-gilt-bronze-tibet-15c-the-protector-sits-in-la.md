@@ -10,15 +10,16 @@ description: >-
   on her lotus throne, his right hand in the gesture of the desired grant,
   applicable left arguing. Stones to jewelry and crown incomplete. Socket
   closed. H 12 cm provenance Private Collection, Berlin
-datePublished: '2016-11-23T11:40:45.017Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:28:07.642Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 title: ''
 authors: []
 publisher: {}
 sourcePath: _posts/2016-05-16-syamatara-gilt-bronze-tibet-15c-the-protector-sits-in-la.md
-starred: false
 via: {}
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:45.017Z'
 _context: 'http://schema.org'
 _type: Article
 
