@@ -5,8 +5,8 @@ description: >-
   collage by George Condo was reproduced as an artist's Christmas Holiday card.
   The series of cards for Interview also included works by Kenny Scharf and
   Barbara Kruger, all three reproduced on a single perforated cardstock page.
-dateModified: '2017-01-28T12:24:29.511Z'
-datePublished: '2017-01-28T12:25:24.509Z'
+dateModified: '2017-01-31T14:26:38.007Z'
+datePublished: '2017-01-31T14:27:32.135Z'
 title: 'George Condo, ''Untitled'', 1987, Doyle: ''80s Downtown Art | Artsy'
 author: []
 publisher: {}
