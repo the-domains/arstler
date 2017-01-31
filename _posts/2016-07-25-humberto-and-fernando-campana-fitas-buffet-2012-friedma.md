@@ -1,7 +1,7 @@
 ---
 title: 'Humberto and Fernando Campana, ''Fitas Buffet'', 2012, Friedman Benda | Artsy'
-datePublished: '2017-01-28T12:25:44.646Z'
-dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-01-31T14:27:52.568Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/humberto-and-fernando-campana-fitas-buffet'
 description: >-
