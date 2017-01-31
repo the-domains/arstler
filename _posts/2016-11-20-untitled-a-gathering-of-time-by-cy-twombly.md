@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-28T12:25:15.001Z'
+datePublished: '2017-01-31T14:27:22.152Z'
 sourcePath: _posts/2016-11-20-untitled-a-gathering-of-time-by-cy-twombly.md
 inFeed: true
 isBasedOnUrl: 'https://theartstack.com/artist/cy-twombly/untitled-a-gathering-of-time'
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: Untitled (A Gathering of Time) by Cy Twombly
 app_links:
   - type: android
