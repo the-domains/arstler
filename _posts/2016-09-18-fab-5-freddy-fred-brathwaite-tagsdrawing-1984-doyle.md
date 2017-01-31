@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-23T11:40:29.248Z'
+datePublished: '2017-01-31T14:27:32.116Z'
 sourcePath: _posts/2016-09-18-fab-5-freddy-fred-brathwaite-tagsdrawing-1984-doyle.md
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/fab-5-freddy-fred-brathwaite-tags-slash-drawing'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: >-
   Fab 5 Freddy (Fred Brathwaite), 'Tags/Drawing', 1984, Doyle: '80s Downtown
   Art 
@@ -17,6 +17,7 @@ description: >-
   recontextualizing the rawness of graffiti into a conventional fine art gallery
   setting.
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.248Z'
 _type: MediaObject
 
 ---
