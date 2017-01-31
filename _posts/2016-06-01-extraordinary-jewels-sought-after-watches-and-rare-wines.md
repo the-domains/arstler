@@ -19,8 +19,8 @@ description: >-
   In a special week dedicated to luxury, Christie's presents a series of
   auctions from the Jewellery, Watch and Wine departments, to take place from
   7-13 June in New York.
-datePublished: '2017-01-28T12:25:56.629Z'
-dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-01-31T14:28:04.330Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 related: []
 app_links: []
