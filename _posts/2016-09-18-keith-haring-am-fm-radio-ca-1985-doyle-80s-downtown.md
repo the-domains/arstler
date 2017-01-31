@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-28T12:25:22.860Z'
+datePublished: '2017-01-31T14:27:30.168Z'
 sourcePath: _posts/2016-09-18-keith-haring-am-fm-radio-ca-1985-doyle-80s-downtown.md
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/keith-haring-am-fm-radio'
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: 'Keith Haring, ''AM-FM Radio'', ca. 1985, Doyle: ''80s Downtown Art | Artsy'
 publisher: {}
 description: >-
