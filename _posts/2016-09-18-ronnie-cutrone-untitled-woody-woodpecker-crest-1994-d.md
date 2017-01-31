@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-28T12:25:22.788Z'
+datePublished: '2017-01-31T14:27:30.165Z'
 sourcePath: _posts/2016-09-18-ronnie-cutrone-untitled-woody-woodpecker-crest-1994-d.md
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/ronnie-cutrone-untitled-woody-woodpecker-crest'
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: >-
   Ronnie Cutrone, 'Untitled (Woody Woodpecker Crest)', 1994, Doyle: '80s
   Downtown Art | Artsy
