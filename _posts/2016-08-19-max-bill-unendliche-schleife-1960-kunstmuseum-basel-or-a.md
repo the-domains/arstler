@@ -1,7 +1,7 @@
 ---
 title: 'Max Bill, ''Unendliche Schleife'', 1960, Kunstmuseum Basel | Artsy'
-datePublished: '2016-11-23T11:40:34.698Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:27:44.584Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/max-bill-unendliche-schleife'
 description: >-
@@ -13,8 +13,9 @@ description: >-
 publisher: {}
 via: {}
 sourcePath: _posts/2016-08-19-max-bill-unendliche-schleife-1960-kunstmuseum-basel-or-a.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:34.698Z'
 _type: MediaObject
 
 ---
