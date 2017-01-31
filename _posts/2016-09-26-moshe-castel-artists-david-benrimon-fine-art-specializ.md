@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-28T12:25:21.099Z'
+datePublished: '2017-01-31T14:27:28.416Z'
 sourcePath: _posts/2016-09-26-moshe-castel-artists-david-benrimon-fine-art-specializ.md
 inFeed: true
 isBasedOnUrl: 'http://www.benrimon.com/artists/moshe-castel'
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: Moshe Castel - David Benrimon Fine Art - New York City gallery
 publisher: {}
 description: >-
