@@ -1,7 +1,7 @@
 ---
 title: Le Carrousel du Louvre by Marc Chagall on artnet Auctions
-datePublished: '2016-11-23T11:40:43.715Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:27:54.746Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 isBasedOnUrl: 'https://www.artnet.com/auctions/artists/marc-chagall/le-carrousel-du-louvre'
 description: >-
@@ -13,8 +13,9 @@ description: >-
 publisher: {}
 via: {}
 sourcePath: _posts/2016-07-23-le-carrousel-du-louvre-by-marc-chagall-on-artnet-auctions.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:43.715Z'
 _type: MediaObject
 
 ---
