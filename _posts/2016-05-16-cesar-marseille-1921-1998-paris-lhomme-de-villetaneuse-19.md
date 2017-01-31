@@ -16,8 +16,8 @@ description: >-
   denotes the place where the basic materials were discovered. Inspired by the
   famous French “BirdMan”, Léo Valentin, César creates his winged figures which
   represent a central theme in the artist's early oeuvre.
-datePublished: '2017-01-28T12:25:59.837Z'
-dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-01-31T14:28:07.640Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 title: ''
 authors: []
