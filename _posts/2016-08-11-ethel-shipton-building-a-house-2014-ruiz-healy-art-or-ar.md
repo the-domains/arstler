@@ -1,7 +1,7 @@
 ---
 title: 'Ethel Shipton, ''Building a House'', 2014, Ruiz-Healy Art | Artsy'
-datePublished: '2016-11-23T11:40:34.714Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:27:47.061Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/ethel-shipton-building-a-house'
 description: >-
@@ -12,8 +12,9 @@ description: >-
 publisher: {}
 via: {}
 sourcePath: _posts/2016-08-11-ethel-shipton-building-a-house-2014-ruiz-healy-art-or-ar.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:34.714Z'
 _type: MediaObject
 
 ---
