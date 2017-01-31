@@ -24,12 +24,13 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.sworder.co.uk/Departments/books-prints-and-maps'
 title: 'Department - Books, Prints and Maps | Departments'
-datePublished: '2016-11-23T11:40:45.004Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:28:07.319Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 sourcePath: _posts/2016-05-16-department-books-prints-and-maps-or-departments.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:45.004Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
