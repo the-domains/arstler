@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-28T12:25:13.436Z'
+datePublished: '2017-01-31T14:27:20.590Z'
 sourcePath: _posts/2016-05-08-shiro-kuramata-miss-blanche-chair-ishimaru-co-japan-japan.md
 inFeed: true
 hasPage: true
@@ -8,7 +8,7 @@ author:
     url: 'https://www.dezeen.com/author/dan-howarth/'
     avatar: {}
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: 'A-Zdvent calendar: Miss Blanche Chair by Shiro Kuramata'
 publisher: {}
 description: >-
