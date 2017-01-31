@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-28T12:25:14.743Z'
+datePublished: '2017-01-31T14:27:21.968Z'
 sourcePath: _posts/2016-11-22-artspace-australia-2016.md
 inFeed: true
 hasPage: true
@@ -7,7 +7,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: 'Artspace Australia, 2016 - RYAN McGINLEY'
 app_links: []
 publisher: {}
