@@ -68,13 +68,13 @@ isBasedOnUrl: 'https://youtu.be/odnoF8V3g6g'
 title: >-
   Albert Ellis and Gloria - Counselling (1965) Full Session - Rational Emotive
   Therapy
-datePublished: '2017-01-31T14:25:48.658Z'
-dateModified: '2017-01-31T14:25:40.668Z'
-datePublishedOriginal: '2017-01-31T14:25:48.658Z'
+datePublished: '2017-01-31T14:27:13.674Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-01-31-albert-ellis-and-gloria-counselling-1965-full-session-.md
+starred: false
+datePublishedOriginal: '2017-01-31T14:25:48.658Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
