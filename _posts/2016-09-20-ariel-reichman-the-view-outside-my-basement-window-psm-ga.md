@@ -5,8 +5,8 @@ description: >-
   space greets you. This purpose-built, simple plasterboard wall (21, 22, 23,
   Boom) has a large, asymmetrical hole cut out of it. In the hole Reichman has
   placed a 3-D print, which was modeled on a "blast hole."
-dateModified: '2017-01-28T12:24:29.511Z'
-datePublished: '2017-01-28T12:25:22.423Z'
+dateModified: '2017-01-31T14:26:38.007Z'
+datePublished: '2017-01-31T14:27:29.888Z'
 title: 'Ariel Reichman: The View Outside My Basement Window - PSM Gallery'
 author: []
 publisher: {}
