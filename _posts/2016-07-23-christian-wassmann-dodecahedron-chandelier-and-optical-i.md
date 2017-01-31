@@ -2,8 +2,8 @@
 title: >-
   Christian Wassmann, '"Dodecahedron" chandelier and optical instrument', 2014,
   Watermill Center Summer Benefit Auction 2016 | Artsy
-datePublished: '2016-11-23T11:40:43.797Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:27:57.035Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 isBasedOnUrl: >-
   https://m.artsy.net/artwork/christian-wassmann-dodecahedron-chandelier-and-optical-instrument
@@ -17,8 +17,9 @@ description: >-
 publisher: {}
 via: {}
 sourcePath: _posts/2016-07-23-christian-wassmann-dodecahedron-chandelier-and-optical-i.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:43.797Z'
 _type: MediaObject
 
 ---
