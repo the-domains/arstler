@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-28T12:25:30.382Z'
+datePublished: '2017-01-31T14:27:39.001Z'
 inFeed: true
 isBasedOnUrl: 'https://www.artnet.com/auctions/artists/michael-dweck/lilla-montauk-new-york-2'
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: 'Lilla, Montauk, New York by Michael Dweck on artnet Auctions'
 publisher: {}
 description: >-
