@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-28T12:25:16.943Z'
+datePublished: '2017-01-31T14:27:23.952Z'
 sourcePath: _posts/2016-11-02-adrian-ghenie.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: Adrian Ghenie
 publisher: {}
 description: 'Born 1977 in Baia Mare, Romania. Lives and works in Cluj and Berlin.'
