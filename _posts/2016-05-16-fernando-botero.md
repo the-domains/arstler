@@ -6,19 +6,16 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: Fernando Botero *
-datePublished: '2016-11-23T11:40:45.018Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:28:08.371Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 title: ''
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 sourcePath: _posts/2016-05-16-fernando-botero.md
-starred: false
 via: {}
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:45.018Z'
 _context: 'http://schema.org'
 _type: Article
 
