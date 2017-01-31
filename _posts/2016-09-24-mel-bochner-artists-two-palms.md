@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-28T12:25:20.688Z'
+datePublished: '2017-01-31T14:27:28.093Z'
 sourcePath: _posts/2016-09-24-mel-bochner-artists-two-palms.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: Mel Bochner - Artists - Two Palms
 publisher: {}
 description: >-
