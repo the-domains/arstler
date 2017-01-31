@@ -1,15 +1,16 @@
 ---
 title: KOKI ARTS - K O K I　A R T S
-datePublished: '2016-11-23T11:40:26.786Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:27:48.448Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 isBasedOnUrl: 'http://www.kokiarts.com/'
 description: 馬喰町エリアにある現代美術ギャラリー
 publisher: {}
 via: {}
 sourcePath: _posts/2016-07-30-koki-arts-k-o-k-i-a-r-t-s.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.786Z'
 _type: MediaObject
 
 ---
