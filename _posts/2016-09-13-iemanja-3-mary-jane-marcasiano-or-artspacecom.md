@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-23T11:40:29.422Z'
+datePublished: '2017-01-31T14:27:36.657Z'
 inFeed: true
 isBasedOnUrl: 'http://www.artspace.com/mary-jane-marcasiano/iemanja-3'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: 'Iemanjá #3, Mary Jane Marcasiano | Artspace.com'
 publisher: {}
 description: >-
@@ -12,6 +12,7 @@ description: >-
   designer, artist and film producer working in Ne...
 sourcePath: _posts/2016-09-13-iemanja-3-mary-jane-marcasiano-or-artspacecom.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.422Z'
 _type: MediaObject
 
 ---
