@@ -2,8 +2,8 @@
 title: >-
   Clo'e Floirat, 'You broke my art', 2015, Watermill Center Summer Benefit
   Auction 2016 | Artsy
-datePublished: '2017-01-28T12:25:49.018Z'
-dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-01-31T14:27:56.944Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/cloe-floirat-you-broke-my-art'
 description: >-
