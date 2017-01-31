@@ -1,7 +1,7 @@
 ---
 title: Sonnabend Gallery | Artist
-datePublished: '2017-01-28T12:25:44.231Z'
-dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-01-31T14:27:52.439Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 isBasedOnUrl: 'http://sonnabendgallery.com/index.php?v=artist&id=13&col=1&art=1'
 description: >-
@@ -10,9 +10,9 @@ description: >-
 publisher: {}
 via: {}
 sourcePath: _posts/2016-07-25-sonnabend-gallery-or-artist.md
+inFeed: true
 starred: false
 datePublishedOriginal: '2016-07-25T09:43:25.773Z'
-inFeed: true
 _type: MediaObject
 
 ---
