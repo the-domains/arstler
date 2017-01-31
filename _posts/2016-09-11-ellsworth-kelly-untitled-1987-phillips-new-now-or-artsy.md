@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-28T12:25:33.094Z'
+datePublished: '2017-01-31T14:27:41.178Z'
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/ellsworth-kelly-untitled-8'
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: 'Ellsworth Kelly, ''Untitled'', 1987, Phillips: New Now | Artsy'
 publisher: {}
 description: >-
