@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-28T12:25:16.281Z'
+datePublished: '2017-01-31T14:27:23.385Z'
 sourcePath: >-
   _posts/2016-11-17-reading-between-the-lines-of-mel-bochners-verbose-monoprint.md
 inFeed: true
@@ -10,7 +10,7 @@ author:
       https://m.artsy.net/article/artsy-editorial-reading-between-the-lines-of-mel-bochner-s-verbose-monoprints
     avatar: {}
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: Reading Between the Lines of Mel Bochner's Verbose Monoprints
 publisher:
   url: >-
