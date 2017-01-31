@@ -1,7 +1,7 @@
 ---
 title: 'Thrashbird, ''Clone'', 2016, Julien''s Auctions: Street Art Now June 2016 | Artsy'
-datePublished: '2016-11-23T11:40:44.203Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:28:02.177Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/thrashbird-clone'
 description: >-
@@ -10,10 +10,11 @@ description: >-
   known for his motif of a silhouetted man looking down at his phone, which the
   artist refers to as his "Clone."
 sourcePath: _posts/2016-06-21-thrashbird-clone-2016-juliens-auctions-street-art-now.md
-starred: false
 publisher: {}
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.203Z'
 _type: MediaObject
 
 ---
