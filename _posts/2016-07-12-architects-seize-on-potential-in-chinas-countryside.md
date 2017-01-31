@@ -1,7 +1,7 @@
 ---
 title: Architects Seize on Potential in China's Countryside
-datePublished: '2016-11-23T11:40:44.078Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:27:58.433Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 isBasedOnUrl: >-
   http://mobile.nytimes.com/2016/06/18/arts/design/architects-see-potential-in-chinas-countryside.html
@@ -11,10 +11,11 @@ description: >-
   eastern Chinese city of Hangzhou. Its centerpiece is a pig barn. Yet this home
   for 30 or so black hogs is no ordinary outbuilding.
 sourcePath: _posts/2016-07-12-architects-seize-on-potential-in-chinas-countryside.md
-starred: false
 publisher: {}
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.078Z'
 _type: MediaObject
 
 ---
