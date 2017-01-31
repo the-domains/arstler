@@ -19,8 +19,8 @@ description: >-
   View auction details, art exhibitions and online catalogues; bid, buy and
   collect contemporary, impressionist or modern art, old masters, jewellery,
   wine, watches, prints, rugs and books at sotheby&s auction house
-datePublished: '2016-11-23T11:40:44.563Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:28:13.826Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author:
   - name: ''
     url: ''
@@ -34,8 +34,9 @@ publisher:
   domain: www.sothebys.com
   url: 'http://www.sothebys.com'
   favicon: 'http://www.sothebys.com/etc/designs/redesigns/sothebys/img/icons/favicon.ico'
-starred: false
 via: {}
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.563Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
