@@ -25,8 +25,8 @@ description: >-
 inLanguage: en
 app_links: []
 title: Featured Artist Alise Loebelsohn
-datePublished: '2017-01-30T11:36:48.869Z'
-dateModified: '2017-01-30T11:36:48.299Z'
+datePublished: '2017-01-31T14:27:14.096Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-28-featured-artist-alise-loebelsohn.md
