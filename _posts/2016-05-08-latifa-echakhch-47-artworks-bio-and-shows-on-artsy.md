@@ -29,12 +29,13 @@ app_links:
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/artist/latifa-echakhch'
 title: 'Latifa Echakhch - 47 Artworks, Bio & Shows on Artsy'
-datePublished: '2016-11-23T11:40:44.540Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:28:10.297Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 sourcePath: _posts/2016-05-08-latifa-echakhch-47-artworks-bio-and-shows-on-artsy.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.540Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
