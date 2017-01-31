@@ -1,18 +1,17 @@
 ---
 title: Erlesener Schmuck - Schmucksteinring - Dorotheum
-datePublished: '2016-07-23T21:08:48.346Z'
-dateModified: '2016-07-23T20:55:21.970Z'
+datePublished: '2017-01-31T14:27:54.503Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 isBasedOnUrl: >-
   https://www.dorotheum.com/en/dailyauction/lot-detail/auktion/11950-erlesener-schmuck/lotID/1/lot/2080261-schmucksteinring.html
 description: Schmucksteinring
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-23-erlesener-schmuck-schmucksteinring-dorotheum.md
 inFeed: true
-hasPage: false
-inNav: false
+starred: false
+datePublishedOriginal: '2016-07-23T21:08:48.346Z'
 _type: MediaObject
 
 ---
