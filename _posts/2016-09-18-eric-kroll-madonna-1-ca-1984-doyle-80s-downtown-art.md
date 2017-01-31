@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-28T12:25:23.468Z'
+datePublished: '2017-01-31T14:27:30.909Z'
 sourcePath: _posts/2016-09-18-eric-kroll-madonna-1-ca-1984-doyle-80s-downtown-art.md
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/eric-kroll-madonna-number-1'
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: 'Eric Kroll, ''Madonna #1'', ca. 1984, Doyle: ''80s Downtown Art '
 publisher: {}
 description: >-
