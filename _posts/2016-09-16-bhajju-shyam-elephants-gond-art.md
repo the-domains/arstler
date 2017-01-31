@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Bhajju Shyam - Elephants (Gond Art) - Acrylic on paper 29.5 x 21.6 in 75 x 55
   cm - Acrylic on paper
-dateModified: '2017-01-28T12:24:29.511Z'
-datePublished: '2017-01-28T12:25:25.545Z'
+dateModified: '2017-01-31T14:26:38.007Z'
+datePublished: '2017-01-31T14:27:33.658Z'
 title: Bhajju Shyam - Elephants (Gond Art)
 author: []
 publisher: {}
