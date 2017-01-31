@@ -10,15 +10,16 @@ description: >-
   Hand-folded Epson UltraChrome inkjet on linen with archival UV curable ink
   Edition Size: 100 This artwork is signed (signed and numbered on label affixed
   to sleeve)
-datePublished: '2016-11-23T11:40:44.497Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:28:10.294Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 title: ''
 sourcePath: _posts/2016-05-08-wade-guyton-x-poster-untitled-2007-epson-ultrachrome-inkj.md
 authors: []
 publisher: {}
-starred: false
 via: {}
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.497Z'
 _context: 'http://schema.org'
 _type: Article
 
