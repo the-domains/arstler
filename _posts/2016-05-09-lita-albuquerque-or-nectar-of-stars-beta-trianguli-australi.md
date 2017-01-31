@@ -34,13 +34,14 @@ isBasedOnUrl: >-
 title: >-
   Lita Albuquerque | Nectar of Stars / Beta Trianguli Australis, Available for
   Sale | Artsy
-datePublished: '2016-11-23T11:40:44.514Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:28:09.404Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 sourcePath: >-
   _posts/2016-05-09-lita-albuquerque-or-nectar-of-stars-beta-trianguli-australi.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.514Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
