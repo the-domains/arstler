@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-28T12:25:33.134Z'
+datePublished: '2017-01-31T14:27:40.600Z'
 inFeed: true
 isBasedOnUrl: >-
   https://m.artsy.net/artwork/hans-peter-feldmann-pictures-of-car-radios-taken-while-good-music-was-playing
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: >-
   Hans-Peter Feldmann, 'Pictures of car radios taken while good music was
   playing', Conceived in 1970s -1990s and executed in 2004, Phillips: New Now |
