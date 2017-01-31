@@ -17,16 +17,17 @@ description: >-
   Mica Chips On Koshiji Japanese Paper Edition Size: 100 This artwork is signed
 isBasedOnUrl: 'https://artlist.co/artworks/cd87bb4e-bdac-416f-b244-7cd4552f5b0d'
 author: []
-datePublished: '2016-11-23T11:40:44.988Z'
+datePublished: '2017-01-31T14:28:06.507Z'
 publisher:
   domain: artlist.co
   name: artlist.co
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: ''
 sourcePath: _posts/2016-05-27-rob-pruitt-alone-facing-east-and-alone-facing-west-set-o.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.988Z'
 _context: 'http://schema.org'
 _type: Article
 
