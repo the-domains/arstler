@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-28T12:24:29.511Z'
-datePublished: '2017-01-28T12:25:22.425Z'
+dateModified: '2017-01-31T14:26:38.007Z'
+datePublished: '2017-01-31T14:27:29.443Z'
 title: Florian Meisenberg - Um nice guy - Wentrup Gallery
 author: []
 publisher: {}
