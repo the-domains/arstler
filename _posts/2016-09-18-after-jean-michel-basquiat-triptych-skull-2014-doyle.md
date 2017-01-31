@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Home Museums Artists Fairs Shows Auctions Galleries Magazine
-dateModified: '2017-01-28T12:24:29.511Z'
-datePublished: '2017-01-28T12:25:23.393Z'
+dateModified: '2017-01-31T14:26:38.007Z'
+datePublished: '2017-01-31T14:27:30.647Z'
 title: >-
   After Jean-Michel Basquiat, 'Triptych Skull', 2014, Doyle: '80s Downtown Art |
   Artsy
