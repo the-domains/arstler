@@ -6,8 +6,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: SOL LEWITT
-datePublished: '2017-01-28T12:26:03.666Z'
-dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-01-31T14:28:11.986Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 title: ''
 authors: []
