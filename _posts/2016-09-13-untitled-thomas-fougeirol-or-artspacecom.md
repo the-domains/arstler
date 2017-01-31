@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-28T12:25:27.270Z'
+datePublished: '2017-01-31T14:27:35.900Z'
 inFeed: true
 isBasedOnUrl: 'http://www.artspace.com/thomas-fougeirol/untitled'
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: 'Untitled, Thomas Fougeirol | Artspace.com'
 publisher: {}
 description: >-
