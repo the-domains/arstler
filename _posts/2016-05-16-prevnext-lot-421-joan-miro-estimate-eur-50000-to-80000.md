@@ -5,9 +5,9 @@ description: >-
 isBasedOnUrl: >-
   https://www.dorotheum.com/en/auctions/current-auctions/kataloge/list-lots/auktion/11844-modern-art.html?currentPage=1#lot-2048443
 author: []
-datePublished: '2017-01-28T12:25:59.896Z'
+datePublished: '2017-01-31T14:28:07.864Z'
 publisher: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: ''
 sourcePath: _posts/2016-05-16-prevnext-lot-421-joan-miro-estimate-eur-50000-to-80000.md
 via: {}
