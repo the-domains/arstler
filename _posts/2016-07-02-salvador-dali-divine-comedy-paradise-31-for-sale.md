@@ -5,8 +5,8 @@ isBasedOnUrl: 'https://artlist.co/artworks/fc2ef2c1-7daa-4075-8f77-93ab08e5867f'
 inLanguage: null
 keywords: []
 description: 'Salvador Dali, Divine Comedy Paradise #31 for sale'
-datePublished: '2016-11-23T11:40:44.126Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:28:00.583Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: ''
 author:
   - name: ''
@@ -14,8 +14,9 @@ author:
 sourcePath: _posts/2016-07-02-salvador-dali-divine-comedy-paradise-31-for-sale.md
 authors: []
 publisher: {}
-starred: false
 via: {}
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.126Z'
 _type: MediaObject
 
 ---
