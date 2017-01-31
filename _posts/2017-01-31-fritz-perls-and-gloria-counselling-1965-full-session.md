@@ -17,8 +17,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://youtu.be/it0j6FIxIog'
 title: Fritz Perls and Gloria - Counselling (1965) Full Session
-datePublished: '2017-01-31T14:10:41.301Z'
-dateModified: '2017-01-31T14:10:40.679Z'
+datePublished: '2017-01-31T14:27:13.569Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-31-fritz-perls-and-gloria-counselling-1965-full-session.md
