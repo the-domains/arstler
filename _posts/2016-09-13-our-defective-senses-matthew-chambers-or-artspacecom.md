@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-28T12:25:27.369Z'
+datePublished: '2017-01-31T14:27:35.987Z'
 inFeed: true
 isBasedOnUrl: 'http://www.artspace.com/matthew-chambers/our-defective-senses'
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: 'Our Defective Senses, Matthew Chambers | Artspace.com'
 publisher: {}
 description: >-
