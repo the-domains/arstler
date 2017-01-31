@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-28T12:25:23.965Z'
+datePublished: '2017-01-31T14:27:31.304Z'
 sourcePath: _posts/2016-09-18-kenny-scharf-cateyeguy-and-dogeyeguy-2004-doyle-80s-d.md
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/kenny-scharf-cateyeguy-and-dogeyeguy'
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: 'Kenny Scharf, ''Cateyeguy and Dogeyeguy'', 2004, Doyle: ''80s Downtown Art'
 publisher: {}
 description: >-
