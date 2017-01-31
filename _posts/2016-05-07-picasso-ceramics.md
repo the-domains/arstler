@@ -28,12 +28,13 @@ app_links: []
 isBasedOnUrl: >-
   https://onlineonly.christies.com/s/picasso-ceramics/lots/244?SitecoreGUID={0BFA6C33-95EE-47B0-BA39-EEF625C23B1A}&sectionName=auctions_Nav&lid=1
 title: Picasso Ceramics
-datePublished: '2016-11-23T11:40:44.561Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:28:14.135Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 sourcePath: _posts/2016-05-07-picasso-ceramics.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.561Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
