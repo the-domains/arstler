@@ -1,7 +1,7 @@
 ---
 title: 'Adolfo Abejón, ''''Khamon'' Stool'', 2015, DADA STUDIOS | Artsy'
-datePublished: '2017-01-28T12:25:44.502Z'
-dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-01-31T14:27:52.533Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/adolfo-abejon-khamon-stool'
 description: >-
