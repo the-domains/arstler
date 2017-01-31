@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-28T12:25:22.943Z'
+datePublished: '2017-01-31T14:27:30.260Z'
 sourcePath: _posts/2016-09-18-alex-grey-untitled-1982-doyle-80s-downtown-art-or-arts.md
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/alex-grey-untitled'
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: 'Alex Grey, ''Untitled'', 1982, Doyle: ''80s Downtown Art | Artsy'
 publisher: {}
 description: >-
@@ -13,8 +13,8 @@ description: >-
   the Beastie Boys. In addition to his fine art, Grey is a globally recognized
   leader in the mystical arts and transcendentalism, teaching, along with his
   wife at CoSM in Wappinger New York.
-datePublishedOriginal: '2016-11-23T11:40:28.172Z'
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:28.172Z'
 _type: MediaObject
 
 ---
