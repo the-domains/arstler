@@ -5,14 +5,15 @@ description: >-
   This artwork is signed
 isBasedOnUrl: 'https://artlist.co/artworks/8ba958de-aa9b-4f6a-9950-98817ec92096'
 author: []
-datePublished: '2016-11-23T11:40:48.434Z'
+datePublished: '2017-01-31T14:28:16.330Z'
 publisher: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: ''
 sourcePath: _posts/2016-05-05-rinko-kawauchi-4-2013-10-x-15-in-254-x-381-cm-techniq.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-05-05T13:43:55.724Z'
 _context: 'http://schema.org'
 _type: Article
 
