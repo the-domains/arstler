@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-28T12:25:15.333Z'
+datePublished: '2017-01-31T14:27:22.621Z'
 sourcePath: >-
   _posts/2016-11-20-art-gallery-london-or-current-art-exhibitions-or-alan-cristea.md
 inFeed: true
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: 'Antony Gormley: CAST'
 app_links: []
 publisher:
