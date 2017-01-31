@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-28T12:25:14.185Z'
+datePublished: '2017-01-31T14:27:21.063Z'
 sourcePath: _posts/2016-10-24-daliscape_barcelona.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: Daliscape_Barcelona
 publisher:
   name: |-
