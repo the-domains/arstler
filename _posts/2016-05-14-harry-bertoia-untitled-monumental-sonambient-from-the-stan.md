@@ -12,16 +12,17 @@ description: >-
   Standard Oil Building, Chicago | Private Collection literature: Chicago
   Tribune, 25 June 1975, illustrates this work in situ The World of Bertoia,
   Schiffer and Bertoia, pg. 187 discusses the commission
-datePublished: '2016-11-23T11:40:45.004Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:28:07.033Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 title: ''
 authors: []
 publisher: {}
 sourcePath: >-
   _posts/2016-05-14-harry-bertoia-untitled-monumental-sonambient-from-the-stan.md
-starred: false
 via: {}
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:45.004Z'
 _context: 'http://schema.org'
 _type: Article
 
