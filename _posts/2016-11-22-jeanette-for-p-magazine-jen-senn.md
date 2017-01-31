@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-28T12:25:14.643Z'
+datePublished: '2017-01-31T14:27:21.885Z'
 sourcePath: _posts/2016-11-22-jeanette-for-p-magazine-jen-senn.md
 inFeed: true
 hasPage: true
@@ -7,7 +7,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: Jeanette for P Magazine — Jen Senn
 app_links: []
 publisher: {}
