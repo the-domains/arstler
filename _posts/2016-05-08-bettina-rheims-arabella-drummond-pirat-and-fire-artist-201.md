@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-01-28T12:25:13.403Z'
+datePublished: '2017-01-31T14:27:20.486Z'
 sourcePath: >-
   _posts/2016-05-08-bettina-rheims-arabella-drummond-pirat-and-fire-artist-201.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: BETTINA RHEIMS
 publisher: {}
 description: ' Arabella Drummond. Pirat and Fire Artist, 2013 From the series Bonkers – A Fortnight in London Chromogenic Print 39 2/5 × 39 2/5 in 100 × 100 cm Edition of 5'
