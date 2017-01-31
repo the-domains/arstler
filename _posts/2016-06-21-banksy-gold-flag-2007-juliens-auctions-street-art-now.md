@@ -1,7 +1,7 @@
 ---
 title: 'Banksy, ''Gold Flag'', 2007, Julien''s Auctions: Street Art Now June 2016 | Artsy'
-datePublished: '2017-01-28T12:25:55.030Z'
-dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-01-31T14:28:02.833Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/banksy-gold-flag-9'
 description: >-
