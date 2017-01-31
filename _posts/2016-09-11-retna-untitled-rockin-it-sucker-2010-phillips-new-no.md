@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-23T11:40:29.457Z'
+datePublished: '2017-01-31T14:27:40.273Z'
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/retna-untitled-rockin-it-sucker'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: 'Retna, ''Untitled (Rockin it sucker)'', 2010, Phillips: New Now | Artsy'
 publisher: {}
 description: >-
@@ -14,6 +14,7 @@ description: >-
   freeway, and his practice now includes street art and painting on canvas.
 sourcePath: _posts/2016-09-11-retna-untitled-rockin-it-sucker-2010-phillips-new-no.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.457Z'
 _type: MediaObject
 
 ---
