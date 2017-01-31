@@ -17,7 +17,9 @@ keywords:
   - artsyterms
   - institutionsartsy
   - artsycollecting
-description: 'Available for sale from Kohn Gallery, Lita Albuquerque, ALLOCTHONOUS ACCELERATION (2015), Pigment on panel and 24kt gold leaf on resin, 84 × 84 in'
+description: >-
+  Available for sale from Kohn Gallery, Lita Albuquerque, ALLOCTHONOUS
+  ACCELERATION (2015), Pigment on panel and 24kt gold leaf on resin, 84 × 84 in
 inLanguage: en
 app_links:
   - url: 'https://www.artsy.net/artwork/lita-albuquerque-allocthonous-acceleration'
@@ -26,14 +28,17 @@ app_links:
     app_store_id: '703796080'
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/artwork/lita-albuquerque-allocthonous-acceleration'
-title: 'Lita Albuquerque | ALLOCTHONOUS ACCELERATION (2015), Available for Sale | Artsy'
-datePublished: '2016-05-09T15:14:15.204Z'
-dateModified: '2016-05-08T19:46:35.920Z'
-starred: false
-sourcePath: _posts/2016-05-09-lita-albuquerque-or-allocthonous-acceleration-2015-availab.md
+title: >-
+  Lita Albuquerque | ALLOCTHONOUS ACCELERATION (2015), Available for Sale |
+  Artsy
+datePublished: '2017-01-31T14:28:09.727Z'
+dateModified: '2017-01-31T14:26:38.007Z'
+sourcePath: >-
+  _posts/2016-05-09-lita-albuquerque-or-allocthonous-acceleration-2015-availab.md
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.505Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
