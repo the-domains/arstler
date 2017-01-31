@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-28T12:25:20.120Z'
+datePublished: '2017-01-31T14:27:27.357Z'
 sourcePath: _posts/2016-10-01-untitled-httpsuprainfinitcom.md
 inFeed: true
 isBasedOnUrl: 'http://suprainfinit.com/'
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: Florin Mitroi | 21.XII.1997
 publisher: {}
 description: 'http://suprainfinit.com'
