@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-28T12:25:33.449Z'
+datePublished: '2017-01-31T14:27:40.776Z'
 inFeed: true
 isBasedOnUrl: >-
   https://m.artsy.net/artwork/james-rosenquist-below-the-equator-above-the-equator
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: >-
   James Rosenquist, 'Below the Equator, Above the Equator', 1975, Phillips: New
   Now | Artsy
