@@ -7,21 +7,17 @@ keywords: []
 description: >-
   “I paint self-portraits because I am so often alone, because I am the person I
   know best. ” Frida Kahlo
-datePublished: '2017-01-28T12:26:07.400Z'
-dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-01-31T14:28:17.020Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 title: ''
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 sourcePath: >-
   _posts/2016-05-04-i-paint-self-portraits-because-i-am-so-often-alone-because.md
+via: {}
 starred: false
 datePublishedOriginal: '2016-05-04T09:32:04.933Z'
-via: {}
 _context: 'http://schema.org'
 _type: Article
 
