@@ -2,8 +2,8 @@
 title: >-
   Saatchi Art Artist: David Sims; Black & White 2004 Photography "Kate, Paris
   Vogue (Edition 2 of 5) SOLD"
-datePublished: '2016-11-23T11:40:44.514Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:28:09.374Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 isBasedOnUrl: >-
   http://www.saatchiart.com/art/Photography-Kate-Paris-Vogue-Edition-2-of-5-SOLD/816068/2637987/view
@@ -13,10 +13,11 @@ description: >-
   Pigment Print, printed in 2013 Signed by artist on label to affix to frame.
 sourcePath: >-
   _posts/2016-05-09-saatchi-art-artist-david-sims-black-and-white-2004-photograp.md
-starred: false
 publisher: {}
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.514Z'
 _type: MediaObject
 
 ---
