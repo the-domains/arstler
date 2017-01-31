@@ -1,7 +1,7 @@
 ---
 title: ART FRONT GALLERY | ART FRONT GALLERY
-datePublished: '2017-01-28T12:25:40.457Z'
-dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-01-31T14:27:48.642Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 isBasedOnUrl: 'http://www.artfrontgallery.com/en/'
 description: >-
