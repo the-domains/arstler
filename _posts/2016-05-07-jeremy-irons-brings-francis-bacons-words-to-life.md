@@ -65,8 +65,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=I8K2_-MQ43s#action=share'
 title: Jeremy Irons Brings Francis Bacon's Words to Life
-datePublished: '2017-01-28T12:26:04.603Z'
-dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-01-31T14:28:13.670Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 sourcePath: _posts/2016-05-07-jeremy-irons-brings-francis-bacons-words-to-life.md
 via: {}
 inFeed: true
