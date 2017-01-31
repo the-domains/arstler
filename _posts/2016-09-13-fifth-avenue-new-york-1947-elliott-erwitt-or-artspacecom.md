@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-23T11:40:29.443Z'
+datePublished: '2017-01-31T14:27:37.322Z'
 inFeed: true
 isBasedOnUrl: 'http://www.artspace.com/elliott_erwitt/fifth-avenue-new-york-1947'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: 'Fifth Avenue, New York, 1947, Elliott Erwitt | Artspace.com'
 publisher: {}
 description: >-
@@ -12,6 +12,7 @@ description: >-
   before,Elliott Erwitt Snapsis a unique and comprehensive survey of his work.
 sourcePath: _posts/2016-09-13-fifth-avenue-new-york-1947-elliott-erwitt-or-artspacecom.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.443Z'
 _type: MediaObject
 
 ---
