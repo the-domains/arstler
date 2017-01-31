@@ -1,7 +1,7 @@
 ---
 title: THE GREAT EXHIBITION
-datePublished: '2016-11-23T11:40:26.795Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:27:48.313Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 isBasedOnUrl: 'http://www.mizuma.sg/exhibitions/past/2016/05/04/the-great-exhibition/'
 description: >-
@@ -13,8 +13,9 @@ description: >-
 publisher: {}
 via: {}
 sourcePath: _posts/2016-07-30-the-great-exhibition.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.795Z'
 _type: MediaObject
 
 ---
