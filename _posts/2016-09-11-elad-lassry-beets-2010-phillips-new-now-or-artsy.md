@@ -8,8 +8,8 @@ description: >-
   color-saturated and full of flattened images, Lassry states: "My work started
   in the traditional form of photography-they were photographs, prints, or
   framed found images.
-dateModified: '2017-01-28T12:24:29.511Z'
-datePublished: '2017-01-28T12:25:31.963Z'
+dateModified: '2017-01-31T14:26:38.007Z'
+datePublished: '2017-01-31T14:27:40.514Z'
 title: 'Elad Lassry, ''Beets'', 2010, Phillips: New Now | Artsy'
 author: []
 publisher: {}
