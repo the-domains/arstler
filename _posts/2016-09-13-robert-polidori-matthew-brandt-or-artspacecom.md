@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-28T12:25:27.668Z'
+datePublished: '2017-01-31T14:27:36.221Z'
 inFeed: true
 isBasedOnUrl: 'http://www.artspace.com/matthew_brandt/robert-polidori'
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: 'Robert Polidori, Matthew Brandt | Artspace.com'
 publisher: {}
 description: >-
