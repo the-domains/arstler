@@ -32,8 +32,8 @@ app_links:
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/show/klein-sun-gallery-new-voices-a-dsl-collection-story'
 title: 'New voices: a dsl collection story | Klein Sun Gallery | Artsy'
-datePublished: '2017-01-28T12:25:58.570Z'
-dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-01-31T14:28:06.587Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 sourcePath: >-
   _posts/2016-05-27-new-voices-a-dsl-collection-story-or-klein-sun-gallery-or-art.md
 via: {}
