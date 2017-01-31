@@ -1,12 +1,12 @@
 ---
 inFeed: true
 author: []
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 via: {}
 title: Maia Oprea - Annart Gallery - expozitia Stivuire
 publisher: {}
 description: ''
-datePublished: '2017-01-28T12:25:26.051Z'
+datePublished: '2017-01-31T14:27:34.228Z'
 sourcePath: _posts/2016-09-14-maia-oprea-annart-gallery-expozitia-stivuire.md
 starred: false
 datePublishedOriginal: '2016-11-23T11:40:29.306Z'
