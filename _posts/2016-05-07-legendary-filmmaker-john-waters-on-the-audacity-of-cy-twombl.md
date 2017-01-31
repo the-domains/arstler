@@ -64,13 +64,14 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=xAgsduEAGj0'
 title: Legendary Filmmaker John Waters On the Audacity of Cy Twombly
-datePublished: '2016-11-23T11:40:44.563Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:28:13.213Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 sourcePath: >-
   _posts/2016-05-07-legendary-filmmaker-john-waters-on-the-audacity-of-cy-twombl.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.563Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
