@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Home Museums Artists Fairs Shows Auctions Galleries Magazine
-dateModified: '2017-01-28T12:24:29.511Z'
-datePublished: '2017-01-28T12:25:25.122Z'
+dateModified: '2017-01-31T14:26:38.007Z'
+datePublished: '2017-01-31T14:27:33.246Z'
 title: 'Marlena Kudlicka, ''unprotected 0 fig. 3'', 2015, ŻAK | BRANICKA | Artsy'
 author: []
 publisher: {}
