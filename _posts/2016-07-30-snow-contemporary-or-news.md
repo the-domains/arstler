@@ -1,7 +1,7 @@
 ---
 title: SNOW Contemporary | NEWS
-datePublished: '2016-07-30T14:59:20.752Z'
-dateModified: '2016-07-30T14:51:59.398Z'
+datePublished: '2017-01-31T14:27:48.048Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 isBasedOnUrl: 'http://snowcontemporary.com/exhibition.html'
 description: >-
@@ -9,11 +9,10 @@ description: >-
   　SNOW Contemporaryは2011年より約5年間にわたり、世田谷区弦巻のXYZ ...
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-30-snow-contemporary-or-news.md
 inFeed: true
-hasPage: false
-inNav: false
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:26.789Z'
 _type: MediaObject
 
 ---
