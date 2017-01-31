@@ -27,12 +27,13 @@ app_links: []
 isBasedOnUrl: >-
   http://www.sothebys.com/content/sothebys/en/news-video/blogs/all-blogs/all-that-glitters/2016/05/lesedi-la-rona-historic-rough-diamond.html
 title: 'Lesedi La Rona: The Diamond of a Lifetime on Sotheby''s Blog'
-datePublished: '2016-11-23T11:40:44.562Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:28:13.790Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 sourcePath: _posts/2016-05-07-lesedi-la-rona-the-diamond-of-a-lifetime-on-sothebys-blog.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.562Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
