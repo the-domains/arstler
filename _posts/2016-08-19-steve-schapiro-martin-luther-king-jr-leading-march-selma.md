@@ -2,8 +2,8 @@
 title: >-
   Steve Schapiro, 'Martin Luther King Jr. leading March, Selma, AL', 1965, Atlas
   Gallery | Artsy
-datePublished: '2016-11-23T11:40:34.678Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:27:43.360Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 isBasedOnUrl: >-
   https://m.artsy.net/artwork/steve-schapiro-martin-luther-king-jr-leading-march-selma-al
@@ -15,8 +15,9 @@ description: >-
 publisher: {}
 via: {}
 sourcePath: _posts/2016-08-19-steve-schapiro-martin-luther-king-jr-leading-march-selma.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:34.678Z'
 _type: MediaObject
 
 ---
