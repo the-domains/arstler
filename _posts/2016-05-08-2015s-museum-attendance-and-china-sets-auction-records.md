@@ -16,8 +16,8 @@ keywords:
   - house
   - albahie
 description: The 5 art world updates you should know this week.
-datePublished: '2016-11-23T11:40:44.540Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:28:10.300Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author:
   - name: Alice Marie Mahoney
     url: 'https://medium.com/@alicemahoney'
@@ -53,8 +53,9 @@ title: 2015’s Museum Attendance & China Sets Auction Records
 sourcePath: _posts/2016-05-08-2015s-museum-attendance-and-china-sets-auction-records.md
 authors: []
 publisher: {}
-starred: false
 via: {}
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:44.540Z'
 _type: Article
 _context: 'http://schema.org'
 
