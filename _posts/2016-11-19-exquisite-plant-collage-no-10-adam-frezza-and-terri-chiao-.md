@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-28T12:25:15.884Z'
+datePublished: '2017-01-31T14:27:23.258Z'
 sourcePath: >-
   _posts/2016-11-19-exquisite-plant-collage-no-10-adam-frezza-and-terri-chiao-.md
 inFeed: true
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: Exquisite Plant Collage No. 10 - Adam Frezza & Terri Chiao - Uprise Art
 app_links: []
 publisher:
