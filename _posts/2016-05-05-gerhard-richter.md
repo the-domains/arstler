@@ -7,19 +7,16 @@ keywords: []
 description: >-
   - See more at:
   https://artlist.co/artworks/1c0e4262-4b65-44d3-b144-174f43949ba2#sthash.9Z1iWugs.dpuf
-datePublished: '2016-11-23T11:40:48.445Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:28:16.459Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 title: Gerhard Richter
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 sourcePath: _posts/2016-05-05-gerhard-richter.md
-starred: false
 via: {}
+starred: false
+datePublishedOriginal: '2016-05-05T13:42:22.657Z'
 _context: 'http://schema.org'
 _type: Article
 
