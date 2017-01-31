@@ -11,14 +11,15 @@ description: >-
 isBasedOnUrl: >-
   https://www.artsy.net/article/artsy-editorial-21-new-york-gallery-shows-in-may-where-you-ll-find-exciting-young-artists
 author: []
-datePublished: '2016-11-23T11:40:48.441Z'
+datePublished: '2017-01-31T14:28:16.459Z'
 publisher: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: ''
 sourcePath: _posts/2016-05-05-installation-view-of-efficient-frontier-at-magenta-plains.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-05-05T13:42:22.515Z'
 _context: 'http://schema.org'
 _type: Article
 
