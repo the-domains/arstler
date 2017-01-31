@@ -1,7 +1,7 @@
 ---
 title: 'PHILLIPS : Late Hepworth'
-datePublished: '2016-11-23T11:40:43.684Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:27:54.475Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 isBasedOnUrl: 'https://www.phillips.com/feature/late-hepworth'
 description: >-
@@ -12,8 +12,9 @@ description: >-
 publisher: {}
 via: {}
 sourcePath: _posts/2016-07-23-phillips-late-hepworth.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:43.684Z'
 _type: MediaObject
 
 ---
