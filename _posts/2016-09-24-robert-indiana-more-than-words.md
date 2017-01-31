@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-01-28T12:25:21.731Z'
+datePublished: '2017-01-31T14:27:28.853Z'
 sourcePath: _posts/2016-09-24-robert-indiana-more-than-words.md
 inFeed: true
 isBasedOnUrl: >-
   http://www.longsharpgallery.com/international-solo-thematic-art-exhibitions-lsg/robert-indiana-more-than-words
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: 'Robert Indiana: More Than Words'
 publisher: {}
 description: >-
