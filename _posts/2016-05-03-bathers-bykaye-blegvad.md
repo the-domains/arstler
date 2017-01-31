@@ -8,20 +8,16 @@ description: >-
   "Bathers" is an edition of 100 three-color screen prints by Kaye Blegvad. With
   a small border for framing, the artwork is sized to fit a standard 11" wide by
   14" tall frame.
-datePublished: '2017-01-28T12:26:07.539Z'
-dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-01-31T14:28:17.127Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 title: '"Bathers" byKaye Blegvad'
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 sourcePath: _posts/2016-05-03-bathers-bykaye-blegvad.md
+via: {}
 starred: false
 datePublishedOriginal: '2016-05-03T17:41:08.028Z'
-via: {}
 _context: 'http://schema.org'
 _type: Article
 
