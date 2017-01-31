@@ -31,12 +31,13 @@ isBasedOnUrl: 'https://www.artsy.net/artwork/wesley-tongson-spiritual-mountains-
 title: >-
   Wesley Tongson | Spiritual Mountains (No. 1496) (2010), Available for Sale |
   Artsy
-datePublished: '2016-11-23T11:40:48.497Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:28:18.102Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 sourcePath: _posts/2016-05-03-wesley-tongson-or-spiritual-mountains-no-1496-2010-avai.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-05-03T17:10:53.097Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
