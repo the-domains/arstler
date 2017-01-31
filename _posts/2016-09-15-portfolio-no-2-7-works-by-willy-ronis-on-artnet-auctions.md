@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-28T12:25:29.495Z'
+datePublished: '2017-01-31T14:27:38.618Z'
 inFeed: true
 isBasedOnUrl: 'https://www.artnet.com/auctions/artists/willy-ronis/portfolio-no-2-7-works-2'
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: Portfolio No. 2 (7 works) by Willy Ronis on artnet Auctions
 publisher: {}
 description: >-
