@@ -85,8 +85,8 @@ description: >-
   design services.
 app_links: []
 title: Squeak Carnwath | Little Boys | 2016 | Tayloe Piggott Gallery
-datePublished: '2017-01-31T14:10:41.275Z'
-dateModified: '2017-01-31T14:10:40.679Z'
+datePublished: '2017-01-31T14:27:13.711Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 via: {}
 inFeed: true
 sourcePath: >-
