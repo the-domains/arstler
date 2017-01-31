@@ -4,8 +4,8 @@ description: >-
   Bid soon on Patio, Delita Drive (from The Valley) by Larry Sultan. View a wide
   Variety of artworks by Larry Sultan, now available for sale on artnet
   Auctions.
-dateModified: '2017-01-28T12:24:29.511Z'
-datePublished: '2017-01-28T12:25:30.978Z'
+dateModified: '2017-01-31T14:26:38.007Z'
+datePublished: '2017-01-31T14:27:39.388Z'
 title: 'Patio, Delita Drive (from The Valley) by Larry Sultan on artnet Auctions'
 author: []
 publisher: {}
