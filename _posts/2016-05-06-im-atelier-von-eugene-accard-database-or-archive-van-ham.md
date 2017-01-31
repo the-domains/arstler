@@ -16,12 +16,13 @@ app_links: []
 isBasedOnUrl: >-
   http://www.van-ham.com/en/database-archive/datenbank/eugene-accard/im-atelier.html
 title: Im Atelier von Eugène Accard - Database | Archive - VAN-HAM art auctions
-datePublished: '2016-11-23T11:40:48.327Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:28:14.631Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 sourcePath: _posts/2016-05-06-im-atelier-von-eugene-accard-database-or-archive-van-ham.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-05-06T15:38:43.655Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
