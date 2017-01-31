@@ -2,16 +2,17 @@
 title: >-
   Damien Hoar de Galvan, 'Right', 2015, Watermill Center Summer Benefit Auction
   2016 | Artsy
-datePublished: '2016-11-23T11:40:43.754Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:27:56.962Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/damien-hoar-de-galvan-right'
 description: Home Museums Artists Fairs Shows Auctions Galleries Magazine
 publisher: {}
 via: {}
 sourcePath: _posts/2016-07-23-damien-hoar-de-galvan-right-2015-watermill-center-summe.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:43.754Z'
 _type: MediaObject
 
 ---
