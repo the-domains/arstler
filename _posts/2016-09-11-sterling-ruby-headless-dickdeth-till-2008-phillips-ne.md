@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-23T11:40:29.462Z'
+datePublished: '2017-01-31T14:27:40.109Z'
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/sterling-ruby-headless-dick-slash-deth-till'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 title: 'Sterling Ruby, ''Headless Dick/Deth Till'', 2008, Phillips: New Now | Artsy'
 publisher: {}
 description: >-
@@ -15,6 +15,7 @@ description: >-
   behavior and psychology.
 sourcePath: _posts/2016-09-11-sterling-ruby-headless-dickdeth-till-2008-phillips-ne.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.462Z'
 _type: MediaObject
 
 ---
