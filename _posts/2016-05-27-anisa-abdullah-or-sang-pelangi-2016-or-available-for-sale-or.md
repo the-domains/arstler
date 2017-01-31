@@ -29,13 +29,14 @@ app_links:
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/artwork/anisa-abdullah-sang-pelangi/zoom'
 title: Anisa Abdullah | Sang Pelangi (2016) | Available for Sale | Artsy
-datePublished: '2016-11-23T11:40:45.003Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-01-31T14:28:06.673Z'
+dateModified: '2017-01-31T14:26:38.007Z'
 sourcePath: >-
   _posts/2016-05-27-anisa-abdullah-or-sang-pelangi-2016-or-available-for-sale-or.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:45.003Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
