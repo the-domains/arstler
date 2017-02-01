@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/ee1bU4XuUyg'
 title: Carl Rogers and Gloria - Counselling 1965 Full Session - CAPTIONED
-datePublished: '2017-01-31T14:27:13.575Z'
-dateModified: '2017-01-31T14:26:38.007Z'
+datePublished: '2017-02-01T09:10:36.967Z'
+dateModified: '2017-02-01T09:10:35.959Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-31-carl-rogers-and-gloria-counselling-1965-full-session-cap.md
