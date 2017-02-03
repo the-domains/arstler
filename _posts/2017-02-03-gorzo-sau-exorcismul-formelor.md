@@ -7,18 +7,18 @@ publisher:
   favicon: null
   domain: www.respiro.org
 keywords: []
-description: de Paul Doru Mugur
+description: "de\_Paul Doru Mugur"
 inLanguage: ro
 app_links: []
 title: Gorzo sau exorcismul formelor
-datePublished: '2017-02-03T12:21:48.344Z'
-dateModified: '2017-02-03T12:21:47.818Z'
+datePublished: '2017-02-03T12:36:49.676Z'
+dateModified: '2017-02-03T12:36:47.210Z'
 via: {}
 inFeed: true
 hasPage: true
+sourcePath: _posts/2017-02-03-gorzo-sau-exorcismul-formelor.md
 starred: false
 datePublishedOriginal: '2017-02-03T12:21:48.344Z'
-sourcePath: _posts/2017-02-03-gorzo-sau-exorcismul-formelor.md
 url: gorzo-sau-exorcismul-formelor/index.html
 _context: 'http://schema.org'
 _type: MediaObject
@@ -28,7 +28,7 @@ _type: MediaObject
 
 de Paul Doru Mugur
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e9af0087c39943d8ac58089cb6ae95e9/noop.jpg?input=http%3A%2F%2Fwww.respiro.org%2FIssue22%2FArt%2Fart_gorzo_fichiers%2Fimage002.jpg" /><h1>R E S P I R O - A R T</h1><p>Încercând să definească criteriile generale care guvernează interesul psihicului uman pentru arta vizuală, V. S. Ramachandran şi William Hirstein, doi specialişti în teorii cognitive au propus structurarea experienţei estetice după opt legi. Cei doi cercetători susţin că toţi artiştii plastici folosesc, conştient sau inconştient, până la opt principii estetice pentru a &amp;bdquo;excita" în mod optim creierele consumatorilor de artă.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc10109afbb0405a65fc73117d70c94d60905dd5.jpg" /><h1>R E S P I R O - A R T</h1><p>Încercând să definească criteriile generale care guvernează interesul psihicului uman pentru arta vizuală, V. S. Ramachandran şi William Hirstein, doi specialişti în teorii cognitive au propus structurarea experienţei estetice după opt legi. Cei doi cercetători susţin că toţi artiştii plastici folosesc, conştient sau inconştient, până la opt principii estetice pentru a &amp;bdquo;excita" în mod optim creierele consumatorilor de artă.</p></article>
 
 "...
 
@@ -47,3 +47,14 @@ Artistul adaugă straturi noi de sensuri imaginilor care devin un fel de palimps
 Este inevitabilă paralela între Brâncuşi şi Gorzo, amândoi exploratori ai filonului artei poluare tradiţionale româneşti. Demersul subversiv al lui Gorzo, care introduce un soi de distanţare ironică faţă de orice tendinţă absolutistă este însă foarte deosebit de cel al lui Brâncuşi care în căutarea unei mitice ur-forme iniţiale a mers într-o direcţie a esenţializării formelor populare. Pe de altă parte, ca şi Brâncuşi, Gorzo este un artist cu o foarte precisă gândire tri-dimensională a spaţiului şi multe dintre desenele lui trădează o viziune de sculptor sau arhitect.
 
 Penisurile lui Gorzo nu deranjează pentru că sunt penisuri sincere, prezentate fără ostentaţie, erotismul lor este natural ca în bancul cu plaja de nudişti: „Domnişoară îmi place mult de dumneavoastră. " „Da, domnule, este _vizibil_." Parafrazând în joacă, talentul lui Dumitru Gorzo, este _extrem de vizibil_.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19644569-5826-4068-8f1d-ca93ddc433e4.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c2a4224-7bda-4f5b-8737-f00842536322.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d15bfcc-4477-4d6b-ae25-cce671bbd041.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43331f55-7de0-45b7-8d26-580622878adc.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/673a299a-c4f9-45fb-a343-11ed9db94aeb.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec53f33a-8f7d-4828-a5dc-8a20aa726c24.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b91c66d-56f7-4b89-a131-862c7163f474.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f28b2e76-0c34-4415-98b4-4f35b0e403ee.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f33004f2-b576-4acb-a930-9663a7f1eb50.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/815a8e71-d60d-4008-9c70-b8310512e944.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d222d86e-8977-4af5-8ba2-4766663273a4.jpg)
