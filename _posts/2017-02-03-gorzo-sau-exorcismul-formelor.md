@@ -1,18 +1,14 @@
 ---
 author: []
 related: []
-publisher:
-  url: 'http://www.respiro.org'
-  name: Respiro
-  favicon: null
-  domain: www.respiro.org
+publisher: {}
 keywords: []
-description: "de\_Paul Doru Mugur"
+description: de Paul Doru Mugur
 inLanguage: ro
 app_links: []
 title: Gorzo sau exorcismul formelor
-datePublished: '2017-02-03T12:36:49.676Z'
-dateModified: '2017-02-03T12:36:47.210Z'
+datePublished: '2017-02-03T12:40:38.465Z'
+dateModified: '2017-02-03T12:40:37.634Z'
 via: {}
 inFeed: true
 hasPage: true
@@ -27,10 +23,6 @@ _type: MediaObject
 # Gorzo sau exorcismul formelor
 
 de Paul Doru Mugur
-
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc10109afbb0405a65fc73117d70c94d60905dd5.jpg" /><h1>R E S P I R O - A R T</h1><p>Încercând să definească criteriile generale care guvernează interesul psihicului uman pentru arta vizuală, V. S. Ramachandran şi William Hirstein, doi specialişti în teorii cognitive au propus structurarea experienţei estetice după opt legi. Cei doi cercetători susţin că toţi artiştii plastici folosesc, conştient sau inconştient, până la opt principii estetice pentru a &amp;bdquo;excita" în mod optim creierele consumatorilor de artă.</p></article>
-
-"...
 
 Arta lui Gorzo este însă mult mai complexă decât suma unor tehnici.
 
@@ -47,6 +39,8 @@ Artistul adaugă straturi noi de sensuri imaginilor care devin un fel de palimps
 Este inevitabilă paralela între Brâncuşi şi Gorzo, amândoi exploratori ai filonului artei poluare tradiţionale româneşti. Demersul subversiv al lui Gorzo, care introduce un soi de distanţare ironică faţă de orice tendinţă absolutistă este însă foarte deosebit de cel al lui Brâncuşi care în căutarea unei mitice ur-forme iniţiale a mers într-o direcţie a esenţializării formelor populare. Pe de altă parte, ca şi Brâncuşi, Gorzo este un artist cu o foarte precisă gândire tri-dimensională a spaţiului şi multe dintre desenele lui trădează o viziune de sculptor sau arhitect.
 
 Penisurile lui Gorzo nu deranjează pentru că sunt penisuri sincere, prezentate fără ostentaţie, erotismul lor este natural ca în bancul cu plaja de nudişti: „Domnişoară îmi place mult de dumneavoastră. " „Da, domnule, este _vizibil_." Parafrazând în joacă, talentul lui Dumitru Gorzo, este _extrem de vizibil_.
+
+source: [RESPIRO][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19644569-5826-4068-8f1d-ca93ddc433e4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c2a4224-7bda-4f5b-8737-f00842536322.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d15bfcc-4477-4d6b-ae25-cce671bbd041.jpg)
@@ -58,3 +52,5 @@ Penisurile lui Gorzo nu deranjează pentru că sunt penisuri sincere, prezentate
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f33004f2-b576-4acb-a930-9663a7f1eb50.gif)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/815a8e71-d60d-4008-9c70-b8310512e944.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d222d86e-8977-4af5-8ba2-4766663273a4.jpg)
+
+[0]: http://www.respiro.org/Issue22/Art/art_gorzo.html
