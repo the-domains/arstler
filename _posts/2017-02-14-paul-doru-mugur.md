@@ -1,30 +1,38 @@
 ---
 inFeed: false
-description: 'born: Constanţa, 1969'
-dateModified: '2017-02-14T15:52:05.299Z'
-datePublished: '2017-02-14T15:52:05.906Z'
+description: Invited Author
+dateModified: '2017-02-14T15:55:57.963Z'
+datePublished: '2017-02-14T15:56:00.411Z'
 title: Paul Doru Mugur
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-02-14-paul-doru-mugur.md
 starred: false
 datePublishedOriginal: '2017-02-14T15:52:05.906Z'
-sourcePath: _posts/2017-02-14-paul-doru-mugur.md
 url: paul-doru-mugur/index.html
 _type: Blurb
 
 ---
 # Paul Doru Mugur
 
+Invited Author
+
 born: Constanţa, 1969
 
 studies: medicine in Bucharest, Paris, New York
 
-now: works as an MD  in New York
+now: works as an MD in New York
 
 2000: founded Respiro magazine
 
 writes: poetry, fiction & non-fiction published on the internet
 
 poetry and art section editor of Respiro magazine
+
+Posts by Doru:
+
+[Gorzo sau exorcismul formelor][0]
+
+[0]: http://arstler.com/gorzo-sau-exorcismul-formelor
