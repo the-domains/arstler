@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-15T09:40:59.488Z'
+datePublished: '2017-02-14T15:31:44.332Z'
 sourcePath: _posts/2016-05-17-in-fact-id-like-to-steal-this-painting.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-15T09:40:58.846Z'
+dateModified: '2017-02-14T15:31:43.410Z'
 title: arstler™
 id: 8e1e6782-92ec-4bae-b65d-3191a4443bf3
 publisher: {}
@@ -29,7 +29,7 @@ galleries, collectors and artists - interested in partnering with **arstler**_(t
 
 **♥**
 
-collaborators: [Renay Elle Morris][0], [Eugen Berlo][1]
+collaborators: [Renay Elle Morris][0], Paul Doru Mugur, [Eugen Berlo][1]
 
 **♥**
 
