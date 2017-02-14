@@ -7,8 +7,8 @@ description: de Paul Doru Mugur
 inLanguage: ro
 app_links: []
 title: Gorzo sau exorcismul formelor
-datePublished: '2017-02-14T14:53:19.556Z'
-dateModified: '2017-02-14T14:53:17.681Z'
+datePublished: '2017-02-14T15:57:13.833Z'
+dateModified: '2017-02-14T15:57:13.069Z'
 via: {}
 inFeed: true
 hasPage: true
@@ -22,7 +22,7 @@ _type: MediaObject
 ---
 # Gorzo sau exorcismul formelor
 
-de Paul Doru Mugur
+de [Paul Doru Mugur][0]
 
 Arta lui Gorzo este însă mult mai complexă decât suma unor tehnici.
 
@@ -40,7 +40,7 @@ Este inevitabilă paralela între Brâncuşi şi Gorzo, amândoi exploratori ai 
 
 Penisurile lui Gorzo nu deranjează pentru că sunt penisuri sincere, prezentate fără ostentaţie, erotismul lor este natural ca în bancul cu plaja de nudişti: „Domnişoară îmi place mult de dumneavoastră. " „Da, domnule, este _vizibil_." Parafrazând în joacă, talentul lui Dumitru Gorzo, este _extrem de vizibil_.
 
-source: [RESPIRO][0]
+source: [RESPIRO][1]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19644569-5826-4068-8f1d-ca93ddc433e4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c2a4224-7bda-4f5b-8737-f00842536322.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d15bfcc-4477-4d6b-ae25-cce671bbd041.jpg)
@@ -53,4 +53,5 @@ source: [RESPIRO][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/815a8e71-d60d-4008-9c70-b8310512e944.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d222d86e-8977-4af5-8ba2-4766663273a4.jpg)
 
-[0]: http://www.respiro.org/Issue22/Art/art_gorzo.html
+[0]: http://arstler.com/paul-doru-mugur/
+[1]: http://www.respiro.org/Issue22/Art/art_gorzo.html
