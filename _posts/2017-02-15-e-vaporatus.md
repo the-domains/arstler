@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-02-15T21:17:55.518Z'
-dateModified: '2017-02-15T21:17:43.600Z'
+datePublished: '2017-02-15T21:29:06.412Z'
+dateModified: '2017-02-15T21:28:58.520Z'
 description: volumetrie permisiva
 via: {}
 sourcePath: _posts/2017-02-15-e-vaporatus.md
@@ -17,29 +17,15 @@ _type: Article
 ---
 # E-VAPORATUS
 
-# E-VAPORATUS
-
-volumetrie permisiva
-
 volumetrie permisiva
 
 Marian Gheorghe
 
-Marian Gheorghe 
-
 invitat Călin Vasilescu
-
-invitat Călin Vasilescu 
-
-sculptura 
 
 sculptura
 
 Constantin Hostiuc
-
-Constantin Hostiuc
-
-critic
 
 critic
 
@@ -59,22 +45,14 @@ Uniunea Artiștilor Plastici - Filiala Arte Decorative
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ec7b0437272488990764f820e59c71fcee31eb6.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/732618722111fd8acfb9a1c10463a3c3b5c802ca.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aba9ae89-3993-4013-ab71-75ac57a20587.jpg)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/db4103ec10a80497e331cceba43d10b0/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa82f9cb4-bdd2-424e-9cef-28f066d3644a.jpg&x=0&y=0)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/96f827e9e79d4730feca49a4cd541c52/croprotate.jpg?cropheight=2448&cropwidth=3264&degrees=-180&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F3149350c-d964-46ef-9873-19355fc16dd4.jpg&x=0&y=0)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/ef753d34a8d6f93c7c94844990906b2d/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8815467a-97dc-448e-a547-6a5c4e23e829.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/41d838483f33d24aae200d7e066806fd9431f48d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/823d7c4e1ed6874a5e114b40322fece028f435f9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ab7f62dade822086653dffbd2c691054342d7b0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ef35d5a-ad26-4fa4-8b81-595de3f29992.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8752fa1-6776-4bde-982e-991fcbb84b12.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ae2ff5d-5a38-4959-a2f5-414a70ef9d3c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09745ab1-fe63-4505-9a5e-5ab251a776e4.jpg)
-
-15-2-2017 - 13-3-2017
-
-Galeria Orizont
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65ecc8a6-5482-4ff8-8b3c-f9a2c4528150.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f49175b-b9b3-46f7-aa5a-6919e920d153.jpg)
-
-Uniunea Artiștilor Plastici - Filiala Arte Decorative
-
----
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6fcf677d972001b742c174eb4a291a013715b5dd.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e206e4a7a59cd662718bcf1e9858101a58262a2e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/291d82b05c6c1e6126584cd5642e31b85c1a5c9b.jpg)
 
 ---
