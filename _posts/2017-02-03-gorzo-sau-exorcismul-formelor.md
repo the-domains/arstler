@@ -7,8 +7,8 @@ description: de Paul Doru Mugur
 inLanguage: ro
 app_links: []
 title: Gorzo sau exorcismul formelor
-datePublished: '2017-02-14T15:57:15.912Z'
-dateModified: '2017-02-14T15:57:15.166Z'
+datePublished: '2017-02-16T11:02:53.973Z'
+dateModified: '2017-02-16T11:02:53.297Z'
 via: {}
 inFeed: true
 hasPage: true
