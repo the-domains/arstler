@@ -1,8 +1,8 @@
 ---
 publisher: {}
-datePublished: '2017-02-15T21:29:06.412Z'
-dateModified: '2017-02-15T21:28:58.520Z'
-description: volumetrie permisiva
+datePublished: '2017-02-16T10:54:35.990Z'
+dateModified: '2017-02-16T10:54:35.018Z'
+description: 'volumetrie permisiva - Marian Gheorghe '
 via: {}
 sourcePath: _posts/2017-02-15-e-vaporatus.md
 title: E-VAPORATUS
@@ -17,23 +17,15 @@ _type: Article
 ---
 # E-VAPORATUS
 
-volumetrie permisiva
+volumetrie permisiva - Marian Gheorghe 
 
-Marian Gheorghe
+invitat Călin Vasilescu - sculptura
 
-invitat Călin Vasilescu
+Constantin Hostiuc - critic
 
-sculptura
+15.2.2017 - 13.3.2017
 
-Constantin Hostiuc
-
-critic
-
-15-2-2017 - 13-3-2017
-
-Galeria Orizont
-
-Uniunea Artiștilor Plastici - Filiala Arte Decorative
+Galeria Orizont - Uniunea Artiștilor Plastici - Filiala Arte Decorative
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/872a343723797adac76b56ac7a1d7d45160da100.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49ce6da8-7e68-4cfe-8f50-fe251a976d5a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/677d2401-7dfe-41a8-8993-8d2d25f42b91.jpg)
