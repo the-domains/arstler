@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-02-20T17:51:44.654Z'
-dateModified: '2017-02-20T17:51:43.489Z'
+datePublished: '2017-02-21T10:36:23.386Z'
+dateModified: '2017-02-21T10:36:22.002Z'
 description: 'volumetrie permisiva - Marian Gheorghe '
 via: {}
 sourcePath: _posts/2017-02-15-e-vaporatus.md
