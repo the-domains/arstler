@@ -64,13 +64,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/ANA8SI_KvqI'
 title: The Truth About Modern Art
-datePublished: '2017-02-21T10:36:00.078Z'
-dateModified: '2017-02-21T10:35:12.580Z'
-datePublishedOriginal: '2017-02-21T10:36:00.078Z'
+datePublished: '2017-02-21T10:36:22.478Z'
+dateModified: '2017-02-21T10:36:22.002Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-21-the-truth-about-modern-art.md
+starred: false
+datePublishedOriginal: '2017-02-21T10:36:00.078Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
