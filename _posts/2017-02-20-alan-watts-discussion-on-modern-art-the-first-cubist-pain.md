@@ -20,8 +20,8 @@ isBasedOnUrl: 'https://youtu.be/AGLBdydFlH8'
 title: >-
   Alan Watts - Discussion on Modern Art, the first Cubist Painting, &
   Spirituality
-datePublished: '2017-02-20T17:51:44.413Z'
-dateModified: '2017-02-20T17:51:43.489Z'
+datePublished: '2017-02-21T10:36:23.288Z'
+dateModified: '2017-02-21T10:36:22.002Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-20-alan-watts-discussion-on-modern-art-the-first-cubist-pain.md
