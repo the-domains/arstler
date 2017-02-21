@@ -62,17 +62,20 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/ANA8SI_KvqI'
 title: The Truth About Modern Art
-datePublished: '2017-02-21T10:36:22.478Z'
-dateModified: '2017-02-21T10:36:22.002Z'
+datePublished: '2017-02-21T10:38:40.011Z'
+dateModified: '2017-02-21T10:38:39.414Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-21-the-truth-about-modern-art.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-02-21T10:36:00.078Z'
+url: the-truth-about-modern-art/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FANA8SI_KvqI%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DANA8SI_KvqI&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FANA8SI_KvqI%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FlNI07egoefc%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlNI07egoefc&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FlNI07egoefc%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
