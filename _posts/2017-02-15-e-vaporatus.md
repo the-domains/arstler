@@ -1,13 +1,19 @@
 ---
 publisher: {}
-datePublished: '2017-02-22T12:43:30.661Z'
-dateModified: '2017-02-22T12:43:29.943Z'
+datePublished: '2017-02-22T12:43:44.102Z'
+dateModified: '2017-02-22T12:43:43.396Z'
 description: >-
   I was there for the opening of the show. The gallery is reminiscent of the old
   communist era, and the show is in plain sight, as one can watch through the
   windows of the gallery, and even though you have to enter strangely to the
   back door, once you are inside you get to warm up in the presence of the
-  artworks.
+  artworks. You start to recognize the spirit of subtle latin humor in Marian’s
+  approach to his creation of E-Vapotarus, meaning repurposing of sensually
+  tactile vintage objects and cleverly giving them a new life as intricate part
+  of the new objects on display. On the other side against the wall you find
+  yourself immersed into a grave deep lyric emotion of the “Wheels and Chakras”
+  To me they are the definition of solid yet delicate, rustic yet pleasant,
+  technically improbable yet archetypal.
 via: {}
 sourcePath: _posts/2017-02-15-e-vaporatus.md
 title: E-VAPORATUS
@@ -25,11 +31,7 @@ _type: Article
 > Volumetrie permisivă Marian Gheorghe invitat Călin Vasilescu sculptură - Constantin Hostiuc critic
 > 15.2.2017 - 13.3.2017 - Galeria Orizont - Uniunea Artiștilor Plastici - Filiala Arte Decorative
 
-I was there for the opening of the show. The gallery is reminiscent of the old communist era, and the show is in plain sight, as one can watch through the windows of the gallery, and even though you have to enter strangely to the back door, once you are inside you get to warm up in the presence of the artworks.
-
-You start to recognize the spirit of subtle latin humor in Marian's approach to his creation of E-Vapotarus, meaning repurposing of sensually tactile vintage objects and cleverly giving them a new life as intricate part of the new objects on display.
-
-On the other side against the wall you find yourself immersed into a grave deep lyric emotion of the "Wheels and Chakras" To me they are the definition of solid yet delicate, rustic yet pleasant, technically improbable yet archetypal. 
+I was there for the opening of the show. The gallery is reminiscent of the old communist era, and the show is in plain sight, as one can watch through the windows of the gallery, and even though you have to enter strangely to the back door, once you are inside you get to warm up in the presence of the artworks. You start to recognize the spirit of subtle latin humor in Marian's approach to his creation of E-Vapotarus, meaning repurposing of sensually tactile vintage objects and cleverly giving them a new life as intricate part of the new objects on display. On the other side against the wall you find yourself immersed into a grave deep lyric emotion of the "Wheels and Chakras" To me they are the definition of solid yet delicate, rustic yet pleasant, technically improbable yet archetypal.
 
 by Genu Berlo
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/872a343723797adac76b56ac7a1d7d45160da100.jpg)
