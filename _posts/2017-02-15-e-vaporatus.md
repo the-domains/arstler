@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-02-22T12:38:50.586Z'
-dateModified: '2017-02-22T12:38:49.815Z'
+datePublished: '2017-02-22T12:39:59.322Z'
+dateModified: '2017-02-22T12:39:58.610Z'
 description: >-
   I was there for the opening of the show. The gallery is reminiscent of the old
   communist era, and the show is in plain sight, as one can watch through the
@@ -49,5 +49,9 @@ by Genu Berlo
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6fcf677d972001b742c174eb4a291a013715b5dd.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e206e4a7a59cd662718bcf1e9858101a58262a2e.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/291d82b05c6c1e6126584cd5642e31b85c1a5c9b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16e003f6-5fda-418b-99fe-9cc6a3fda66e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/889192ea-ddd7-45d4-80bb-143f3668eb9f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/afb9f49d-ce42-4949-8a05-52e187a86684.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ec1b9d4-3d07-45dc-ab2c-72c0196c05c8.jpg)
 
 ---
