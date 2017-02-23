@@ -6,8 +6,8 @@ description: >-
   Martin Wong is indicative of much of his painting. At first confrontational
   and graphic, the image rests upon Martin's representative brick work, evoking
   the Lower East Side buildings where he lived and worked.
-dateModified: '2017-01-31T14:26:38.007Z'
-datePublished: '2017-01-31T14:27:31.765Z'
+dateModified: '2017-02-23T11:11:13.294Z'
+datePublished: '2017-02-23T11:12:11.617Z'
 title: 'Martin Wong, ''Untitled'', Doyle: ''80s Downtown Art | Artsy'
 author: []
 publisher: {}
