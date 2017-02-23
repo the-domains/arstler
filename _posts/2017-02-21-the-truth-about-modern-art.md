@@ -63,8 +63,8 @@ app_links:
     namespace: google
     type: ios
 title: The Truth About Modern Art
-datePublished: '2017-02-22T12:43:30.635Z'
-dateModified: '2017-02-22T12:43:29.943Z'
+datePublished: '2017-02-23T11:11:47.046Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-21-the-truth-about-modern-art.md
