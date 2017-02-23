@@ -1,7 +1,7 @@
 ---
 title: Won Kun Jun Solo Exhibition at Youngeun Museum
-datePublished: '2017-01-28T12:25:35.634Z'
-dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-02-23T11:12:22.235Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 author: []
 isBasedOnUrl: 'http://www.gallerylvs.org/?p=3431'
 description: >-
