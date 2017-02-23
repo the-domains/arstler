@@ -1,7 +1,7 @@
 ---
 title: 'Liang Qunfeng, ''Colored House in Old Village'', 2013, Gallery LVS | Artsy'
-datePublished: '2017-01-28T12:25:35.644Z'
-dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-02-23T11:12:22.229Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/liang-qunfeng-colored-house-in-old-village'
 description: Home Museums Artists Fairs Shows Auctions Galleries Magazine
