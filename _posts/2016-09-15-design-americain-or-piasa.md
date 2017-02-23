@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-28T12:25:26.103Z'
+datePublished: '2017-02-23T11:12:14.407Z'
 inFeed: true
 isBasedOnUrl: 'http://www.piasa.fr/design-americian'
 author: []
 via: {}
-dateModified: '2017-01-28T12:24:29.511Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: Design Américain | Piasa
 publisher: {}
 description: >-
