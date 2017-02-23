@@ -32,8 +32,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://en.wikipedia.org/wiki/Mih%C3%A1ly_Munk%C3%A1csy'
 title: Mihály Munkácsy
-datePublished: '2017-02-03T12:42:57.455Z'
-dateModified: '2017-02-03T12:42:56.753Z'
+datePublished: '2017-02-23T11:11:47.947Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-01-mihaly-munkacsy-wikipedia.md
