@@ -27,8 +27,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.theartstory.org/artist-bacon-francis.htm'
 title: 'Francis Bacon Biography, Art, and Analysis of Works'
-datePublished: '2017-01-31T14:27:15.562Z'
-dateModified: '2017-01-31T14:26:38.007Z'
+datePublished: '2017-02-23T11:11:52.018Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-16-francis-bacon-biography-art-and-analysis-of-works.md
