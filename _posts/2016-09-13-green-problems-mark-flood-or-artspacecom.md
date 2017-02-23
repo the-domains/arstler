@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-23T11:40:29.416Z'
+datePublished: '2017-02-23T11:12:15.844Z'
 inFeed: true
 isBasedOnUrl: 'http://www.artspace.com/mark_flood/green-problems'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: 'Green Problems, Mark Flood | Artspace.com'
 publisher: {}
 description: >-
@@ -15,6 +15,7 @@ description: >-
   intricately textured patterns.
 sourcePath: _posts/2016-09-13-green-problems-mark-flood-or-artspacecom.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.416Z'
 _type: MediaObject
 
 ---
