@@ -27,8 +27,8 @@ isBasedOnUrl: 'https://www.curioos.com/product/aluminum-die-cut/tonari-no-totoro
 title: >-
   "Tonari No Totoro", Limited Edition Die-Cut Print by Victor Vercesi - From
   $149 - Curioos
-datePublished: '2017-01-31T14:27:15.379Z'
-dateModified: '2017-01-31T14:26:38.007Z'
+datePublished: '2017-02-23T11:11:51.751Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-25-tonari-no-totoro-limited-edition-die-cut-print-by-victor.md
