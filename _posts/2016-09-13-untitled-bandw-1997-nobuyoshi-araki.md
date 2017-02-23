@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-31T14:27:37.149Z'
+datePublished: '2017-02-23T11:12:16.113Z'
 inFeed: true
 isBasedOnUrl: 'http://www.artspace.com/nobuyoshi_araki/untitled-bw-1997'
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: 'Untitled (B&W, 1997), Nobuyoshi Araki'
 publisher: {}
 description: >-
