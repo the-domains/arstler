@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-31T14:27:35.761Z'
+datePublished: '2017-02-23T11:12:15.299Z'
 inFeed: true
 isBasedOnUrl: 'http://www.artspace.com/julian_hoeber/xc-schematic-001'
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: 'XC Schematic 001, Julian Hoeber | Artspace.com'
 publisher: {}
 description: >-
