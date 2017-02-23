@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Home Museums Artists Fairs Shows Auctions Galleries Magazine
-dateModified: '2016-11-23T11:26:45.121Z'
-datePublished: '2016-11-23T11:40:29.457Z'
+dateModified: '2017-02-23T11:11:13.294Z'
+datePublished: '2017-02-23T11:12:18.617Z'
 title: 'Emma Hack, ''Royal Hanging Garden'', The Cat Street Gallery | Artsy'
 author: []
 publisher: {}
@@ -10,6 +10,7 @@ via: {}
 isBasedOnUrl: 'https://m.artsy.net/artwork/emma-hack-royal-hanging-garden-1'
 sourcePath: _posts/2016-09-15-emma-hack-royal-hanging-garden-the-cat-street-gallery-or.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.457Z'
 _type: MediaObject
 
 ---
