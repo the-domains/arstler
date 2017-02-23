@@ -7,8 +7,8 @@ description: >-
   for his large-scale canvases featuring a sparse, seemingly disjunctive
   arrangement of elements, often including provocatively posed women and nudes
   and the use of grisaille.
-dateModified: '2017-01-31T14:26:38.007Z'
-datePublished: '2017-01-31T14:27:31.933Z'
+dateModified: '2017-02-23T11:11:13.294Z'
+datePublished: '2017-02-23T11:12:11.877Z'
 title: 'David Salle, ''Untitled (And)'', 1995, Doyle: ''80s Downtown Art | Artsy'
 author: []
 publisher: {}
