@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-31T14:27:20.083Z'
+datePublished: '2017-02-23T11:11:58.125Z'
 sourcePath: _posts/2016-05-27-from-castelli-to-gagosian-whats-behind-an-art-gallerys-su.md
 inFeed: true
 hasPage: true
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: 'From Castelli to Gagosian, What''s behind an Art Gallery''s Success?'
 app_links:
   - url: >-
