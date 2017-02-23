@@ -5,8 +5,8 @@ description: >-
   South Carolina and the Parsons School of Design, Johns began his career in New
   York City. The reverberations of his work affected nearly every artistic
   movement from the 1950s through the present day.
-dateModified: '2017-01-31T14:26:38.007Z'
-datePublished: '2017-01-31T14:27:17.035Z'
+dateModified: '2017-02-23T11:11:13.294Z'
+datePublished: '2017-02-23T11:11:53.659Z'
 title: JASPER JOHNS
 author: []
 publisher: {}
