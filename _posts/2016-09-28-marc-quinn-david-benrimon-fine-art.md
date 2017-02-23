@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-31T14:27:28.340Z'
+datePublished: '2017-02-23T11:12:08.150Z'
 inFeed: true
 isBasedOnUrl: 'http://www.benrimon.com/artists/marc-quinn/featured-works?view=slider#1'
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: 'Marc Quinn - David Benrimon Fine Art '
 publisher: {}
 description: >-
