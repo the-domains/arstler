@@ -1,7 +1,7 @@
 ---
 title: 'Saatchi Art: Trying To Fit In Painting by Magdalena Krzak'
-datePublished: '2016-11-23T11:40:34.657Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-02-23T11:12:20.894Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 author: []
 isBasedOnUrl: >-
   https://www.saatchiart.com/art/Painting-Trying-To-Fit-In/736265/2641579/view?utm_source=artists&utm_medium=email&utm_campaign=2005&c_aid=news&c_crid=sale5&c_xid=090416&utm_content=090416_news
@@ -14,6 +14,7 @@ via: {}
 inFeed: true
 sourcePath: _posts/2016-09-11-saatchi-art-trying-to-fit-in-painting-by-magdalena-krzak.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:34.657Z'
 _type: MediaObject
 
 ---
