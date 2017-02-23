@@ -1,7 +1,7 @@
 ---
 title: 'Saatchi Art Artist: Jonas Fisch; Acrylic 2016 Painting "Outsiders"'
-datePublished: '2017-01-31T14:27:42.827Z'
-dateModified: '2017-01-31T14:26:38.007Z'
+datePublished: '2017-02-23T11:12:21.396Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 author: []
 isBasedOnUrl: >-
   https://www.saatchiart.com/art/Painting-Outsiders/738587/3037012/view?utm_source=artists&utm_medium=email&utm_campaign=2005&c_aid=news&c_crid=sale11&c_xid=082116&utm_content=082116_news
