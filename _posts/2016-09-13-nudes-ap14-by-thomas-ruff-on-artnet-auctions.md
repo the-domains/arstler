@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-31T14:27:38.959Z'
+datePublished: '2017-02-23T11:12:17.943Z'
 inFeed: true
 isBasedOnUrl: 'https://www.artnet.com/auctions/artists/thomas-ruff/nudes-ap14-3'
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: Nudes ap14 by Thomas Ruff on artnet Auctions
 publisher: {}
 description: >-
