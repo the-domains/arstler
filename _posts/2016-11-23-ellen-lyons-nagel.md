@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-31T14:27:21.410Z'
+datePublished: '2017-02-23T11:11:59.672Z'
 sourcePath: _posts/2016-11-23-ellen-lyons-nagel.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: Ellen Lyons Nagel
 publisher: {}
 description: 'Vancouver, WA, United States'
