@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-31T14:27:30.950Z'
+datePublished: '2017-02-23T11:12:11.025Z'
 sourcePath: _posts/2016-09-18-jeff-koons-balloon-dog-red-2002-doyle-80s-downtown.md
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/jeff-koons-balloon-dog-red-10'
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: 'Jeff Koons, ''Balloon Dog (Red)'', 2002, Doyle: ''80s Downtown Art | Artsy'
 publisher: {}
 description: >-
