@@ -5,8 +5,8 @@ description: >-
   age 13. The two began an extensive period of collaboration, with LA2 joining
   Haring in creating and exhibiting work at the Shafrazi Gallery, as well as
   galleries in London, Tokyo and Milan.
-dateModified: '2017-01-31T14:26:38.007Z'
-datePublished: '2017-01-31T14:27:32.119Z'
+dateModified: '2017-02-23T11:11:13.294Z'
+datePublished: '2017-02-23T11:12:11.937Z'
 title: 'LA2, ''Untitled (Lower East Side)'', Doyle: ''80s Downtown Art | Artsy'
 author: []
 publisher: {}
