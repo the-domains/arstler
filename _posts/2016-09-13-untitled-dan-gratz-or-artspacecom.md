@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-23T11:40:29.416Z'
+datePublished: '2017-02-23T11:12:15.812Z'
 inFeed: true
 isBasedOnUrl: 'http://www.artspace.com/dan-gratz/untitled'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: 'untitled, Dan Gratz | Artspace.com'
 publisher: {}
 description: >-
@@ -12,6 +12,7 @@ description: >-
   artificial cloud formations and other phenomena, Da...
 sourcePath: _posts/2016-09-13-untitled-dan-gratz-or-artspacecom.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.416Z'
 _type: MediaObject
 
 ---
