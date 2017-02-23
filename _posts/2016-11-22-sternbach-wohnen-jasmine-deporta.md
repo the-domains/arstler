@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-31T14:27:19.204Z'
+datePublished: '2017-02-23T11:11:57.239Z'
 sourcePath: _posts/2016-11-22-sternbach-wohnen-jasmine-deporta.md
 inFeed: true
 hasPage: true
@@ -8,7 +8,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: Sternbach Wohnen - Jasmine Deporta
 app_links: []
 publisher:
