@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-31T14:27:34.444Z'
+datePublished: '2017-02-23T11:12:14.558Z'
 inFeed: true
 isBasedOnUrl: 'http://www.piasa.fr/node/133279'
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: 'Design Scandinave : a black and white idea and why not a touch of pink | Piasa'
 publisher: {}
 description: >-
