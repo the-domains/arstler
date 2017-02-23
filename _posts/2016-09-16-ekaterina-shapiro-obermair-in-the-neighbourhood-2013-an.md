@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Home Museums Artists Fairs Shows Auctions Galleries Magazine
-dateModified: '2017-01-31T14:26:38.007Z'
-datePublished: '2017-01-31T14:27:32.817Z'
+dateModified: '2017-02-23T11:11:13.294Z'
+datePublished: '2017-02-23T11:12:12.769Z'
 title: >-
   Ekaterina SHAPIRO-OBERMAIR, 'In the Neighbourhood', 2013, Ani Molnár Gallery |
   Artsy
