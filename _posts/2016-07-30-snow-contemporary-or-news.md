@@ -1,7 +1,7 @@
 ---
 title: SNOW Contemporary | NEWS
-datePublished: '2017-01-31T14:27:48.048Z'
-dateModified: '2017-01-31T14:26:38.007Z'
+datePublished: '2017-02-23T11:12:26.506Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 author: []
 isBasedOnUrl: 'http://snowcontemporary.com/exhibition.html'
 description: >-
