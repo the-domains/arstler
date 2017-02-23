@@ -1,16 +1,21 @@
 ---
 inFeed: true
-description: '  Self-taught printmaker specialising in linocut based in rural Cumbria, England. Wilkinson was drawn to printmaking by its timeless quality, the deceptive simplicity of line and form it allows, and his lifelong love of the work of British and Irish wood engravers of the 1930s, such as Eric Ravilious, Eric Gill and Robert Gibbings.'
-dateModified: '2017-02-23T11:05:55.960Z'
-datePublished: '2017-02-23T11:05:56.960Z'
+description: >-
+  Self-taught printmaker specialising in linocut based in rural Cumbria,
+  England. Wilkinson was drawn to printmaking by its timeless quality, the
+  deceptive simplicity of line and form it allows, and his lifelong love of the
+  work of British and Irish wood engravers of the 1930s, such as Eric Ravilious,
+  Eric Gill and Robert Gibbings.
+dateModified: '2017-02-23T11:11:13.294Z'
+datePublished: '2017-02-23T11:11:45.282Z'
 title: Mark Wilkinson
 author: []
 publisher: {}
 via: {}
 hasPage: true
-starred: false
-datePublishedOriginal: '2017-02-23T11:05:56.960Z'
 sourcePath: _posts/2017-02-23-mark-wilkinson.md
+starred: false
+datePublishedOriginal: '2017-02-23T11:05:51.124Z'
 url: mark-wilkinson/index.html
 _type: Article
 
