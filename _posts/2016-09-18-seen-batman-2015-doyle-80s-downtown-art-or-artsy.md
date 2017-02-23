@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-31T14:27:31.935Z'
+datePublished: '2017-02-23T11:12:11.811Z'
 sourcePath: _posts/2016-09-18-seen-batman-2015-doyle-80s-downtown-art-or-artsy.md
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/seen-batman'
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: 'SEEN, ''Batman'', 2015, Doyle: ''80s Downtown Art '
 publisher: {}
 description: >-
