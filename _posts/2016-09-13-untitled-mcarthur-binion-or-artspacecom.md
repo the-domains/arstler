@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Untitled, by McArthur Binion.'
-dateModified: '2016-11-23T11:26:45.121Z'
-datePublished: '2016-11-23T11:40:29.437Z'
+dateModified: '2017-02-23T11:11:13.294Z'
+datePublished: '2017-02-23T11:12:16.513Z'
 title: 'Untitled, McArthur Binion | Artspace.com'
 author: []
 publisher: {}
@@ -10,6 +10,7 @@ via: {}
 isBasedOnUrl: 'http://www.artspace.com/mcarthur_binion/untitled'
 sourcePath: _posts/2016-09-13-untitled-mcarthur-binion-or-artspacecom.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.437Z'
 _type: MediaObject
 
 ---
