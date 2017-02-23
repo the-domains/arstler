@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-31T14:27:35.663Z'
+datePublished: '2017-02-23T11:12:15.316Z'
 inFeed: true
 isBasedOnUrl: 'http://www.artspace.com/dan-levenson/blaise-kellermuller'
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: 'Blaise Kellermüller, Dan Levenson | Artspace.com'
 publisher: {}
 description: >-
