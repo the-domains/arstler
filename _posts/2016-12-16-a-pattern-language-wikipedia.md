@@ -31,8 +31,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://en.wikipedia.org/wiki/A_Pattern_Language'
 title: A Pattern Language - Wikipedia
-datePublished: '2017-01-31T14:27:15.214Z'
-dateModified: '2017-01-31T14:26:38.007Z'
+datePublished: '2017-02-23T11:11:51.747Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-16-a-pattern-language-wikipedia.md
