@@ -11,8 +11,8 @@ app_links:
     namespace: google
     type: android
 title: Mark di Suvero
-datePublished: '2017-02-13T11:51:28.012Z'
-dateModified: '2017-02-13T11:51:27.313Z'
+datePublished: '2017-02-23T11:11:47.534Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-13-mark-di-suvero-wikipedia.md
