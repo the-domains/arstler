@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-31T14:27:29.984Z'
+datePublished: '2017-02-23T11:12:10.203Z'
 sourcePath: _posts/2016-09-18-keith-haring-untitled-scissors-from-pop-shop-iii-198.md
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/keith-haring-untitled-scissors-from-pop-shop-iii'
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: >-
   Keith Haring, 'Untitled (Scissors - from Pop Shop III)', 1989, Doyle: '80s
   Downtown Art | Artsy
