@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-23T11:40:29.393Z'
+datePublished: '2017-02-23T11:12:14.935Z'
 inFeed: true
 isBasedOnUrl: 'http://www.artspace.com/amaranth-ehrenhalt/neilius'
 author: []
 via: {}
-dateModified: '2016-11-23T11:26:45.121Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: 'Neilius, Amaranth Ehrenhalt | Artspace.com'
 publisher: {}
 description: >-
@@ -16,6 +16,7 @@ description: >-
   express both force and fragility.
 sourcePath: _posts/2016-09-13-neilius-amaranth-ehrenhalt-or-artspacecom.md
 starred: false
+datePublishedOriginal: '2016-11-23T11:40:29.393Z'
 _type: MediaObject
 
 ---
