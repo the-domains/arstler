@@ -1,7 +1,7 @@
 ---
 title: 'Saatchi Art: Nude In The Garden Painting by Magdalena Krzak'
-datePublished: '2017-01-31T14:27:42.509Z'
-dateModified: '2017-01-31T14:26:38.007Z'
+datePublished: '2017-02-23T11:12:21.050Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 author: []
 isBasedOnUrl: 'https://www.saatchiart.com/art/Painting-Nude-In-The-Garden/736265/3021197/view'
 description: >-
