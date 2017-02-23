@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-31T14:27:20.041Z'
+datePublished: '2017-02-23T11:11:57.807Z'
 sourcePath: _posts/2016-07-30-gio-marconi.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: Gió Marconi
 publisher: {}
 description: ''
