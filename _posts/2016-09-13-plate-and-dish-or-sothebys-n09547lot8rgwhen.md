@@ -4,8 +4,8 @@ description: >-
   View auction details, art exhibitions and online catalogues; bid, buy and
   collect contemporary, impressionist or modern art, old masters, jewellery,
   wine, watches, prints, rugs and books at sotheby's auction house
-dateModified: '2017-01-28T12:24:29.511Z'
-datePublished: '2017-01-28T12:25:28.727Z'
+dateModified: '2017-02-23T11:11:13.294Z'
+datePublished: '2017-02-23T11:12:16.680Z'
 title: plate & dish | sotheby's n09547lot8rgwhen
 author: []
 publisher: {}
