@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-31T14:27:23.105Z'
+datePublished: '2017-02-23T11:12:01.619Z'
 sourcePath: _posts/2016-11-19-alessandro-casagrande-commercial.md
 inFeed: true
 hasPage: true
@@ -10,7 +10,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: Alessandro Casagrande
 app_links: []
 publisher: {}
