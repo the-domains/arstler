@@ -1,7 +1,7 @@
 ---
 title: 'Eduardo Santiere, ''Symphony #22'', 2012, Henrique Faria Fine Art | Artsy'
-datePublished: '2016-11-23T11:40:34.707Z'
-dateModified: '2016-11-23T11:26:45.121Z'
+datePublished: '2017-02-23T11:12:24.083Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/eduardo-santiere-symphony-number-22'
 description: >-
@@ -13,8 +13,9 @@ description: >-
 publisher: {}
 via: {}
 sourcePath: _posts/2016-08-15-eduardo-santiere-symphony-22-2012-henrique-faria-fine.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-23T11:40:34.707Z'
 _type: MediaObject
 
 ---
