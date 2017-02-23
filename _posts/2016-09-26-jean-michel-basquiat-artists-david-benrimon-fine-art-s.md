@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-01-31T14:27:28.742Z'
+datePublished: '2017-02-23T11:12:08.587Z'
 sourcePath: _posts/2016-09-26-jean-michel-basquiat-artists-david-benrimon-fine-art-s.md
 inFeed: true
 isBasedOnUrl: >-
   http://www.benrimon.com/artists/jean-michel-basquiat/featured-works?view=slider#2
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: Jean-Michel Basquiat - David Benrimon Fine Art Gallery
 publisher: {}
 description: >-
