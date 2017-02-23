@@ -31,8 +31,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://en.wikipedia.org/wiki/Jungian_archetypes'
 title: Jungian archetypes - Wikipedia
-datePublished: '2017-01-31T14:27:15.201Z'
-dateModified: '2017-01-31T14:26:38.007Z'
+datePublished: '2017-02-23T11:11:50.860Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-16-jungian-archetypes-wikipedia.md
