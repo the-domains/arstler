@@ -4,8 +4,8 @@ description: >-
   View auction details, art exhibitions and online catalogues; bid, buy and
   collect contemporary, impressionist or modern art, old masters, jewellery,
   wine, watches, prints, rugs and books at sotheby's auction house
-dateModified: '2017-01-31T14:26:38.007Z'
-datePublished: '2017-01-31T14:27:38.320Z'
+dateModified: '2017-02-23T11:11:13.294Z'
+datePublished: '2017-02-23T11:12:17.166Z'
 title: zhang chong scholars drinking in a | figures | sotheby's n09544lot94r32en
 author: []
 publisher: {}
