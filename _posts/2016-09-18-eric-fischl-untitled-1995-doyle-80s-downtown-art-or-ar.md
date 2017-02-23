@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-31T14:27:30.604Z'
+datePublished: '2017-02-23T11:12:10.891Z'
 sourcePath: _posts/2016-09-18-eric-fischl-untitled-1995-doyle-80s-downtown-art-or-ar.md
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/eric-fischl-untitled-96'
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: 'Eric Fischl, ''Untitled'', 1995, Doyle: ''80s Downtown Art | Artsy'
 publisher: {}
 description: >-
