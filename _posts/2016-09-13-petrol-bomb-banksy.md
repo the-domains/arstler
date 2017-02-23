@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-31T14:27:36.974Z'
+datePublished: '2017-02-23T11:12:16.085Z'
 inFeed: true
 isBasedOnUrl: 'http://www.artspace.com/banksy/petrol-bomb-1'
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: 'Petrol Bomb, Banksy '
 publisher: {}
 description: >-
