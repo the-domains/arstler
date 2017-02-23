@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-31T14:27:38.516Z'
+datePublished: '2017-02-23T11:12:17.492Z'
 inFeed: true
 isBasedOnUrl: 'https://www.artnet.com/auctions/artists/harry-callahan/chicago-trees-in-snow-2'
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: Chicago (Trees in Snow) by Harry Callahan on artnet Auctions
 publisher: {}
 description: >-
