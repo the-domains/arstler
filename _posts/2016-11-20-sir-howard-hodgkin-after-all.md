@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-31T14:27:22.700Z'
+datePublished: '2017-02-23T11:12:01.121Z'
 inFeed: true
 hasPage: true
 author:
@@ -7,7 +7,7 @@ author:
     url: null
     avatar: {}
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: 'Sir Howard Hodgkin: After All'
 publisher: {}
 description: 5 Oct 2016 - 18 Nov 2016
