@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-31T14:27:30.385Z'
+datePublished: '2017-02-23T11:12:10.648Z'
 sourcePath: _posts/2016-09-18-phase-2-untitled-doyle-80s-downtown-art-or-artsy.md
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/phase-2-untitled'
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: 'Phase 2, ''Untitled'', Doyle: ''80s Downtown Art '
 publisher: {}
 description: >-
