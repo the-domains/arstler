@@ -1,7 +1,7 @@
 ---
 title: Newzones | "Sunscreen" - Group Show
-datePublished: '2017-01-31T14:27:42.910Z'
-dateModified: '2017-01-31T14:26:38.007Z'
+datePublished: '2017-02-23T11:12:21.653Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 author: []
 isBasedOnUrl: >-
   http://www.newzones.com/dynamic/exhibit_artist.asp?ExhibitID=378#!prettyPhoto%5Bgallery%5D/1/
