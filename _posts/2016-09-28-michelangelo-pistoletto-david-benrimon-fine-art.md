@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-31T14:27:28.224Z'
+datePublished: '2017-02-23T11:12:08.053Z'
 inFeed: true
 isBasedOnUrl: >-
   http://www.benrimon.com/artists/michelangelo-pistoletto/featured-works?view=slider#2
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: 'Michelangelo Pistoletto - David Benrimon Fine Art '
 publisher: {}
 description: >-
