@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-31T14:27:29.964Z'
+datePublished: '2017-02-23T11:12:10.186Z'
 inFeed: true
 isBasedOnUrl: 'https://www.artsy.net/artwork/russell-james-ten-1'
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: 'Russell James | Ten (2015) | Available for Sale '
 app_links:
   - url: 'https://www.artsy.net/artwork/russell-james-ten-1'
