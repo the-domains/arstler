@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-31T14:27:40.341Z'
+datePublished: '2017-02-23T11:12:19.034Z'
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/rob-wynne-ampersand'
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: 'Rob Wynne, ''Ampersand'', ca. 2005, Phillips: New Now | Artsy'
 publisher: {}
 description: >-
