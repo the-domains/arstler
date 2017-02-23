@@ -29,8 +29,8 @@ app_links:
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/artwork/ed-moses-cat-who-a-1'
 title: 'Ed Moses | Cat Who A-1 (2006), Available for Sale | Artsy'
-datePublished: '2017-01-31T14:27:16.156Z'
-dateModified: '2017-01-31T14:26:38.007Z'
+datePublished: '2017-02-23T11:11:52.889Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 sourcePath: _posts/2016-05-03-ed-moses-or-cat-who-a-1-2006-available-for-sale-or-artsy.md
 via: {}
 inFeed: true
