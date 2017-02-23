@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-31T14:27:22.049Z'
+datePublished: '2017-02-23T11:12:00.463Z'
 sourcePath: _posts/2016-11-20-cy-twombly-untitled-bacchus-2008.md
 inFeed: true
 hasPage: true
@@ -7,7 +7,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: Cy Twombly - Painting
 app_links: []
 publisher: {}
