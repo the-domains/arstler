@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-31T14:27:28.502Z'
+datePublished: '2017-02-23T11:12:08.562Z'
 sourcePath: _posts/2016-09-24-damien-hirst-artists-david-benrimon-fine-art-specializ.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: 'Damien Hirst - Artist - David Benrimon Fine Art '
 publisher: {}
 description: >-
