@@ -2,8 +2,8 @@
 title: >-
   Stuart Semple, 'Bad Genes Born Punk for Life ', 2015, Beautiful Crime | West
   Contemporary | Artsy
-datePublished: '2017-01-31T14:27:47.019Z'
-dateModified: '2017-01-31T14:26:38.007Z'
+datePublished: '2017-02-23T11:12:25.276Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/stuart-semple-bad-genes-born-punk-for-life'
 description: >-
