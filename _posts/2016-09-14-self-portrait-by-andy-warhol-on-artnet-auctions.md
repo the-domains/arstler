@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-31T14:27:38.506Z'
+datePublished: '2017-02-23T11:12:17.688Z'
 inFeed: true
 isBasedOnUrl: 'https://www.artnet.com/auctions/artists/andy-warhol/self-portrait-19'
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: Self-Portrait by Andy Warhol on artnet Auctions
 publisher: {}
 description: >-
