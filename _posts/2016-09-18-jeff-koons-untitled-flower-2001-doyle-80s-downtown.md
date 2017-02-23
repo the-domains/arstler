@@ -4,8 +4,8 @@ description: >-
   Jeff Koons plays with ideas of taste, pleasure, celebrity, and commerce. "I
   believe in advertisement and media completely," he says. "My art and my
   personal life are based in it."
-dateModified: '2017-01-31T14:26:38.007Z'
-datePublished: '2017-01-31T14:27:32.620Z'
+dateModified: '2017-02-23T11:11:13.294Z'
+datePublished: '2017-02-23T11:12:12.414Z'
 title: 'Jeff Koons, ''Untitled (Flower)'', 2001, Doyle: ''80s Downtown Art | Artsy'
 author: []
 publisher: {}
