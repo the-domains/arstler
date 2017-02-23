@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Mel Bochner [born 1940] is recognized as one of the leading figures in the
   development of Conceptual art in New York in the 1960s and 1970s.
-dateModified: '2017-01-31T14:26:38.007Z'
-datePublished: '2017-01-31T14:27:27.863Z'
+dateModified: '2017-02-23T11:11:13.294Z'
+datePublished: '2017-02-23T11:12:08.043Z'
 title: Mel Bochner - Artists - Two Palms
 author: []
 publisher: {}
