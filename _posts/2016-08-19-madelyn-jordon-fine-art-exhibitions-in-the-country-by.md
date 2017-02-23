@@ -2,8 +2,8 @@
 title: >-
   Madelyn Jordon Fine Art :: Exhibitions :: In the Country, By the Sea-- Parts I
   and II
-datePublished: '2017-01-31T14:27:42.915Z'
-dateModified: '2017-01-31T14:26:38.007Z'
+datePublished: '2017-02-23T11:12:21.657Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 author: []
 isBasedOnUrl: >-
   http://madelynjordonfineart.com/exhibition/works/in_the_country_by_the_sea--_parts_i_and_ii_1/5
