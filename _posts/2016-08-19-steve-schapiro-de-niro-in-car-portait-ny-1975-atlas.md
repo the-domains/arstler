@@ -1,7 +1,7 @@
 ---
 title: 'Steve Schapiro, ''De Niro in Car (Portait), NY'', 1975, Atlas Gallery | Artsy'
-datePublished: '2017-01-28T12:25:35.589Z'
-dateModified: '2017-01-28T12:24:29.511Z'
+datePublished: '2017-02-23T11:12:22.173Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 author: []
 isBasedOnUrl: 'https://m.artsy.net/artwork/steve-schapiro-de-niro-in-car-portait-ny'
 description: >-
