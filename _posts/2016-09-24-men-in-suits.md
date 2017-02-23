@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-31T14:27:28.909Z'
+datePublished: '2017-02-23T11:12:08.955Z'
 sourcePath: _posts/2016-09-24-men-in-suits.md
 inFeed: true
 isBasedOnUrl: 'http://www.longsharpgallery.com/exhibits-new-york/men-in-suits'
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: Men In Suits
 publisher: {}
 description: >-
