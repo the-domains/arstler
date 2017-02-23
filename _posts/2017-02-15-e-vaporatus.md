@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-02-22T12:43:44.102Z'
-dateModified: '2017-02-22T12:43:43.396Z'
+datePublished: '2017-02-23T11:11:46.297Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 description: >-
   I was there for the opening of the show. The gallery is reminiscent of the old
   communist era, and the show is in plain sight, as one can watch through the
