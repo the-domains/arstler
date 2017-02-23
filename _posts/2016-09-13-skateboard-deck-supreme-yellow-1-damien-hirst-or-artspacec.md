@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-31T14:27:35.628Z'
+datePublished: '2017-02-23T11:12:16.433Z'
 inFeed: true
 isBasedOnUrl: 'http://www.artspace.com/damien_hirst/skateboard-deck-supreme-yellow-1'
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: 'Skateboard Deck-Supreme Yellow #1, Damien Hirst | Artspace.com'
 publisher: {}
 description: >-
