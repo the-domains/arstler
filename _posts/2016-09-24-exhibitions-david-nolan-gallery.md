@@ -5,8 +5,8 @@ description: >-
   Hamilton Finlay, Julia Fish, Neil Gall, George Grosz, David Hartt, Mel
   Kendrick, Barry Le Va, Alice Maher, Ciprian Muresan, Jim Nutt, Alexander Ross,
   Serban Savu, Sandra Vàsquez de la Horra, and Jorinde Voigt.
-dateModified: '2017-01-31T14:26:38.007Z'
-datePublished: '2017-01-31T14:27:28.784Z'
+dateModified: '2017-02-23T11:11:13.294Z'
+datePublished: '2017-02-23T11:12:09.089Z'
 title: Exhibitions - David Nolan Gallery
 author: []
 publisher: {}
