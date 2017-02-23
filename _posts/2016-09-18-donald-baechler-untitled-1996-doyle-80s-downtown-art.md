@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-31T14:27:30.956Z'
+datePublished: '2017-02-23T11:12:11.294Z'
 sourcePath: _posts/2016-09-18-donald-baechler-untitled-1996-doyle-80s-downtown-art.md
 inFeed: true
 isBasedOnUrl: 'https://m.artsy.net/artwork/donald-baechler-untitled-9'
 author: []
 via: {}
-dateModified: '2017-01-31T14:26:38.007Z'
+dateModified: '2017-02-23T11:11:13.294Z'
 title: 'Donald Baechler, ''Untitled'', 1996, Doyle: ''80s Downtown Art | Artsy'
 publisher: {}
 description: >-
