@@ -13,17 +13,18 @@ description: >-
   catapulted to the status of art world superstar in the early eighties, when
   his career was synonymous with the revival of pa...
 app_links: []
-isBasedOnUrl: 'https://www.guggenheim.org/artwork/20404'
-title: The Student of Prague
-datePublished: '2017-02-27T14:24:13.606Z'
-dateModified: '2017-02-27T14:24:13.477Z'
+title: The Student of Prague - Julian Schnabel
+datePublished: '2017-02-27T14:38:29.611Z'
+dateModified: '2017-02-27T14:38:27.815Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-27-the-student-of-prague.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-02-27T14:19:53.545Z'
+url: the-student-of-prague-julian-schnabel/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Student of Prague</h1><p>Now equally well known as an accomplished filmmaker, Julian Schnabel was catapulted to the status of art world superstar in the early eighties, when his career was synonymous with the revival of pa...</p><img src="https://i0.wp.com/www.guggenheim.org/wp-content/uploads/1983/01/2007.5_ph_web.jpg?fit=1200%2C642&amp;ssl=1" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5a9d73c988637a5e9a85961f8d013983/noop.jpg?input=https%3A%2F%2Fi0.wp.com%2Fwww.guggenheim.org%2Fwp-content%2Fuploads%2F1983%2F01%2F2007.5_ph_web.jpg%3Ffit%3D1200%252C642%26ssl%3D1" /><h1>The Student of Prague - Julian Schnabel</h1><p>Now equally well known as an accomplished filmmaker, Julian Schnabel was catapulted to the status of art world superstar in the early eighties, when his career was synonymous with the revival of pa...</p></article>
