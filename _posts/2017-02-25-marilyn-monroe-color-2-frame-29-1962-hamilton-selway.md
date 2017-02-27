@@ -1,11 +1,7 @@
 ---
 author: []
 related: []
-publisher:
-  url: 'https://hamiltonselway.com'
-  name: Hamilton-Selway
-  favicon: 'https://hamiltonselway.com/wp-content/uploads/2016/03/logo.png'
-  domain: hamiltonselway.com
+publisher: {}
 keywords:
   - kriesi
   - hamiltonselway
@@ -17,21 +13,27 @@ keywords:
   - melrose
   - ave
   - west
-description: GALLERY@HAMILTONSELWAY.COM
+description: Hamilton-Selway
 inLanguage: en
 app_links: []
-isBasedOnUrl: >-
-  https://hamiltonselway.com/portfolio-item/marilyn-monroe-large-color-2-frame-29-1962/
-title: 'Marilyn Monroe: Color 2 Frame 29, 1962 - Hamilton-Selway'
-datePublished: '2017-02-25T14:50:31.872Z'
-dateModified: '2017-02-25T14:50:28.308Z'
-datePublishedOriginal: '2017-02-25T14:50:31.872Z'
+title: ''
+datePublished: '2017-02-27T14:07:06.284Z'
+dateModified: '2017-02-27T14:07:05.286Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-25-marilyn-monroe-color-2-frame-29-1962-hamilton-selway.md
+hasPage: true
+starred: false
+datePublishedOriginal: '2017-02-25T14:50:31.872Z'
+url: marilyn-monroe-color-2-frame-29-1962-hamilton-selway/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Marilyn Monroe: Color 2 Frame 29, 1962 - Hamilton-Selway</h1><p>GALLERY@HAMILTONSELWAY.COM</p><img src="https://hamiltonselway.com/wp-content/uploads/2016/06/Marilyn_Monroe_large_Color_Frame_29_1962-e1476325106376.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/28a3b26f-8bab-47c9-aa25-70cce049b6cf.jpg)
+
+[Hamilton-Selway][0]
+
+Marilyn Monroe: Color 2 Frame 29, 1962 - Hamilton-Selway
+
+[0]: https://hamiltonselway.com/portfolio-item/marilyn-monroe-large-color-2-frame-29-1962/
