@@ -15,13 +15,13 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.guggenheim.org/artwork/20404'
 title: The Student of Prague
-datePublished: '2017-02-27T14:19:53.545Z'
-dateModified: '2017-02-27T14:19:29.644Z'
-datePublishedOriginal: '2017-02-27T14:19:53.545Z'
+datePublished: '2017-02-27T14:24:13.606Z'
+dateModified: '2017-02-27T14:24:13.477Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-27-the-student-of-prague.md
+starred: false
+datePublishedOriginal: '2017-02-27T14:19:53.545Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
