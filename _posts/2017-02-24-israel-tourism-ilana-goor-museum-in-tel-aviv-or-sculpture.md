@@ -4,8 +4,8 @@ description: >-
   For the first time in Israel, you have the opportunity to admire works of art
   from the point of view of the artist/collector rather than as exhibits in a
   sterile academic environment.
-dateModified: '2017-02-24T14:36:18.053Z'
-datePublished: '2017-02-24T14:36:26.358Z'
+dateModified: '2017-02-27T14:05:59.215Z'
+datePublished: '2017-02-27T14:06:00.662Z'
 title: Sculpture at Ilana Goor Museum
 author: []
 publisher: {}
@@ -18,7 +18,7 @@ url: sculpture-at-ilana-goor-museum/index.html
 _type: Article
 
 ---
-# Sculpture at **Ilana Goor Museum**
+# Sculpture at Ilana Goor Museum
 
 For the first time in Israel, you have the opportunity to admire works of art from the point of view of the artist/collector rather than as exhibits in a sterile academic environment.
 
@@ -41,7 +41,7 @@ Iron
 ![Itzhak Danziger
 Sheep in the Negev
 1958
-Bronze casting](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/47e6eb7be37f6f0bcbde4b954016c60a/croprotate.jpg?cropheight=366&cropwidth=470&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5adefd0c-23f9-470a-8b01-b12e94042c7e.jpg&x=24&y=0)
+Bronze casting](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3cc7aecd5f1ee8f2105b82c578439d49652b59c1.jpg)
 ![Alexander Archipenko
 Woman
 1925
@@ -54,7 +54,7 @@ Leftover industrial iron and recycled forgotten materials
 ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e1fd3b4-21f6-4b55-ba20-1e8918eb0b07.jpg)
 ![Unknown Artist
 Indian Marriage
-Iron](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d28f46abde05dc5dc807174804631445/croprotate.jpg?cropheight=472&cropwidth=520&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F6e346b88-7e3c-4b45-8dfd-020dad61579b.jpg&x=0&y=24)
+Iron](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a6ce5edc0fec2fe6bfd04f633fa45fd5edb292e.jpg)
 ![Hasos Refael Soto
 Circle on Circle
 1968
@@ -73,6 +73,9 @@ Bronze
 Ostrich
 1959
 Bronze](https://the-grid-user-content.s3-us-west-2.amazonaws.com/292ac3ef-28c3-4da4-bcf2-8685a9310479.jpg)
+
+---
+
 ![Henri Saada
 Salome Dancing before Herod
 1966
