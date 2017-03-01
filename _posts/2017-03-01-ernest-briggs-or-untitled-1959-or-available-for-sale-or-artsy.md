@@ -29,8 +29,8 @@ app_links:
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/artwork/ernest-briggs-untitled-13'
 title: Ernest Briggs | Untitled (1959) | Available for Sale | Artsy
-datePublished: '2017-03-01T11:31:03.264Z'
-dateModified: '2017-03-01T11:31:02.907Z'
+datePublished: '2017-03-01T12:44:21.010Z'
+dateModified: '2017-03-01T12:44:20.239Z'
 via: {}
 inFeed: true
 sourcePath: >-
