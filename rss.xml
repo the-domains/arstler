@@ -4,9 +4,9 @@
         <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Mar 2017 11:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2017 11:28:30 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Mar 2017 11:24:06 GMT</pubDate>
+        <pubDate>Wed, 01 Mar 2017 11:28:28 GMT</pubDate>
         <item>
             <title><![CDATA[The Student of Prague - Julian Schnabel]]></title>
             <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5a9d73c988637a5e9a85961f8d013983/noop.jpg?input=https%3A%2F%2Fi0.wp.com%2Fwww.guggenheim.org%2Fwp-content%2Fuploads%2F1983%2F01%2F2007.5_ph_web.jpg%3Ffit%3D1200%252C642%26ssl%3D1"><h1>The Student of Prague - Julian Schnabel</h1><p>Now equally well known as an accomplished filmmaker, Julian Schnabel was catapulted to the status of art world superstar in the early eighties, when his career was synonymous with the revival of pa...</p></article>]]></description>
@@ -58,6 +58,13 @@ Bronze">]]></description>
             <pubDate>Fri, 24 Feb 2017 14:36:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Joe Overstreet | 16th Street, Birmingham (1963) | Available for Sale | Artsy]]></title>
+            <description><![CDATA[<article><h1>Joe Overstreet | 16th Street, Birmingham (1963) | Available for Sale | Artsy</h1><p>Available for sale from Anita Shapolsky Gallery, Joe Overstreet, 16th Street, Birmingham (1963), Oil on Canvas, 22 &times; 22 in</p><img src="https://d7hftxdivxxvm.cloudfront.net/?resize_to=fit&width=636&height=640&quality=95&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FcZGoC5C1CI_7894KWJ7Awg%2Flarge.jpg"></article>]]></description>
+            <link>https://www.artsy.net/artwork/joe-overstreet-16th-street-birmingham</link>
+            <guid isPermaLink="false">81228d27-355b-4069-8a9e-741c3b419a4f</guid>
+            <pubDate>Wed, 01 Mar 2017 11:28:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sam Francis | Untitled (SF 65-085) (1965) | Available for Sale | Artsy]]></title>
             <description><![CDATA[<article><h1>Sam Francis | Untitled (SF 65-085) (1965) | Available for Sale | Artsy</h1><p>Available for sale from Phillips: 20th Century and Contemporary Art Day Sale (February 2017), Sam Francis, Untitled (SF 65-085) (1965), Acrylic on paper, 55.5 &times; 77.5 cm</p><img src="https://d7hftxdivxxvm.cloudfront.net/?resize_to=fit&width=640&height=464&quality=95&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fhqha4AjhB8xAo52UZ11skQ%2Flarge.jpg"></article>]]></description>
             <link>https://www.artsy.net/artwork/sam-francis-untitled-sf-65-085</link>
@@ -105,13 +112,6 @@ Bronze">]]></description>
             <link>http://berliner-liste.org/</link>
             <guid isPermaLink="false">6c5ad7a5-2704-4283-88ce-7897082f289d</guid>
             <pubDate>Fri, 24 Feb 2017 13:51:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PILNY, OTTO (Budweis 1866 - 1962 Zürich) Beduine in der Wüst]]></title>
-            <description><![CDATA[<article><h1>PILNY, OTTO (Budweis 1866 - 1962 Z&uuml;rich) Beduine in der W&uuml;st</h1><p>KatalogPosition.ArtText.Text11] [KatalogPosition.ArtText.Text12]</p><img src="https://www.kollerauktionen.ch//CatCache/catcache.3/pictures/438710/438710_l_1.jpg"></article>]]></description>
-            <link>https://www.kollerauktionen.ch/de/327899-0001-1180-pilny_-otto-_budweis-1866---19-1180_438710.html?RecPos=22</link>
-            <guid isPermaLink="false">d7593b34-d839-4087-b3ab-e2bc2b7b4887</guid>
-            <pubDate>Fri, 24 Feb 2017 13:51:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
