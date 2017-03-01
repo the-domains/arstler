@@ -25,15 +25,16 @@ app_links:
     namespace: ai
     app_store_id: '703796080'
     app_name: Artsy
-isBasedOnUrl: 'https://www.artsy.net/artwork/zhu-jinshi-accident-making-1'
 title: 'Zhu Jinshi | Accident Making 1 (2007) '
-datePublished: '2017-03-01T11:40:38.643Z'
-dateModified: '2017-03-01T11:40:37.810Z'
+datePublished: '2017-03-01T11:40:42.918Z'
+dateModified: '2017-03-01T11:40:42.591Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-01-zhu-jinshi-or-accident-making-1-2007-or-artsy.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-03-01T11:23:46.887Z'
+url: zhu-jinshi-or-accident-making-1-2007/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
