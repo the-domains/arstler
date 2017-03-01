@@ -30,14 +30,14 @@ app_links:
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/artwork/sam-francis-untitled-sf-65-085'
 title: Sam Francis | Untitled (SF 65-085) (1965) | Available for Sale | Artsy
-datePublished: '2017-03-01T11:24:03.098Z'
-dateModified: '2017-03-01T11:24:01.729Z'
-datePublishedOriginal: '2017-03-01T11:24:03.098Z'
+datePublished: '2017-03-01T11:31:03.249Z'
+dateModified: '2017-03-01T11:31:02.907Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-03-01-sam-francis-or-untitled-sf-65-085-1965-or-available-for-sa.md
+starred: false
+datePublishedOriginal: '2017-03-01T11:24:03.098Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
