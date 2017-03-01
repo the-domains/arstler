@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'https://www.artsy.net'
-  name: Artsy
-  favicon: 'https://www.artsy.net/images/favicon.ico'
-  domain: www.artsy.net
+  url: 'http://www.artspace.com'
+  name: Artspace
+  favicon: 'http://www.artspace.com/favicon.ico'
+  domain: www.artspace.com
 keywords:
   - galleriesartsy
   - artsyartsy
@@ -18,8 +18,13 @@ keywords:
   - homemuseumsartistsarticlesshow
   - fairsgalleriesauctions
 description: >-
-  Available for sale from Anita Shapolsky Gallery, Joe Overstreet, 16th Street,
-  Birmingham (1963), Oil on Canvas, 22 × 22 in
+  Influenced by his mentor Clyfford Still&rsquo;s visionary aspirations, Ernest
+  Briggs developed the rugged California aesthetic into sensual, refined, and
+  inviting explosions of paint. &ldquo;The discipline to free one&rsquo;s image
+  from the conventional aspects without surrendering the affirmative drama of
+  human insight to the sterility of decoration or simple design problems has
+  been, and I believe will be, my continuing direction,&rdquo; explained Briggs
+  in 1956.
 inLanguage: en
 app_links:
   - url: 'https://www.artsy.net/artwork/joe-overstreet-16th-street-birmingham'
@@ -28,9 +33,9 @@ app_links:
     app_store_id: '703796080'
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/artwork/joe-overstreet-16th-street-birmingham'
-title: 'Joe Overstreet | 16th Street, Birmingham (1963) | Available for Sale | Artsy'
-datePublished: '2017-03-01T11:31:03.268Z'
-dateModified: '2017-03-01T11:31:02.907Z'
+title: 'Untitled, Ernest Briggs | Artspace.com'
+datePublished: '2017-03-01T11:35:39.699Z'
+dateModified: '2017-03-01T11:35:39.133Z'
 via: {}
 inFeed: true
 sourcePath: >-
@@ -41,4 +46,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Joe Overstreet | 16th Street, Birmingham (1963) | Available for Sale | Artsy</h1><p>Available for sale from Anita Shapolsky Gallery, Joe Overstreet, 16th Street, Birmingham (1963), Oil on Canvas, 22 × 22 in</p><img src="https://d7hftxdivxxvm.cloudfront.net/?resize_to=fit&amp;width=636&amp;height=640&amp;quality=95&amp;src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FcZGoC5C1CI_7894KWJ7Awg%2Flarge.jpg" /></article>
+<article style=""><img src="http://d5wt70d4gnm1t.cloudfront.net/media/a-s/artworks/ernest-briggs/27218-691189669245/ernest-briggs-untitled-2-320x240.jpg" /><h1>Untitled, Ernest Briggs | Artspace.com</h1><p>Influenced by his mentor Clyfford Still&amp;rsquo;s visionary aspirations, Ernest Briggs developed the rugged California aesthetic into sensual, refined, and inviting explosions of paint. &amp;ldquo;The discipline to free one&amp;rsquo;s image from the conventional aspects without surrendering the affirmative drama of human insight to the sterility of decoration or simple design problems has been, and I believe will be, my continuing direction,&amp;rdquo; explained Briggs in 1956.</p></article>
