@@ -29,14 +29,14 @@ app_links:
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/artwork/joe-overstreet-16th-street-birmingham'
 title: 'Joe Overstreet | 16th Street, Birmingham (1963) | Available for Sale | Artsy'
-datePublished: '2017-03-01T11:28:25.241Z'
-dateModified: '2017-03-01T11:28:23.838Z'
-datePublishedOriginal: '2017-03-01T11:28:25.241Z'
+datePublished: '2017-03-01T11:31:03.268Z'
+dateModified: '2017-03-01T11:31:02.907Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-03-01-joe-overstreet-or-16th-street-birmingham-1963-or-available.md
+starred: false
+datePublishedOriginal: '2017-03-01T11:28:25.241Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
