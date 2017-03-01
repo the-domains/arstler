@@ -32,16 +32,17 @@ app_links:
     namespace: ai
     app_store_id: '703796080'
     app_name: Artsy
-isBasedOnUrl: 'https://www.artsy.net/artwork/joe-overstreet-16th-street-birmingham'
 title: 'Untitled, Ernest Briggs | Artspace.com'
-datePublished: '2017-03-01T11:35:39.699Z'
-dateModified: '2017-03-01T11:35:39.133Z'
+datePublished: '2017-03-01T11:35:44.370Z'
+dateModified: '2017-03-01T11:35:43.998Z'
 via: {}
 inFeed: true
 sourcePath: >-
   _posts/2017-03-01-joe-overstreet-or-16th-street-birmingham-1963-or-available.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-03-01T11:28:25.241Z'
+url: untitled-ernest-briggs-or-artspacecom/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
