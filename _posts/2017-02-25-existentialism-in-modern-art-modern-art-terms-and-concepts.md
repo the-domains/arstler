@@ -34,8 +34,8 @@ description: >-
 inLanguage: en
 app_links: []
 title: Existentialism in Modern Art
-datePublished: '2017-03-01T12:44:21.028Z'
-dateModified: '2017-03-01T12:44:20.239Z'
+datePublished: '2017-03-02T14:14:57.594Z'
+dateModified: '2017-03-02T14:14:57.274Z'
 via: {}
 inFeed: true
 sourcePath: >-
