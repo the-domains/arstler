@@ -28,19 +28,19 @@ app_links:
     namespace: ai
     app_store_id: '703796080'
     app_name: Artsy
-isBasedOnUrl: >-
-  https://www.artsy.net/artwork/robert-motherwell-untitled-from-the-joyce-sketchbook-13
 title: >-
   Robert Motherwell | UNTITLED (from the Joyce Sketchbook) (1985) | Available
   for Sale | Artsy
-datePublished: '2017-03-12T21:55:11.542Z'
-dateModified: '2017-03-12T21:55:10.929Z'
+datePublished: '2017-03-12T21:55:18.103Z'
+dateModified: '2017-03-12T21:55:16.879Z'
 via: {}
 inFeed: true
 sourcePath: >-
   _posts/2017-03-12-robert-motherwell-or-untitled-from-the-joyce-sketchbook-19.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-03-12T21:50:01.445Z'
+url: robert-motherwell-or-untitled-from-the-joyce-sketchbook-19/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
