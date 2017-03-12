@@ -33,8 +33,8 @@ isBasedOnUrl: >-
 title: >-
   Robert Motherwell | UNTITLED (from the Joyce Sketchbook) (1985) | Available
   for Sale | Artsy
-datePublished: '2017-03-12T21:50:55.494Z'
-dateModified: '2017-03-12T21:50:54.962Z'
+datePublished: '2017-03-12T21:55:11.542Z'
+dateModified: '2017-03-12T21:55:10.929Z'
 via: {}
 inFeed: true
 sourcePath: >-
@@ -45,4 +45,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Robert Motherwell | UNTITLED (from the Joyce Sketchbook) (1985) | Available for Sale | Artsy</h1><p>Available for sale from Jerald Melberg Gallery, Robert Motherwell, UNTITLED (from the Joyce Sketchbook) (1985), Ink and China Marker on Paper, 3 × 5 in</p><img src="https://d7hftxdivxxvm.cloudfront.net/?resize_to=fit&amp;width=640&amp;height=383&amp;quality=95&amp;src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F2WHE9D3t3eh8Yre_c9EbbA%2Flarge.jpg" /></article>
+<article style=""><img src="https://d7hftxdivxxvm.cloudfront.net/?resize_to=fit&amp;width=640&amp;height=383&amp;quality=95&amp;src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F2WHE9D3t3eh8Yre_c9EbbA%2Flarge.jpg" /><h1>Robert Motherwell | UNTITLED (from the Joyce Sketchbook) (1985) | Available for Sale | Artsy</h1><p>Available for sale from Jerald Melberg Gallery, Robert Motherwell, UNTITLED (from the Joyce Sketchbook) (1985), Ink and China Marker on Paper, 3 × 5 in</p></article>
