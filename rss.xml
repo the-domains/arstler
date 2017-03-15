@@ -4,9 +4,16 @@
         <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Mar 2017 12:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2017 12:24:36 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Mar 2017 12:23:16 GMT</pubDate>
+        <pubDate>Wed, 15 Mar 2017 12:24:18 GMT</pubDate>
+        <item>
+            <title><![CDATA[Ditchling Steam Print]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F184107524&url=https%3A%2F%2Fvimeo.com%2F184107524&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F593508776_1280.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://vimeo.com/184107524</link>
+            <guid isPermaLink="false">6e34d4ea-179d-4e63-bfdf-146dc33a8c45</guid>
+            <pubDate>Wed, 15 Mar 2017 12:23:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Robert Motherwell | UNTITLED (from the Joyce Sketchbook) (1985) | Available for Sale | Artsy]]></title>
             <description><![CDATA[<article><img src="https://d7hftxdivxxvm.cloudfront.net/?resize_to=fit&width=640&height=383&quality=95&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F2WHE9D3t3eh8Yre_c9EbbA%2Flarge.jpg"><h1>Robert Motherwell | UNTITLED (from the Joyce Sketchbook) (1985) | Available for Sale | Artsy</h1><p>Available for sale from Jerald Melberg Gallery, Robert Motherwell, UNTITLED (from the Joyce Sketchbook) (1985), Ink and China Marker on Paper, 3 &times; 5 in</p></article>]]></description>
@@ -105,13 +112,6 @@ Bronze">]]></description>
             <link>http://arstler.com/sculpture-at-ilana-goor-museum/index.html</link>
             <guid isPermaLink="false">431bdd06-e7a4-4e13-a5c1-9bb658ca88d4</guid>
             <pubDate>Fri, 24 Feb 2017 14:36:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sam Francis | Untitled (SF 65-085) (1965)]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/231805d7-061b-475a-ae01-9f84c54b4818.jpg">,<h1>Sam Francis | Untitled (SF 65-085) (1965)</h1>,<p>Available for sale from Phillips: 20th Century and Contemporary Art Day Sale (February 2017), Sam Francis, Untitled (SF 65-085) (1965), Acrylic on paper, 55.5 × 77.5 cm</p>]]></description>
-            <link>http://arstler.com/sam-francis-or-untitled-sf-65-085-1965/index.html</link>
-            <guid isPermaLink="false">a75e0f7e-a2bf-4c68-9ddb-8c77100183f4</guid>
-            <pubDate>Wed, 01 Mar 2017 11:24:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
