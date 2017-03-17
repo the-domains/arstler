@@ -12,13 +12,13 @@ description: Artists Exhibitions Publications Art Fairs Contact News
 app_links: []
 isBasedOnUrl: 'http://www.richardgraygallery.com/artists/robert-motherwell?view=slider#3'
 title: Robert Motherwell - Artists - Richard Gray Gallery
-datePublished: '2017-03-16T15:22:27.867Z'
-dateModified: '2017-03-16T15:21:05.686Z'
-datePublishedOriginal: '2017-03-16T15:22:27.867Z'
+datePublished: '2017-03-17T09:39:16.888Z'
+dateModified: '2017-03-17T09:39:16.297Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-03-16-robert-motherwell-artists-richard-gray-gallery.md
+starred: false
+datePublishedOriginal: '2017-03-16T15:22:27.867Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
