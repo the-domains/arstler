@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-12T21:50:55.477Z'
+datePublished: '2017-03-17T09:39:16.845Z'
 sourcePath: _posts/2016-09-19-world-art-galleries.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-12T21:50:54.962Z'
+dateModified: '2017-03-17T09:39:16.297Z'
 title: world art galleries
 publisher: {}
 description: 'if you’re not on our archive, then you don''t exist!'
