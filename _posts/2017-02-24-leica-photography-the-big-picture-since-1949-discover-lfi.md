@@ -22,14 +22,14 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: >-
   http://s-magazine.photography/ceemes/en/editorials-and-ads/nakid-magazine-1790.html
-datePublished: '2017-02-24T13:56:02.114Z'
-dateModified: '2017-02-24T13:55:44.525Z'
-datePublishedOriginal: '2017-02-24T13:56:02.114Z'
+datePublished: '2017-03-17T09:39:16.895Z'
+dateModified: '2017-03-17T09:39:16.297Z'
 title: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-24-leica-photography-the-big-picture-since-1949-discover-lfi.md
+starred: false
+datePublishedOriginal: '2017-02-24T13:56:02.114Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
