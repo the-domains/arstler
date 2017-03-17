@@ -1,18 +1,15 @@
 ---
-datePublished: '2017-03-12T21:50:55.409Z'
+datePublished: '2017-03-17T09:39:16.887Z'
 sourcePath: _posts/2016-05-17-in-fact-id-like-to-steal-this-painting.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-12T21:50:54.962Z'
+dateModified: '2017-03-17T09:39:16.297Z'
 title: arstler™
 id: 8e1e6782-92ec-4bae-b65d-3191a4443bf3
 publisher: {}
-description: >-
-  arstler.com is an experimental space designed by Genu Berlo. the early mission
-  is to connect to art, save links to favourite emerging and established global
-  art players, and feature local shows and artists I enjoy.
+description: ' arstler.com is an experimental space designed by Genu Berlo. the early mission is to connect to art, emerging and established global art players, on a daily and exclusive basis. galleries, collectors and artists - interested in partnering with arstler™ to feature your show or artwork? send an email and let us know your mind. we''re open to working together and have you proud on our front page for a whole day. jointventure@arstler.com'
 starred: false
 datePublishedOriginal: '2016-11-28T19:23:17.348Z'
 url: in-fact-id-like-to-steal-this-painting/index.html
@@ -21,11 +18,7 @@ _type: MediaObject
 ---
 # arstler(tm)
 
-**arstler.com** is an experimental space designed by Genu Berlo. the early mission is to connect to art, save links to favourite emerging and established global art players, and feature local shows and artists I enjoy.
-
-**♥**
-
-galleries, collectors and artists - interested in partnering with **arstler**_(tm) _to feature your show or artwork? send an email and let us know your mind. we're open to working together and have you proud on our front page. jointventure@arstler.com
+**arstler.com** is an experimental space designed by Genu Berlo. **t**he early mission is to connect to art, emerging and established global art players, on a daily and exclusive basis. **g**alleries, collectors and artists - interested in partnering with **arstler**_(tm) _to feature your show or artwork? send an email and let us know your mind. we're open to working together and have you proud on our front page for a whole day. **jointventure@arstler.com**
 
 **♥**
 
