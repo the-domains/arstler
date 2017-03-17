@@ -32,14 +32,14 @@ isBasedOnUrl: >-
 title: >-
   Material world: Dale Frank latest explorations in paint, resin and fire foam |
   Art | Wallpaper* Magazine
-datePublished: '2017-02-24T13:54:58.311Z'
-dateModified: '2017-02-24T13:54:37.352Z'
-datePublishedOriginal: '2017-02-24T13:54:58.311Z'
+datePublished: '2017-03-17T15:42:37.032Z'
+dateModified: '2017-03-17T15:42:36.487Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-02-24-material-world-dale-frank-latest-explorations-in-paint-res.md
+starred: false
+datePublishedOriginal: '2017-02-24T13:54:58.311Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
