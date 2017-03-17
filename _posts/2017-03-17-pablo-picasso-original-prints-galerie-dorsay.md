@@ -16,13 +16,13 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://www.galerie-dorsay.com/artist/pablo-picasso/?galleryid=gallery_2689_24'
 title: Pablo Picasso original prints Galerie d'Orsay
-datePublished: '2017-03-17T15:39:24.389Z'
-dateModified: '2017-03-17T15:38:46.565Z'
-datePublishedOriginal: '2017-03-17T15:39:24.389Z'
+datePublished: '2017-03-17T15:42:37.108Z'
+dateModified: '2017-03-17T15:42:36.487Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-03-17-pablo-picasso-original-prints-galerie-dorsay.md
+starred: false
+datePublishedOriginal: '2017-03-17T15:39:24.389Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
