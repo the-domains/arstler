@@ -26,13 +26,13 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://berliner-liste.org/'
 title: Berliner Liste · The Ultimate Berlin Art Fair
-datePublished: '2017-02-24T13:51:48.486Z'
-dateModified: '2017-02-24T13:51:28.824Z'
-datePublishedOriginal: '2017-02-24T13:51:48.486Z'
+datePublished: '2017-03-17T15:42:37.118Z'
+dateModified: '2017-03-17T15:42:36.487Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-24-berliner-liste-the-ultimate-berlin-art-fair.md
+starred: false
+datePublishedOriginal: '2017-02-24T13:51:48.486Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
