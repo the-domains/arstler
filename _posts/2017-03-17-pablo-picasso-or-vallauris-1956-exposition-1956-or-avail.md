@@ -23,13 +23,13 @@ isBasedOnUrl: 'https://www.artsy.net/artwork/pablo-picasso-vallauris-1956-slash-
 title: >-
   Pablo Picasso | VALLAURIS - 1956 / EXPOSITION (1956) | Available for Sale |
   Artsy
-datePublished: '2017-03-17T15:45:49.592Z'
-dateModified: '2017-03-17T15:45:47.382Z'
-datePublishedOriginal: '2017-03-17T15:45:49.592Z'
+datePublished: '2017-03-24T12:51:05.017Z'
+dateModified: '2017-03-24T12:51:03.393Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-03-17-pablo-picasso-or-vallauris-1956-exposition-1956-or-avail.md
+starred: false
+datePublishedOriginal: '2017-03-17T15:45:49.592Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
