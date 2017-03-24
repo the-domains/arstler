@@ -31,8 +31,8 @@ app_links:
 title: >-
   Robert Motherwell | UNTITLED (from the Joyce Sketchbook) (1985) | Available
   for Sale | Artsy
-datePublished: '2017-03-24T12:51:05.017Z'
-dateModified: '2017-03-24T12:51:03.393Z'
+datePublished: '2017-03-24T13:15:21.991Z'
+dateModified: '2017-03-24T13:15:20.862Z'
 via: {}
 inFeed: true
 sourcePath: >-
