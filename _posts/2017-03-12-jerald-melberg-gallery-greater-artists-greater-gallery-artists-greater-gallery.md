@@ -17,8 +17,8 @@ isBasedOnUrl: >-
 title: >-
   Jerald Melberg Gallery > Artists > Gallery Artists > Gallery Artists - Robert
   Motherwell > Motherwell - Primal Sign VI Moss
-datePublished: '2017-03-17T15:42:37.109Z'
-dateModified: '2017-03-17T15:42:36.487Z'
+datePublished: '2017-03-24T12:51:05.018Z'
+dateModified: '2017-03-24T12:51:03.393Z'
 via: {}
 inFeed: true
 sourcePath: >-
