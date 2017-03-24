@@ -4,13 +4,20 @@
         <description><![CDATA[arstler.com]]></description>
         <link>http://arstler.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Mar 2017 13:05:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2017 13:16:03 GMT</lastBuildDate>
         <atom:link href="http://arstler.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Mar 2017 13:05:04 GMT</pubDate>
+        <pubDate>Fri, 24 Mar 2017 13:15:49 GMT</pubDate>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<article><h1>Welcome</h1><p>Inspired by Hanami, the Japanese cherry blossom festival celebrating the blossom that fades away after a brief moment of incredible beauty, Antonio Paredes&apos;s softly blurred photo series stages model Anabel playing the role of a fragile western Geisha. Stylist Jeanne Dekonink does a brilliant job adding modern and floral details.</p><img src="http://s-magazine.photography/ceemes/webfile/img/254789/x=1024/Leica-S-Magazine-Antonio-Paredes_04.jpg"></article>]]></description>
+            <link>http://s-magazine.photography/ceemes/en/digital-features/hanami-1813.html</link>
+            <guid isPermaLink="false">ac799aea-3b40-46d1-9270-97b14367299f</guid>
+            <pubDate>Fri, 24 Mar 2017 13:05:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Razvan Anton]]></title>
-            <description><![CDATA[<article><h1>Razvan Anton</h1><p>Contemporary Art Gallery in Bucharest</p><img src="https://static1.squarespace.com/static/5417546ee4b046f29ec584a2/55796fbee4b06e95d293bd77/55796fc1e4b00bf1e6878de9/1459438643185/Anton+Razvan%2CBrain+%2Cwatercolor+and+pencil+on+paper%2C32x40cm.jpg"></article>]]></description>
-            <link>https://www.eastwardsprospectus.com/razvan-anton/</link>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6c17c69a481598615f3f08623a6e62f9/noop.jpg?input=https%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F5417546ee4b046f29ec584a2%2F55796fbee4b06e95d293bd77%2F55796fc1e4b00bf1e6878de9%2F1459438643185%2FAnton%2BRazvan%252CBrain%2B%252Cwatercolor%2Band%2Bpencil%2Bon%2Bpaper%252C32x40cm.jpg"><h1>Razvan Anton</h1><p>Contemporary Art Gallery in Bucharest</p></article>,<p>I work with drawing and memory. Drawing is for me the most direct path towards a possible image. Memory is not the subject but the medium and drawing is a conscious choice of a medium beyond mediums, a language that has the advantage of keeping a safe distance from the norms of the art world. It is a continuous and open research that eludes conclusion. It is a process that leaves a trace. It is the trace of a thinking process and the image is its proof. The speed at which I think and observe is also the speed at which I draw. The mark, the path and the image belong to this visible process of constructing meaning. It is an imprecise and uncertain route meant to change, consolidate or contradict our views. It is a landscape of shifting geography where historical, political and personal elements hover relentlessly while searching for a state of balance.</p>,<p>Lucrez cu desenul și memoria. Desenul este pentru mine cel mai direct traseu către imagine. Memoria nu este subiectul, ci mediul, iar desenul reprezintă o alegere conștientă a unui mediu dincolo de medii, un limbaj care reușește să țină la distanță normele lumii artistice. Este o cercetare continuă și deschisă care eludează concluziile. Desenul este un proces care lasă urme, urme ale procesului de gândire, iar imaginea este proba. Durata petrecută gândind și observând este și durata petrecută desenând. Urma, traseul și imaginea aparțin acestui proces vizibilal construcției sensului. Este o cale nesigură și imprecisă menită să schimbe, să consolideze sau să contrazică ceea ce cunoaștem. Este peisajul unei geografii schimbătoare unde elementele istorice, politice și personale orbitează fără întrerupere în căutarea unei stări de echilibru.</p>]]></description>
+            <link>http://arstler.com/razvan-anton/index.html</link>
             <guid isPermaLink="false">0806b455-38f0-4695-aca7-904765b7d9a1</guid>
             <pubDate>Fri, 24 Mar 2017 12:49:25 GMT</pubDate>
         </item>
@@ -69,13 +76,6 @@
             <link>http://www.jeraldmelberg.com/Artists/Gallery-Artists/Gallery-Artists-Robert-Motherwell/Motherwell-Drunk-with-Turpentine-No-14</link>
             <guid isPermaLink="false">e5e465e5-9aac-4f92-bb3d-0e45dc621722</guid>
             <pubDate>Sun, 12 Mar 2017 21:47:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><p>Leica photography - the big picture since 1949 Discover LFI Magazine</p><img src="http://s-magazine.photography/ceemes/webfile/img/247718/y=1000/S1160270.jpg"></article>]]></description>
-            <link>http://s-magazine.photography/ceemes/en/editorials-and-ads/nakid-magazine-1790.html</link>
-            <guid isPermaLink="false">e3608591-df31-41ca-8a19-ec17bda0da6d</guid>
-            <pubDate>Fri, 24 Feb 2017 13:56:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
