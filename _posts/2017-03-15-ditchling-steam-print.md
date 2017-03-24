@@ -42,8 +42,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/184107524'
 title: Ditchling Steam Print
-datePublished: '2017-03-24T12:51:05.005Z'
-dateModified: '2017-03-24T12:51:03.393Z'
+datePublished: '2017-03-24T13:15:21.974Z'
+dateModified: '2017-03-24T13:15:20.862Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-15-ditchling-steam-print.md
