@@ -6,8 +6,8 @@ description: >-
   Graduated from National Taiwan Art Institute with a degree in Art Design 1974
   Taught at Tou-cheng Middle High School, I-lan County 1975 Commenced studying
   with Mr. Chian Chao-shen
-dateModified: '2017-03-24T12:51:03.393Z'
-datePublished: '2017-03-24T12:51:05.028Z'
+dateModified: '2017-03-24T13:15:20.862Z'
+datePublished: '2017-03-24T13:15:21.984Z'
 title: Hsu Kuohuang
 author: []
 publisher: {}
