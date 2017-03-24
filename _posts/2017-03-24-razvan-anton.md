@@ -11,13 +11,13 @@ description: Contemporary Art Gallery in Bucharest
 app_links: []
 isBasedOnUrl: 'https://www.eastwardsprospectus.com/razvan-anton/'
 title: Razvan Anton
-datePublished: '2017-03-24T12:49:25.547Z'
-dateModified: '2017-03-24T12:48:35.934Z'
-datePublishedOriginal: '2017-03-24T12:49:25.547Z'
+datePublished: '2017-03-24T12:51:04.895Z'
+dateModified: '2017-03-24T12:51:03.393Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-03-24-razvan-anton.md
+starred: false
+datePublishedOriginal: '2017-03-24T12:49:25.547Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
