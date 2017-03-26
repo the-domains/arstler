@@ -1,0 +1,37 @@
+---
+author:
+  - name: HLGfilms
+    url: 'https://www.youtube.com/user/HLGfilms'
+    avatar: {}
+related: []
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: youtu.be
+keywords:
+  - video
+  - sharing
+  - camera phone
+  - video phone
+  - free
+  - upload
+description: >-
+  Courte et informelle visite de la première rétrospective posthume du peintre
+  français d'origine hongroise, de la période surréaliste de ses débuts à
+  l'abstraction pure des dernières années.
+app_links: []
+isBasedOnUrl: 'https://youtu.be/QiIRopKLQ_M'
+title: SIMON HANTAï AU CENTRE POMPIDOU
+datePublished: '2017-03-26T15:51:00.457Z'
+dateModified: '2017-03-26T15:50:47.825Z'
+datePublishedOriginal: '2017-03-26T15:51:00.457Z'
+via: {}
+inFeed: true
+starred: false
+sourcePath: _posts/2017-03-26-simon-hantai-au-centre-pompidou.md
+_type: VideoObject
+_context: 'http://schema.org'
+
+---
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FQiIRopKLQ_M%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQiIRopKLQ_M&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQiIRopKLQ_M%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
