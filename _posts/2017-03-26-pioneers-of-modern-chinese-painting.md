@@ -27,14 +27,14 @@ keywords:
 description: Sotheby's
 app_links: []
 title: 'Pioneers of Modern Chinese Painting '
-datePublished: '2017-03-26T14:30:51.751Z'
-dateModified: '2017-03-26T14:30:51.120Z'
+datePublished: '2017-03-26T14:33:17.181Z'
+dateModified: '2017-03-26T14:33:16.235Z'
 via: {}
 inFeed: true
 hasPage: true
+sourcePath: _posts/2017-03-26-pioneers-of-modern-chinese-painting.md
 starred: false
 datePublishedOriginal: '2017-03-26T14:30:51.751Z'
-sourcePath: _posts/2017-03-26-pioneers-of-modern-chinese-painting.md
 url: pioneers-of-modern-chinese-painting/index.html
 _context: 'http://schema.org'
 _type: MediaObject
