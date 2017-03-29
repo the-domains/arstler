@@ -14,8 +14,8 @@ description: ''
 app_links: []
 isBasedOnUrl: 'http://justanothermasterpiece.tumblr.com/post/49640584654/cy-twombly'
 title: Cy Twombly.
-datePublished: '2017-03-26T14:33:17.273Z'
-dateModified: '2017-03-26T14:33:16.235Z'
+datePublished: '2017-03-29T14:53:23.735Z'
+dateModified: '2017-03-29T14:53:22.090Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-17-cy-twombly.md
