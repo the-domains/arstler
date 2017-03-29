@@ -24,8 +24,8 @@ isBasedOnUrl: >-
 title: >-
   Peter Marino delves deep into his collection for a new Robert Mapplethorpe
   show | Art | Wallpaper* Magazine
-datePublished: '2017-03-29T14:53:23.764Z'
-dateModified: '2017-03-29T14:53:22.090Z'
+datePublished: '2017-03-29T16:09:15.999Z'
+dateModified: '2017-03-29T16:09:15.059Z'
 via: {}
 inFeed: true
 sourcePath: >-
