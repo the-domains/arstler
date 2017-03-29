@@ -26,9 +26,9 @@ keywords:
   - ''
 description: Sotheby's
 app_links: []
-title: 'Pioneers of Modern Chinese Painting '
-datePublished: '2017-03-26T14:33:17.181Z'
-dateModified: '2017-03-26T14:33:16.235Z'
+title: Pioneers of Modern Chinese Painting
+datePublished: '2017-03-29T14:53:23.804Z'
+dateModified: '2017-03-29T14:53:22.090Z'
 via: {}
 inFeed: true
 hasPage: true
@@ -40,13 +40,10 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Pioneers of Modern Chinese Painting 
+# Pioneers of Modern Chinese Painting
 
 [Sotheby's][0]
 ![ “ Pandas only come in black and white, they are pretty lazy. This is how I depict my pandas: they are fat, they have an open heart, their black and white colours are clearly delineated, and they live among stalks of bamboos. But I don’t paint pandas for the sake of the pandas. What I want is to juxtapose bold black grids embracing pudgy white grids, tossing and turning … Pandas inspire me to search for disarray and eternity.” – Wu Guanzhong](https://the-grid-user-content.s3-us-west-2.amazonaws.com/10f79ecf-63ee-498c-8c4f-943f0071067d.jpg)
-
----
-
 ![During the autumn of 1979, Wu Guanzhong travelled to Changsha to create his large oil painting Shaoshan. Afterward, he travelled to Western Hunan to Fenghuang to paint its beauteous landscapes. There he had the sudden urge to paint in Zhangjiajie. This is how he recalled that journey: “It was a simple road for vehicles for the purposes of forest protection. It was pretty bumpy, lined with stones and pebbles. Lorries would jerkily move along the road …](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3bd5837-140a-4f94-9064-6dcaf2cf3ffb.jpg)
 ![These two works belonged to the founder of the Asia Society, Mr and Mrs John D.Rockefeller 3rd. They were originally gifts from Mr and Mrs Henry Luce, the founder of Time and Life magazines. Luce (1898–1967) was a staunch supporter of the Nationalist government during the Second World War, even visiting China in May 1941, meeting with Chiang Kai-shek in Chongqing...](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8ecd07c-c659-41a0-9835-76eed0bf91c0.jpg)
 ![Although this work is not dated, looking at the style of the brushstrokes, signature and stamp, we can deduce it dates from the 1950s, comparable to Ladies in a Garden belonging to the Hong Kong Museum of Art. The treatment, especially the fine brushwork depicting every flower and plant, can only be traced to a short period during the painter’s career that never recurred afterward....](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4515ce14-4f50-447f-9cf6-81d18c0ef3af.jpg)
