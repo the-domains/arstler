@@ -12,14 +12,14 @@ app_links: []
 isBasedOnUrl: >-
   https://hamiltonselway.com/portfolio-item/roy-lichtenstein-brushstrokes-red-yellow/
 title: Roy Lichtenstein | Brushstrokes | Red | Yellow - Hamilton-Selway
-datePublished: '2017-03-29T14:52:15.723Z'
-dateModified: '2017-03-29T14:52:12.730Z'
-datePublishedOriginal: '2017-03-29T14:52:15.723Z'
+datePublished: '2017-03-29T14:53:23.535Z'
+dateModified: '2017-03-29T14:53:22.090Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-03-29-roy-lichtenstein-or-brushstrokes-or-red-or-yellow-hamilton-se.md
+starred: false
+datePublishedOriginal: '2017-03-29T14:52:15.723Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
