@@ -15,8 +15,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://lfi-online.de/ceemes/en/blog/video-new-york-at-its-core-1190.html'
 title: Joseph Michael Lopez - New York at its Core | LFI Blog
-datePublished: '2017-03-26T14:33:17.310Z'
-dateModified: '2017-03-26T14:33:16.235Z'
+datePublished: '2017-03-29T14:53:23.764Z'
+dateModified: '2017-03-29T14:53:22.090Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-24-joseph-michael-lopez-new-york-at-its-core-or-lfi-blog.md
