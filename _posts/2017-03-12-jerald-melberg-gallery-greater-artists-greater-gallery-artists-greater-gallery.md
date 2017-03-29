@@ -13,20 +13,20 @@ keywords:
 description: Jerald Melberg Gallery - Art Gallery Charlotte North Carolina
 app_links: []
 isBasedOnUrl: >-
-  http://www.jeraldmelberg.com/Artists/Gallery-Artists/Gallery-Artists-Robert-Motherwell/Motherwell-Primal-Sign-VI-Moss
+  http://www.jeraldmelberg.com/Artists/Gallery-Artists/Gallery-Artists-Robert-Motherwell/Motherwell-Drunk-with-Turpentine-No-14
 title: >-
   Jerald Melberg Gallery > Artists > Gallery Artists > Gallery Artists - Robert
-  Motherwell > Motherwell - Primal Sign VI Moss
-datePublished: '2017-03-29T16:42:00.955Z'
+  Motherwell > Motherwell - Drunk with Turpentine No 14
+datePublished: '2017-03-29T16:42:00.994Z'
 dateModified: '2017-03-29T16:41:59.863Z'
 via: {}
 inFeed: true
 sourcePath: >-
   _posts/2017-03-12-jerald-melberg-gallery-greater-artists-greater-gallery-artists-greater-gallery.md
 starred: false
-datePublishedOriginal: '2017-03-12T21:47:16.145Z'
+datePublishedOriginal: '2017-03-12T21:47:52.679Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Jerald Melberg Gallery &gt; Artists &gt; Gallery Artists &gt; Gallery Artists - Robert Motherwell &gt; Motherwell - Primal Sign VI Moss</h1><p>Jerald Melberg Gallery - Art Gallery Charlotte North Carolina</p><img src="http://www.jeraldmelberg.com/Portals/0/Motherwell/PRIMAL%20SIGN%20VI%20-%20MOSS%20%201981%20%2033x26%20%20CR281.jpg" /></article>
+<article style=""><h1>Jerald Melberg Gallery &gt; Artists &gt; Gallery Artists &gt; Gallery Artists - Robert Motherwell &gt; Motherwell - Drunk with Turpentine No 14</h1><p>Jerald Melberg Gallery - Art Gallery Charlotte North Carolina</p><img src="http://www.jeraldmelberg.com/Portals/0/Motherwell/DRUNK%20WITH%20TURPENTINE%20NO%2014%20%201979%20%2019x15%20%20W551.jpg" /></article>
