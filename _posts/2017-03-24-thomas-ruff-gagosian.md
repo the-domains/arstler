@@ -21,8 +21,8 @@ description: >-
   appeared on the cover of New York Magazine.
 app_links: []
 title: Thomas Ruff
-datePublished: '2017-03-29T16:42:01.039Z'
-dateModified: '2017-03-29T16:41:59.863Z'
+datePublished: '2017-04-04T10:30:53.238Z'
+dateModified: '2017-04-04T10:30:50.659Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-24-thomas-ruff-gagosian.md
