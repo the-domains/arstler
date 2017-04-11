@@ -21,8 +21,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://www.studentartguide.com/articles/inventive-mixed-media-techniques'
 title: 'Beyond the Brush: Inventive Use of Media for Painting Students'
-datePublished: '2017-04-11T10:29:56.298Z'
-dateModified: '2017-04-11T10:29:56.008Z'
+datePublished: '2017-04-11T10:35:48.703Z'
+dateModified: '2017-04-11T10:35:47.384Z'
 via: {}
 inFeed: true
 sourcePath: >-
