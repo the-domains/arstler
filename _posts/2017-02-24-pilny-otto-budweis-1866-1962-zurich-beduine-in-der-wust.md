@@ -12,13 +12,13 @@ app_links: []
 isBasedOnUrl: >-
   https://www.kollerauktionen.ch/de/327899-0001-1180-pilny_-otto-_budweis-1866---19-1180_438710.html?RecPos=22
 title: 'PILNY, OTTO (Budweis 1866 - 1962 Zürich) Beduine in der Wüst'
-datePublished: '2017-02-24T13:51:32.086Z'
-dateModified: '2017-02-24T13:51:09.511Z'
-datePublishedOriginal: '2017-02-24T13:51:32.086Z'
+datePublished: '2017-04-11T10:24:26.365Z'
+dateModified: '2017-04-11T10:24:26.080Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-24-pilny-otto-budweis-1866-1962-zurich-beduine-in-der-wust.md
+starred: false
+datePublishedOriginal: '2017-02-24T13:51:32.086Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
