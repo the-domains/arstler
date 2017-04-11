@@ -11,13 +11,13 @@ description: ''
 app_links: []
 isBasedOnUrl: 'http://fedorshmidt.com/photo/'
 title: Photo - Fedor Shmidt Official Site
-datePublished: '2017-04-11T10:29:02.448Z'
-dateModified: '2017-04-11T10:28:23.089Z'
-datePublishedOriginal: '2017-04-11T10:29:02.448Z'
+datePublished: '2017-04-11T10:29:56.307Z'
+dateModified: '2017-04-11T10:29:56.008Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-04-11-photo-fedor-shmidt-official-site.md
+starred: false
+datePublishedOriginal: '2017-04-11T10:29:02.448Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
