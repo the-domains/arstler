@@ -71,8 +71,8 @@ isBasedOnUrl: 'https://youtu.be/ANqi-LuH5j8'
 title: >-
   Pablo Picasso - Masters of the Modern Era- MIKOS ARTS- A Documentary for
   educational purposes only.
-datePublished: '2017-04-11T10:24:26.395Z'
-dateModified: '2017-04-11T10:24:26.080Z'
+datePublished: '2017-04-11T10:29:56.307Z'
+dateModified: '2017-04-11T10:29:56.008Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-11-pablo-picasso-masters-of-the-modern-era-mikos-arts-a-doc.md
