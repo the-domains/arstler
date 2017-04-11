@@ -6,8 +6,8 @@ keywords: []
 description: '- Hamilton-Selway'
 app_links: []
 title: Roy Lichtenstein - Brushstrokes | Red | Yellow
-datePublished: '2017-04-04T10:30:53.237Z'
-dateModified: '2017-04-04T10:30:50.659Z'
+datePublished: '2017-04-11T10:44:34.566Z'
+dateModified: '2017-04-11T10:44:33.327Z'
 via: {}
 inFeed: true
 sourcePath: >-
