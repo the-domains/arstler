@@ -23,8 +23,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://youtu.be/QiIRopKLQ_M'
 title: SIMON HANTAï AU CENTRE POMPIDOU
-datePublished: '2017-04-11T10:44:34.747Z'
-dateModified: '2017-04-11T10:44:33.327Z'
+datePublished: '2017-04-20T21:33:15.520Z'
+dateModified: '2017-04-20T21:33:13.337Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-26-simon-hantai-au-centre-pompidou.md
