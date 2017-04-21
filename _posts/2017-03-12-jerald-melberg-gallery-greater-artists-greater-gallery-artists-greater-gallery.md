@@ -17,8 +17,8 @@ isBasedOnUrl: >-
 title: >-
   Jerald Melberg Gallery > Artists > Gallery Artists > Gallery Artists - Robert
   Motherwell > Motherwell - Drunk with Turpentine No 14
-datePublished: '2017-04-20T22:53:11.868Z'
-dateModified: '2017-04-20T22:53:10.441Z'
+datePublished: '2017-04-21T13:51:15.611Z'
+dateModified: '2017-04-21T13:51:12.944Z'
 via: {}
 inFeed: true
 sourcePath: >-
