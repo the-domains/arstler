@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: "_2017\_holiday greetings_Iceland.\_\_Magical. Light and color in an instant. Arctic-scapes reflect\_volcanic flow.\_Old Norse\_descendants revel in tales of ancient times."
-dateModified: '2017-04-21T13:51:12.944Z'
-datePublished: '2017-04-21T13:51:15.496Z'
+description: by Renay Elle Morris
+dateModified: '2017-05-01T14:44:27.737Z'
+datePublished: '2017-05-01T14:44:28.908Z'
 title: traveller_ carte postale
 author: []
 publisher: {}
@@ -16,9 +16,11 @@ _type: Article
 
 ---
 # traveller\_ carte postale
+
+by **Renay Elle Morris**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a82db616-257e-403e-ac6e-096f0962355d.png)
 
-_\_2017 holiday greetings\_Iceland.  Magical. Light and color in an instant. Arctic-scapes reflect volcanic flow. Old Norse descendants revel in tales of ancient times._
+_\_2017 holiday greetings\_Iceland. Magical. Light and color in an instant. Arctic-scapes reflect volcanic flow. Old Norse descendants revel in tales of ancient times._
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43ddf100-2522-4e04-b310-4a14599db682.gif)
 
 _\_Moscow on a cool and rainy May afternoon._  
