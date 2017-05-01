@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-04-21T17:24:49.784Z'
+datePublished: '2017-05-01T15:16:53.475Z'
 sourcePath: _posts/2016-05-17-in-fact-id-like-to-steal-this-painting.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-04-21T17:24:49.133Z'
+dateModified: '2017-05-01T15:16:52.731Z'
 title: arstler™
 id: 8e1e6782-92ec-4bae-b65d-3191a4443bf3
 publisher: {}
@@ -39,7 +39,7 @@ Founder, Editor, Content
 
 _(c) arstler(tm) - in fact, I'd like to steal this painting(tm)_
 
-> login
+[login][2]
 
 **♥**
 
@@ -51,3 +51,4 @@ subscribe to weekly post digest
 
 [0]: http://arstler.com/renay-elle-morris/
 [1]: http://berlo.net/genu-eugen-berlo/
+[2]: https://app.thegrid.io/
