@@ -4,8 +4,8 @@ description: >-
   For the first time in Israel, you have the opportunity to admire works of art
   from the point of view of the artist/collector rather than as exhibits in a
   sterile academic environment.
-dateModified: '2017-04-21T13:51:12.944Z'
-datePublished: '2017-04-21T13:51:15.673Z'
+dateModified: '2017-05-04T13:20:32.158Z'
+datePublished: '2017-05-04T13:20:33.923Z'
 title: Sculpture at Ilana Goor Museum
 author: []
 publisher: {}
