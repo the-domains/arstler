@@ -1,16 +1,16 @@
 ---
 inFeed: true
-description: "Ion Țuculescu s-a născut la 19 mai\_1910\_la\_Craiova, provenit dintr-o familie de intelectuali. Urmează cursurile Colegiului Național \"Carol I\" din Craiova, unde în orele de desen primește primele îndrumări de la profesorul său\_Eugen Ciolac, de la care a aflat o parte din tainele picturii. Prima expoziție la care a fost remarcată prezența \"pictorului diletant Ion Țuculescu\" - alături de a fratelui său Șerban - este cea organizată în\_1925, în sala de recepții a Palatului Administrativ al\_județului Dolj. Deși apreciat pentru talentul său artistic, Țuculescu nu se va îndrepta către o școală superioară cu profil artistic, ci se înscrie la Facultatea de Științe Naturale a\_Universității din București, pe care o va absolvi în\_1936. Paralel frecventează și Facultatea de Medicină, obținând doctoratul în\_1939\_cu calificativul\_magna cum laude. Deși se dedicase studiului, Ion Țuculescu continuă să picteze și are prima expoziție personală în 1938\_în sala\_Ateneului Român\_din\_București."
-dateModified: '2017-05-04T13:17:57.566Z'
-datePublished: '2017-05-04T13:17:58.419Z'
+description: "Ion Țuculescu s-a născut la\_19 mai\_1910\_la\_Craiova, provenit dintr-o familie de intelectuali. Urmează cursurile Colegiului Național \"Carol I\" din Craiova, unde în orele de desen primește primele îndrumări de la profesorul său\_Eugen Ciolac, de la care a aflat o parte din tainele picturii. Prima expoziție la care a fost remarcată prezența \"pictorului diletant Ion Țuculescu\" - alături de a fratelui său Șerban - este cea organizată în\_1925, în sala de recepții a Palatului Administrativ al\_județului Dolj. Deși apreciat pentru talentul său artistic, Țuculescu nu se va îndrepta către o școală superioară cu profil artistic, ci se înscrie la Facultatea de Științe Naturale a\_Universității din București, pe care o va absolvi în\_1936. Paralel frecventează și Facultatea de Medicină, obținând doctoratul în\_1939\_cu calificativul\_magna cum laude. Deși se dedicase studiului, Ion Țuculescu continuă să picteze și are prima expoziție personală în\_1938\_în sala\_Ateneului Român\_din\_București."
+dateModified: '2017-05-04T13:20:32.158Z'
+datePublished: '2017-05-04T13:20:33.918Z'
 title: Ion Țuculescu
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-05-04-ion-tuculescu.md
 starred: false
 datePublishedOriginal: '2017-05-04T13:17:58.419Z'
-sourcePath: _posts/2017-05-04-ion-tuculescu.md
 url: ion-tuculescu/index.html
 _type: Article
 
