@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: "\uFEFFLinda Hodges Gallery"
-dateModified: '2017-06-11T15:41:37.675Z'
-datePublished: '2017-06-11T15:41:38.345Z'
+dateModified: '2017-06-11T15:47:55.466Z'
+datePublished: '2017-06-11T15:47:57.291Z'
 title: Gaylen Hansen
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-06-11-gaylen-hansen.md
 starred: false
 datePublishedOriginal: '2017-06-11T15:41:38.345Z'
-sourcePath: _posts/2017-06-11-gaylen-hansen.md
 url: gaylen-hansen/index.html
 _type: Article
 
