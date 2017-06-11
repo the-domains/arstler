@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: by Renay Elle Morris
-dateModified: '2017-05-04T13:20:32.158Z'
-datePublished: '2017-05-04T13:20:33.796Z'
+dateModified: '2017-06-11T15:47:55.466Z'
+datePublished: '2017-06-11T15:47:57.251Z'
 title: traveller_ carte postale
 author: []
 publisher: {}
@@ -10,7 +10,7 @@ via: {}
 hasPage: true
 sourcePath: _posts/2017-04-21-traveller_-carte-postale.md
 starred: false
-datePublishedOriginal: '2017-04-21T13:45:22.925Z'
+datePublishedOriginal: '2017-05-31T16:02:20.207Z'
 url: traveller_-carte-postale/index.html
 _type: Article
 
@@ -31,3 +31,6 @@ _\_Judaica and bridal gowns at Israel's Jaffa shuk. Take a leisurely lunch at a 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a668e57-a635-40b9-9857-0b52211db904.png)
 
 _\_A Sunday outing in Argentina's Feria de San Telmo. Visitors and local alike soak up the atmosphere and tango to the beat of Buenos Aires._
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/924f1708-f5a6-4e97-b3ec-615abf4524e9.png)
+
+_\_Punjabi man. Most likely from Amritsar\_ Northern India. A visit to the Golden Temple, the most sacred of all shrines for Sikhs, is also known as Sri Harmandir Sahib._
