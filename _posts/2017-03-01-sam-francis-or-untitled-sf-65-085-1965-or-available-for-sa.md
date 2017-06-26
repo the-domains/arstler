@@ -27,8 +27,8 @@ app_links:
     app_store_id: '703796080'
     app_name: Artsy
 title: Sam Francis | Untitled (SF 65-085) (1965)
-datePublished: '2017-06-11T15:47:57.324Z'
-dateModified: '2017-06-11T15:47:55.466Z'
+datePublished: '2017-06-26T18:16:27.010Z'
+dateModified: '2017-06-26T18:16:25.515Z'
 via: {}
 inFeed: true
 sourcePath: >-
