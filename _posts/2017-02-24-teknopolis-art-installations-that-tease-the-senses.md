@@ -58,13 +58,13 @@ app_links:
 isBasedOnUrl: >-
   https://www.nytimes.com/2017/02/23/arts/design/teknopolis-art-installations-that-tease-the-senses.html?rref=collection%2Fsectioncollection%2Fdesign&action=click&contentCollection=design&region=rank&module=package&version=highlights&contentPlacement=5&pgtype=sectionfront&_r=0
 title: 'Teknopolis: Art Installations That Tease the Senses'
-datePublished: '2017-02-24T13:44:53.762Z'
-dateModified: '2017-02-24T13:44:28.601Z'
-datePublishedOriginal: '2017-02-24T13:44:53.762Z'
+datePublished: '2017-06-27T09:49:11.919Z'
+dateModified: '2017-06-27T09:49:08.652Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-24-teknopolis-art-installations-that-tease-the-senses.md
+starred: false
+datePublishedOriginal: '2017-02-24T13:44:53.762Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
