@@ -26,14 +26,14 @@ app_links: []
 isBasedOnUrl: >-
   http://www.artspace.com/lino-schwarz/trapped-din-tokyo-with-a-pile-of-shit-besides
 title: 'Trapped din Tokyo with a pile of shit besides, Lino Schwarz | Artspace.com'
-datePublished: '2017-02-24T13:47:40.018Z'
-dateModified: '2017-02-24T13:47:32.914Z'
-datePublishedOriginal: '2017-02-24T13:47:40.018Z'
+datePublished: '2017-06-27T09:49:11.914Z'
+dateModified: '2017-06-27T09:49:08.652Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-02-24-trapped-din-tokyo-with-a-pile-of-shit-besides-lino-schwarz.md
+starred: false
+datePublishedOriginal: '2017-02-24T13:47:40.018Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
