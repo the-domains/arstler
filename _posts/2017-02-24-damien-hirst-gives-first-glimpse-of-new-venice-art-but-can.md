@@ -64,14 +64,14 @@ isBasedOnUrl: >-
 title: >-
   Damien Hirst gives first glimpse of new Venice art - but can he win back
   critics?
-datePublished: '2017-02-24T13:45:20.664Z'
-dateModified: '2017-02-24T13:45:08.526Z'
-datePublishedOriginal: '2017-02-24T13:45:20.664Z'
+datePublished: '2017-06-27T09:49:11.915Z'
+dateModified: '2017-06-27T09:49:08.652Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-02-24-damien-hirst-gives-first-glimpse-of-new-venice-art-but-can.md
+starred: false
+datePublishedOriginal: '2017-02-24T13:45:20.664Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
