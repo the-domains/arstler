@@ -18,8 +18,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://www.widewalls.ch/francis-bacon-paintings/'
 title: The Most Expensive Francis Bacon Paintings at Auctions
-datePublished: '2017-06-26T18:16:26.949Z'
-dateModified: '2017-06-26T18:16:25.515Z'
+datePublished: '2017-06-27T09:49:11.760Z'
+dateModified: '2017-06-27T09:49:08.652Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-20-the-most-expensive-francis-bacon-paintings-at-auctions.md
