@@ -22,13 +22,13 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://countereditions.com/eu/offer/gary-hume.html'
 title: Gary Hume - Offer
-datePublished: '2017-02-24T13:48:14.972Z'
-dateModified: '2017-02-24T13:48:10.082Z'
-datePublishedOriginal: '2017-02-24T13:48:14.972Z'
+datePublished: '2017-06-27T09:49:11.914Z'
+dateModified: '2017-06-27T09:49:08.652Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-24-gary-hume-offer.md
+starred: false
+datePublishedOriginal: '2017-02-24T13:48:14.972Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
