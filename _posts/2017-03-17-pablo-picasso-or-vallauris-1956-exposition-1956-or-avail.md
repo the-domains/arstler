@@ -22,8 +22,8 @@ app_links:
 title: >-
   Pablo Picasso | VALLAURIS - 1956 / EXPOSITION (1956) | Available for Sale |
   Artsy
-datePublished: '2017-06-26T18:16:26.991Z'
-dateModified: '2017-06-26T18:16:25.515Z'
+datePublished: '2017-06-27T09:49:11.844Z'
+dateModified: '2017-06-27T09:49:08.652Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-17-pablo-picasso-or-vallauris-1956-exposition-1956-or-avail.md
