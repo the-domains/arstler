@@ -1,8 +1,8 @@
 ---
 inFeed: false
-description: Invited Author
-dateModified: '2017-02-24T13:37:15.728Z'
-datePublished: '2017-02-24T14:00:04.341Z'
+description: 'born: Constanţa, 1969'
+dateModified: '2017-06-27T09:44:38.562Z'
+datePublished: '2017-06-27T09:44:39.269Z'
 title: Paul Doru Mugur
 author: []
 publisher: {}
@@ -17,19 +17,15 @@ _type: Blurb
 ---
 # Paul Doru Mugur
 
-Invited Author
-
 born: Constanţa, 1969
 
 studies: medicine in Bucharest, Paris, New York
 
 now: works as an MD in New York
 
-2000: founded Respiro magazine
+writes: poetry, fiction & non-fiction
 
-writes: poetry, fiction & non-fiction published on the internet
-
-poetry and art section editor of Respiro magazine
+editor: Respiro magazine
 
 Posts by Doru:
 
