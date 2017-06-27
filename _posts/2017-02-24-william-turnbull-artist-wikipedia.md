@@ -31,13 +31,13 @@ app_links:
     type: android
 isBasedOnUrl: 'https://en.wikipedia.org/wiki/William_Turnbull_(artist)'
 title: William Turnbull (artist) - Wikipedia
-datePublished: '2017-02-24T13:42:56.860Z'
-dateModified: '2017-02-13T12:01:48.799Z'
-datePublishedOriginal: '2017-02-24T13:42:56.860Z'
+datePublished: '2017-06-27T09:49:11.920Z'
+dateModified: '2017-06-27T09:49:08.652Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-24-william-turnbull-artist-wikipedia.md
+starred: false
+datePublishedOriginal: '2017-02-24T13:42:56.860Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
