@@ -1,8 +1,8 @@
 ---
 inFeed: false
-description: 'born: Constanţa, 1969'
-dateModified: '2017-06-27T09:44:38.562Z'
-datePublished: '2017-06-27T09:44:39.269Z'
+description: .
+dateModified: '2017-06-27T09:49:08.652Z'
+datePublished: '2017-06-27T09:49:11.774Z'
 title: Paul Doru Mugur
 author: []
 publisher: {}
@@ -16,6 +16,8 @@ _type: Blurb
 
 ---
 # Paul Doru Mugur
+
+.
 
 born: Constanţa, 1969
 
