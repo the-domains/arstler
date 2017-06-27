@@ -30,13 +30,13 @@ app_links:
     type: android
 isBasedOnUrl: 'https://en.wikipedia.org/wiki/Peter_Fischli_%26_David_Weiss'
 title: Peter Fischli & David Weiss - Wikipedia
-datePublished: '2017-02-24T13:42:48.959Z'
-dateModified: '2017-02-13T12:02:38.699Z'
-datePublishedOriginal: '2017-02-24T13:42:48.959Z'
+datePublished: '2017-06-27T09:49:11.920Z'
+dateModified: '2017-06-27T09:49:08.652Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-24-peter-fischli-and-david-weiss-wikipedia.md
+starred: false
+datePublishedOriginal: '2017-02-24T13:42:48.959Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
