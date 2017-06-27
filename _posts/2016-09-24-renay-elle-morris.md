@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-23T11:12:09.385Z'
+datePublished: '2017-06-27T09:49:11.759Z'
 sourcePath: _posts/2016-09-24-renay-elle-morris.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-23T11:11:13.294Z'
+dateModified: '2017-06-27T09:49:08.652Z'
 title: Renay Elle Morris
 publisher: {}
 description: Invited Author
@@ -23,9 +23,12 @@ Renay Elle Morris is an internationally recognized writer, award winning creativ
 
 Posts by Renay:
 
-[FROM RUSSIA WITH LOVE][0]
+[traveller\_ carte postale][0]
 
-[NYC's PDN PhotoPlus Expo][1]
+[FROM RUSSIA WITH LOVE][1]
 
-[0]: http://arstler.com/from-russia-with-love
-[1]: http://arstler.com/nycs-pdn-photoplus-expo/
+[NYC's PDN PhotoPlus Expo][2]
+
+[0]: http://arstler.com/traveller_-carte-postale
+[1]: http://arstler.com/from-russia-with-love
+[2]: http://arstler.com/nycs-pdn-photoplus-expo/
