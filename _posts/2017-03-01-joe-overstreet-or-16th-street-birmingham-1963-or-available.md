@@ -33,8 +33,8 @@ app_links:
     app_store_id: '703796080'
     app_name: Artsy
 title: 'Untitled, Ernest Briggs | Artspace.com'
-datePublished: '2017-06-27T09:49:11.891Z'
-dateModified: '2017-06-27T09:49:08.652Z'
+datePublished: '2017-07-11T13:40:09.494Z'
+dateModified: '2017-07-11T13:40:07.635Z'
 via: {}
 inFeed: true
 sourcePath: >-
