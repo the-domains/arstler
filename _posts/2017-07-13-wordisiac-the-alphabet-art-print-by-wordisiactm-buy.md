@@ -47,13 +47,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'http://wordisiac.com/post/162069480984/the-alphabet-art-print-by-wordisiac-buy'
 title: wordisiac - The Alphabet Art print by WORDISIAC™ buy
-datePublished: '2017-07-13T11:54:07.996Z'
-dateModified: '2017-06-21T22:19:04.583Z'
-datePublishedOriginal: '2017-07-13T11:54:07.996Z'
+datePublished: '2017-07-13T14:08:14.581Z'
+dateModified: '2017-07-13T14:08:12.277Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-07-13-wordisiac-the-alphabet-art-print-by-wordisiactm-buy.md
+starred: false
+datePublishedOriginal: '2017-07-13T11:54:07.996Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
