@@ -11,8 +11,8 @@ description: ''
 app_links: []
 isBasedOnUrl: 'http://fedorshmidt.com/photo/'
 title: Photo - Fedor Shmidt Official Site
-datePublished: '2017-07-13T14:08:14.675Z'
-dateModified: '2017-07-13T14:08:12.277Z'
+datePublished: '2017-07-13T15:26:09.523Z'
+dateModified: '2017-07-13T15:26:07.184Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-11-photo-fedor-shmidt-official-site.md
