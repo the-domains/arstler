@@ -39,6 +39,9 @@ navigation:
   - name: ♥gin
     url: 'https://app.thegrid.io/'
     type: external
+  - name: personae
+    id: 06f56036-4325-461f-a836-fbb33b1928bc
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0552a8d3-aeb8-433c-9c16-ed807a5c2ff9.png
 collections:
