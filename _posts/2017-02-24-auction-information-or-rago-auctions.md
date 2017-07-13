@@ -24,8 +24,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.ragoarts.com/auctions/2017/05/06/post-war-contemporary-art/info'
 title: Auction Information | Rago Auctions
-datePublished: '2017-07-13T14:08:14.674Z'
-dateModified: '2017-07-13T14:08:12.277Z'
+datePublished: '2017-07-13T15:26:09.512Z'
+dateModified: '2017-07-13T15:26:07.184Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-24-auction-information-or-rago-auctions.md
