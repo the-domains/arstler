@@ -1,4 +1,3 @@
-layout_spectrum: 0.2560059632506627
 typography_spectrum: 0.21716242334335156
 color:
   saturation: 0.9679805855039912
@@ -16,6 +15,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.2560059632506627
 analytics:
   twitter: null
   google: UA-634542-82
@@ -36,6 +36,9 @@ navigation:
   - name: 'arstler™ - in fact, I''d like to steal this painting™'
     id: 8e1e6782-92ec-4bae-b65d-3191a4443bf3
     type: content
+  - name: ♥gin
+    url: 'https://app.thegrid.io/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0552a8d3-aeb8-433c-9c16-ed807a5c2ff9.png
 collections:
