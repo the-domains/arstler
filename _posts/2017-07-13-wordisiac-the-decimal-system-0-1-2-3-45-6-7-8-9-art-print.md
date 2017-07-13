@@ -48,8 +48,8 @@ app_links:
 isBasedOnUrl: >-
   http://wordisiac.com/post/162086574769/the-decimal-system-0-1-2-3-45-6-7-8-9-art-print-by
 title: wordisiac - The Decimal System 0 1 2 3 45 6 7 8 9 Art print by...
-datePublished: '2017-07-13T14:08:14.597Z'
-dateModified: '2017-07-13T14:08:12.277Z'
+datePublished: '2017-07-13T15:26:09.396Z'
+dateModified: '2017-07-13T15:26:07.184Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-13-wordisiac-the-decimal-system-0-1-2-3-45-6-7-8-9-art-print.md
