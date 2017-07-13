@@ -27,8 +27,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.artpistol.co.uk/art/our-lady-of-sorrows'
 title: Our Lady Of Sorrows -
-datePublished: '2017-07-13T14:08:14.679Z'
-dateModified: '2017-07-13T14:08:12.277Z'
+datePublished: '2017-07-13T15:26:09.535Z'
+dateModified: '2017-07-13T15:26:07.184Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-24-our-lady-of-sorrows-.md
