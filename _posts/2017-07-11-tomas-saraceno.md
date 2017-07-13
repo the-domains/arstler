@@ -10,16 +10,16 @@ description: >-
   From his Cloud Cities projects, to installations such as In Orbit and On Space
   Time Foam and his experiments around spiderwebs and aerosolar journeys, the
   common thread in Tomás’ works lies in a life lifted off the ground.
-dateModified: '2017-07-11T13:56:09.896Z'
-datePublished: '2017-07-11T13:56:10.904Z'
+dateModified: '2017-07-13T14:08:12.277Z'
+datePublished: '2017-07-13T14:08:14.666Z'
 title: Tomás Saraceno
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-07-11-tomas-saraceno.md
 starred: false
 datePublishedOriginal: '2017-07-11T13:56:10.904Z'
-sourcePath: _posts/2017-07-11-tomas-saraceno.md
 url: tomas-saraceno/index.html
 _type: Article
 
