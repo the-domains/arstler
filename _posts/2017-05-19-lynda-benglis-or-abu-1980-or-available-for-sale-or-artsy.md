@@ -11,8 +11,8 @@ app_links:
     app_name: Artsy
     app_store_id: '703796080'
 title: ''
-datePublished: '2017-07-11T13:40:09.437Z'
-dateModified: '2017-07-11T13:40:07.635Z'
+datePublished: '2017-07-13T14:08:14.581Z'
+dateModified: '2017-07-13T14:08:12.277Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-19-lynda-benglis-or-abu-1980-or-available-for-sale-or-artsy.md
