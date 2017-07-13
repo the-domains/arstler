@@ -17,8 +17,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.artnet.com/galleries/the-pace-gallery/julian-schnabel-new-plate-paintings/
 title: Julian Schnabel New Plate Paintings
-datePublished: '2017-07-11T13:40:09.527Z'
-dateModified: '2017-07-11T13:40:07.635Z'
+datePublished: '2017-07-13T14:08:14.684Z'
+dateModified: '2017-07-13T14:08:12.277Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-24-julian-schnabel-new-plate-paintings.md
