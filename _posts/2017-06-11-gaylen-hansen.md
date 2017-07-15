@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "\uFEFFLinda Hodges Gallery"
-dateModified: '2017-07-13T15:26:07.184Z'
-datePublished: '2017-07-13T15:26:09.424Z'
+dateModified: '2017-07-15T16:48:38.286Z'
+datePublished: '2017-07-15T16:48:40.970Z'
 title: Gaylen Hansen
 author: []
 publisher: {}
