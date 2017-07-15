@@ -32,8 +32,8 @@ app_links:
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/auction/juliens-auctions-street-art-now-iv'
 title: 'Julien''s Auctions: Street Art Now IV | Artsy'
-datePublished: '2017-07-15T16:48:41.059Z'
-dateModified: '2017-07-15T16:48:38.286Z'
+datePublished: '2017-07-15T17:27:31.350Z'
+dateModified: '2017-07-15T17:27:29.444Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-24-juliens-auctions-street-art-now-iv-or-artsy.md
