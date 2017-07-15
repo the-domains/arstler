@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: >-
   http://s-magazine.photography/ceemes/en/editorials-and-ads/nakid-magazine-1790.html
-datePublished: '2017-07-15T16:48:41.033Z'
-dateModified: '2017-07-15T16:48:38.286Z'
+datePublished: '2017-07-15T17:27:31.323Z'
+dateModified: '2017-07-15T17:27:29.444Z'
 title: ''
 via: {}
 inFeed: true
