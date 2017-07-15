@@ -47,8 +47,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'http://wordisiac.com/post/162069480984/the-alphabet-art-print-by-wordisiac-buy'
 title: wordisiac - The Alphabet Art print by WORDISIAC™ buy
-datePublished: '2017-07-13T15:26:09.378Z'
-dateModified: '2017-07-13T15:26:07.184Z'
+datePublished: '2017-07-15T16:48:40.961Z'
+dateModified: '2017-07-15T16:48:38.286Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-13-wordisiac-the-alphabet-art-print-by-wordisiactm-buy.md
