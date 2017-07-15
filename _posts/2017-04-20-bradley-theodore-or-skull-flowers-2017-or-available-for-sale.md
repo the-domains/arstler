@@ -18,8 +18,8 @@ app_links:
     app_store_id: '703796080'
 isBasedOnUrl: 'https://www.artsy.net/artwork/bradley-theodore-skull-flowers'
 title: Bradley Theodore | Skull Flowers (2017) | Available for Sale | Artsy
-datePublished: '2017-07-15T16:48:40.970Z'
-dateModified: '2017-07-15T16:48:38.286Z'
+datePublished: '2017-07-15T17:27:31.261Z'
+dateModified: '2017-07-15T17:27:29.444Z'
 via: {}
 inFeed: true
 sourcePath: >-
