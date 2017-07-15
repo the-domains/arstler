@@ -42,12 +42,12 @@ navigation:
   - name: nothing
     url: 'https://#'
     type: external
-  - name: ♥in
-    url: 'https://app.thegrid.io/'
-    type: external
   - name: subscribe
     id: 15f7c116-8c68-40ca-8d69-6407016b1454
     type: content
+  - name: ♥in
+    url: 'https://app.thegrid.io/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0552a8d3-aeb8-433c-9c16-ed807a5c2ff9.png
 collections:
