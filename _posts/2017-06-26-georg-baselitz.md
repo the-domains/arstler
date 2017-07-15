@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "Brilliant, urgent and provocative, German artist Georg Baselitz is among the most celebrated artists of his time. His engagement with German national identity at a time when many artists were shying away from so difficult a subject was an extraordinary act of self-assertion. Much of his best work appears hideous, unsettling, and in some cases even crude. But there is far more to Baselitz’s paintings and art prints than first meets the eye, and their apparent coarseness camouflages their own astonishing levels of accomplishment. He has famously experimented with mediums, shifting between drawing, wooden sculpture, and painting. Prominent works include the\_Fracture\_paintings of the late 60s, which contain echoes of his life in divided Germany, but he is perhaps best known for his iconic upside-down paintings, in which the artist inverts the subject matter in order to highlight the artifice of painting."
-dateModified: '2017-07-15T16:48:38.286Z'
-datePublished: '2017-07-15T16:48:40.946Z'
+dateModified: '2017-07-15T17:27:29.444Z'
+datePublished: '2017-07-15T17:27:31.261Z'
 title: Georg Baselitz
 author: []
 publisher: {}
