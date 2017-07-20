@@ -65,7 +65,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: ''
+title: traveller_carte postale
 content: []
 description: ''
 purpose: []
