@@ -51,7 +51,7 @@ navigation:
   - name: ♥in
     url: 'https://app.thegrid.io/'
     type: external
-  - name: Instagram
+  - name: instagram
     url: 'https://www.instagram.com/wordisiac/'
     type: external
 favicon: >-
