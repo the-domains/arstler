@@ -39,9 +39,6 @@ navigation:
   - name: personae
     id: 06f56036-4325-461f-a836-fbb33b1928bc
     type: content
-  - name: artists
-    id: bc189c76-c568-47fe-895e-64a282e79dbe
-    type: content
   - name: nothing
     url: 'https://#'
     type: external
