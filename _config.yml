@@ -48,9 +48,6 @@ navigation:
   - name: ♥in
     url: 'https://app.thegrid.io/'
     type: external
-  - name: instagram
-    url: 'https://www.instagram.com/wordisiac/'
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0552a8d3-aeb8-433c-9c16-ed807a5c2ff9.png
 collections:
