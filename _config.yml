@@ -65,7 +65,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: arstler
+title: ''
 content: []
 description: 'in fact, I''d like to steal this painting™'
 purpose: []
