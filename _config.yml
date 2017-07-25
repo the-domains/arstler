@@ -39,9 +39,6 @@ navigation:
   - name: personae
     id: 06f56036-4325-461f-a836-fbb33b1928bc
     type: content
-  - name: nothing
-    url: 'https://#'
-    type: external
   - name: subscribe
     id: 15f7c116-8c68-40ca-8d69-6407016b1454
     type: content
