@@ -59,7 +59,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: ''
+title: _traveller carte postale
 content: []
 description: ''
 purpose: []
