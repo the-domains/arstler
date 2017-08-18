@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: by Renay Elle Morris
-dateModified: '2017-08-08T20:59:20.142Z'
-datePublished: '2017-08-08T20:59:54.691Z'
+dateModified: '2017-08-18T16:48:43.304Z'
+datePublished: '2017-08-18T16:48:44.712Z'
 title: traveller_ carte postale
 author: []
 publisher: {}
@@ -43,3 +43,6 @@ _\_On the heels of dh, bell, ottomans and nomads, all ensconced in the heat and 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04bbc838-34b3-41c9-a49f-23d846f6939d.png)
 
 \_Southwestern France's prehistoric dwellings from the Magdalenian period date back 15,000 years\_at least. Trek to the Salon Noir's "cul-de-sac" in the Niaux Cave to view the amazing strokes of animal impressions.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2d8a574-3f90-47c8-ada2-f5aa437d272b.png)
+
+\_Anywhere there is la playa. Señora toma el sol.
