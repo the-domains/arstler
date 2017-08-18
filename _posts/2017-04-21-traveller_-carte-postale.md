@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: by Renay Elle Morris
-dateModified: '2017-08-18T16:49:10.034Z'
-datePublished: '2017-08-18T16:49:11.013Z'
+dateModified: '2017-08-18T21:24:39.709Z'
+datePublished: '2017-08-18T21:24:41.457Z'
 title: traveller_ carte postale
 author: []
 publisher: {}
@@ -46,3 +46,4 @@ _\_On the heels of dh, bell, ottomans and nomads, all ensconced in the heat and 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2d8a574-3f90-47c8-ada2-f5aa437d272b.png)
 
 \_Anywhere there is la playa. Señora toma el sol.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c4aee6b-813c-4f69-9b88-30c60cbb067e.png)
