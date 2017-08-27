@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: by Renay Elle Morris
-dateModified: '2017-08-18T21:24:39.709Z'
-datePublished: '2017-08-18T21:24:41.457Z'
+dateModified: '2017-08-27T20:39:15.854Z'
+datePublished: '2017-08-27T20:39:16.486Z'
 title: traveller_ carte postale
 author: []
 publisher: {}
@@ -47,3 +47,5 @@ _\_On the heels of dh, bell, ottomans and nomads, all ensconced in the heat and 
 
 \_Anywhere there is la playa. Señora toma el sol.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c4aee6b-813c-4f69-9b88-30c60cbb067e.png)
+![_Werner’s Fitzcarraldo and the tale of rubber barons led to the exotic amazonas, and it’s jungle capital Iquitos. Shrouded stalls entice_try the delicacies and delights at the Belem marketo at the river’s edge.
+](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d853b5e9-431d-44ee-9a30-7d93e9eeb258.png)
