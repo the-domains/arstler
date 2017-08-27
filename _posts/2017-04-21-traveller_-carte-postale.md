@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: by Renay Elle Morris
-dateModified: '2017-08-27T20:39:15.854Z'
-datePublished: '2017-08-27T20:39:16.486Z'
+dateModified: '2017-08-27T20:39:50.316Z'
+datePublished: '2017-08-27T20:39:50.851Z'
 title: traveller_ carte postale
 author: []
 publisher: {}
@@ -40,7 +40,7 @@ _\_Punjabi man. Most likely from Amritsar\_ Northern India. A visit to the Golde
 ![_On the heels of dh, bell, ottomans and nomads, all ensconced in the heat and dust of Petra_ archeological triumphs and the crown jewel of Jordan reigns.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d95bb7e-70ec-4024-8070-5856838587d0.gif)
 
 _\_On the heels of dh, bell, ottomans and nomads, all ensconced in the heat and dust of Petra\_ archeological triumphs and the crown jewel of Jordan reigns._
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04bbc838-34b3-41c9-a49f-23d846f6939d.png)
+![_Southwestern France’s prehistoric dwellings from the Magdalenian period date back 15,000 years_at least. Trek to the Salon Noir’s “cul-de-sac” in the Niaux Cave to view the amazing strokes of animal impressions.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04bbc838-34b3-41c9-a49f-23d846f6939d.png)
 
 \_Southwestern France's prehistoric dwellings from the Magdalenian period date back 15,000 years\_at least. Trek to the Salon Noir's "cul-de-sac" in the Niaux Cave to view the amazing strokes of animal impressions.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2d8a574-3f90-47c8-ada2-f5aa437d272b.png)
