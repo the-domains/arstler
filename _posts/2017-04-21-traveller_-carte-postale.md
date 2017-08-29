@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: by Renay Elle Morris
-dateModified: '2017-08-29T16:47:41.430Z'
-datePublished: '2017-08-29T16:47:41.978Z'
+dateModified: '2017-08-29T16:48:04.131Z'
+datePublished: '2017-08-29T16:48:04.809Z'
 title: traveller_ carte postale
 author: []
 publisher: {}
@@ -37,7 +37,7 @@ _\_A Sunday outing in Argentina's Feria de San Telmo. Visitors and local alike s
 ![_Punjabi man. Most likely from Amritsar_ Northern India. A visit to the Golden Temple, the most sacred of all shrines for Sikhs, is also known as Sri Harmandir Sahib.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/924f1708-f5a6-4e97-b3ec-615abf4524e9.png)
 
 _\_Punjabi man. Most likely from Amritsar\_ Northern India. A visit to the Golden Temple, the most sacred of all shrines for Sikhs, is also known as Sri Harmandir Sahib._
-![_On the heels of dh, bell, ottomans and nomads, all ensconced in the heat and dust of Petra_ archeological triumphs and the crown jewel of Jordan reigns.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d95bb7e-70ec-4024-8070-5856838587d0.gif)
+![_On the heels of dh, bell, ottomans and nomads, all ensconced in the heat and dust of Petra_ archeology triumphs and the crown jewel of Jordan reigns.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d95bb7e-70ec-4024-8070-5856838587d0.gif)
 
 _\_On the heels of dh, bell, ottomans and nomads, all ensconced in the heat and dust of Petra\_ archeology triumphs and the crown jewel of Jordan reigns._
 ![_Southwestern France’s prehistoric dwellings from the Magdalenian period date back 15,000 years_at least. Trek to the Salon Noir’s “cul-de-sac” in the Niaux Cave to view the amazing strokes of animal impressions.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04bbc838-34b3-41c9-a49f-23d846f6939d.png)
