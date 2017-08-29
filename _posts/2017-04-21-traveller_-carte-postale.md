@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: by Renay Elle Morris
-dateModified: '2017-08-29T16:49:34.227Z'
-datePublished: '2017-08-29T16:49:35.649Z'
+dateModified: '2017-08-29T16:49:42.093Z'
+datePublished: '2017-08-29T16:49:44.411Z'
 title: traveller_ carte postale
 author: []
 publisher: {}
@@ -58,4 +58,4 @@ _\_On the heels of dh, bell, ottomans and nomads, all ensconced in the heat and 
 ![_Dressed and tressed, and pretty in pink, Katherine stops for a quench of Red Bull. 
 It’s all aboard for the Anime Convention_Penn Station, NYC. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b79dcd5a-962f-4957-b222-ea4b451a2683.png)
 
-\_Dressed and tressed, and pretty in pink, Katherine stops for a quench of Red Bull. It's all aboard for the Anime Convention. Penn Station, NYC.
+\_Dressed and tressed, and pretty in pink, Katherine stops for a quench of Red Bull. It's all aboard for the Anime Convention\_Penn Station, NYC.
