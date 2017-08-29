@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: by Renay Elle Morris
-dateModified: '2017-08-29T16:45:02.360Z'
-datePublished: '2017-08-29T16:45:03.209Z'
+dateModified: '2017-08-29T16:46:49.225Z'
+datePublished: '2017-08-29T16:46:50.009Z'
 title: traveller_ carte postale
 author: []
 publisher: {}
@@ -49,8 +49,7 @@ _\_On the heels of dh, bell, ottomans and nomads, all ensconced in the heat and 
 ![_Delving into Peruvian culture is a fascination introduction in the study of an indigenous people with beliefs of Christianity and native religions.
 A mix of Spanish colonial practices combined with the inclusion ancient local cultures and traditions.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c4aee6b-813c-4f69-9b88-30c60cbb067e.png)
 
-\_Delving into Peruvian culture is a fascination introduction in the study of an indigenous people with beliefs of Christianity and native religions. A mix of Spanish colonial practices combined with the inclusion ancient local cultures and traditions.
-![_Werner’s Fitzcarraldo and the tale of rubber barons led to the exotic amazonas, and it’s jungle capital Iquitos. Shrouded stalls entice_try the delicacies and delights at the Belem marketo at the river’s edge.
+\_Delving into Peruvian culture is a fascinating introduction to the study of an indigenous people. A mix of Spanish colonial practices with beliefs of Christianity and native religions. ![_Werner’s Fitzcarraldo and the tale of rubber barons led to the exotic amazonas, and it’s jungle capital Iquitos. Shrouded stalls entice_try the delicacies and delights at the Belem marketo at the river’s edge.
 ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d853b5e9-431d-44ee-9a30-7d93e9eeb258.png)
 
 ---
