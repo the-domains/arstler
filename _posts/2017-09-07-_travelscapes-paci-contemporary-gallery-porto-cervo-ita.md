@@ -1,21 +1,19 @@
 ---
 inFeed: true
-description: 'POSTED ONSEPTEMBER 5, 2017BYRENAY MORRIS'
-dateModified: '2017-09-07T15:56:43.789Z'
-datePublished: '2017-09-07T15:56:44.292Z'
+description: "Ensconced in the northern coastal jet-setting playground of Porto Cervo, Sardinia, famous for its\_jeweled-toned sea, sits another gem portside_not to be overlooked."
+dateModified: '2017-09-07T15:57:15.601Z'
+datePublished: '2017-09-07T15:57:15.983Z'
 title: '_travelscapes / paci contemporary gallery / porto cervo, italy'
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-09-07-_travelscapes-paci-contemporary-gallery-porto-cervo-ita.md
 starred: false
 datePublishedOriginal: '2017-09-07T15:56:44.292Z'
-sourcePath: _posts/2017-09-07-_travelscapes-paci-contemporary-gallery-porto-cervo-ita.md
 _type: Blurb
 
 ---
 # [\_travelscapes / paci contemporary gallery / porto cervo, italy][0]
-
-POSTED ON[SEPTEMBER 5, 2017][1]BY[RENAY MORRIS][2]
 
 _**Ensconced in the northern coastal jet-setting playground of Porto Cervo, Sardinia, famous for its jeweled-toned sea, sits another gem portside\_not to be overlooked.**_
 
@@ -28,12 +26,10 @@ What is evident as you make your way around the gallery is how the photographers
 You can still catch the works, as they are on display until 30 September.
 
 For additional information on upcoming exhibitions visit:  
-[info@pacicontemporarygallery.com][3] / pacicontemporary.com  
+[info@pacicontemporarygallery.com][1] / pacicontemporary.com  
 Promenade du Port\_Via Aga Khan1 Porto Cervo, Italy
 
 Image, courtesy of Paci Contemporary Gallery\_Porto Cervo / 2017
 
 [0]: http://renayellemorris.com/_sardinianscapes/ "Permalink to _travelscapes / paci contemporary gallery   /   porto cervo, italy"
-[1]: http://renayellemorris.com/_sardinianscapes/ "12:33 pm"
-[2]: http://renayellemorris.com/author/renayelle/ "View all posts by Renay Morris"
-[3]: mailto:info@pacicontemporarygallery.com
+[1]: mailto:info@pacicontemporarygallery.com
