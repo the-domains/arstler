@@ -63,30 +63,6 @@ collections:
     permalink:
       path: '/:title/'
 title: arstler
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ae9d399-73e3-49ee-ba76-7fe268a9efca.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ae9d399-73e3-49ee-ba76-7fe268a9efca.jpg
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: 'in fact, I''d like to steal this painting™'
 purpose: []
