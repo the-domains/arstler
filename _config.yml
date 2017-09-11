@@ -1,4 +1,3 @@
-layout_spectrum: 0.7107971504721606
 typography_spectrum: 0.7056889406151811
 color:
   saturation: 0.7929070292309037
@@ -16,6 +15,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.7107971504721606
 analytics:
   twitter: null
   google: UA-634542-82
@@ -42,6 +42,9 @@ navigation:
   - name: ♥in
     url: 'https://app.thegrid.io/'
     type: external
+  - name: artists
+    id: bc189c76-c568-47fe-895e-64a282e79dbe
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0552a8d3-aeb8-433c-9c16-ed807a5c2ff9.png
 collections:
@@ -66,19 +69,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ae9d399-73e3-49ee-ba76-7fe268a9efca.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
