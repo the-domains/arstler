@@ -26,7 +26,7 @@ author:
   name: ''
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a1f760c-24ff-4080-9f8f-cc997d994ea6.png
-name: arstler.com
+name: berlo.net
 url: 'http://arstler.com'
 cta:
   bucket: null
@@ -85,5 +85,5 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: ''
+description: 'in fact, I''d like to steal this painting™'
 purpose: []
