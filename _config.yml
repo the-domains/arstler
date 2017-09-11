@@ -59,7 +59,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: seeScapes_notes on a travel
+title: arstler
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -85,5 +85,5 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: et al. by renay elle morris
+description: ''
 purpose: []
