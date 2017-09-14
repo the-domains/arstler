@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: by Eugen Berlo 2017-07-15
-dateModified: '2017-07-16T21:28:13.444Z'
-datePublished: '2017-07-16T21:28:15.705Z'
+dateModified: '2017-09-14T13:04:36.758Z'
+datePublished: '2017-09-14T13:04:37.072Z'
 title: '''SEEING OURSELVES SENSING'' by Eastwards Prospectus'
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-07-15-seeing-ourselves-sensing-by-eastwards-prospectus.md
 hasPage: true
+datePublishedOriginal: '2017-09-14T13:04:37.072Z'
 starred: false
-datePublishedOriginal: '2017-07-16T10:05:11.540Z'
 url: seeing-ourselves-sensing-by-eastwards-prospectus/index.html
 _type: Article
 
