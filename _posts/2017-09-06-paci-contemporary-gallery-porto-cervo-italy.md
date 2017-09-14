@@ -4,8 +4,8 @@ description: >-
   Ensconced in the northern coastal jet-setting playground of Porto Cervo,
   Sardinia, famous for its jeweled-toned sea, sits another gem portside_not to
   be overlooked.
-dateModified: '2017-09-14T12:46:12.158Z'
-datePublished: '2017-09-14T12:46:13.054Z'
+dateModified: '2017-09-14T15:16:09.502Z'
+datePublished: '2017-09-14T15:16:09.741Z'
 title: 'paci contemporary gallery / porto cervo, italy'
 author: []
 publisher: {}
