@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: Renay Elle Morris / June 2017
-dateModified: '2017-09-14T14:21:46.735Z'
-datePublished: '2017-09-14T14:33:45.844Z'
+dateModified: '2017-09-14T14:40:15.329Z'
+datePublished: '2017-09-14T14:40:15.919Z'
 title: THE CHERKASHIN’S. NEW DRAWINGS. A NEW CHAPTER.
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-05-31-new-drawings-a-new-chapter-renay-elle-morris-may-2017.md
 hasPage: true
-datePublishedOriginal: '2017-09-14T14:33:45.844Z'
 starred: false
+datePublishedOriginal: '2017-09-14T14:33:45.844Z'
 url: the-cherkashins-new-drawings-a-new-chapter/index.html
 _type: Article
 
