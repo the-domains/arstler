@@ -1,9 +1,9 @@
 ---
 inFeed: false
 description: subscribe to weekly post digest
-dateModified: '2017-09-14T14:40:15.329Z'
-datePublished: '2017-09-14T14:40:15.908Z'
-title: Subscribe
+dateModified: '2017-09-15T14:35:14.190Z'
+datePublished: '2017-09-15T14:35:14.767Z'
+title: subscribe
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ url: subscribe/index.html
 _type: MediaObject
 
 ---
-# Subscribe
+# subscribe
 
 **subscribe **to weekly post digest
 
