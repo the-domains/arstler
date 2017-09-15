@@ -6,14 +6,14 @@ keywords: []
 description: Paul Rodgers / 9W
 app_links: []
 title: Simon Hantaï
-datePublished: '2017-09-14T15:30:20.882Z'
-dateModified: '2017-09-14T15:25:05.027Z'
+datePublished: '2017-09-15T14:35:49.961Z'
+dateModified: '2017-09-15T14:35:47.906Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-26-simon-hantai-go-figureground.md
 hasPage: true
-datePublishedOriginal: '2017-09-14T15:30:20.882Z'
 starred: false
+datePublishedOriginal: '2017-09-14T15:30:20.882Z'
 url: simon-hantai/index.html
 _context: 'http://schema.org'
 _type: MediaObject
