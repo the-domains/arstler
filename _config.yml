@@ -56,7 +56,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: 'six stores '
+title: ''
 content: []
 description: ''
 purpose: []
