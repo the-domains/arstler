@@ -42,9 +42,6 @@ navigation:
   - name: ♥in
     url: 'https://app.thegrid.io/'
     type: external
-  - name: notes
-    id: 9ca9129a-18dd-4d22-98a8-f623b5586367
-    type: content
   - name: salon
     id: 06f56036-4325-461f-a836-fbb33b1928bc
     type: content
