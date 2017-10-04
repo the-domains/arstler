@@ -13,16 +13,16 @@ description: >-
   juxtaposition of pieces. Her current works show an economy in terms of
   compositional design, with richness of surface mark and colour, reconfirming
   the artist’s earlier delight in light and transparency.
-dateModified: '2017-09-14T15:25:06.038Z'
-datePublished: '2017-09-14T15:30:20.900Z'
+dateModified: '2017-10-04T09:52:24.694Z'
+datePublished: '2017-10-04T09:52:25.870Z'
 title: Giuliana Lazzerini
 author: []
 publisher: {}
 via: {}
 hasPage: true
 sourcePath: _posts/2017-03-02-giuliana-lazzerini.md
-datePublishedOriginal: '2017-09-14T15:30:20.900Z'
 starred: false
+datePublishedOriginal: '2017-09-14T15:30:20.900Z'
 url: giuliana-lazzerini/index.html
 _type: Article
 
