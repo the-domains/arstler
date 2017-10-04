@@ -3,10 +3,11 @@ inFeed: true
 description: >-
   Steven Kasher Gallery_Leonard Freed: Six Stories / Renay Elle Morris_
   September 2017
-dateModified: '2017-10-04T10:02:22.745Z'
-datePublished: '2017-10-04T10:02:25.590Z'
-title: '_leonard freed: six stories'
-author: []
+dateModified: '2017-10-04T10:13:27.756Z'
+datePublished: '2017-10-04T10:13:29.457Z'
+title: 'Leonard Freed: Six Stories'
+author:
+  - name: "©\_Brigitte Freed at the opening exhibition_Renay Elle Morris\_"
 publisher: {}
 via: {}
 hasPage: true
@@ -17,7 +18,7 @@ url: _leonard-freed-six-stories/index.html
 _type: Article
 
 ---
-# \_leonard freed: six stories
+# Leonard Freed: Six Stories
 
 Steven Kasher Gallery\_Leonard Freed: Six Stories / [Renay Elle Morris][0]\_ September 2017
 
