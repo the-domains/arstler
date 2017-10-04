@@ -6,15 +6,15 @@ keywords: []
 description: '- Hamilton-Selway'
 app_links: []
 title: Roy Lichtenstein - Brushstrokes | Red | Yellow
-datePublished: '2017-09-14T15:30:20.765Z'
-dateModified: '2017-09-14T15:25:04.688Z'
+datePublished: '2017-10-04T09:52:25.709Z'
+dateModified: '2017-10-04T09:52:24.694Z'
 via: {}
 inFeed: true
 sourcePath: >-
   _posts/2017-03-29-roy-lichtenstein-or-brushstrokes-or-red-or-yellow-hamilton-se.md
 hasPage: true
-datePublishedOriginal: '2017-09-14T15:30:20.765Z'
 starred: false
+datePublishedOriginal: '2017-09-14T15:30:20.765Z'
 url: roy-lichtenstein-brushstrokes-or-red-or-yellow/index.html
 _context: 'http://schema.org'
 _type: MediaObject
