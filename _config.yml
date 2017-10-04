@@ -42,9 +42,6 @@ navigation:
   - name: ♥in
     url: 'https://app.thegrid.io/'
     type: external
-  - name: artists
-    id: bc189c76-c568-47fe-895e-64a282e79dbe
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0552a8d3-aeb8-433c-9c16-ed807a5c2ff9.png
 collections:
