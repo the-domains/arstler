@@ -14,8 +14,8 @@ description: >-
   his career was synonymous with the revival of pa...
 app_links: []
 title: The Student of Prague - Julian Schnabel
-datePublished: '2017-09-15T14:35:49.962Z'
-dateModified: '2017-09-15T14:35:47.906Z'
+datePublished: '2017-10-04T09:52:25.879Z'
+dateModified: '2017-10-04T09:52:24.694Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-27-the-student-of-prague.md
