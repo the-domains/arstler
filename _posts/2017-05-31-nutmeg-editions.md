@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: by Sanju Mathew
-dateModified: '2017-09-14T15:25:03.646Z'
-datePublished: '2017-09-14T15:30:20.821Z'
+dateModified: '2017-10-04T09:52:24.694Z'
+datePublished: '2017-10-04T09:52:25.710Z'
 title: Nutmeg Editions
 author:
   - name: nutmegeditions
@@ -12,8 +12,8 @@ publisher: {}
 via: {}
 sourcePath: _posts/2017-05-31-nutmeg-editions.md
 hasPage: true
-datePublishedOriginal: '2017-09-14T15:30:20.821Z'
 starred: false
+datePublishedOriginal: '2017-09-14T15:30:20.821Z'
 url: nutmeg-editions/index.html
 _type: Article
 
