@@ -3,16 +3,16 @@ inFeed: true
 description: >-
   Steven Kasher Gallery_Leonard Freed: Six Stories / Renay Elle Morris_
   September 2017
-dateModified: '2017-10-04T09:51:05.194Z'
-datePublished: '2017-10-04T09:51:06.131Z'
+dateModified: '2017-10-04T09:52:24.694Z'
+datePublished: '2017-10-04T09:52:25.851Z'
 title: '_leonard freed: six stories'
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-10-04-_leonard-freed-six-stories.md
 starred: false
 datePublishedOriginal: '2017-10-04T09:51:06.131Z'
-sourcePath: _posts/2017-10-04-_leonard-freed-six-stories.md
 url: _leonard-freed-six-stories/index.html
 _type: Article
 
