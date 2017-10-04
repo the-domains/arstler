@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: "Ion Țuculescu s-a născut la\_19 mai\_1910\_la\_Craiova, provenit dintr-o familie de intelectuali. Urmează cursurile Colegiului Național \"Carol I\" din Craiova, unde în orele de desen primește primele îndrumări de la profesorul său\_Eugen Ciolac, de la care a aflat o parte din tainele picturii. Prima expoziție la care a fost remarcată prezența \"pictorului diletant Ion Țuculescu\" - alături de a fratelui său Șerban - este cea organizată în\_1925, în sala de recepții a Palatului Administrativ al\_județului Dolj. Deși apreciat pentru talentul său artistic, Țuculescu nu se va îndrepta către o școală superioară cu profil artistic, ci se înscrie la Facultatea de Științe Naturale a\_Universității din București, pe care o va absolvi în\_1936. Paralel frecventează și Facultatea de Medicină, obținând doctoratul în\_1939\_cu calificativul\_magna cum laude. Deși se dedicase studiului, Ion Țuculescu continuă să picteze și are prima expoziție personală în\_1938\_în sala\_Ateneului Român\_din\_București."
-dateModified: '2017-09-14T15:25:04.181Z'
-datePublished: '2017-09-14T15:30:20.919Z'
+dateModified: '2017-10-04T09:52:24.694Z'
+datePublished: '2017-10-04T09:52:25.831Z'
 title: Ion Țuculescu
 author: []
 publisher: {}
 via: {}
 hasPage: true
 sourcePath: _posts/2017-05-04-ion-tuculescu.md
-datePublishedOriginal: '2017-09-14T15:30:20.919Z'
 starred: false
+datePublishedOriginal: '2017-09-14T15:30:20.919Z'
 url: ion-tuculescu/index.html
 _type: Article
 
