@@ -4,16 +4,16 @@ description: >-
   For the first time in Israel, you have the opportunity to admire works of art
   from the point of view of the artist/collector rather than as exhibits in a
   sterile academic environment.
-dateModified: '2017-09-14T15:25:06.845Z'
-datePublished: '2017-09-14T15:30:20.917Z'
+dateModified: '2017-10-04T09:52:24.694Z'
+datePublished: '2017-10-04T09:52:25.891Z'
 title: Sculpture at Ilana Goor Museum
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-02-24-israel-tourism-ilana-goor-museum-in-tel-aviv-or-sculpture.md
 hasPage: true
-datePublishedOriginal: '2017-09-14T15:30:20.917Z'
 starred: false
+datePublishedOriginal: '2017-09-14T15:30:20.917Z'
 url: sculpture-at-ilana-goor-museum/index.html
 _type: Article
 
