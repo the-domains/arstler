@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-09-15T14:35:49.668Z'
+datePublished: '2017-10-04T10:08:32.215Z'
 sourcePath: _posts/2016-09-24-renay-elle-morris.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-15T14:35:47.906Z'
+dateModified: '2017-10-04T10:08:31.237Z'
 title: Renay Elle Morris
 publisher: {}
 description: .
@@ -23,13 +23,22 @@ Renay Elle Morris is an internationally recognized writer, award winning creativ
 
 # posts by renay:
 
-### [traveller\_ carte postale][1]
+[traveller\_ carte postale][1]
 
-### [from russia with love][2]
+[from russia with love][2]
 
-### [nyc's pdn photoplus expo ][3]
+[nyc's pdn photoplus expo][3]
+
+[the-cherkashins-new-drawings-a-new-chapter][4]
+
+[leonard freed: six stories][5]
+
+[paci-contemporary-gallery-porto-cervo-italy][6]
 
 [0]: http://renayellemorris.com/
 [1]: http://arstler.com/traveller_-carte-postale
 [2]: http://arstler.com/from-russia-with-love
 [3]: http://arstler.com/nycs-pdn-photoplus-expo/
+[4]: http://arstler.com/the-cherkashins-new-drawings-a-new-chapter/
+[5]: http://arstler.com/_leonard-freed-six-stories
+[6]: http://arstler.com/paci-contemporary-gallery-porto-cervo-italy/
