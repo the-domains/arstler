@@ -7,16 +7,16 @@ description: >-
   medieval-cum-baroque precincts of Malta’s oldest capital city, this year’s
   edition will reinterpret last edition’s success by focusing solely on one
   single space – the Cathedral Museum and its magnificent baroque halls. 
-dateModified: '2017-10-25T13:08:26.359Z'
-datePublished: '2017-10-25T13:08:27.208Z'
+dateModified: '2017-10-25T13:22:54.448Z'
+datePublished: '2017-10-25T13:22:55.626Z'
 title: The APS Mdina Cathedral Contemporary Art Biennale
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-10-25-the-aps-mdina-cathedral-contemporary-art-biennale.md
 starred: false
 datePublishedOriginal: '2017-10-25T13:08:27.208Z'
-sourcePath: _posts/2017-10-25-the-aps-mdina-cathedral-contemporary-art-biennale.md
 url: the-aps-mdina-cathedral-contemporary-art-biennale/index.html
 _type: Article
 
