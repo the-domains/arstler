@@ -1,20 +1,21 @@
 ---
 inFeed: true
 description: >-
-  As publisher of Arstler, I am pleased to announce that Renay Elle Morris, our
-  editor of photographic and fine art development has been selected to exhibit
-  works based on the theme “The Mediterranean: A Sea of Conflicting
-  Spiritualties” to be held in the magnificent baroque halls of Malta’s Mdina
-  Cathedral famed for rich archive of paintings, sculptures, drawings and
-  artifacts of the decorative arts, architectural fragments and curios. The
-  2017-2018 APS Mdina Cathedral Contemporary Art Biennale is a large-scale
-  contemporary art exhibition and follows the success of the 2015-2016 edition,
-  where it initiated a framework for artists, curators and researchers to work
-  together to establish a creative space. With a global following, invitations
-  have been sent to Maltese and international artists who have set in motion the
+  As publisher of Arstler, a web-based fine and applied art magazine, I am
+  pleased to announce that Renay Elle Morris, our editor of photographic and
+  fine art development has been selected to exhibit her photographic images
+  based on the theme “The Mediterranean: A Sea of Conflicting Spiritualties” to
+  be held in the magnificent baroque halls of Malta’s Mdina Cathedral famed for
+  its rich archive of paintings, sculptures, drawings and artifacts of the
+  decorative arts, architectural fragments and curios. The 2017-2018 APS Mdina
+  Cathedral Contemporary Art Biennale is a large-scale contemporary art
+  exhibition, and follows the success of the 2015-2016 edition, where it
+  initiated a framework for artists, curators and researchers to work together
+  to establish a creative space. With a global following, invitations have been
+  sent to Maltese and international artists who have set in motion the
   development of new works that challenge artistic and political conventions.
-dateModified: '2017-10-29T04:32:16.397Z'
-datePublished: '2017-10-29T04:32:16.975Z'
+dateModified: '2017-10-29T04:36:29.307Z'
+datePublished: '2017-10-29T04:36:29.935Z'
 title: Malta_The APS Mdina Cathedral Contemporary Art Biennale
 author: []
 publisher: {}
@@ -35,7 +36,7 @@ _type: Article
 
 ### By Eugen Berlo
 
-As publisher of Arstler, I am pleased to announce that Renay Elle Morris, our editor of photographic and fine art development has been selected to exhibit works based on the theme "_The Mediterranean: A Sea of Conflicting Spiritualties" _to be held in the magnificent baroque halls of Malta's Mdina Cathedral famed for rich archive of paintings, sculptures, drawings and artifacts of the decorative arts, architectural fragments and curios. The 2017-2018 APS Mdina Cathedral Contemporary Art Biennale is a large-scale contemporary art exhibition and follows the success of the 2015-2016 edition, where it initiated a framework for artists, curators and researchers to work together to establish a creative space. With a global following, invitations have been sent to Maltese and international artists who have set in motion the development of new works that challenge artistic and political conventions.
+As publisher of Arstler, a web-based fine and applied art magazine, I am pleased to announce that Renay Elle Morris, our editor of photographic and fine art development has been selected to exhibit her photographic images based on the theme "_The Mediterranean: A Sea of Conflicting Spiritualties" _to be held in the magnificent baroque halls of Malta's Mdina Cathedral famed for its rich archive of paintings, sculptures, drawings and artifacts of the decorative arts, architectural fragments and curios. The 2017-2018 APS Mdina Cathedral Contemporary Art Biennale is a large-scale contemporary art exhibition, and follows the success of the 2015-2016 edition, where it initiated a framework for artists, curators and researchers to work together to establish a creative space. With a global following, invitations have been sent to Maltese and international artists who have set in motion the development of new works that challenge artistic and political conventions.
 
 The Mediterranean region encompasses various cultures and religions. From the interaction between East and West has emerged a history of conflicts and struggles that are represented by the powerful visual cultures of each diverse community. The contemporary political scenario emphasizes the need for the arts to respond to an era of crisis and destruction. Being at the centre of the Mediterranean, Malta is a significant place for such an artistic dialogue to be exposed and challenged. Furthermore, the city of Mdina was home to multiple faiths and artistic cultures.
 
