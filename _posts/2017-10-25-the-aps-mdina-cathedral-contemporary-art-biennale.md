@@ -15,8 +15,8 @@ description: >-
   invitations have been sent to Maltese and international artists who have set
   in motion the development of new works that challenge artistic and political
   conventions.
-dateModified: '2017-10-29T17:26:53.117Z'
-datePublished: '2017-10-29T17:42:39.609Z'
+dateModified: '2017-10-29T17:54:38.355Z'
+datePublished: '2017-10-29T17:54:38.832Z'
 title: Malta_The APS Mdina Cathedral Contemporary Art Biennale
 author: []
 publisher: {}
@@ -40,8 +40,6 @@ _type: Article
 As publisher of **Arstler**, the web-based fine and applied art magazine, I am pleased to announce that **Renay Elle Morris**, our editor of photographic and fine art development has been selected to exhibit her photographic images at **The APS Mdina Cathedral Contemporary Art Biennale **to be held in Malta. The theme **"**_**The Mediterranean: A Sea of Conflicting Spiritualties"**_will be on display in the magnificent baroque halls of Malta's Mdina Cathedral\_famed for its rich archive of paintings, sculptures, drawings and artifacts of the decorative arts, architectural fragments, and curios. The 2017-2018 edition is a large-scale contemporary art exhibition, and follows the success of 2015-2016 where it initiated a framework for artists, curators and researchers to work together to establish a creative space. With a global following, invitations have been sent to Maltese and international artists who have set in motion the development of new works that challenge artistic and political conventions.
 
 The Mediterranean region encompasses various cultures and religions. From the interaction between East and West has emerged a history of conflicts and struggles that are represented by the powerful visual cultures of each diverse community. The contemporary political scenario emphasizes the need for the arts to respond to an era of crisis and destruction. Being at the centre of the Mediterranean, Malta is a significant place for such an artistic dialogue to be exposed and challenged. Furthermore, the city of Mdina was home to multiple faiths and artistic cultures.
-
-_**"As the only American artist to be chosen to participate in this important exhibition, I will present six large-scale photographic images, ethereal in nature, that I believe capture the essence of the theme of this year's Biennale. The photographing of the great seas has led me to discover the richness of this earth's treasure, and of the passion of its ancient and current passengers."**_**\_Renay Elle Morris**
 
 The Mdina Biennale started as an exhibition of solely Catholic and religious art. The immensity of the contemporary world was somewhat ignored in favour for the personalised taste of a local few, in an attempt to always safeguard the status quo. The 2015-16 exhibition helped awaken the need for a new contemporary space to welcome both local and international artists. The past has seen great strides in the rejoicement of contemporary art, with several spaces or exhibitions being set up, and with Malta's recent entry in the Venice Biennale after a long hiatus. Nonetheless, it is this aspect of one-offs that brings peril to the contemporary scene in Malta. The need for continuity, remembrance and vitalisation is at the core of the Mdina Biennale.
 
