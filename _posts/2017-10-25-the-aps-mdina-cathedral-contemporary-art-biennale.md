@@ -13,8 +13,8 @@ description: >-
   together to establish a creative space. With a global following, invitations
   have been sent to Maltese and international artists who have set in motion the
   development of new works that challenge artistic and political conventions.
-dateModified: '2017-10-29T04:28:56.961Z'
-datePublished: '2017-10-29T04:28:57.691Z'
+dateModified: '2017-10-29T04:32:16.397Z'
+datePublished: '2017-10-29T04:32:16.975Z'
 title: Malta_The APS Mdina Cathedral Contemporary Art Biennale
 author: []
 publisher: {}
@@ -27,6 +27,8 @@ url: malta_the-aps-mdina-cathedral-contemporary-art-biennale/index.html
 _type: Article
 
 ---
+![“As the only American artist to be chosen to participate in this important exhibition, I will present six large-scale photographic images, ethereal in nature, that I believe capture the essence of the theme of this year’s Biennale. The photographing of the great seas has led me to discover the richness of this earth’s treasure, and of the passion of its ancient and current passengers.”_Renay Elle Morris](https://the-grid-user-content.s3-us-west-2.amazonaws.com/70f3b413-a78b-4453-9ef7-7feaed59f490.jpg)
+
 ### 13 November 2017 - 07January 2018
 
 # Malta\_The APS Mdina Cathedral Contemporary Art Biennale
