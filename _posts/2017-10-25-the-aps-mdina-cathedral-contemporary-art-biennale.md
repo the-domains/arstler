@@ -14,8 +14,8 @@ description: >-
   to establish a creative space. With a global following, invitations have been
   sent to Maltese and international artists who have set in motion the
   development of new works that challenge artistic and political conventions.
-dateModified: '2017-10-29T04:36:29.307Z'
-datePublished: '2017-10-29T04:36:29.935Z'
+dateModified: '2017-10-29T04:40:22.464Z'
+datePublished: '2017-10-29T04:40:23.225Z'
 title: Malta_The APS Mdina Cathedral Contemporary Art Biennale
 author: []
 publisher: {}
