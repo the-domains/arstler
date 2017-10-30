@@ -58,5 +58,5 @@ collections:
       path: '/:title/'
 title: ''
 content: []
-description: EST.2015
+description: ''
 purpose: []
