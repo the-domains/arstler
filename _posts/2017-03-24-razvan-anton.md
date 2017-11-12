@@ -22,8 +22,8 @@ description: >-
   balance.
 app_links: []
 title: Razvan Anton
-datePublished: '2017-11-12T13:36:29.548Z'
-dateModified: '2017-11-12T13:36:27.895Z'
+datePublished: '2017-11-12T13:39:42.214Z'
+dateModified: '2017-11-12T13:39:36.945Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-24-razvan-anton.md
