@@ -17,8 +17,8 @@ description: Hamilton-Selway
 inLanguage: en
 app_links: []
 title: ''
-datePublished: '2017-10-25T13:22:55.908Z'
-dateModified: '2017-10-25T13:22:54.448Z'
+datePublished: '2017-11-12T13:36:29.594Z'
+dateModified: '2017-11-12T13:36:27.895Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-25-marilyn-monroe-color-2-frame-29-1962-hamilton-selway.md
