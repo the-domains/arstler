@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Steven Kasher Gallery_Leonard Freed: Six Stories / Renay Elle Morris_
   September 2017
-dateModified: '2017-10-25T13:22:54.448Z'
-datePublished: '2017-10-25T13:22:55.847Z'
+dateModified: '2017-11-12T13:36:27.895Z'
+datePublished: '2017-11-12T13:36:29.324Z'
 title: 'Leonard Freed: Six Stories'
 author:
   - name: 'Leonard Freed by Michael Auer, 1987'
