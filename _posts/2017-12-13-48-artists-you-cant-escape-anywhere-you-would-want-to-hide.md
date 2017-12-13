@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-12-13T14:31:26.014Z'
-datePublished: '2017-12-13T14:31:26.921Z'
+dateModified: '2017-12-13T14:37:11.311Z'
+datePublished: '2017-12-13T14:37:12.443Z'
 title: 48 artists you can’t escape anywhere you would want to hide in the universe
 author: []
 publisher: {}
@@ -20,6 +20,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d276f47-80df-4861-9f08-5830f5df7e72.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/055616b6-7d90-4f3a-b32f-d127ffdeb646.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/853d26b7-cd5e-4ef0-90f2-e2de67a7ca3a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f419c8f8-be5c-4678-90c5-26d213abdea5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4aa9e043-4019-40dc-a62e-dc64a7333b5e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c867a70d-1964-493d-b7d4-7de34710628c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d8bc8fa-d990-4231-8a8a-fb980a3e67a7.jpg)
