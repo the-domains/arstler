@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-09-14T14:40:15.909Z'
+datePublished: '2017-12-13T14:57:09.939Z'
 sourcePath: _posts/2016-05-17-in-fact-id-like-to-steal-this-painting.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-14T14:40:15.329Z'
+dateModified: '2017-12-13T14:57:09.502Z'
 title: arstler
 id: 8e1e6782-92ec-4bae-b65d-3191a4443bf3
 publisher: {}
@@ -20,7 +20,7 @@ _type: MediaObject
 
 .
 
-**arstler** is a local network of shining doers and creators from diverse cultural backgrounds that we know or collaborate with. Our website www.arstler.com acts as a communication, educational and showcase platform about art and creative processes. Our main office is located on Earth, in the hearts and bodies of each one of us. Want to get in touch? **resonate @ arstler dot com**
+**arstler.com** is the local and international hive connecting voices in contemporary art to likeminded individuals and brands interested in cultural value and creative projects. Artists, galleries, influencers and collectors, want to get in touch? **resonate @ arstler dot com**
 
 .
 
