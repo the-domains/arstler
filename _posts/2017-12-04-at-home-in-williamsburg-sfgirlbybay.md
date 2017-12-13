@@ -16,8 +16,8 @@ description: >-
   all these vintage collectibles and how they stand out in such a spare space.
 app_links: []
 title: at home in williamsburg. / sfgirlbybay
-datePublished: '2017-12-04T15:03:12.092Z'
-dateModified: '2017-12-04T15:03:11.499Z'
+datePublished: '2017-12-13T13:50:28.957Z'
+dateModified: '2017-12-13T13:50:25.924Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-12-04-at-home-in-williamsburg-sfgirlbybay.md
