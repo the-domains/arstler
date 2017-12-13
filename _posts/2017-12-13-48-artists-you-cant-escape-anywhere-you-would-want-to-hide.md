@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-12-13T14:27:46.293Z'
-datePublished: '2017-12-13T14:27:47.491Z'
+dateModified: '2017-12-13T14:30:03.511Z'
+datePublished: '2017-12-13T14:30:04.483Z'
 title: 48 artists you can’t escape anywhere you would want to hide in the universe
 author: []
 publisher: {}
