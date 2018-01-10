@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: by Renay Elle Morris
-dateModified: '2018-01-06T23:32:43.508Z'
-datePublished: '2018-01-06T23:32:44.419Z'
+dateModified: '2018-01-10T18:07:58.056Z'
+datePublished: '2018-01-10T18:07:59.990Z'
 title: traveller_ carte postale
 author: []
 publisher: {}
@@ -42,27 +42,31 @@ _\_Punjabi man. Most likely from Amritsar\_ Northern India. A visit to the Golde
 _\_On the heels of dh, bell, ottomans and nomads, all ensconced in the heat and dust of Petra\_ archeology triumphs and the crown jewel of Jordan reigns._
 ![_Southwestern France’s prehistoric dwellings from the Magdalenian period date back 15,000 years_at least. Trek to the Salon Noir’s “cul-de-sac” in the Niaux Cave to view the amazing strokes of animal impressions.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04bbc838-34b3-41c9-a49f-23d846f6939d.png)
 
-\_Southwestern France's prehistoric dwellings from the Magdalenian period date back 15,000 years\_at least. Trek to the Salon Noir's "cul-de-sac" in the Niaux Cave to view the amazing strokes of animal impressions.
+_\_Southwestern France's prehistoric dwellings from the Magdalenian period date back 15,000 years\_at least. Trek to the Salon Noir's "cul-de-sac" in the Niaux Cave to view the amazing strokes of animal impressions._
 ![  _Anywhere there is la playa. Señora toma el sol.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2d8a574-3f90-47c8-ada2-f5aa437d272b.png)
 
-\_Anywhere there is la playa. Señora toma el sol.
+_\_Anywhere there is la playa. Señora toma el sol._
 ![_Delving into Peruvian culture is a fascinating introduction in the study of an indigenous people. A mix of Spanish colonial practices with beliefs of Christianity and native religions.
 ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c4aee6b-813c-4f69-9b88-30c60cbb067e.png)
 
-\_Delving into Peruvian culture is a fascinating introduction to the study of an indigenous people. A mix of Spanish colonial practices with beliefs of Christianity and native religions.
+_\_Delving into Peruvian culture is a fascinating introduction to the study of an indigenous people. A mix of Spanish colonial practices with beliefs of Christianity and native religions._
 ![_Werner’s Fitzcarraldo and the tale of rubber barons led to the exotic amazonas, and it’s jungle capital Iquitos. Shrouded stalls entice_try the delicacies and delights at the Belem marketo at the river’s edge.
 ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d853b5e9-431d-44ee-9a30-7d93e9eeb258.png)
 
 ---
 
-\_Werner's Fitzcarraldo and the tale of rubber barons led to the exotic amazonas, and it's jungle capital Iquitos. Shrouded stalls entice\_try the delicacies and delights at the Belem marketo at the river's edge.
+_\_Werner's Fitzcarraldo and the tale of rubber barons led to the exotic amazonas, and it's jungle capital Iquitos. Shrouded stalls entice\_try the delicacies and delights at the Belem marketo at the river's edge._
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a84f190-5553-4b38-9a06-e36bca45e090.png)
 ![_Dressed and tressed, and pretty in pink, Katherine stops for a quench of Red Bull. 
 It’s all aboard for the Anime Convention_Penn Station, NYC. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b79dcd5a-962f-4957-b222-ea4b451a2683.png)
 
-\_Dressed and tressed, and pretty in pink, Katherine stops for a quench of Red Bull. It's all aboard for the Anime Convention\_Penn Station, NYC.
-![_07 April 2014 /Arles France. Official opening of the Fondation with the exhibition Van Gogh Live!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56cf9f60-6a7c-4550-a325-18624166445a.png)
-![Demandez aux habitants pour un séduisant.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/919cfc3f-194d-4f77-83ed-7a0b99f0060e.png)
+_\_Dressed and tressed, and pretty in pink, Katherine stops for a quench of Red Bull. It's all aboard for the Anime Convention\_Penn Station, NYC._
+![_07 April 2014 /Arles, France. Official opening of the Fondation with the exhibition Van Gogh Live!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56cf9f60-6a7c-4550-a325-18624166445a.png)
+
+_\_07 April 2014 / Arles, France. Official opening of the Fondation with the exhibition\_Van Gogh Live!_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/919cfc3f-194d-4f77-83ed-7a0b99f0060e.png)
+
+_\_Dining out Chinois when in Paris is always a feast for the palate. Demandez aux habitants pour un séduisant._
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/602f940b-3c57-4e58-ac4c-52d26f5e6436.png)
 
 _\_Rear Window. Fashion and couture through a glass darkly. Inspired by Hitch? Maybe. Captured along the Duomo di Napoli._
