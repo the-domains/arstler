@@ -1,12 +1,7 @@
 ---
 author: []
 related: []
-publisher:
-  url: 'https://www.sfgirlbybay.com'
-  name: sfgirlbybay
-  favicon: >-
-    https://www.sfgirlbybay.com/wp-content/themes/sfgirlbybay-v2/assets/icons/favicon.ico
-  domain: www.sfgirlbybay.com
+publisher: {}
 keywords: []
 description: >-
   this Industrial and very minimalist loft studio space in Williamsburg is the
@@ -16,8 +11,8 @@ description: >-
   all these vintage collectibles and how they stand out in such a spare space.
 app_links: []
 title: at home in williamsburg. / sfgirlbybay
-datePublished: '2017-12-13T13:50:28.957Z'
-dateModified: '2017-12-13T13:50:25.924Z'
+datePublished: '2018-01-11T14:29:08.076Z'
+dateModified: '2018-01-11T14:29:06.635Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-12-04-at-home-in-williamsburg-sfgirlbybay.md
@@ -29,7 +24,15 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://www.sfgirlbybay.com/wp-content/uploads/2017/12/casa_yvonne_casas_ny_03.jpg" /><h1>at home in williamsburg. / sfgirlbybay</h1><p>this Industrial and very minimalist loft studio space in Williamsburg is the Brooklyn home of Ivonne Casas who took to renovating this former laboratory with some fellow artists, turning what was once uninhabitable into chic new york apartments. featured recently in casa vogue, i couldn't help but admire all these vintage collectibles and how they stand out in such a spare space.</p></article>
+![](https://www.sfgirlbybay.com/wp-content/uploads/2017/12/casa_yvonne_casas_ny_03.jpg)
+
+# at home in williamsburg. / sfgirlbybay
+
+this Industrial and very minimalist loft studio space in Williamsburg is the Brooklyn home of Ivonne Casas who took to renovating this former laboratory with some fellow artists, turning what was once uninhabitable into chic new york apartments. featured recently in casa vogue, i couldn't help but admire all these vintage collectibles and how they stand out in such a spare space.
+
+https://www.sfgirlbybay.com/2017/12/04/at-home-in-williamsburg/
+
+---
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b892de0a-28b1-40bb-b47a-420552ac8d02.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0d463a2-c57b-4266-8bd7-b7596d41ab86.jpg)
