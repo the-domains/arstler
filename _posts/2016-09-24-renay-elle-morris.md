@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-10-04T10:08:32.215Z'
+datePublished: '2018-01-14T13:37:57.285Z'
 sourcePath: _posts/2016-09-24-renay-elle-morris.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-04T10:08:31.237Z'
+dateModified: '2018-01-14T13:37:56.704Z'
 title: Renay Elle Morris
 publisher: {}
 description: .
@@ -23,22 +23,21 @@ Renay Elle Morris is an internationally recognized writer, award winning creativ
 
 # posts by renay:
 
-[traveller\_ carte postale][1]
+traveller\_ carte postale
 
-[from russia with love][2]
+[from russia with love][1]
 
-[nyc's pdn photoplus expo][3]
+[nyc's pdn photoplus expo][2]
 
-[the-cherkashins-new-drawings-a-new-chapter][4]
+[the-cherkashins-new-drawings-a-new-chapter][3]
 
-[leonard freed: six stories][5]
+[leonard freed: six stories][4]
 
-[paci-contemporary-gallery-porto-cervo-italy][6]
+[paci-contemporary-gallery-porto-cervo-italy][5]
 
 [0]: http://renayellemorris.com/
-[1]: http://arstler.com/traveller_-carte-postale
-[2]: http://arstler.com/from-russia-with-love
-[3]: http://arstler.com/nycs-pdn-photoplus-expo/
-[4]: http://arstler.com/the-cherkashins-new-drawings-a-new-chapter/
-[5]: http://arstler.com/_leonard-freed-six-stories
-[6]: http://arstler.com/paci-contemporary-gallery-porto-cervo-italy/
+[1]: http://arstler.com/from-russia-with-love
+[2]: http://arstler.com/nycs-pdn-photoplus-expo/
+[3]: http://arstler.com/the-cherkashins-new-drawings-a-new-chapter/
+[4]: http://arstler.com/leonard-freed-six-stories/
+[5]: http://arstler.com/paci-contemporary-gallery-porto-cervo-italy/
