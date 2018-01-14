@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-01-14T14:48:37.474Z'
+datePublished: '2018-01-14T14:48:38.843Z'
 sourcePath: _posts/2016-09-24-renay-elle-morris.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-01-14T14:48:36.646Z'
+dateModified: '2018-01-14T14:48:38.474Z'
 title: Renay Elle Morris
 publisher: {}
 description: .
