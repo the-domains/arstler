@@ -36,7 +36,7 @@ navigation:
   - name: 'arstler™ - in fact, I''d like to steal this painting™'
     id: 8e1e6782-92ec-4bae-b65d-3191a4443bf3
     type: content
-  - name: subscribe
+  - name: subscribe to newsletter
     id: 15f7c116-8c68-40ca-8d69-6407016b1454
     type: content
   - name: ♥in
@@ -72,7 +72,6 @@ content:
         domain: w.soundcloud.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
