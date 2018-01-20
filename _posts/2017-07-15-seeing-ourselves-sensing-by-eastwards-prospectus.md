@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: by Eugen Berlo 2017-07-15
-dateModified: '2017-12-13T13:50:25.924Z'
-datePublished: '2017-12-13T13:50:28.976Z'
+dateModified: '2018-01-20T11:19:59.415Z'
+datePublished: '2018-01-20T11:20:00.929Z'
 title: '''SEEING OURSELVES SENSING'' by Eastwards Prospectus'
 author: []
 publisher: {}
