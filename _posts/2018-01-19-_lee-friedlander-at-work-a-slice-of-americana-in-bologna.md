@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   New York, NY – January 2018 / Fondazione Del Monte – Palazzo Paltroni /
   Bologna Italy
-dateModified: '2018-01-19T17:27:02.031Z'
-datePublished: '2018-01-19T17:27:02.474Z'
+dateModified: '2018-01-20T11:19:59.415Z'
+datePublished: '2018-01-20T11:20:00.878Z'
 title: _lee friedlander at work / a slice of americana in bologna
 author: []
 publisher: {}
