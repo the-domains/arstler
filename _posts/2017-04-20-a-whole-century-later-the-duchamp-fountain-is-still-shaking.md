@@ -18,8 +18,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://www.widewalls.ch/duchamp-fountain-100-years/'
 title: 'A Whole Century Later, The Duchamp Fountain is Still Shaking up the Art World'
-datePublished: '2017-12-13T13:50:28.980Z'
-dateModified: '2017-12-13T13:50:25.924Z'
+datePublished: '2018-01-20T11:20:00.929Z'
+dateModified: '2018-01-20T11:19:59.415Z'
 via: {}
 inFeed: true
 sourcePath: >-
