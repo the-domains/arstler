@@ -1,10 +1,8 @@
 ---
 inFeed: true
-description: >-
-  New York, NY – January 2018 / Fondazione Del Monte – Palazzo Paltroni /
-  Bologna Italy
-dateModified: '2018-01-24T14:35:12.416Z'
-datePublished: '2018-01-24T14:35:14.286Z'
+description: '/ Fondazione Del Monte – Palazzo Paltroni / Bologna Italy  '
+dateModified: '2018-01-24T18:06:07.121Z'
+datePublished: '2018-01-24T18:06:07.813Z'
 title: _lee friedlander at work / a slice of americana in bologna
 author: []
 publisher: {}
@@ -19,7 +17,9 @@ _type: Article
 ---
 # \_lee friedlander at work / a slice of americana in bologna
 
-New York, NY -- January 2018 / Fondazione Del Monte -- Palazzo Paltroni / Bologna Italy
+/ Fondazione Del Monte -- Palazzo Paltroni / Bologna Italy 
+
+by Renay Elle Morris / January 2018
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bde87b9-d7e4-49b2-bd6b-c95b560650cc.png)
 
 Looking back on 2017, I was fortunate to engage in several photographic presentations that offered specific themes, albeit quite different. In particular, with an invitation to participate in the prestigious 2017-18 Mdina Cathedral Art Biennale in Malta's _The Mediterranean: A Sea of Conflicting Spiritualities_, as an exhibiting photographer and the only American to receive this honor, I navigated with both intention, and agenda working in tandem to add Bologna Italy to my itinerary. I boarded planes, trains, buses and such for the 3rd edition of Foto/Industria in association with MAST Fondazione's BIENNIAL OF PHOTOGRAPHY ON INDUSTRY AND WORK. It was for me, a tasting \_a mixture of art and cuisine, as Bologna is Italy's capital of food. And, I wasn't disappointed on both counts.
