@@ -26,8 +26,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://youtu.be/iG7mdSnCE8c'
 title: Julian Schnabel | Art in Progress | Reserve Channel
-datePublished: '2018-01-24T14:35:14.284Z'
-dateModified: '2018-01-24T14:35:12.416Z'
+datePublished: '2018-01-25T12:50:30.032Z'
+dateModified: '2018-01-25T12:50:28.580Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-11-12-julian-schnabel-or-art-in-progress-or-reserve-channel.md
