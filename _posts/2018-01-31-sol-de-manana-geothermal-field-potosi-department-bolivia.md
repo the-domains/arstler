@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: foto by Corneliu Cazacu
-dateModified: '2018-01-31T10:26:57.966Z'
-datePublished: '2018-01-31T10:26:58.477Z'
+dateModified: '2018-01-31T10:42:04.657Z'
+datePublished: '2018-01-31T10:42:05.057Z'
 title: 'Sol de Mañana geothermal field, Potosi department, Bolivia'
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2018-01-31-sol-de-manana-geothermal-field-potosi-department-bolivia.md
 starred: false
 datePublishedOriginal: '2018-01-31T10:26:55.098Z'
-sourcePath: _posts/2018-01-31-sol-de-manana-geothermal-field-potosi-department-bolivia.md
 url: sol-de-manana-geothermal-field-potosi-department-bolivia/index.html
 _type: Article
 
@@ -28,6 +28,7 @@ Published in newspapers and magazines such as Romania libera, Foreign Policy, EU
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0751d2f-862d-404f-aa54-467759c20b3b.jpg)
 
 # Funerals of King Michael of Romania, Bucharest 16.12.2017
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af3a9731-08d6-4651-ac97-07223e52173e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2962131c-a346-4230-89f8-3079e9ae37c7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13e58ae3-4c4c-4d51-85ad-b2ca1339f739.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3c848be-74da-4f99-8030-60b05000da71.jpg)
