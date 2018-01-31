@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: subscribe to weekly post digest
-dateModified: '2018-01-24T14:35:12.416Z'
-datePublished: '2018-01-24T14:35:14.374Z'
+dateModified: '2018-01-31T10:42:04.657Z'
+datePublished: '2018-01-31T10:42:05.045Z'
 title: subscribe
 author: []
 publisher: {}
