@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: Elijah Burgher vernisaj at Ivan Gallery in Bucharest
-dateModified: '2018-02-08T13:44:14.943Z'
-datePublished: '2018-02-08T13:44:16.121Z'
+dateModified: '2018-02-08T13:45:15.760Z'
+datePublished: '2018-02-08T13:45:17.844Z'
 title: Nudes in the Forest
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2018-02-08-nudes-in-the-forest.md
 starred: false
 datePublishedOriginal: '2018-02-08T13:44:16.121Z'
-sourcePath: _posts/2018-02-08-nudes-in-the-forest.md
 url: nudes-in-the-forest/index.html
 _type: Article
 
