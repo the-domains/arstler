@@ -26,8 +26,8 @@ app_links:
     app_store_id: '703796080'
     app_name: Artsy
 title: 'Zhu Jinshi | Accident Making 1 (2007) '
-datePublished: '2018-02-08T13:45:18.028Z'
-dateModified: '2018-02-08T13:45:15.760Z'
+datePublished: '2018-02-15T09:13:22.334Z'
+dateModified: '2018-02-15T09:13:20.410Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-01-zhu-jinshi-or-accident-making-1-2007-or-artsy.md
