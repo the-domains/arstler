@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: by Eugen Berlo
-dateModified: '2018-02-08T13:45:15.760Z'
-datePublished: '2018-02-08T13:45:17.965Z'
+dateModified: '2018-02-15T09:13:20.410Z'
+datePublished: '2018-02-15T09:13:22.274Z'
 title: >-
   24 cubist artists you can’t escape anywhere you would want to hide in the
   universe
