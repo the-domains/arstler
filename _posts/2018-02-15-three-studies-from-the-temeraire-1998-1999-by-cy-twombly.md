@@ -17,13 +17,13 @@ isBasedOnUrl: 'https://www.artgallery.nsw.gov.au/collection/works/239.2004.a-c/'
 title: >-
   Three studies from the Temeraire, (1998-1999) by Cy Twombly :: The Collection
   :: Art Gallery NSW
-datePublished: '2018-02-15T09:10:35.968Z'
-dateModified: '2018-02-15T09:10:30.490Z'
-datePublishedOriginal: '2018-02-15T09:10:35.968Z'
+datePublished: '2018-02-15T09:13:22.227Z'
+dateModified: '2018-02-15T09:13:20.410Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-02-15-three-studies-from-the-temeraire-1998-1999-by-cy-twombly.md
+starred: false
+datePublishedOriginal: '2018-02-15T09:10:35.968Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
