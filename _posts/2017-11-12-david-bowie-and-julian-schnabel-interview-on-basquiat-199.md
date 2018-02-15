@@ -60,8 +60,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/ExDfj-_D6Sk'
 title: David Bowie and Julian Schnabel interview on "Basquiat" (1996)
-datePublished: '2018-02-08T13:45:17.844Z'
-dateModified: '2018-02-08T13:45:15.760Z'
+datePublished: '2018-02-15T09:13:22.228Z'
+dateModified: '2018-02-15T09:13:20.410Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-11-12-david-bowie-and-julian-schnabel-interview-on-basquiat-199.md
