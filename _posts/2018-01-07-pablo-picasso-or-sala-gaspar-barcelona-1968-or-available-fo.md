@@ -18,8 +18,8 @@ app_links:
     app_store_id: '703796080'
 isBasedOnUrl: 'https://www.artsy.net/artwork/pablo-picasso-sala-gaspar-barcelona-14'
 title: 'Pablo Picasso | Sala Gaspar, Barcelona (1968) | Available for Sale | Artsy'
-datePublished: '2018-02-15T09:13:22.349Z'
-dateModified: '2018-02-15T09:13:20.410Z'
+datePublished: '2018-02-20T09:22:55.484Z'
+dateModified: '2018-02-20T09:22:52.652Z'
 via: {}
 inFeed: true
 sourcePath: >-
