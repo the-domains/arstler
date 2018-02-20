@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Renay Elle Morris / June 2017
-dateModified: '2018-02-15T09:13:20.410Z'
-datePublished: '2018-02-15T09:13:22.317Z'
+dateModified: '2018-02-20T09:22:52.652Z'
+datePublished: '2018-02-20T09:22:55.331Z'
 title: THE CHERKASHIN’S. NEW DRAWINGS. A NEW CHAPTER.
 author: []
 publisher: {}
