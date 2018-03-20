@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "As publisher of Arstler, the web-based fine and applied art magazine, I am pleased to announce that Renay Elle Morris, our editor of photographic and fine art development, has been selected to exhibit her photographic images at The APS Mdina Contemporary Art Biennale to be held in Malta. The theme “The Mediterranean: A Sea of Conflicting Spiritualties”\_will be on display in the magnificent baroque halls of Malta’s Mdina Cathedral_famed for its rich archive of paintings, sculptures, drawings, and artifacts of  decorative arts, architectural fragments and curios. This 2017-2018 edition of the Contemporary Art Biennale is a large-scale contemporary art exhibition, and follows the success of 2015-2016, where it initiated a framework for artists, curators and researchers to work together to establish a creative space. With a global following, invitations have been sent to Maltese and international artists who have set in motion the development of new works that challenge artistic and political conventions."
-dateModified: '2018-02-20T09:22:52.652Z'
-datePublished: '2018-02-20T09:22:55.485Z'
+dateModified: '2018-03-20T11:38:43.752Z'
+datePublished: '2018-03-20T11:38:45.901Z'
 title: Malta_The APS Mdina Cathedral Contemporary Art Biennale
 author: []
 publisher: {}
