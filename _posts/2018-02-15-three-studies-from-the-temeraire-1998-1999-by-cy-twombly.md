@@ -20,7 +20,7 @@ description: >-
   Fighting Temeraire'.
 app_links: []
 title: Three studies from the Temeraire
-datePublished: '2018-03-20T11:38:45.786Z'
+datePublished: '2018-03-20T11:38:47.526Z'
 dateModified: '2018-03-20T11:38:43.752Z'
 via: {}
 inFeed: true
