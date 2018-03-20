@@ -21,7 +21,7 @@ description: >-
   appeared on the cover of New York Magazine.
 app_links: []
 title: Thomas Ruff
-datePublished: '2018-03-20T11:38:45.817Z'
+datePublished: '2018-03-20T11:38:47.592Z'
 dateModified: '2018-03-20T11:38:43.752Z'
 via: {}
 inFeed: true
