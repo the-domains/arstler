@@ -6,8 +6,8 @@ description: >-
   mulţi copii făcea apel la o varietate de mijloace propagndistice: de la
   medalii folosite pentru răsplătirea simbolică a maternităţii la broşuri, cărţi
   şi articole, filme, emisiuni de radio şi de televiziune.
-dateModified: '2018-02-01T09:38:10.566Z'
-datePublished: '2018-02-01T09:38:11.823Z'
+dateModified: '2018-03-20T11:38:43.752Z'
+datePublished: '2018-03-20T11:38:45.902Z'
 title: PROPAGANDA
 author: []
 publisher:
@@ -17,9 +17,9 @@ publisher:
   domain: politicapronatalista.iiccr.ro
 via: {}
 isBasedOnUrl: 'http://politicapronatalista.iiccr.ro/krpano/index/2'
+sourcePath: _posts/2018-02-01-propaganda.md
 starred: false
 datePublishedOriginal: '2018-02-01T09:38:11.823Z'
-sourcePath: _posts/2018-02-01-propaganda.md
 _type: MediaObject
 
 ---
