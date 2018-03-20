@@ -7,7 +7,7 @@ description: >-
   work of British and Irish wood engravers of the 1930s, such as Eric Ravilious,
   Eric Gill and Robert Gibbings.
 dateModified: '2018-03-20T11:38:43.752Z'
-datePublished: '2018-03-20T11:38:45.907Z'
+datePublished: '2018-03-20T11:38:47.639Z'
 title: Mark Wilkinson
 author: []
 publisher: {}
