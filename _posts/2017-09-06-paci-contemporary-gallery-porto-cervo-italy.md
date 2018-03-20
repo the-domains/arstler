@@ -5,7 +5,7 @@ description: >-
   Sardinia, famous for its jeweled-toned sea, sits another gem portside_not to
   be overlooked.
 dateModified: '2018-03-20T11:38:43.752Z'
-datePublished: '2018-03-20T11:38:45.896Z'
+datePublished: '2018-03-20T11:38:47.629Z'
 title: 'paci contemporary gallery / porto cervo, italy'
 author: []
 publisher: {}
