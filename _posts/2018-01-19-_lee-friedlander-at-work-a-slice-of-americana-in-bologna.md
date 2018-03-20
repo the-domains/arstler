@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: '/ Fondazione Del Monte – Palazzo Paltroni / Bologna Italy  '
-dateModified: '2018-02-20T09:22:52.652Z'
-datePublished: '2018-02-20T09:22:55.301Z'
+dateModified: '2018-03-20T11:38:43.752Z'
+datePublished: '2018-03-20T11:38:45.795Z'
 title: _lee friedlander at work / a slice of americana in bologna
 author: []
 publisher: {}
