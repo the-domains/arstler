@@ -14,7 +14,7 @@ description: >-
   compositional design, with richness of surface mark and colour, reconfirming
   the artist’s earlier delight in light and transparency.
 dateModified: '2018-03-20T11:38:43.752Z'
-datePublished: '2018-03-20T11:38:45.878Z'
+datePublished: '2018-03-20T11:38:47.614Z'
 title: Giuliana Lazzerini
 author: []
 publisher: {}
