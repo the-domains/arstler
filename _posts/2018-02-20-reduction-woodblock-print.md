@@ -6,8 +6,8 @@ description: >-
   wooden block. Then all paper impressions are pulled in the desired number of
   the edition planned. The second layer for the second color is carved and the
   impressions are pulled. And so on - until the desired image is complete.
-dateModified: '2018-02-21T14:52:51.988Z'
-datePublished: '2018-02-21T14:53:55.329Z'
+dateModified: '2018-03-20T11:38:43.752Z'
+datePublished: '2018-03-20T11:38:45.806Z'
 title: Reduction Woodblock Print
 author: []
 publisher: {}
