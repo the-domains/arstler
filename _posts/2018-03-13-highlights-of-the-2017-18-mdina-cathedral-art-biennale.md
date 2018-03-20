@@ -2,7 +2,7 @@
 inFeed: true
 description: BY RENAY MORRIS
 dateModified: '2018-03-20T11:38:43.752Z'
-datePublished: '2018-03-20T11:38:45.909Z'
+datePublished: '2018-03-20T11:38:47.639Z'
 title: Highlights of the 2017-18 Mdina Cathedral Art Biennale
 author: []
 publisher: {}
