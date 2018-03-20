@@ -16,7 +16,7 @@ description: >-
   in motion the development of new works that challenge artistic and political
   conventions.
 dateModified: '2018-03-20T11:38:43.752Z'
-datePublished: '2018-03-20T11:38:45.806Z'
+datePublished: '2018-03-20T11:38:47.567Z'
 title: Malta_The APS Mdina Cathedral Contemporary Art Biennale
 author: []
 publisher: {}
