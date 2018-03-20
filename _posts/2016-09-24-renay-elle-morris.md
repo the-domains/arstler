@@ -1,5 +1,5 @@
 ---
-datePublished: '2018-03-20T11:38:45.785Z'
+datePublished: '2018-03-20T11:38:47.502Z'
 sourcePath: _posts/2016-09-24-renay-elle-morris.md
 inFeed: false
 hasPage: true
