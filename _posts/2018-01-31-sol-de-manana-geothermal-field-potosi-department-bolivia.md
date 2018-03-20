@@ -2,7 +2,7 @@
 inFeed: true
 description: foto by Corneliu Cazacu
 dateModified: '2018-03-20T11:38:43.752Z'
-datePublished: '2018-03-20T11:38:45.829Z'
+datePublished: '2018-03-20T11:38:47.593Z'
 title: 'Sol de Mañana geothermal field, Potosi department, Bolivia'
 author: []
 publisher: {}
