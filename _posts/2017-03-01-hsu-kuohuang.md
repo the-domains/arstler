@@ -7,7 +7,7 @@ description: >-
   Taught at Tou-cheng Middle High School, I-lan County 1975 Commenced studying
   with Mr. Chian Chao-shen
 dateModified: '2018-03-20T11:38:43.752Z'
-datePublished: '2018-03-20T11:38:45.828Z'
+datePublished: '2018-03-20T11:38:47.628Z'
 title: Hsu Kuohuang
 author: []
 publisher: {}
