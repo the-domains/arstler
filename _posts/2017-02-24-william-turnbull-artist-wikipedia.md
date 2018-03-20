@@ -31,7 +31,7 @@ app_links:
     type: android
 isBasedOnUrl: 'https://en.wikipedia.org/wiki/William_Turnbull_(artist)'
 title: William Turnbull (artist) - Wikipedia
-datePublished: '2018-03-20T11:38:45.906Z'
+datePublished: '2018-03-20T11:38:47.642Z'
 dateModified: '2018-03-20T11:38:43.752Z'
 via: {}
 inFeed: true
