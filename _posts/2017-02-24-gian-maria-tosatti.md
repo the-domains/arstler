@@ -26,8 +26,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://frieze.com/article/gian-maria-tosatti'
 title: Gian Maria Tosatti
-datePublished: '2017-07-13T14:08:14.680Z'
-dateModified: '2017-07-13T14:08:12.277Z'
+datePublished: '2018-03-20T11:38:45.903Z'
+dateModified: '2018-03-20T11:38:43.752Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-24-gian-maria-tosatti.md
