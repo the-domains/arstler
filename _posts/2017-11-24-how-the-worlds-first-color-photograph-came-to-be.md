@@ -28,7 +28,7 @@ app_links:
     app_store_id: '703796080'
 isBasedOnUrl: 'https://www.artsy.net/article/artsy-editorial-worlds-first-color-photograph'
 title: How the World's First Color Photograph Came to Be
-datePublished: '2018-03-20T11:38:45.903Z'
+datePublished: '2018-03-20T11:38:47.628Z'
 dateModified: '2018-03-20T11:38:43.752Z'
 via: {}
 inFeed: true
