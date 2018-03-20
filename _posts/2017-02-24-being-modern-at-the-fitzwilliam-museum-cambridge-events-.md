@@ -28,8 +28,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.kettlesyard.co.uk/events/modern-fitzwilliam-museum-cambridge/'
 title: 'Being Modern at the Fitzwilliam Museum, Cambridge - Events - Kettle''s Yard'
-datePublished: '2017-06-27T09:49:11.923Z'
-dateModified: '2017-06-27T09:49:08.652Z'
+datePublished: '2018-03-20T11:38:45.906Z'
+dateModified: '2018-03-20T11:38:43.752Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-24-being-modern-at-the-fitzwilliam-museum-cambridge-events-.md
