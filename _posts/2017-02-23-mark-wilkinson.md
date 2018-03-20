@@ -6,8 +6,8 @@ description: >-
   deceptive simplicity of line and form it allows, and his lifelong love of the
   work of British and Irish wood engravers of the 1930s, such as Eric Ravilious,
   Eric Gill and Robert Gibbings.
-dateModified: '2017-06-27T09:49:08.652Z'
-datePublished: '2017-06-27T09:49:11.924Z'
+dateModified: '2018-03-20T11:38:43.752Z'
+datePublished: '2018-03-20T11:38:45.907Z'
 title: Mark Wilkinson
 author: []
 publisher: {}
