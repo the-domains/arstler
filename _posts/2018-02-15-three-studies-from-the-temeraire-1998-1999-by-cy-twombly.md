@@ -20,8 +20,8 @@ description: >-
   Fighting Temeraire'.
 app_links: []
 title: Three studies from the Temeraire
-datePublished: '2018-03-20T11:38:47.526Z'
-dateModified: '2018-03-20T11:38:43.752Z'
+datePublished: '2018-03-20T11:51:24.815Z'
+dateModified: '2018-03-20T11:51:24.036Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-02-15-three-studies-from-the-temeraire-1998-1999-by-cy-twombly.md
