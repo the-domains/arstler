@@ -5,7 +5,7 @@ description: >-
   from the point of view of the artist/collector rather than as exhibits in a
   sterile academic environment.
 dateModified: '2018-03-20T11:38:43.752Z'
-datePublished: '2018-03-20T11:38:45.897Z'
+datePublished: '2018-03-20T11:38:47.638Z'
 title: Sculpture at Ilana Goor Museum
 author: []
 publisher: {}
