@@ -15,8 +15,8 @@ description: >-
   invitations have been sent to Maltese and international artists who have set
   in motion the development of new works that challenge artistic and political
   conventions.
-dateModified: '2018-03-20T11:53:38.712Z'
-datePublished: '2018-03-20T11:53:41.139Z'
+dateModified: '2018-03-21T10:22:55.963Z'
+datePublished: '2018-03-21T10:22:56.600Z'
 title: Malta_The APS Mdina Cathedral Contemporary Art Biennale
 author: []
 publisher: {}
