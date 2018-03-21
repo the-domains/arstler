@@ -27,8 +27,8 @@ keywords:
 description: Sotheby's
 app_links: []
 title: Pioneers of Modern Chinese Painting
-datePublished: '2018-03-21T10:25:08.525Z'
-dateModified: '2018-03-21T10:25:05.744Z'
+datePublished: '2018-03-21T16:05:31.828Z'
+dateModified: '2018-03-21T16:05:30.336Z'
 via: {}
 inFeed: true
 hasPage: true
