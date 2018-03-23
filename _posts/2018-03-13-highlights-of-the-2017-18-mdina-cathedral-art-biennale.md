@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: BY RENAY ELLE MORRIS
-dateModified: '2018-03-21T14:26:37.169Z'
-datePublished: '2018-03-21T14:26:40.033Z'
+dateModified: '2018-03-23T14:48:42.895Z'
+datePublished: '2018-03-23T14:48:43.890Z'
 title: Highlights of the 2017-18 Mdina Cathedral Art Biennale
 author: []
 publisher: {}
@@ -33,6 +33,14 @@ With an invitation to participate, I delight in the bonds of friendship that wer
 **Savina Capecci** (in art Savina Kapecci)\_ lives in Pordenone Italy, and studied at the Academy of Fine Arts in Venice where she received her B.A. in Painting in 2014 and her Master Degree in 2016 with full marks. She worked as assistant to the professors in the classes of painting at the Free Academy of Fine Arts in Klagenfurt, Austria as well as participating in selected exhibitions.
 
 Capecci has received several art awards with her work included in a variety of publications.
+
+* Premio Arte Cairo Mondadori Finalists exhibition, Palazzo Reale and Palazzo della Permanente, Milan
+* Transgenic Attack, Atelier der Stadt Klagenfurt, Austria solo exhibition
+* BV Sommerausstellung, BV Galerie, Klagenfurt, Austria
+* Memento Andy, Atelier 3+10, Venice
+* Fuori Uso, Avviso di garanzia, Ex Tribunal, Pescara
+* Premio Lilian Caraian, Museum of Modern Art Revoltella, Trieste
+* Incident III -- Accident Czestochowa Museum, Poland
 
 The works presented at the Mdina Biennale are titled "The PromiSSed land". The painted images depict the human aspect of the current immigration crisis happening in the Mediterranean sea, and are expressive of the essence of the concept of "waiting" in all its forms and feelings that arise while sitting in a boat. The Promised land inevitably becomes a "pro-missed" land.
 
@@ -127,7 +135,7 @@ Other activities and participations, include:
 * The release of 17 solo music albums
 * Music Composition for film and theatre
 * Musical and visual projects in coordination with the music group "VARTAI"
-* The production of 4 music CD's in a joint musical project with Lithuanian musicians.
+* The production of 4 music CD's in a joint musical project with Lithuanian musicians
 * Membership in the Ambient Music Association's "Ambient Music Garden" (U.K.)
 
 www.iaf-animamundi.com
