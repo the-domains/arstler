@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: BY RENAY ELLE MORRIS
-dateModified: '2018-03-23T14:48:42.895Z'
-datePublished: '2018-03-23T14:48:43.890Z'
+dateModified: '2018-03-23T17:46:39.473Z'
+datePublished: '2018-03-23T17:46:40.840Z'
 title: Highlights of the 2017-18 Mdina Cathedral Art Biennale
 author: []
 publisher: {}
@@ -22,7 +22,7 @@ BY RENAY ELLE MORRIS
 
 (c) renay elle morris\_ mdina, malta 2017
 
-**In the afterglow of the visual conversation "The Mediterranean: A Sea of Conflicting Spiritualities"\_ **the 2017-18 APS _Mdina_ Cathedral Contemporary Art _Biennale_ held in the country of Malta. I am delighted to showcase a selection of interpretive works authored by an international network of artists and curated by a talented team, guided by artistic director Dr.Giuseppe Schembri-Bonaci and Nikki Petroni. It was a global triumph\_ a narrative explored with diverse translations, creating a visual display in various mediums\_ painting, sculpture, photography, and multimedia platforms\_ artistic voices heard through the most personal of presentations.
+**In the afterglow of the visual conversation "The Mediterranean: A Sea of Conflicting Spiritualities"\_ **the 2017-18 APS _Mdina_ Cathedral Contemporary Art _Biennale_ held in the country of Malta, I am delighted to showcase a selection of interpretive works authored by an international network of artists and curated by a talented team, guided by artistic director Dr.Giuseppe Schembri-Bonaci and Nikki Petroni. It was a global triumph\_ a narrative explored with diverse translations, creating a visual display in various mediums\_ painting, sculpture, photography, and multimedia platforms\_ artistic voices heard through the most personal of presentations.
 
 In this 2nd edition, at the impressive the Mdina Cathedral Museum, over 30 works were presented throughout the treasury. The interplay of the works, installed on different landings, led the viewer on a spiritual traverse\_ and to the cavernous underground passageway leveled below\_ an ethereal space in itself.
 
