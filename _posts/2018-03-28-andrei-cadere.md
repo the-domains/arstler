@@ -12,16 +12,16 @@ description: >-
   etc.), but he would also carry them around a number of outdoor locations and
   into other people’s shows and openings, even when not invited, which made him
   quite ”infamous” at the time. (He was nicknamed ”The Stick Man”.)
-dateModified: '2018-03-28T12:24:12.039Z'
-datePublished: '2018-03-28T12:24:13.527Z'
+dateModified: '2018-03-28T18:21:14.652Z'
+datePublished: '2018-03-28T18:21:17.642Z'
 title: 'Andrei Cădere '
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2018-03-28-andrei-cadere.md
 starred: false
 datePublishedOriginal: '2018-03-28T12:24:13.527Z'
-sourcePath: _posts/2018-03-28-andrei-cadere.md
 url: andrei-cadere/index.html
 _type: Article
 
