@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: BY RENAY ELLE MORRIS
-dateModified: '2018-04-06T17:50:44.704Z'
-datePublished: '2018-04-06T17:50:46.777Z'
+dateModified: '2018-04-06T17:51:22.664Z'
+datePublished: '2018-04-06T17:51:23.642Z'
 title: Highlights of the 2017-18 Mdina Cathedral Art Biennale
 author: []
 publisher: {}
@@ -228,7 +228,7 @@ Courtesy of the artist\_ **River and Rain**
 
 +
 
-**Renay Elle Morris\_**\_a career in brief.
+**Renay Elle Morris\_**a career in brief.
 
 (USA -- BFA\_Graphic Design / Photography) Renay E. Morris is an internationally recognized writer, award-winning graphic designer and photographer. Pursing her education, she received her degree from the prestigious Krannert School of Art & Design at the University of Illinois, with further studies at New York University and the Parsons School of Design. Throughout her career as a creative director, she incorporates the use of design and photography for the development of media programs for private and public organizations which have included; Universal Pictures, Sony Music/CBS Records, CBS Publications, and TDS Time Warner. With Corporate**ID**easWorldwide, and renayellemorris.com, she maintains a platform for visual communications for a global clientele.
 
