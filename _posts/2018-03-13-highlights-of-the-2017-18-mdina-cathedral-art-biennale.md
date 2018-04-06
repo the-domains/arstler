@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: BY RENAY ELLE MORRIS
-dateModified: '2018-04-06T17:54:37.170Z'
-datePublished: '2018-04-06T17:54:39.983Z'
+dateModified: '2018-04-06T17:55:00.420Z'
+datePublished: '2018-04-06T17:55:01.168Z'
 title: Highlights of the 2017-18 Mdina Cathedral Art Biennale
 author: []
 publisher: {}
@@ -254,6 +254,8 @@ With years of experience already behind her, the necessity for a togetherness be
 
 [www.mariakaleta.com][13] /[mariakaleta@gmail.com][14]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffd8a5c3-7cd4-45a7-8261-a97d0aab38e2.jpg)
+
+Courtesy of the artist\_**Silence, 2017 **
 
 [0]: http://www.savinakapecci.com/
 [1]: http://savina_capecci@libero.it/savinakapecci@gmail.com
