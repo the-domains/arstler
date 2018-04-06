@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: BY RENAY ELLE MORRIS
-dateModified: '2018-04-06T17:51:44.727Z'
-datePublished: '2018-04-06T17:51:47.651Z'
+dateModified: '2018-04-06T17:54:37.170Z'
+datePublished: '2018-04-06T17:54:39.983Z'
 title: Highlights of the 2017-18 Mdina Cathedral Art Biennale
 author: []
 publisher: {}
@@ -241,7 +241,19 @@ renayelle@gmail.com
 [rem@renayellemorris.com][12] / www.renayellemorris.com
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/610a83b1c7cf57c85c732da1979ed92fc53f83b2.jpg)
 
-Courtesy of the artist\_**Lo Smarrito / The Lost**
+Courtesy of the artist\_**Lo Smarrito / The Lost**  
++
+
+**Maria Kaleta\_ **as an artist, one always searches for meaning and morals that can be conveyed in their creations. For Maria, these lessons range from a whole host of different topics. She explores, for example, how, in an ever increasingly technological world, we can often lose sight of our identities. In turn, we observe how everything seems to revolve around the media and the trials of character that come with this, us now having to learn the difference between what can be useful and what can be dangerous, whether our sources of information can be trusted.
+
+Having lived in London for well over a decade, Maria is also able to use this cultural hub as a rich source of inspiration for many of her works. Transposing the communities she observes there onto canvas or computer, Maria journeys through what it means to live in a multicultural society and all the highs and lows that come with it, living surrounded by vibrant peoples from a variety of origins.
+
+With this in mind, she continues to investigate how persons can be drowned out by the sound of the city, what it means to lose your voice in the crowd and the effects this can have on your self.
+
+With years of experience already behind her, the necessity for a togetherness between peoples seems a clear solution to some of such problems that Maria raises in her work. Art, however, cannot only be interpreted in one way or be deemed understood with but one solution. Instead, Maria's work allows for many morals and meanings to be open for the onlooker, with significance for many years to come.
+
+[www.mariakaleta.com][13] /[mariakaleta@gmail.com][14]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffd8a5c3-7cd4-45a7-8261-a97d0aab38e2.jpg)
 
 [0]: http://www.savinakapecci.com/
 [1]: http://savina_capecci@libero.it/savinakapecci@gmail.com
@@ -256,3 +268,5 @@ Courtesy of the artist\_**Lo Smarrito / The Lost**
 [10]: http://www.mernaliddawi.com/
 [11]: mailto:info@mernaliddawi.com
 [12]: mailto:rem@renayellemorris.com
+[13]: http://www.mariakaleta.com/
+[14]: mailto:mariakaleta@gmail.com
