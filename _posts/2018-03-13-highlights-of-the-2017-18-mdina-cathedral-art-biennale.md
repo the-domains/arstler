@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: BY RENAY ELLE MORRIS
-dateModified: '2018-04-06T17:51:22.664Z'
-datePublished: '2018-04-06T17:51:23.642Z'
+dateModified: '2018-04-06T17:51:37.685Z'
+datePublished: '2018-04-06T17:51:38.634Z'
 title: Highlights of the 2017-18 Mdina Cathedral Art Biennale
 author: []
 publisher: {}
@@ -232,7 +232,7 @@ Courtesy of the artist\_ **River and Rain**
 
 (USA -- BFA\_Graphic Design / Photography) Renay E. Morris is an internationally recognized writer, award-winning graphic designer and photographer. Pursing her education, she received her degree from the prestigious Krannert School of Art & Design at the University of Illinois, with further studies at New York University and the Parsons School of Design. Throughout her career as a creative director, she incorporates the use of design and photography for the development of media programs for private and public organizations which have included; Universal Pictures, Sony Music/CBS Records, CBS Publications, and TDS Time Warner. With Corporate**ID**easWorldwide, and renayellemorris.com, she maintains a platform for visual communications for a global clientele.
 
-As a journalist and member of the US and overseas press community, Morris was the international news editor for _Picture_magazine\_a nominee for the coveted "Lucie" award. In addition to various publications, and as of 2016, she is the editor\_photographic & fine art development/content of the online artist resource/gallery\_arstler.com.
+As a journalist and member of the US and overseas press community, Morris was the international news editor for _Picture_magazine\_a nominee for the coveted "Lucie" award. In addition to various publications, and as of 2016, she is the editor\_ photographic & fine art development/content of the online artist resource/gallery\_arstler.com.
 
 Currently, her primary direction is fine art photography presented in large-scale format. Morris participates in gallery exhibitions in the United States and abroad with representation. She resides in Manhattan, New York.
 
