@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: BY RENAY ELLE MORRIS
-dateModified: '2018-04-06T17:50:32.725Z'
-datePublished: '2018-04-06T17:50:33.826Z'
+dateModified: '2018-04-06T17:50:44.704Z'
+datePublished: '2018-04-06T17:50:46.777Z'
 title: Highlights of the 2017-18 Mdina Cathedral Art Biennale
 author: []
 publisher: {}
@@ -126,7 +126,7 @@ Courtesy of the artist\_ **Les Vigilants, 2007**
 
 +
 
-**Zita Vilutyte\_** (Lithuania) is a painter, musician, and composer, as well as founder and artistic director of the Holistic Theatre of Movement "S". In addition, she is a neuropsychoeducator, lecturer, curator and journalist. From 2013-2016, Vilutyt was Director of the International Art project ANIMA MUNDI, and as of 2016, President of the association.
+**Zita Vilutyte\_** (Lithuania) is a painter, musician, and composer, as well as founder and artistic director of the Holistic Theatre of Movement "S". In addition, she is a neuropsychoeducator, lecturer, curator and journalist. From 2013-2016, Vilutyte was Director of the International Art project ANIMA MUNDI, and as of 2016, President of the association.
 
 Her career includes over 40 personal exhibitions as well as joint creative projects in various countries, including Lithuania, Latvia, Estonia, India, Italy, Denmark, Holland, Croatia, Germany, Georgia, England and Macedonia. In 2011 she received a bronze award in Art from the Five Golden Stars Gallery, Netherlands.
 
