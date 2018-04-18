@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: by Renay Elle Morris
-dateModified: '2018-03-28T18:21:14.652Z'
-datePublished: '2018-03-28T18:21:17.740Z'
+dateModified: '2018-04-18T13:41:26.395Z'
+datePublished: '2018-04-18T13:41:28.853Z'
 title: traveller_ carte postale
 author: []
 publisher: {}
@@ -73,3 +73,10 @@ _\_Rear Window. Fashion and couture through a glass darkly. Inspired by Hitch? M
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8deb44b2-b463-461c-8e48-63f772c2d928.gif)
 
 _\_Not far from Funchal, a bather is lost in the the eternal waters of Iberia's Madeira island._
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f303ad38-8249-472d-b3e1-bf983b5de6f5.jpg)
+
+_\_Lo Smarrito. In English, The Lost._  
+_From my series Il Mare exhibited at the Mdina Cathedral Museum Art Biennale\_Malta 2017_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/28ff0246-ed19-43f4-b373-6466e3819e86.png)
+
+\_Zanzibar Island. Also known as Unguja is lightly off the coast of Tanzania. Gorgeous, and alluring, it is not to be ignored.
