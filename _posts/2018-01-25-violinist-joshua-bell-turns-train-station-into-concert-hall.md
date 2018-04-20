@@ -56,8 +56,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/BJhZ0J3bIYc'
 title: Violinist Joshua Bell turns train station into concert hall
-datePublished: '2018-03-28T18:21:17.640Z'
-dateModified: '2018-03-28T18:21:14.652Z'
+datePublished: '2018-04-20T11:29:35.093Z'
+dateModified: '2018-04-20T11:29:32.378Z'
 via: {}
 inFeed: true
 sourcePath: >-
