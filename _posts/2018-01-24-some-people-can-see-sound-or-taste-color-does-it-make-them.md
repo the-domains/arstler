@@ -30,8 +30,8 @@ app_links:
 isBasedOnUrl: >-
   https://www.artsy.net/article/artsy-editorial-people-sound-taste-color-creative?utm_medium=email&utm_source=11995862-newsletter-editorial-daily-01-23-18&utm_campaign=editorial&utm_content=st-S
 title: 'Some People Can See Sound, or Taste Color. Does It Make Them More Creative?'
-datePublished: '2018-03-28T18:21:17.492Z'
-dateModified: '2018-03-28T18:21:14.652Z'
+datePublished: '2018-04-20T11:29:35.024Z'
+dateModified: '2018-04-20T11:29:32.378Z'
 via: {}
 inFeed: true
 sourcePath: >-
