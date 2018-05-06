@@ -26,8 +26,8 @@ app_links:
 isBasedOnUrl: >-
   https://www.artsy.net/article/evan-beard-four-tribes-art-collectors?utm_medium=email&utm_source=11995862-newsletter-editorial-daily-01-23-18&utm_campaign=editorial&utm_content=st-S
 title: The Four Tribes of Art Collectors
-datePublished: '2018-04-20T11:29:35.053Z'
-dateModified: '2018-04-20T11:29:32.378Z'
+datePublished: '2018-05-06T10:15:32.470Z'
+dateModified: '2018-05-06T10:15:29.282Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-01-24-the-four-tribes-of-art-collectors.md
