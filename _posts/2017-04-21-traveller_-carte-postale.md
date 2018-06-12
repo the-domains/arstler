@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: by Renay Elle Morris
-dateModified: '2018-06-12T19:15:52.017Z'
-datePublished: '2018-06-12T19:15:52.843Z'
+dateModified: '2018-06-12T19:15:58.916Z'
+datePublished: '2018-06-12T19:15:59.736Z'
 title: traveller_ carte postale
 author: []
 publisher: {}
@@ -73,7 +73,7 @@ _\_Rear Window. Fashion and couture through a glass darkly. Inspired by Hitch? M
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8deb44b2-b463-461c-8e48-63f772c2d928.gif)
 
 _\_Not far from Funchal, a bather is lost in the the eternal waters of Iberia's Madeira island._
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/4b8e262f6d400dcbd3326172024eaae6/croprotate.jpg?cropheight=530&cropwidth=720&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ff303ad38-8249-472d-b3e1-bf983b5de6f5.jpg&x=40&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/72f13541b63723e68a56881272a8c376f9ec304f.jpg)
 
 _\_Lo Smarrito. In English, The Lost._  
 _From my series Il Mare exhibited at the Mdina Cathedral Museum Art Biennale\_Malta 2017_
