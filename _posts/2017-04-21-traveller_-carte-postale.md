@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: by Renay Elle Morris
-dateModified: '2018-06-12T19:14:24.558Z'
-datePublished: '2018-06-12T19:14:26.175Z'
+dateModified: '2018-06-12T19:15:52.017Z'
+datePublished: '2018-06-12T19:15:52.843Z'
 title: traveller_ carte postale
 author: []
 publisher: {}
@@ -77,7 +77,7 @@ _\_Not far from Funchal, a bather is lost in the the eternal waters of Iberia's 
 
 _\_Lo Smarrito. In English, The Lost._  
 _From my series Il Mare exhibited at the Mdina Cathedral Museum Art Biennale\_Malta 2017_
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/28ff0246-ed19-43f4-b373-6466e3819e86.png)
+![_Zanzibar Island. Also known as Unguja is lightly off the coast of Tanzania. Gorgeous, and alluring, it is not to be ignored.  ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/28ff0246-ed19-43f4-b373-6466e3819e86.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc736012-9a1d-49a1-9a92-6f9f84b94a9e.gif)
 
 _\_Holy cow. The sacred rite of worship by Hindus in India as it provides life-sustaining milk. Roaming free, it isprotected by the country's laws._
