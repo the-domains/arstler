@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: by Renay Elle Morris
-dateModified: '2018-05-06T10:15:29.282Z'
-datePublished: '2018-05-06T10:15:32.568Z'
+dateModified: '2018-06-12T19:14:24.558Z'
+datePublished: '2018-06-12T19:14:26.175Z'
 title: traveller_ carte postale
 author: []
 publisher: {}
@@ -73,10 +73,11 @@ _\_Rear Window. Fashion and couture through a glass darkly. Inspired by Hitch? M
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8deb44b2-b463-461c-8e48-63f772c2d928.gif)
 
 _\_Not far from Funchal, a bather is lost in the the eternal waters of Iberia's Madeira island._
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f303ad38-8249-472d-b3e1-bf983b5de6f5.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/4b8e262f6d400dcbd3326172024eaae6/croprotate.jpg?cropheight=530&cropwidth=720&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ff303ad38-8249-472d-b3e1-bf983b5de6f5.jpg&x=40&y=0)
 
 _\_Lo Smarrito. In English, The Lost._  
 _From my series Il Mare exhibited at the Mdina Cathedral Museum Art Biennale\_Malta 2017_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/28ff0246-ed19-43f4-b373-6466e3819e86.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc736012-9a1d-49a1-9a92-6f9f84b94a9e.gif)
 
-\_Zanzibar Island. Also known as Unguja is lightly off the coast of Tanzania. Gorgeous, and alluring, it is not to be ignored.
+_\_Holy cow. The sacred rite of worship by Hindus in India as it provides life-sustaining milk. Roaming free, it isprotected by the country's laws._
