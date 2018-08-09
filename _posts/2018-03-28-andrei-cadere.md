@@ -12,8 +12,8 @@ description: >-
   etc.), but he would also carry them around a number of outdoor locations and
   into other people’s shows and openings, even when not invited, which made him
   quite ”infamous” at the time. (He was nicknamed ”The Stick Man”.)
-dateModified: '2018-04-20T11:29:32.378Z'
-datePublished: '2018-04-20T11:29:35.055Z'
+dateModified: '2018-08-09T15:16:38.045Z'
+datePublished: '2018-08-09T15:16:41.902Z'
 title: 'Andrei Cădere '
 author: []
 publisher: {}
