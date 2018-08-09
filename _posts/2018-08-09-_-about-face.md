@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: by renay elle morris
-dateModified: '2018-08-09T14:46:05.473Z'
-datePublished: '2018-08-09T14:46:06.494Z'
+dateModified: '2018-08-09T15:16:38.045Z'
+datePublished: '2018-08-09T15:16:41.900Z'
 title: _ about face.
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-08-09-_-about-face.md
 starred: false
 datePublishedOriginal: '2018-08-09T14:46:06.494Z'
-sourcePath: _posts/2018-08-09-_-about-face.md
 _type: Blurb
 
 ---
