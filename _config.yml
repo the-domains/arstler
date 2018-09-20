@@ -33,7 +33,7 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: 'arstler™ - in fact, I''d like to steal this painting™'
+  - name: about
     id: 8e1e6782-92ec-4bae-b65d-3191a4443bf3
     type: content
   - name: '@arstlers'
