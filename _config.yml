@@ -53,7 +53,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: ''
+title: arstler
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: article
