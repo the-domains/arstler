@@ -15,8 +15,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://rotenberguzunov.ro/pictura/octav-bancila-portret-de-batran/'
 title: Octav Bancila - Croitorul |
-datePublished: '2018-08-09T15:16:42.065Z'
-dateModified: '2018-08-09T15:16:38.045Z'
+datePublished: '2018-09-25T10:47:30.117Z'
+dateModified: '2018-09-25T10:47:27.226Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-16-octav-bancila-croitorul-or.md
