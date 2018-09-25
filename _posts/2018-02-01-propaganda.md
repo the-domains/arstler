@@ -6,8 +6,8 @@ description: >-
   mulţi copii făcea apel la o varietate de mijloace propagndistice: de la
   medalii folosite pentru răsplătirea simbolică a maternităţii la broşuri, cărţi
   şi articole, filme, emisiuni de radio şi de televiziune.
-dateModified: '2018-09-25T10:47:27.226Z'
-datePublished: '2018-09-25T10:47:30.120Z'
+dateModified: '2018-09-25T13:17:34.977Z'
+datePublished: '2018-09-25T13:17:39.141Z'
 title: PROPAGANDA
 author: []
 publisher:
