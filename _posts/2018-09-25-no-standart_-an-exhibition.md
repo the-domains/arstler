@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: by Eugen Berlo
-dateModified: '2018-09-25T10:41:38.498Z'
-datePublished: '2018-09-25T10:41:39.303Z'
+dateModified: '2018-09-25T10:47:27.226Z'
+datePublished: '2018-09-25T10:47:29.956Z'
 title: '“No standART”_ an exhibition. '
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-09-25-no-standart_-an-exhibition.md
 starred: false
 datePublishedOriginal: '2018-09-25T10:41:39.303Z'
-sourcePath: _posts/2018-09-25-no-standart_-an-exhibition.md
 _type: Blurb
 
 ---
