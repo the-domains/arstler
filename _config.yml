@@ -36,9 +36,6 @@ navigation:
   - name: buy art
     url: 'https://#'
     type: external
-  - name: '@arstlers'
-    url: 'https://www.instagram.com/arstlers/'
-    type: external
   - name: lounge
     url: 'https://#'
     type: external
@@ -47,6 +44,9 @@ navigation:
     type: external
   - name: galleries
     url: 'https://#'
+    type: external
+  - name: '@arstlers'
+    url: 'https://www.instagram.com/arstlers/'
     type: external
   - name: about
     id: 8e1e6782-92ec-4bae-b65d-3191a4443bf3
