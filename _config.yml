@@ -33,6 +33,9 @@ cta:
   version: null
   domain: null
 navigation:
+  - name: buy art
+    url: 'https://#'
+    type: external
   - name: about
     id: 8e1e6782-92ec-4bae-b65d-3191a4443bf3
     type: content
@@ -46,9 +49,6 @@ navigation:
     url: 'https://#'
     type: external
   - name: galleries
-    url: 'https://#'
-    type: external
-  - name: buy art
     url: 'https://#'
     type: external
 favicon: >-
