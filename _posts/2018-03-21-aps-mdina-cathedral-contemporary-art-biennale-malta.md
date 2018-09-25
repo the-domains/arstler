@@ -62,8 +62,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/VHlixdBEsvs'
 title: 'APS MDINA Cathedral Contemporary Art Biennale, Malta'
-datePublished: '2018-09-25T10:47:30.078Z'
-dateModified: '2018-09-25T10:47:27.226Z'
+datePublished: '2018-09-25T13:17:39.080Z'
+dateModified: '2018-09-25T13:17:34.977Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-03-21-aps-mdina-cathedral-contemporary-art-biennale-malta.md
