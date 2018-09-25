@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: 'Lulu 9, 2016'
-dateModified: '2018-09-25T13:16:07.900Z'
-datePublished: '2018-09-25T13:16:13.170Z'
+dateModified: '2018-09-25T13:17:34.977Z'
+datePublished: '2018-09-25T13:17:38.908Z'
 title: Gallery _Room1
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-09-25-gallery-_room1.md
 starred: false
 datePublishedOriginal: '2018-09-25T13:16:13.170Z'
-sourcePath: _posts/2018-09-25-gallery-_room1.md
 _type: Blurb
 
 ---
