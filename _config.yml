@@ -39,7 +39,7 @@ navigation:
   - name: '@arstlers'
     url: 'https://www.instagram.com/arstlers/'
     type: external
-  - name: Lounge
+  - name: lounge
     url: 'https://#'
     type: external
 favicon: >-
