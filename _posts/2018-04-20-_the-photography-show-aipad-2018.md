@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: BY RENAY MORRIS
-dateModified: '2018-09-25T10:47:27.226Z'
-datePublished: '2018-09-25T10:47:29.959Z'
+dateModified: '2018-09-25T13:17:34.977Z'
+datePublished: '2018-09-25T13:17:38.907Z'
 title: _the photography show. AIPAD 2018
 author: []
 publisher: {}
