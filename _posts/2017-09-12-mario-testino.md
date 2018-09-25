@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "Mario Testino OBE is widely regarded as one of the most influential fashion and portrait photographers of our times. His photographs have been published internationally in magazines such as\_Vogue,\_V Magazine\_and\_Vanity Fair. He has contributed to the success of leading fashion and beauty houses, creating emblematic images for brands from\_Gucci,\_Burberry,\_Versace\_and\_Michael Kors\_to Chanel, Estée Lauder and Lancôme."
-dateModified: '2018-09-25T10:47:27.226Z'
-datePublished: '2018-09-25T10:47:30.087Z'
+dateModified: '2018-09-25T13:17:34.977Z'
+datePublished: '2018-09-25T13:17:39.060Z'
 title: Mario Testino
 author: []
 publisher: {}
