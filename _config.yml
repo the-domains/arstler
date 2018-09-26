@@ -33,16 +33,16 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: buy art
+  - name: collectors home
     url: 'https://#'
     type: external
-  - name: lounge
+  - name: collectors home
     url: 'https://#'
     type: external
-  - name: artists
+  - name: collectors home
     url: 'https://#'
     type: external
-  - name: galleries
+  - name: collectors home
     url: 'https://#'
     type: external
   - name: '@arstlers'
@@ -51,7 +51,7 @@ navigation:
   - name: about
     id: 8e1e6782-92ec-4bae-b65d-3191a4443bf3
     type: content
-  - name: artists
+  - name: collectors home
     url: 'https://#'
     type: external
 favicon: >-
