@@ -45,10 +45,10 @@ navigation:
   - name: salon
     url: 'https://#'
     type: external
-  - name: artists vibe
+  - name: magazine
     url: 'https://#'
     type: external
-  - name: magazine
+  - name: artists vibe
     url: 'https://#'
     type: external
   - name: artists
