@@ -39,13 +39,13 @@ navigation:
   - name: about
     id: 8e1e6782-92ec-4bae-b65d-3191a4443bf3
     type: content
-  - name: collectors mind
-    url: 'https://#'
-    type: external
   - name: salon
     url: 'https://#'
     type: external
   - name: magazine
+    url: 'https://#'
+    type: external
+  - name: collectors mind
     url: 'https://#'
     type: external
   - name: artists vibe
