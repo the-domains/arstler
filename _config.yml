@@ -45,6 +45,9 @@ navigation:
   - name: salon
     url: 'https://#'
     type: external
+  - name: local notes
+    url: 'https://#'
+    type: external
   - name: collectors mind
     url: 'https://#'
     type: external
@@ -55,9 +58,6 @@ navigation:
     url: 'https://#'
     type: external
   - name: galleries
-    url: 'https://#'
-    type: external
-  - name: local notes
     url: 'https://#'
     type: external
 favicon: >-
