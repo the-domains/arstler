@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: by Renay Elle Morris
-dateModified: '2018-11-19T20:08:35.884Z'
-datePublished: '2018-11-19T20:08:36.532Z'
+dateModified: '2018-11-19T20:13:29.876Z'
+datePublished: '2018-11-19T20:13:30.826Z'
 title: traveller_ carte postale
 author: []
 publisher: {}
 via: {}
 hasPage: true
 sourcePath: _posts/2017-04-21-traveller_-carte-postale.md
-datePublishedOriginal: '2018-11-19T20:08:36.532Z'
 starred: false
+datePublishedOriginal: '2018-11-19T20:08:36.532Z'
 url: traveller_-carte-postale/index.html
 _type: Article
 
@@ -80,8 +80,9 @@ _From my series Il Mare exhibited at the Mdina Cathedral Museum Art Biennale\_Ma
 ![_Zanzibar Island. Also known as Unguja is lightly off the coast of Tanzania. Gorgeous, and alluring, it is not to be ignored.  ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/28ff0246-ed19-43f4-b373-6466e3819e86.png)
 
 _\_Zanzibar Island. Also known as Unguja is lightly off the coast of Tanzania. Gorgeous, and alluring, it is not to be ignored._
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65184795-5d41-48a1-8079-2b2c98eb6f4a.gif)
 
 _\_Holy cow. The sacred rite of worship by Hindus in India as it provides life-sustaining milk. Roaming free, it isprotected by the country's laws._
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a947ca91-a53f-4483-919c-e85fa44e10d3.jpg)
 
-_Embarked in Luxor. Ensconced in The Valley of the Kings\_ after dusk the magic of Egypt begins. _
+_Embarked in Luxor. Ensconced in The Valley of the Kings\_ after dusk the magic of Egypt begins._
