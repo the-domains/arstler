@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: by Renay Elle Morris
-dateModified: '2018-11-19T18:16:27.056Z'
-datePublished: '2018-11-19T18:16:28.442Z'
+dateModified: '2018-11-19T20:08:35.884Z'
+datePublished: '2018-11-19T20:08:36.532Z'
 title: traveller_ carte postale
 author: []
 publisher: {}
 via: {}
 hasPage: true
 sourcePath: _posts/2017-04-21-traveller_-carte-postale.md
+datePublishedOriginal: '2018-11-19T20:08:36.532Z'
 starred: false
-datePublishedOriginal: '2018-11-19T18:14:33.847Z'
 url: traveller_-carte-postale/index.html
 _type: Article
 
