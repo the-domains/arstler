@@ -40,25 +40,25 @@ navigation:
     id: 8e1e6782-92ec-4bae-b65d-3191a4443bf3
     type: content
   - name: magazine
-    url: 'https://#'
+    url: 'http://renayellemorris.com/'
     type: external
   - name: salon
-    url: 'https://#'
+    url: 'http://renayellemorris.com/'
     type: external
   - name: local notes
-    url: 'https://#'
+    url: 'http://renayellemorris.com/'
     type: external
   - name: collectors mind
-    url: 'https://#'
+    url: 'http://renayellemorris.com/'
     type: external
   - name: artists vibe
-    url: 'https://#'
+    url: 'http://renayellemorris.com/'
     type: external
   - name: artists
-    url: 'https://#'
+    url: 'http://renayellemorris.com/'
     type: external
   - name: galleries
-    url: 'https://#'
+    url: 'http://renayellemorris.com/'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0552a8d3-aeb8-433c-9c16-ed807a5c2ff9.png
