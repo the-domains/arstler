@@ -48,7 +48,7 @@ navigation:
   - name: collectors mind
     url: 'https://fineartmultiple.com/collectors-lounge/'
     type: external
-  - name: artists studio
+  - name: artists place
     url: >-
       https://www.artsy.net/article/artsy-editorial-why-do-we-care-about-an-artist-s-studio
     type: external
