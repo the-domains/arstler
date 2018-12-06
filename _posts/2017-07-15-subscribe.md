@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: .
-dateModified: '2018-12-06T12:49:01.979Z'
-datePublished: '2018-12-06T12:49:03.572Z'
+dateModified: '2018-12-06T12:50:20.126Z'
+datePublished: '2018-12-06T12:50:21.867Z'
 title: Eugen Bogdan Berlo
 author: []
 publisher:
@@ -17,7 +17,7 @@ sourcePath: _posts/2017-07-15-subscribe.md
 starred: false
 datePublishedOriginal: '2018-12-06T12:43:52.624Z'
 url: eugen-bogdan-berlo/index.html
-_type: Article
+_type: MediaObject
 
 ---
 # _Eugen Bogdan Berlo_
