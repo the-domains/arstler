@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: by Sanju Mathew
-dateModified: '2018-09-25T13:17:34.977Z'
-datePublished: '2018-09-25T13:17:39.044Z'
+description: by Eugen Berlo
+dateModified: '2018-12-06T12:36:06.041Z'
+datePublished: '2018-12-06T12:36:06.834Z'
 title: Nutmeg Editions
 author:
   - name: nutmegeditions
@@ -20,7 +20,7 @@ _type: Article
 ---
 # Nutmeg Editions
 
-by Sanju Mathew
+by Eugen Berlo
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de7f0136-6984-48c1-884f-3fed57bc0f98.jpg)
 ![Stephen Chambers RA Lithograph Prelude to The Exploration of America](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3f19c01-2995-4bbe-b6dc-08c8831a875e.jpg)
 
