@@ -42,7 +42,7 @@ navigation:
   - name: local notes
     url: 'http://wordisiac.com/'
     type: external
-  - name: magazine
+  - name: salon
     url: 'http://renayellemorris.com/'
     type: external
   - name: collectors mind
