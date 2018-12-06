@@ -1,8 +1,8 @@
 ---
-inFeed: false
+inFeed: true
 description: .
-dateModified: '2018-12-06T12:43:50.614Z'
-datePublished: '2018-12-06T12:43:52.624Z'
+dateModified: '2018-12-06T12:49:01.979Z'
+datePublished: '2018-12-06T12:49:03.572Z'
 title: Eugen Bogdan Berlo
 author: []
 publisher:
@@ -17,14 +17,16 @@ sourcePath: _posts/2017-07-15-subscribe.md
 starred: false
 datePublishedOriginal: '2018-12-06T12:43:52.624Z'
 url: eugen-bogdan-berlo/index.html
-_type: MediaObject
+_type: Article
 
 ---
-# Eugen Bogdan Berlo
+# _Eugen Bogdan Berlo_
 
 .
 
 Eugen Berlo is Romanian American artist living and creating in New York City, Bucuresti, Constanta, Arad, Ghirdoveni. He worked as a designer architect in New York City architectural firms, including Skidmore, Owings and Merrill, Dan Ionescu Architects, Peix and Marchetti Architects, Mihai Radu Architects. Education: Continuing Education in Fine Arts - Fashion Institute of Technology of NYC 2003; Bachelors in Architecture - University of Bucharest 2001; Bachelors in Math - University of Bucharest 1997\.
+
+.
 
 posts by Eugen Berlo:
 
