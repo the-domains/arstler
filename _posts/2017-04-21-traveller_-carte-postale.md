@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: by Renay Elle Morris
-dateModified: '2018-12-13T23:39:06.700Z'
-datePublished: '2018-12-13T23:39:07.957Z'
+dateModified: '2018-12-13T23:45:41.438Z'
+datePublished: '2018-12-13T23:45:42.815Z'
 title: traveller_ carte postale
 author: []
 publisher: {}
@@ -86,6 +86,6 @@ _\_Holy cow. The sacred rite of worship by Hindus in India as it provides life-s
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a947ca91-a53f-4483-919c-e85fa44e10d3.jpg)
 
 _Embarked in Luxor. Ensconced in The Valley of the Kings\_ after dusk the magic of Egypt begins._
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fae8dd7-5f82-4f3c-9377-90cd8035daf4.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/3f562ffae42d4388140daa3daca71eae/croprotate.jpg?cropheight=534&cropwidth=416&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5fae8dd7-5f82-4f3c-9377-90cd8035daf4.jpg&x=192&y=0)
 
-_\_ This island rich in culture affords the visitor many options. From north to south, Sardinia is a provocative fling. Sophisticated Cagliari is its capital while carefree and breezy ports await in the emerald seas of the Mediterranean. _
+_\_ This island rich in culture affords the visitor many options. From north to south, Sardinia is a provocative fling. Sophisticated Cagliari is its capital while carefree and breezy ports await in the emerald seas of the Mediterranean._
