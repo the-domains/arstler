@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: by Renay Elle Morris
-dateModified: '2018-12-13T23:45:41.438Z'
-datePublished: '2018-12-13T23:45:42.815Z'
+dateModified: '2018-12-24T16:42:56.302Z'
+datePublished: '2018-12-24T16:42:57.282Z'
 title: traveller_ carte postale
 author: []
 publisher: {}
@@ -85,7 +85,10 @@ _\_Zanzibar Island. Also known as Unguja is lightly off the coast of Tanzania. G
 _\_Holy cow. The sacred rite of worship by Hindus in India as it provides life-sustaining milk. Roaming free, it isprotected by the country's laws._
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a947ca91-a53f-4483-919c-e85fa44e10d3.jpg)
 
-_Embarked in Luxor. Ensconced in The Valley of the Kings\_ after dusk the magic of Egypt begins._
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/3f562ffae42d4388140daa3daca71eae/croprotate.jpg?cropheight=534&cropwidth=416&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5fae8dd7-5f82-4f3c-9377-90cd8035daf4.jpg&x=192&y=0)
+_\_Embarked in Luxor. Ensconced in The Valley of the Kings\_ after dusk the magic of Egypt begins._
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/74166eda10e3233fc8b73431ed21514f81017378.jpg)
 
-_\_ This island rich in culture affords the visitor many options. From north to south, Sardinia is a provocative fling. Sophisticated Cagliari is its capital while carefree and breezy ports await in the emerald seas of the Mediterranean._
+_\_This island rich in culture affords the visitor many options. From north to south, Sardinia is a provocative fling. Sophisticated Cagliari is its capital while carefree and breezy ports await in the emerald seas of the Mediterranean._
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ba4ed79-2ffc-4d7e-83d5-379696a864d7.jpg)
+
+_\_Paris a la mode. From the Rue de Rennes to Rue \_Paris a la mode. From the Rue de Rennes to Rue  Cambon, it's one ginormous runway.  _
