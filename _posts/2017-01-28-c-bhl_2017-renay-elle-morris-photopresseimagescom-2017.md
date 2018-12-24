@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: © bhl_2017 / renay elle morris /photopresseimages.com / 2017
-dateModified: '2017-02-23T11:11:13.294Z'
-datePublished: '2017-02-23T11:11:48.780Z'
+description: © bhl_2017 / renay elle morris /renayellemorris.com / 2017
+dateModified: '2018-12-24T16:44:15.827Z'
+datePublished: '2018-12-24T16:44:16.500Z'
 title: ''
 author: []
 publisher: {}
@@ -17,7 +17,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f582e36-bc68-404f-b36b-2450002b80c3.jpg)
 
-(c) bhl\_2017 / renay elle morris /[photopresseimages.com][0] / 2017
+(c) bhl\_2017 / renay elle morris /[renayellemorris.com][0] / 2017
 
 Bernard-Henri Lévy\_portrait study The Ukrainian Institute of America / January 2017\_NYC Discussion of The Genius of Judaism
 
